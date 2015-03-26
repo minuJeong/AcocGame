@@ -1,0 +1,14 @@
+{
+    "Layer 1": {
+        "y": 0, 
+        "x": 612, 
+        "height": 97, 
+        "width": 45
+    }, 
+    "Background": {
+        "y": 0, 
+        "x": 0, 
+        "height": 625, 
+        "width": 612
+    }
+}
