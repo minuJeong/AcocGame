@@ -25,7 +25,7 @@ PlayerSettings:
   m_ActiveColorSpace: 1
   m_MTRendering: 1
   m_MobileMTRendering: 0
-  m_UseDX11: 0
+  m_UseDX11: 1
   m_Stereoscopic3D: 0
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
@@ -138,7 +138,7 @@ PlayerSettings:
       m_Size: 128
   m_BuildTargetBatching:
   - m_BuildTarget: Web
-    m_StaticBatching: 0
+    m_StaticBatching: 1
     m_DynamicBatching: 1
   - m_BuildTarget: iPhone
     m_StaticBatching: 1
@@ -257,7 +257,8 @@ PlayerSettings:
   psp2InfoBarColor: 0
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    2: 
   metroPackageName: AcocGame
   metroPackageLogo: 
   metroPackageLogo140: 

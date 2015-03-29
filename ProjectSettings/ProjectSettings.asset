@@ -9,7 +9,7 @@ PlayerSettings:
   targetDevice: 2
   targetGlesGraphics: -1
   targetIOSGraphics: -1
-  targetResolution: 4
+  targetResolution: 3
   accelerometerFrequency: 60
   companyName: Minu
   productName: AcocGame
@@ -25,7 +25,7 @@ PlayerSettings:
   m_ActiveColorSpace: 1
   m_MTRendering: 1
   m_MobileMTRendering: 0
-  m_UseDX11: 0
+  m_UseDX11: 1
   m_Stereoscopic3D: 0
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
@@ -87,15 +87,15 @@ PlayerSettings:
   aotOptions: 
   apiCompatibilityLevel: 2
   iPhoneStrippingLevel: 0
-  iPhoneScriptCallOptimization: 0
+  iPhoneScriptCallOptimization: 1
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   APKExpansionFiles: 0
   preloadShaders: 0
-  StripUnusedMeshComponents: 0
+  StripUnusedMeshComponents: 1
   iPhoneSdkVersion: 988
-  iPhoneTargetOSVersion: 26
+  iPhoneTargetOSVersion: 28
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIStatusBarHidden: 1
@@ -138,7 +138,7 @@ PlayerSettings:
       m_Size: 128
   m_BuildTargetBatching:
   - m_BuildTarget: Web
-    m_StaticBatching: 0
+    m_StaticBatching: 1
     m_DynamicBatching: 1
   - m_BuildTarget: iPhone
     m_StaticBatching: 1
@@ -257,7 +257,8 @@ PlayerSettings:
   psp2InfoBarColor: 0
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    2: 
   metroPackageName: AcocGame
   metroPackageLogo: 
   metroPackageLogo140: 
@@ -382,13 +383,15 @@ PlayerSettings:
   WebGL::audioCompressionFormat: 4
   WebGL::exceptionSupport: 0
   WebGL::memorySize: 256
-  iOS::Architecture: 0
-  iOS::ScriptingBackend: 0
+  iOS::Architecture: 2
+  iOS::ScriptingBackend: 1
   boolPropertyNames:
   - WebGL::dataCaching
   - XboxOne::enus
+  - iOS::UseIl2CppPrecompiledHeader
   WebGL::dataCaching: 0
   XboxOne::enus: 1
+  iOS::UseIl2CppPrecompiledHeader: 0
   stringPropertyNames:
   - WebGL::emscriptenArgs
   - WebGL::template

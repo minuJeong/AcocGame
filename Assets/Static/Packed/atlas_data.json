@@ -1,14 +1,50 @@
 {
-    "Layer 1": {
+    "NewLayer2": {
         "y": 0, 
-        "x": 612, 
-        "height": 97, 
-        "width": 45
+        "x": 2536, 
+        "height": 608, 
+        "width": 284
+    }, 
+    "button_0": {
+        "y": 0, 
+        "x": 3432, 
+        "height": 129, 
+        "width": 306
+    }, 
+    "button_2": {
+        "y": 0, 
+        "x": 2820, 
+        "height": 129, 
+        "width": 306
+    }, 
+    "button_1": {
+        "y": 0, 
+        "x": 3126, 
+        "height": 129, 
+        "width": 306
     }, 
     "Background": {
         "y": 0, 
         "x": 0, 
-        "height": 625, 
-        "width": 612
+        "height": 1001, 
+        "width": 1205
+    }, 
+    "button_close": {
+        "y": 129, 
+        "x": 2820, 
+        "height": 140, 
+        "width": 140
+    }, 
+    "NewLayer": {
+        "y": 0, 
+        "x": 2238, 
+        "height": 616, 
+        "width": 298
+    }, 
+    "panel": {
+        "y": 0, 
+        "x": 1205, 
+        "height": 852, 
+        "width": 1033
     }
 }

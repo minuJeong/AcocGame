@@ -1,0 +1,386 @@
+﻿#include "il2cpp-config.h"
+#include "class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+#include <cstring>
+#include <string.h>
+#include <stdio.h>
+#ifndef _MSC_VER
+#include <alloca.h>
+#else
+#include <malloc.h>
+#endif
+#include <cmath>
+#include <limits>
+#include <assert.h>
+#include "stringLiterals.h"
+
+extern TypeInfo U3CModuleU3E_t981_il2cpp_TypeInfo;
+extern TypeInfo Reference_t982_il2cpp_TypeInfo;
+extern TypeInfo CreateValueCallback_t984_il2cpp_TypeInfo;
+extern TypeInfo ConditionalWeakTable_2_t985_il2cpp_TypeInfo;
+extern TypeInfo ExceptionDispatchInfo_t986_il2cpp_TypeInfo;
+extern TypeInfo Func_6_t987_il2cpp_TypeInfo;
+extern TypeInfo IProgress_1_t1297_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t989_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_t991_il2cpp_TypeInfo;
+extern TypeInfo U3CZipU3Ed__9_3_t995_il2cpp_TypeInfo;
+extern TypeInfo MissingExtensions_t996_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass6_t998_il2cpp_TypeInfo;
+extern TypeInfo Progress_1_t999_il2cpp_TypeInfo;
+extern TypeInfo ThreadLocal_1_t1000_il2cpp_TypeInfo;
+extern TypeInfo Tuple_t1001_il2cpp_TypeInfo;
+extern TypeInfo Tuple_2_t1002_il2cpp_TypeInfo;
+extern TypeInfo IParseAuthenticationProvider_t1207_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass5_t1005_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassb_t1008_il2cpp_TypeInfo;
+extern TypeInfo FacebookAuthenticationProvider_t1004_il2cpp_TypeInfo;
+extern TypeInfo U3CGetEnumeratorU3Ed__4_t1012_il2cpp_TypeInfo;
+extern TypeInfo FlexibleDictionaryWrapper_2_t1013_il2cpp_TypeInfo;
+extern TypeInfo U3CGetEnumeratorU3Ed__2_t1014_il2cpp_TypeInfo;
+extern TypeInfo FlexibleListWrapper_2_t1015_il2cpp_TypeInfo;
+extern TypeInfo IdentityEqualityComparer_1_t1016_il2cpp_TypeInfo;
+extern TypeInfo PartialAccessor_1_t1017_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_2_t1018_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4_1_t1019_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_1_t1020_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassa_t1022_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassf_t1025_il2cpp_TypeInfo;
+extern TypeInfo InternalExtensions_t1026_il2cpp_TypeInfo;
+extern TypeInfo IParseFieldOperation_t1040_il2cpp_TypeInfo;
+extern TypeInfo IPlatformHooks_t1090_il2cpp_TypeInfo;
+extern TypeInfo Json_t1030_il2cpp_TypeInfo;
+extern TypeInfo LockSet_t1037_il2cpp_TypeInfo;
+extern TypeInfo ParseAddOperation_t1039_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1042_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass5_t1043_il2cpp_TypeInfo;
+extern TypeInfo ParseAddUniqueOperation_t1044_il2cpp_TypeInfo;
+extern TypeInfo ParseDeleteOperation_t1045_il2cpp_TypeInfo;
+extern TypeInfo ParseObjectIdComparer_t1046_il2cpp_TypeInfo;
+extern TypeInfo ParseFieldOperations_t1047_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass80_t1049_il2cpp_TypeInfo;
+extern TypeInfo ParseIncrementOperation_t1051_il2cpp_TypeInfo;
+extern TypeInfo ParseJSONCacheItem_t1052_il2cpp_TypeInfo;
+extern TypeInfo ParseRelationOperation_t1055_il2cpp_TypeInfo;
+extern TypeInfo ParseRemoveOperation_t1057_il2cpp_TypeInfo;
+extern TypeInfo ParseSetOperation_t1058_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassa_t1059_il2cpp_TypeInfo;
+extern TypeInfo ReflectionHelpers_t1065_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4_t1071_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1073_il2cpp_TypeInfo;
+extern TypeInfo SynchronizedEventHandler_1_t1075_il2cpp_TypeInfo;
+extern TypeInfo TaskQueue_t1076_il2cpp_TypeInfo;
+extern TypeInfo AccessKind_t1077_il2cpp_TypeInfo;
+extern TypeInfo ParseACL_t1080_il2cpp_TypeInfo;
+extern TypeInfo ParseAnalytics_t1082_il2cpp_TypeInfo;
+extern TypeInfo ParseClassNameAttribute_t1083_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass8_t1084_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassc_t1086_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass15_t1087_il2cpp_TypeInfo;
+extern TypeInfo U3CDeepTraversalInternalU3Ed__17_t1089_il2cpp_TypeInfo;
+extern TypeInfo ParseClient_t1095_il2cpp_TypeInfo;
+extern TypeInfo ParseCloud_t1102_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t1103_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass6_t1105_il2cpp_TypeInfo;
+extern TypeInfo ParseConfig_t1106_il2cpp_TypeInfo;
+extern TypeInfo ErrorCode_t1108_il2cpp_TypeInfo;
+extern TypeInfo ParseException_t1109_il2cpp_TypeInfo;
+extern TypeInfo ParseExtensions_t1110_il2cpp_TypeInfo;
+extern TypeInfo ParseFacebookUtils_t1111_il2cpp_TypeInfo;
+extern TypeInfo ParseFieldNameAttribute_t1112_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1114_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_t1115_il2cpp_TypeInfo;
+extern TypeInfo ParseFile_t1113_il2cpp_TypeInfo;
+extern TypeInfo ParseGeoDistance_t1116_il2cpp_TypeInfo;
+extern TypeInfo ParseGeoPoint_t1117_il2cpp_TypeInfo;
+extern TypeInfo ParseInitializeBehaviour_t1118_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1119_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass15_t1121_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass18_t1122_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1c_t1123_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1f_t1124_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass22_t1126_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass26_t1127_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass29_t1128_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass31_1_t1129_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass34_1_t1130_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass55_t1135_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass52_t1131_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4e_t1132_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4a_t1133_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass48_t1134_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass59_1_t1147_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass5c_1_t1148_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass86_t1149_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7e_1_t1153_il2cpp_TypeInfo;
+extern TypeInfo ParseObject_t534_il2cpp_TypeInfo;
+extern TypeInfo ParseQuery_1_t1177_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t1179_il2cpp_TypeInfo;
+extern TypeInfo ParseRelationBase_t1180_il2cpp_TypeInfo;
+extern TypeInfo ParseRelation_1_t1181_il2cpp_TypeInfo;
+extern TypeInfo ParseRole_t1081_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1186_il2cpp_TypeInfo;
+extern TypeInfo ParseSession_t1188_il2cpp_TypeInfo;
+extern TypeInfo ParseUploadProgressEventArgs_t1190_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass3_t1192_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_t1193_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassa_t1194_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass10_t1195_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass15_t1196_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass18_t1197_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1b_t1198_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1f_t1199_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass23_t1200_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass26_t1201_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass29_t1202_il2cpp_TypeInfo;
+extern TypeInfo ParseUser_t391_il2cpp_TypeInfo;
+extern TypeInfo SettingsWrapper_t1208_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass20_t1210_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass36_t1212_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass30_t1211_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass32_t1214_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass34_t1215_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass3a_t1217_il2cpp_TypeInfo;
+extern TypeInfo U3CRunDispatcherU3Ed__3c_t1218_il2cpp_TypeInfo;
+extern TypeInfo PlatformHooks_t1222_il2cpp_TypeInfo;
+extern TypeInfo AggregateException_t1224_il2cpp_TypeInfo;
+extern TypeInfo CancellationToken_t992_il2cpp_TypeInfo;
+extern TypeInfo CancellationTokenRegistration_t1227_il2cpp_TypeInfo;
+extern TypeInfo CancellationTokenSource_t1226_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass5_t1228_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass3_1_t1229_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass8_t1230_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClasse_t1234_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass15_t1236_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass19_1_t1237_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1d_t1238_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass20_t1239_il2cpp_TypeInfo;
+extern TypeInfo Task_t390_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t1248_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4_1_t1249_il2cpp_TypeInfo;
+extern TypeInfo Task_1_t1250_il2cpp_TypeInfo;
+extern TypeInfo TaskCompletionSource_1_t1251_il2cpp_TypeInfo;
+extern TypeInfo TaskContinuationOptions_t1252_il2cpp_TypeInfo;
+extern TypeInfo TaskCreationOptions_t1253_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t1254_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_1_t1255_il2cpp_TypeInfo;
+extern TypeInfo TaskExtensions_t1256_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_1_t1257_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass4_3_t1258_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass7_4_t1259_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassa_2_t1260_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassd_3_t1261_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass10_1_t1262_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass13_2_t1263_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass16_t1265_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1b_1_t1266_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass20_t1269_il2cpp_TypeInfo;
+extern TypeInfo TaskFactory_t1244_il2cpp_TypeInfo;
+extern TypeInfo TaskFactory_1_t1273_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t1274_il2cpp_TypeInfo;
+extern TypeInfo TaskScheduler_t1271_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType0_2_t1276_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType1_2_t1277_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType2_2_t1278_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType3_2_t1279_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType4_3_t1280_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType5_2_t1281_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ef__AnonymousType6_2_t1282_il2cpp_TypeInfo;
+#include "utils/RegisterRuntimeInitializeAndCleanup.h"
+#include <map>
+struct TypeInfo;
+struct MethodInfo;
+TypeInfo* g_Parse_Unity_Assembly_Types[172] = 
+{
+	&U3CModuleU3E_t981_il2cpp_TypeInfo,
+	&Reference_t982_il2cpp_TypeInfo,
+	&CreateValueCallback_t984_il2cpp_TypeInfo,
+	&ConditionalWeakTable_2_t985_il2cpp_TypeInfo,
+	&ExceptionDispatchInfo_t986_il2cpp_TypeInfo,
+	&Func_6_t987_il2cpp_TypeInfo,
+	&IProgress_1_t1297_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t989_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_t991_il2cpp_TypeInfo,
+	&U3CZipU3Ed__9_3_t995_il2cpp_TypeInfo,
+	&MissingExtensions_t996_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass6_t998_il2cpp_TypeInfo,
+	&Progress_1_t999_il2cpp_TypeInfo,
+	&ThreadLocal_1_t1000_il2cpp_TypeInfo,
+	&Tuple_t1001_il2cpp_TypeInfo,
+	&Tuple_2_t1002_il2cpp_TypeInfo,
+	&IParseAuthenticationProvider_t1207_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass5_t1005_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassb_t1008_il2cpp_TypeInfo,
+	&FacebookAuthenticationProvider_t1004_il2cpp_TypeInfo,
+	&U3CGetEnumeratorU3Ed__4_t1012_il2cpp_TypeInfo,
+	&FlexibleDictionaryWrapper_2_t1013_il2cpp_TypeInfo,
+	&U3CGetEnumeratorU3Ed__2_t1014_il2cpp_TypeInfo,
+	&FlexibleListWrapper_2_t1015_il2cpp_TypeInfo,
+	&IdentityEqualityComparer_1_t1016_il2cpp_TypeInfo,
+	&PartialAccessor_1_t1017_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_2_t1018_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4_1_t1019_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_1_t1020_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassa_t1022_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassf_t1025_il2cpp_TypeInfo,
+	&InternalExtensions_t1026_il2cpp_TypeInfo,
+	&IParseFieldOperation_t1040_il2cpp_TypeInfo,
+	&IPlatformHooks_t1090_il2cpp_TypeInfo,
+	&Json_t1030_il2cpp_TypeInfo,
+	&LockSet_t1037_il2cpp_TypeInfo,
+	&ParseAddOperation_t1039_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1042_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass5_t1043_il2cpp_TypeInfo,
+	&ParseAddUniqueOperation_t1044_il2cpp_TypeInfo,
+	&ParseDeleteOperation_t1045_il2cpp_TypeInfo,
+	&ParseObjectIdComparer_t1046_il2cpp_TypeInfo,
+	&ParseFieldOperations_t1047_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass80_t1049_il2cpp_TypeInfo,
+	&ParseIncrementOperation_t1051_il2cpp_TypeInfo,
+	&ParseJSONCacheItem_t1052_il2cpp_TypeInfo,
+	&ParseRelationOperation_t1055_il2cpp_TypeInfo,
+	&ParseRemoveOperation_t1057_il2cpp_TypeInfo,
+	&ParseSetOperation_t1058_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassa_t1059_il2cpp_TypeInfo,
+	&ReflectionHelpers_t1065_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4_t1071_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1073_il2cpp_TypeInfo,
+	&SynchronizedEventHandler_1_t1075_il2cpp_TypeInfo,
+	&TaskQueue_t1076_il2cpp_TypeInfo,
+	&AccessKind_t1077_il2cpp_TypeInfo,
+	&ParseACL_t1080_il2cpp_TypeInfo,
+	&ParseAnalytics_t1082_il2cpp_TypeInfo,
+	&ParseClassNameAttribute_t1083_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass8_t1084_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassc_t1086_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass15_t1087_il2cpp_TypeInfo,
+	&U3CDeepTraversalInternalU3Ed__17_t1089_il2cpp_TypeInfo,
+	&ParseClient_t1095_il2cpp_TypeInfo,
+	&ParseCloud_t1102_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t1103_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass6_t1105_il2cpp_TypeInfo,
+	&ParseConfig_t1106_il2cpp_TypeInfo,
+	&ErrorCode_t1108_il2cpp_TypeInfo,
+	&ParseException_t1109_il2cpp_TypeInfo,
+	&ParseExtensions_t1110_il2cpp_TypeInfo,
+	&ParseFacebookUtils_t1111_il2cpp_TypeInfo,
+	&ParseFieldNameAttribute_t1112_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1114_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_t1115_il2cpp_TypeInfo,
+	&ParseFile_t1113_il2cpp_TypeInfo,
+	&ParseGeoDistance_t1116_il2cpp_TypeInfo,
+	&ParseGeoPoint_t1117_il2cpp_TypeInfo,
+	&ParseInitializeBehaviour_t1118_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1119_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass15_t1121_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass18_t1122_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1c_t1123_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1f_t1124_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass22_t1126_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass26_t1127_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass29_t1128_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass31_1_t1129_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass34_1_t1130_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass55_t1135_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass52_t1131_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4e_t1132_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4a_t1133_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass48_t1134_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass59_1_t1147_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass5c_1_t1148_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass86_t1149_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7e_1_t1153_il2cpp_TypeInfo,
+	&ParseObject_t534_il2cpp_TypeInfo,
+	&ParseQuery_1_t1177_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t1179_il2cpp_TypeInfo,
+	&ParseRelationBase_t1180_il2cpp_TypeInfo,
+	&ParseRelation_1_t1181_il2cpp_TypeInfo,
+	&ParseRole_t1081_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1186_il2cpp_TypeInfo,
+	&ParseSession_t1188_il2cpp_TypeInfo,
+	&ParseUploadProgressEventArgs_t1190_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass3_t1192_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_t1193_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassa_t1194_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass10_t1195_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass15_t1196_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass18_t1197_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1b_t1198_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1f_t1199_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass23_t1200_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass26_t1201_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass29_t1202_il2cpp_TypeInfo,
+	&ParseUser_t391_il2cpp_TypeInfo,
+	&SettingsWrapper_t1208_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass20_t1210_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass36_t1212_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass30_t1211_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass32_t1214_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass34_t1215_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass3a_t1217_il2cpp_TypeInfo,
+	&U3CRunDispatcherU3Ed__3c_t1218_il2cpp_TypeInfo,
+	&PlatformHooks_t1222_il2cpp_TypeInfo,
+	&AggregateException_t1224_il2cpp_TypeInfo,
+	&CancellationToken_t992_il2cpp_TypeInfo,
+	&CancellationTokenRegistration_t1227_il2cpp_TypeInfo,
+	&CancellationTokenSource_t1226_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass5_t1228_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass3_1_t1229_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass8_t1230_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClasse_t1234_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass15_t1236_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass19_1_t1237_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1d_t1238_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass20_t1239_il2cpp_TypeInfo,
+	&Task_t390_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t1248_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4_1_t1249_il2cpp_TypeInfo,
+	&Task_1_t1250_il2cpp_TypeInfo,
+	&TaskCompletionSource_1_t1251_il2cpp_TypeInfo,
+	&TaskContinuationOptions_t1252_il2cpp_TypeInfo,
+	&TaskCreationOptions_t1253_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t1254_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_1_t1255_il2cpp_TypeInfo,
+	&TaskExtensions_t1256_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_1_t1257_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass4_3_t1258_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass7_4_t1259_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassa_2_t1260_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassd_3_t1261_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass10_1_t1262_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass13_2_t1263_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass16_t1265_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1b_1_t1266_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass20_t1269_il2cpp_TypeInfo,
+	&TaskFactory_t1244_il2cpp_TypeInfo,
+	&TaskFactory_1_t1273_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t1274_il2cpp_TypeInfo,
+	&TaskScheduler_t1271_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType0_2_t1276_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType1_2_t1277_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType2_2_t1278_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType3_2_t1279_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType4_3_t1280_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType5_2_t1281_il2cpp_TypeInfo,
+	&U3CU3Ef__AnonymousType6_2_t1282_il2cpp_TypeInfo,
+	NULL,
+};
+extern Il2CppImage g_Parse_Unity_dll_Image;
+extern CustomAttributesCache g_Parse_Unity_Assembly__CustomAttributeCache;
+Il2CppAssembly g_Parse_Unity_Assembly = 
+{
+	{ "Parse.Unity", 0, 0, 0, { 0 }, 32772, 0, 0, 1, 4, 0, 0 },
+	&g_Parse_Unity_dll_Image,
+	&g_Parse_Unity_Assembly__CustomAttributeCache,
+};
+Il2CppImage g_Parse_Unity_dll_Image = 
+{
+	 "Parse.Unity.dll" ,
+	&g_Parse_Unity_Assembly,
+	g_Parse_Unity_Assembly_Types,
+	171,
+};
+static void s_Parse_UnityRegistration()
+{
+	RegisterAssembly (&g_Parse_Unity_Assembly);
+}
+static il2cpp::utils::RegisterRuntimeInitializeAndCleanup s_Parse_UnityRegistrationVariable(&s_Parse_UnityRegistration, NULL);

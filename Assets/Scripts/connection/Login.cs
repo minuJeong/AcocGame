@@ -32,6 +32,10 @@ namespace gamecontext.connection
 			InputField_ID_Text = transform.FindChild ("InputField_ID/Text").gameObject;
 			InputField_Pass_Text = transform.FindChild ("InputField_Pass/Text").gameObject;
 			GuestLoginButton = transform.FindChild ("Button_GuestLogin").gameObject;
+
+#if UNITY_WEBPLAYER
+			transform.FindChild("Button_FacebookLogin").gameObject.SetActive (false);
+#endif
 		}
 
 		private void DisableGuestLogin ()

@@ -96,10 +96,10 @@ namespace gamecontext.connection
 			currentRoomDisplay.transform.SetParent (uiCanvas.transform);
 			currentRoomDisplay.transform.position = new Vector3 (120.0F, Screen.height - 70.0F);
 
-			GameObject NewPawn = gamecontext.manager.PawnManager.Spawn (Resources.Load<GameObject> ("Prefabs/pawn/HeroPawn"), new Vector3 (0, 0, 0));
-			NewPawn.transform.SetParent (Game.instance.transform);
+			for (int i = 0; i < 3; i++) {
+				gamecontext.manager.PawnManager.Spawn (Resources.Load<GameObject> ("Prefabs/pawn/HeroPawn"), new Vector3 (Random.Range (-15.0F, 15.0F), 0, Random.Range (-15.0F, 15.0F)));
+			}
 
-			InputManager.instance.ControlableHeroes.Add (NewPawn.GetComponent<Hero> ());
 			InputManager.instance.Run ();
 		}
 

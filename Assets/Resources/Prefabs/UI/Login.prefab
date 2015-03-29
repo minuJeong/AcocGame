@@ -677,7 +677,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Guest Log in
+  m_Text: Log in
 --- !u!114 &11499702
 MonoBehaviour:
   m_ObjectHideFlags: 1

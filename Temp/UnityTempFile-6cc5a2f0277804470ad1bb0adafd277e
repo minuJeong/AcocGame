@@ -1,0 +1,111 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp-Editor.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'
+-r:'Assets/Facebook/Scripts/IFacebook.dll'
+-r:'Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll'
+-r:'Assets/Plugins/LitJson.dll'
+-r:'Assets/Plugins/Parse.Unity.dll'
+-r:'Assets/Plugins/Photon3Unity3D.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-define:UNITY_5_0_0
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:ENABLE_DUCK_TYPING
+'Assets/Facebook/Editor/FacebookPostprocess.cs'
+'Assets/Facebook/Editor/FacebookSettingsEditor.cs'
+'Assets/Facebook/Editor/android/FacebookAndroidUtil.cs'
+'Assets/Facebook/Editor/android/ManifestMod.cs'
+'Assets/Facebook/Editor/iOS/FixupFiles.cs'
+'Assets/Facebook/Editor/iOS/PlistMod.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXBuildFile.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXBuildPhase.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXDictionary.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXFileReference.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXGroup.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXList.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXObject.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXParser.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/PBXProject.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCBuildConfiguration.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCConfigurationList.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCFileOperationQueue.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCMod.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCProject.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCSourceFile.cs'
+'Assets/Facebook/Editor/iOS/third_party/XCodeEditor-for-Unity/XCTarget.cs'
+'Assets/Photon Unity Networking/Demos/DemoHub/Editor/PunStartup.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/AccountService.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonConverter.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonGUI.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewHandler.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewInspector.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewPrefabApply.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/PunSceneSettings.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/ReorderableListResources.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/ServerSettingsInspector.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonAnimatorViewEditor.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonRigidbody2DViewEditor.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonRigidbodyViewEditor.cs'
+'Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonTransformViewEditor.cs'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Runtime.Serialization.dll'
+-r:'/Volumes/DumpBox_2/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/2.0/System.Xml.Linq.dll'

@@ -9,6 +9,8 @@ namespace gamecontext.manager
 		{
 			GameObject NewPawn = PhotonNetwork.Instantiate ("HeroPawn", position, Quaternion.identity, 0);
 			NewPawn.transform.position = position;
+			NewPawn.transform.SetParent (Game.instance.transform);
+			InputManager.instance.ControlableHeroes.Add (NewPawn.GetComponent<Hero> ());
 
 			return NewPawn;
 		}

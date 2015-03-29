@@ -1,0 +1,196 @@
+﻿#include "il2cpp-config.h"
+#include "class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+#include <cstring>
+#include <string.h>
+#include <stdio.h>
+#ifndef _MSC_VER
+#include <alloca.h>
+#else
+#include <malloc.h>
+#endif
+#include <cmath>
+#include <limits>
+#include <assert.h>
+#include "stringLiterals.h"
+
+extern TypeInfo U3CModuleU3E_t2342_il2cpp_TypeInfo;
+extern TypeInfo Hashtable_t256_il2cpp_TypeInfo;
+extern TypeInfo DictionaryEntryEnumerator_t2343_il2cpp_TypeInfo;
+extern TypeInfo BigInteger_t2345_il2cpp_TypeInfo;
+extern TypeInfo DiffieHellmanCryptoProvider_t2349_il2cpp_TypeInfo;
+extern TypeInfo EnetChannel_t2352_il2cpp_TypeInfo;
+extern TypeInfo MyAction_t2354_il2cpp_TypeInfo;
+extern TypeInfo ConnectionStateValue_t2355_il2cpp_TypeInfo;
+extern TypeInfo EgMessageType_t2356_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass2_t2358_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass6_t2359_il2cpp_TypeInfo;
+extern TypeInfo PeerBase_t2357_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassb_t2364_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClassd_t2365_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass11_t2366_il2cpp_TypeInfo;
+extern TypeInfo EnetPeer_t2363_il2cpp_TypeInfo;
+extern TypeInfo StatusCode_t74_il2cpp_TypeInfo;
+extern TypeInfo IPhotonPeerListener_t19_il2cpp_TypeInfo;
+extern TypeInfo PhotonSocketState_t2371_il2cpp_TypeInfo;
+extern TypeInfo PhotonDisconnectCause_t2372_il2cpp_TypeInfo;
+extern TypeInfo PhotonSocketError_t2373_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass3_t2374_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass5_t2375_il2cpp_TypeInfo;
+extern TypeInfo IPhotonSocket_t2360_il2cpp_TypeInfo;
+extern TypeInfo LiteEventCode_t2376_il2cpp_TypeInfo;
+extern TypeInfo LiteEventKey_t2377_il2cpp_TypeInfo;
+extern TypeInfo LiteOpCode_t2378_il2cpp_TypeInfo;
+extern TypeInfo LiteOpKey_t2379_il2cpp_TypeInfo;
+extern TypeInfo LitePropertyTypes_t2380_il2cpp_TypeInfo;
+extern TypeInfo EventCaching_t496_il2cpp_TypeInfo;
+extern TypeInfo ReceiverGroup_t497_il2cpp_TypeInfo;
+extern TypeInfo PhotonPeer_t18_il2cpp_TypeInfo;
+extern TypeInfo LitePeer_t2385_il2cpp_TypeInfo;
+extern TypeInfo NCommand_t2353_il2cpp_TypeInfo;
+extern TypeInfo SimulationItem_t2386_il2cpp_TypeInfo;
+extern TypeInfo NetworkSimulationSet_t509_il2cpp_TypeInfo;
+extern TypeInfo OakleyGroups_t2388_il2cpp_TypeInfo;
+extern TypeInfo PhotonCodes_t2389_il2cpp_TypeInfo;
+extern TypeInfo PeerStateValue_t511_il2cpp_TypeInfo;
+extern TypeInfo ConnectionProtocol_t67_il2cpp_TypeInfo;
+extern TypeInfo DebugLevel_t70_il2cpp_TypeInfo;
+extern TypeInfo PhotonPing_t315_il2cpp_TypeInfo;
+extern TypeInfo PingMono_t475_il2cpp_TypeInfo;
+extern TypeInfo PingWindowsStore_t2390_il2cpp_TypeInfo;
+extern TypeInfo NativeSocketState_t2391_il2cpp_TypeInfo;
+extern TypeInfo PingNativeDynamic_t517_il2cpp_TypeInfo;
+extern TypeInfo NativeSocketState_t2392_il2cpp_TypeInfo;
+extern TypeInfo PingNativeStatic_t474_il2cpp_TypeInfo;
+extern TypeInfo OperationRequest_t2382_il2cpp_TypeInfo;
+extern TypeInfo OperationResponse_t13_il2cpp_TypeInfo;
+extern TypeInfo EventData_t12_il2cpp_TypeInfo;
+extern TypeInfo GpType_t2393_il2cpp_TypeInfo;
+extern TypeInfo SerializeMethod_t2383_il2cpp_TypeInfo;
+extern TypeInfo SerializeStreamMethod_t468_il2cpp_TypeInfo;
+extern TypeInfo DeserializeMethod_t2384_il2cpp_TypeInfo;
+extern TypeInfo DeserializeStreamMethod_t469_il2cpp_TypeInfo;
+extern TypeInfo CustomType_t2394_il2cpp_TypeInfo;
+extern TypeInfo Protocol_t470_il2cpp_TypeInfo;
+extern TypeInfo NativeSocketState_t2399_il2cpp_TypeInfo;
+extern TypeInfo SocketUdpNativeDynamic_t2400_il2cpp_TypeInfo;
+extern TypeInfo NativeSocketState_t2401_il2cpp_TypeInfo;
+extern TypeInfo SocketUdpNativeStatic_t71_il2cpp_TypeInfo;
+extern TypeInfo IntegerMillisecondsDelegate_t2381_il2cpp_TypeInfo;
+extern TypeInfo ThreadSafeRandom_t2402_il2cpp_TypeInfo;
+extern TypeInfo U3CU3Ec__DisplayClass1_t2403_il2cpp_TypeInfo;
+extern TypeInfo SupportClass_t471_il2cpp_TypeInfo;
+extern TypeInfo TrafficStatsGameLevel_t515_il2cpp_TypeInfo;
+extern TypeInfo TrafficStats_t514_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D64_t2404_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D65_t2405_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D1212_t2406_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D96_t2407_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D128_t2408_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D192_t2409_il2cpp_TypeInfo;
+extern TypeInfo __StaticArrayInitTypeSizeU3D13_t2410_il2cpp_TypeInfo;
+extern TypeInfo U3CPrivateImplementationDetailsU3EU7B1E29601FU2D197BU2D4DEDU2D995CU2DAA74E79221CEU7D_t2411_il2cpp_TypeInfo;
+#include "utils/RegisterRuntimeInitializeAndCleanup.h"
+#include <map>
+struct TypeInfo;
+struct MethodInfo;
+TypeInfo* g_Photon3Unity3D_Assembly_Types[77] = 
+{
+	&U3CModuleU3E_t2342_il2cpp_TypeInfo,
+	&Hashtable_t256_il2cpp_TypeInfo,
+	&DictionaryEntryEnumerator_t2343_il2cpp_TypeInfo,
+	&BigInteger_t2345_il2cpp_TypeInfo,
+	&DiffieHellmanCryptoProvider_t2349_il2cpp_TypeInfo,
+	&EnetChannel_t2352_il2cpp_TypeInfo,
+	&MyAction_t2354_il2cpp_TypeInfo,
+	&ConnectionStateValue_t2355_il2cpp_TypeInfo,
+	&EgMessageType_t2356_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass2_t2358_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass6_t2359_il2cpp_TypeInfo,
+	&PeerBase_t2357_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassb_t2364_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClassd_t2365_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass11_t2366_il2cpp_TypeInfo,
+	&EnetPeer_t2363_il2cpp_TypeInfo,
+	&StatusCode_t74_il2cpp_TypeInfo,
+	&IPhotonPeerListener_t19_il2cpp_TypeInfo,
+	&PhotonSocketState_t2371_il2cpp_TypeInfo,
+	&PhotonDisconnectCause_t2372_il2cpp_TypeInfo,
+	&PhotonSocketError_t2373_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass3_t2374_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass5_t2375_il2cpp_TypeInfo,
+	&IPhotonSocket_t2360_il2cpp_TypeInfo,
+	&LiteEventCode_t2376_il2cpp_TypeInfo,
+	&LiteEventKey_t2377_il2cpp_TypeInfo,
+	&LiteOpCode_t2378_il2cpp_TypeInfo,
+	&LiteOpKey_t2379_il2cpp_TypeInfo,
+	&LitePropertyTypes_t2380_il2cpp_TypeInfo,
+	&EventCaching_t496_il2cpp_TypeInfo,
+	&ReceiverGroup_t497_il2cpp_TypeInfo,
+	&PhotonPeer_t18_il2cpp_TypeInfo,
+	&LitePeer_t2385_il2cpp_TypeInfo,
+	&NCommand_t2353_il2cpp_TypeInfo,
+	&SimulationItem_t2386_il2cpp_TypeInfo,
+	&NetworkSimulationSet_t509_il2cpp_TypeInfo,
+	&OakleyGroups_t2388_il2cpp_TypeInfo,
+	&PhotonCodes_t2389_il2cpp_TypeInfo,
+	&PeerStateValue_t511_il2cpp_TypeInfo,
+	&ConnectionProtocol_t67_il2cpp_TypeInfo,
+	&DebugLevel_t70_il2cpp_TypeInfo,
+	&PhotonPing_t315_il2cpp_TypeInfo,
+	&PingMono_t475_il2cpp_TypeInfo,
+	&PingWindowsStore_t2390_il2cpp_TypeInfo,
+	&NativeSocketState_t2391_il2cpp_TypeInfo,
+	&PingNativeDynamic_t517_il2cpp_TypeInfo,
+	&NativeSocketState_t2392_il2cpp_TypeInfo,
+	&PingNativeStatic_t474_il2cpp_TypeInfo,
+	&OperationRequest_t2382_il2cpp_TypeInfo,
+	&OperationResponse_t13_il2cpp_TypeInfo,
+	&EventData_t12_il2cpp_TypeInfo,
+	&GpType_t2393_il2cpp_TypeInfo,
+	&SerializeMethod_t2383_il2cpp_TypeInfo,
+	&SerializeStreamMethod_t468_il2cpp_TypeInfo,
+	&DeserializeMethod_t2384_il2cpp_TypeInfo,
+	&DeserializeStreamMethod_t469_il2cpp_TypeInfo,
+	&CustomType_t2394_il2cpp_TypeInfo,
+	&Protocol_t470_il2cpp_TypeInfo,
+	&NativeSocketState_t2399_il2cpp_TypeInfo,
+	&SocketUdpNativeDynamic_t2400_il2cpp_TypeInfo,
+	&NativeSocketState_t2401_il2cpp_TypeInfo,
+	&SocketUdpNativeStatic_t71_il2cpp_TypeInfo,
+	&IntegerMillisecondsDelegate_t2381_il2cpp_TypeInfo,
+	&ThreadSafeRandom_t2402_il2cpp_TypeInfo,
+	&U3CU3Ec__DisplayClass1_t2403_il2cpp_TypeInfo,
+	&SupportClass_t471_il2cpp_TypeInfo,
+	&TrafficStatsGameLevel_t515_il2cpp_TypeInfo,
+	&TrafficStats_t514_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D64_t2404_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D65_t2405_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D1212_t2406_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D96_t2407_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D128_t2408_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D192_t2409_il2cpp_TypeInfo,
+	&__StaticArrayInitTypeSizeU3D13_t2410_il2cpp_TypeInfo,
+	&U3CPrivateImplementationDetailsU3EU7B1E29601FU2D197BU2D4DEDU2D995CU2DAA74E79221CEU7D_t2411_il2cpp_TypeInfo,
+	NULL,
+};
+extern Il2CppImage g_Photon3Unity3D_dll_Image;
+extern CustomAttributesCache g_Photon3Unity3D_Assembly__CustomAttributeCache;
+Il2CppAssembly g_Photon3Unity3D_Assembly = 
+{
+	{ "Photon3Unity3D", 0, 0, 0, { 0 }, 32772, 0, 0, 4, 0, 0, 9 },
+	&g_Photon3Unity3D_dll_Image,
+	&g_Photon3Unity3D_Assembly__CustomAttributeCache,
+};
+Il2CppImage g_Photon3Unity3D_dll_Image = 
+{
+	 "Photon3Unity3D.dll" ,
+	&g_Photon3Unity3D_Assembly,
+	g_Photon3Unity3D_Assembly_Types,
+	76,
+};
+static void s_Photon3Unity3DRegistration()
+{
+	RegisterAssembly (&g_Photon3Unity3D_Assembly);
+}
+static il2cpp::utils::RegisterRuntimeInitializeAndCleanup s_Photon3Unity3DRegistrationVariable(&s_Photon3Unity3DRegistration, NULL);

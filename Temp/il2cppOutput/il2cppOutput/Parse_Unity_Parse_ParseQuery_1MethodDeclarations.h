@@ -1,0 +1,37 @@
+﻿#pragma once
+#include <stdint.h>
+#include <assert.h>
+#include <exception>
+#include "codegen/il2cpp-codegen.h"
+
+// Parse.ParseQuery`1
+struct ParseQuery_1_t1177;
+// System.String
+struct String_t;
+// System.Collections.Generic.IDictionary`2<System.String,System.Object>
+struct IDictionary_2_t432;
+// System.Collections.Generic.IEnumerable`1<System.String>
+struct IEnumerable_1_t1010;
+// System.Collections.Generic.HashSet`1<System.String>
+struct HashSet_1_t1178;
+// System.Object
+struct Object_t;
+// System.Text.RegularExpressions.Regex
+struct Regex_t1028;
+// System.Threading.Tasks.Task`1<System.Int32>
+struct Task_1_t994;
+// System.Collections.Generic.IList`1<System.Object>
+struct IList_1_t1031;
+// Parse.ParseObject
+struct ParseObject_t534;
+// System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>
+struct Task_1_t1099;
+// System.Nullable`1<System.Int32>
+#include "mscorlib_System_Nullable_1_gen_0.h"
+// Parse.ParseGeoPoint
+#include "Parse_Unity_Parse_ParseGeoPoint.h"
+// Parse.ParseGeoDistance
+#include "Parse_Unity_Parse_ParseGeoDistance.h"
+// System.Threading.CancellationToken
+#include "Parse_Unity_System_Threading_CancellationToken.h"
+
