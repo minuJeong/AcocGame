@@ -8,4 +8,4 @@
 struct SpaceAttribute_t813;
 
 // System.Void UnityEngine.SpaceAttribute::.ctor(System.Single)
- void SpaceAttribute__ctor_m4411 (SpaceAttribute_t813 * __this, float ___height, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void SpaceAttribute__ctor_m4413 (SpaceAttribute_t813 * __this, float ___height, MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -7,7 +7,7 @@ struct Selectable_t630;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UI.Selectable>
-struct Enumerator_t5587 
+struct Enumerator_t5588 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<UnityEngine.UI.Selectable>::l
 	List_1_t701 * ___l;

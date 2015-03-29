@@ -5,7 +5,7 @@
 // System.Text.RegularExpressions.Position
 #include "System_System_Text_RegularExpressions_Position.h"
 // System.Text.RegularExpressions.Syntax.PositionAssertion
-struct PositionAssertion_t2820  : public Expression_t2806
+struct PositionAssertion_t2822  : public Expression_t2808
 {
 	// System.Text.RegularExpressions.Position System.Text.RegularExpressions.Syntax.PositionAssertion::pos
 	uint16_t ___pos;

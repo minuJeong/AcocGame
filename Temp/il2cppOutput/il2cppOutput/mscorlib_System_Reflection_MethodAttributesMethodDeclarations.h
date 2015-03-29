@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Reflection.MethodAttributes
-struct MethodAttributes_t3394;
+struct MethodAttributes_t3395;
 

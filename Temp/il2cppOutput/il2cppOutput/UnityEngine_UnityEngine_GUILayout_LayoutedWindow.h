@@ -11,7 +11,7 @@ struct GUIStyle_t138;
 // UnityEngine.Rect
 #include "UnityEngine_UnityEngine_Rect.h"
 // UnityEngine.GUILayout/LayoutedWindow
-struct LayoutedWindow_t2498  : public Object_t
+struct LayoutedWindow_t2499  : public Object_t
 {
 	// UnityEngine.GUI/WindowFunction UnityEngine.GUILayout/LayoutedWindow::func
 	WindowFunction_t416 * ___func;

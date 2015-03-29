@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo ArrayMetadata_t895_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Type,LitJson.ArrayMetadata,LitJson.ArrayMetadata>
-struct Transform_1_t5879  : public MulticastDelegate_t38
+struct Transform_1_t5880  : public MulticastDelegate_t38
 {
 };

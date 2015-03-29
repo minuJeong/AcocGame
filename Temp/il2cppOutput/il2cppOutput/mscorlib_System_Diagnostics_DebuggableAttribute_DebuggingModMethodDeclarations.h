@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Diagnostics.DebuggableAttribute/DebuggingModes
-struct DebuggingModes_t3307;
+struct DebuggingModes_t3308;
 

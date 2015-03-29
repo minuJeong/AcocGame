@@ -7,7 +7,7 @@ struct ChatGui_t183;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<ChatGui>
-struct CastHelper_1_t4393 
+struct CastHelper_1_t4394 
 {
 	// T UnityEngine.CastHelper`1<ChatGui>::t
 	ChatGui_t183 * ___t;

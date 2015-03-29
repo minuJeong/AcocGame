@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.IntPtr[]
-struct IntPtrU5BU5D_t2545;
+struct IntPtrU5BU5D_t2546;
 // System.Exception
 struct Exception_t107;
 // System.String
@@ -14,7 +14,7 @@ struct IDictionary_t255;
 struct Exception_t107  : public Object_t
 {
 	// System.IntPtr[] System.Exception::trace_ips
-	IntPtrU5BU5D_t2545* ___trace_ips;
+	IntPtrU5BU5D_t2546* ___trace_ips;
 	// System.Exception System.Exception::inner_exception
 	Exception_t107 * ___inner_exception;
 	// System.String System.Exception::message

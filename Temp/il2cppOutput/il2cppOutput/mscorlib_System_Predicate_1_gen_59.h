@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo DateTime_t126_il2cpp_TypeInfo;
 // System.Predicate`1<System.DateTime>
-struct Predicate_1_t7688  : public MulticastDelegate_t38
+struct Predicate_1_t7689  : public MulticastDelegate_t38
 {
 };

@@ -7,7 +7,7 @@ struct CharacterController_t216;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.CharacterController>
-struct CastHelper_1_t4486 
+struct CastHelper_1_t4487 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.CharacterController>::t
 	CharacterController_t216 * ___t;

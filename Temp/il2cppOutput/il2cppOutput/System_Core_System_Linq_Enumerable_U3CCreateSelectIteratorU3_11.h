@@ -1,9 +1,9 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<Parse.ParseFile>
-struct IEnumerable_1_t6597;
+struct IEnumerable_1_t6598;
 // System.Collections.Generic.IEnumerator`1<Parse.ParseFile>
-struct IEnumerator_1_t6596;
+struct IEnumerator_1_t6597;
 // Parse.ParseFile
 struct ParseFile_t1113;
 // System.Func`2<Parse.ParseFile,System.Threading.Tasks.Task>
@@ -13,7 +13,7 @@ struct Task_t390;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<Parse.ParseFile,System.Threading.Tasks.Task>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6599  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6600  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<Parse.ParseFile,System.Threading.Tasks.Task>::source
 	Object_t* ___source;

@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Text.RegularExpressions.IntervalCollection/CostDelegate
-struct CostDelegate_t2800;
+struct CostDelegate_t2802;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "System_System_Text_RegularExpressions_Interval.h"
 
 // System.Void System.Text.RegularExpressions.IntervalCollection/CostDelegate::.ctor(System.Object,System.IntPtr)
- void CostDelegate__ctor_m9532 (CostDelegate_t2800 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void CostDelegate__ctor_m9536 (CostDelegate_t2802 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Double System.Text.RegularExpressions.IntervalCollection/CostDelegate::Invoke(System.Text.RegularExpressions.Interval)
- double CostDelegate_Invoke_m9533 (CostDelegate_t2800 * __this, Interval_t2798  ___i, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ double CostDelegate_Invoke_m9537 (CostDelegate_t2802 * __this, Interval_t2800  ___i, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Text.RegularExpressions.IntervalCollection/CostDelegate::BeginInvoke(System.Text.RegularExpressions.Interval,System.AsyncCallback,System.Object)
- Object_t * CostDelegate_BeginInvoke_m9534 (CostDelegate_t2800 * __this, Interval_t2798  ___i, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * CostDelegate_BeginInvoke_m9538 (CostDelegate_t2802 * __this, Interval_t2800  ___i, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Double System.Text.RegularExpressions.IntervalCollection/CostDelegate::EndInvoke(System.IAsyncResult)
- double CostDelegate_EndInvoke_m9535 (CostDelegate_t2800 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ double CostDelegate_EndInvoke_m9539 (CostDelegate_t2802 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

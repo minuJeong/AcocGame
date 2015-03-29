@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Converter`2
-struct Converter_2_t3747;
+struct Converter_2_t3748;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

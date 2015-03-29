@@ -11,7 +11,7 @@ struct ParseFile_t1113;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateOfTypeIterator>c__IteratorC`1<Parse.ParseFile>
-struct U3CCreateOfTypeIteratorU3Ec__IteratorC_1_t6595  : public Object_t
+struct U3CCreateOfTypeIteratorU3Ec__IteratorC_1_t6596  : public Object_t
 {
 	// System.Collections.IEnumerable System.Linq.Enumerable/<CreateOfTypeIterator>c__IteratorC`1<Parse.ParseFile>::source
 	Object_t * ___source;

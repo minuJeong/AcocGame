@@ -7,7 +7,7 @@ struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Diagnostics.StackFrame
-struct StackFrame_t2704  : public Object_t
+struct StackFrame_t2706  : public Object_t
 {
 	// System.Int32 System.Diagnostics.StackFrame::ilOffset
 	int32_t ___ilOffset;

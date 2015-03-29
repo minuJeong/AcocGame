@@ -15,6 +15,6 @@ struct Object_t;
 extern TypeInfo ConnectionProtocol_t67_il2cpp_TypeInfo;
 extern TypeInfo Int32_t63_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<ExitGames.Client.Photon.ConnectionProtocol,System.Int32,ExitGames.Client.Photon.ConnectionProtocol>
-struct Transform_1_t4135  : public MulticastDelegate_t38
+struct Transform_1_t4136  : public MulticastDelegate_t38
 {
 };

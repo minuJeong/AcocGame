@@ -16,7 +16,7 @@ struct AnimationState_t459;
 // UnityEngine.AnimatorClipInfo
 #include "UnityEngine_UnityEngine_AnimatorClipInfo.h"
 // UnityEngine.AnimationEvent
-struct AnimationEvent_t2566  : public Object_t
+struct AnimationEvent_t2567  : public Object_t
 {
 	// System.Single UnityEngine.AnimationEvent::m_Time
 	float ___m_Time;
@@ -39,5 +39,5 @@ struct AnimationEvent_t2566  : public Object_t
 	// UnityEngine.AnimatorStateInfo UnityEngine.AnimationEvent::m_AnimatorStateInfo
 	AnimatorStateInfo_t467  ___m_AnimatorStateInfo;
 	// UnityEngine.AnimatorClipInfo UnityEngine.AnimationEvent::m_AnimatorClipInfo
-	AnimatorClipInfo_t2567  ___m_AnimatorClipInfo;
+	AnimatorClipInfo_t2568  ___m_AnimatorClipInfo;
 };

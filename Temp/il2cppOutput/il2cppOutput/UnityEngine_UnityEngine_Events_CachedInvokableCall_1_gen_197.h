@@ -5,7 +5,7 @@ struct ObjectU5BU5D_t5;
 // UnityEngine.Events.InvokableCall`1<UnityEngine.GUIText>
 #include "UnityEngine_UnityEngine_Events_InvokableCall_1_gen_199.h"
 // UnityEngine.Events.CachedInvokableCall`1<UnityEngine.GUIText>
-struct CachedInvokableCall_1_t11722  : public InvokableCall_1_t11723
+struct CachedInvokableCall_1_t11723  : public InvokableCall_1_t11724
 {
 	// System.Object[] UnityEngine.Events.CachedInvokableCall`1<UnityEngine.GUIText>::m_Arg1
 	ObjectU5BU5D_t5* ___m_Arg1;

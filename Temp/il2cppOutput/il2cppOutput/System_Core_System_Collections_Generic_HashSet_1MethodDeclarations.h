@@ -5,9 +5,9 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.HashSet`1
-struct HashSet_1_t2886;
+struct HashSet_1_t2887;
 // System.Runtime.Serialization.SerializationInfo
-struct SerializationInfo_t2614;
+struct SerializationInfo_t2615;
 // System.Collections.IEnumerator
 struct IEnumerator_t60;
 // System.Object

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Text.RegularExpressions.OpCode
-struct OpCode_t2776;
+struct OpCode_t2778;
 

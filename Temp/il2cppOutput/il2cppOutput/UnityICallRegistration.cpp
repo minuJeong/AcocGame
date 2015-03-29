@@ -1,4 +1,4 @@
-//Generated on : 3/29/2015 2:15:44 PM
+//Generated on : 3/29/2015 2:32:31 PM
 void RegisterAllStrippedInternalCalls()
 {
 	//Start Registrations for type : UnityEngine.Animation
@@ -1376,6 +1376,18 @@ void RegisterAllStrippedInternalCalls()
 		Register_UnityEngine_PlayerPrefs_Save();
 
 	//End Registrations for type : UnityEngine.PlayerPrefs
+
+	//Start Registrations for type : UnityEngine.Profiler
+
+		//System.Void UnityEngine.Profiler::BeginSampleOnly(System.String)
+		void Register_UnityEngine_Profiler_BeginSampleOnly();
+		Register_UnityEngine_Profiler_BeginSampleOnly();
+
+		//System.Void UnityEngine.Profiler::EndSample()
+		void Register_UnityEngine_Profiler_EndSample();
+		Register_UnityEngine_Profiler_EndSample();
+
+	//End Registrations for type : UnityEngine.Profiler
 
 	//Start Registrations for type : UnityEngine.Quaternion
 

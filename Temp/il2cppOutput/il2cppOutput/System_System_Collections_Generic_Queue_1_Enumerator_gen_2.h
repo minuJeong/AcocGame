@@ -5,7 +5,7 @@ struct Queue_1_t2351;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.Queue`1/Enumerator<ExitGames.Client.Photon.NCommand>
-struct Enumerator_t11351 
+struct Enumerator_t11352 
 {
 	// System.Collections.Generic.Queue`1<T> System.Collections.Generic.Queue`1/Enumerator<ExitGames.Client.Photon.NCommand>::q
 	Queue_1_t2351 * ___q;

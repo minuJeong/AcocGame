@@ -7,7 +7,7 @@ struct Rigidbody_t104;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.Rigidbody>
-struct CastHelper_1_t4231 
+struct CastHelper_1_t4232 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.Rigidbody>::t
 	Rigidbody_t104 * ___t;

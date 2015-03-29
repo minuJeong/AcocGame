@@ -8,4 +8,4 @@
 struct ButtonClickedEvent_t627;
 
 // System.Void UnityEngine.UI.Button/ButtonClickedEvent::.ctor()
- void ButtonClickedEvent__ctor_m3091 (ButtonClickedEvent_t627 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void ButtonClickedEvent__ctor_m3093 (ButtonClickedEvent_t627 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

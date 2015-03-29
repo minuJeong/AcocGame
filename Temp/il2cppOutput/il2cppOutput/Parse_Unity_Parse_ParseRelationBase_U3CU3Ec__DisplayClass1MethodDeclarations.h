@@ -8,4 +8,4 @@
 struct U3CU3Ec__DisplayClass1_t1179;
 
 // System.Void Parse.ParseRelationBase/<>c__DisplayClass1::.ctor()
- void U3CU3Ec__DisplayClass1__ctor_m5831 (U3CU3Ec__DisplayClass1_t1179 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClass1__ctor_m5833 (U3CU3Ec__DisplayClass1_t1179 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

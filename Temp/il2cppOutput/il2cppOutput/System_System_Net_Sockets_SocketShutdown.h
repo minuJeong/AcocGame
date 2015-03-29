@@ -5,7 +5,7 @@
 // System.Net.Sockets.SocketShutdown
 #include "System_System_Net_Sockets_SocketShutdown.h"
 // System.Net.Sockets.SocketShutdown
-struct SocketShutdown_t2763 
+struct SocketShutdown_t2765 
 {
 	// System.Int32 System.Net.Sockets.SocketShutdown::value__
 	int32_t ___value__;

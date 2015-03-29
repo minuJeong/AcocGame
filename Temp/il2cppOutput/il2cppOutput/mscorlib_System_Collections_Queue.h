@@ -5,7 +5,7 @@ struct ObjectU5BU5D_t5;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Queue
-struct Queue_t2758  : public Object_t
+struct Queue_t2760  : public Object_t
 {
 	// System.Object[] System.Collections.Queue::_array
 	ObjectU5BU5D_t5* ____array;

@@ -7,7 +7,7 @@ struct Tuple_2_t1507;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Tuple`2<System.Func`1<Parse.ParseObject>,System.Type>>
-struct KeyValuePair_2_t6391 
+struct KeyValuePair_2_t6392 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.String,System.Tuple`2<System.Func`1<Parse.ParseObject>,System.Type>>::key
 	String_t* ___key;

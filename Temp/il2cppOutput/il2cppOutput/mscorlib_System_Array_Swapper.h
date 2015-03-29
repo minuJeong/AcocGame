@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Int32_t63_il2cpp_TypeInfo;
 // System.Array/Swapper
-struct Swapper_t3175  : public MulticastDelegate_t38
+struct Swapper_t3176  : public MulticastDelegate_t38
 {
 };

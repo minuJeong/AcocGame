@@ -5,7 +5,7 @@
 // System.Runtime.Serialization.Formatters.FormatterTypeStyle
 #include "mscorlib_System_Runtime_Serialization_Formatters_FormatterTy.h"
 // System.Runtime.Serialization.Formatters.FormatterTypeStyle
-struct FormatterTypeStyle_t3535 
+struct FormatterTypeStyle_t3536 
 {
 	// System.Int32 System.Runtime.Serialization.Formatters.FormatterTypeStyle::value__
 	int32_t ___value__;

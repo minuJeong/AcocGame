@@ -1,11 +1,11 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IList`1<System.Collections.Generic.List`1<System.Object>>
-struct IList_1_t8160;
+struct IList_1_t8161;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.List`1<System.Object>>
-struct ReadOnlyCollection_1_t8172  : public Object_t
+struct ReadOnlyCollection_1_t8173  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.List`1<System.Object>>::list
 	Object_t* ___list;

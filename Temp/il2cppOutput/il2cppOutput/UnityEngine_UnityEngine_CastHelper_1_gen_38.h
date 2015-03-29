@@ -7,7 +7,7 @@ struct AndroidFacebook_t117;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<Facebook.AndroidFacebook>
-struct CastHelper_1_t4281 
+struct CastHelper_1_t4282 
 {
 	// T UnityEngine.CastHelper`1<Facebook.AndroidFacebook>::t
 	AndroidFacebook_t117 * ___t;

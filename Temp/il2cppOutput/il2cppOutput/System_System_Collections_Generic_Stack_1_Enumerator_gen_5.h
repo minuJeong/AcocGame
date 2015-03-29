@@ -5,7 +5,7 @@ struct Stack_1_t919;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.Stack`1/Enumerator<LitJson.WriterContext>
-struct Enumerator_t6087 
+struct Enumerator_t6088 
 {
 	// System.Collections.Generic.Stack`1<T> System.Collections.Generic.Stack`1/Enumerator<LitJson.WriterContext>::parent
 	Stack_1_t919 * ___parent;

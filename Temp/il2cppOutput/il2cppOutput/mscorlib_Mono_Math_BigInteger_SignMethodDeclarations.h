@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // Mono.Math.BigInteger/Sign
-struct Sign_t3228;
+struct Sign_t3229;
 

@@ -7,7 +7,7 @@ struct CanvasRenderer_t643;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.CanvasRenderer>
-struct CastHelper_1_t5441 
+struct CastHelper_1_t5442 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.CanvasRenderer>::t
 	CanvasRenderer_t643 * ___t;

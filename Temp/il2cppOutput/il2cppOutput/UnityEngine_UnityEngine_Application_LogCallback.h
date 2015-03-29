@@ -16,6 +16,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo LogType_t2459_il2cpp_TypeInfo;
 // UnityEngine.Application/LogCallback
-struct LogCallback_t2537  : public MulticastDelegate_t38
+struct LogCallback_t2538  : public MulticastDelegate_t38
 {
 };

@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Stack`1
-struct Stack_1_t2747;
+struct Stack_1_t2749;
 // System.Object
 struct Object_t;
 // System.Array

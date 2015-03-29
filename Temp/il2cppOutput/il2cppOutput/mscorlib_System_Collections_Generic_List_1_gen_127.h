@@ -5,7 +5,7 @@ struct KeyValuePair_2U5BU5D_t434;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct List_1_t8995  : public Object_t
+struct List_1_t8996  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::_items
 	KeyValuePair_2U5BU5D_t434* ____items;
@@ -14,7 +14,7 @@ struct List_1_t8995  : public Object_t
 	// System.Int32 System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::_version
 	int32_t ____version;
 };
-struct List_1_t8995_StaticFields{
+struct List_1_t8996_StaticFields{
 	// System.Int32 System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::DefaultCapacity
 	int32_t ___DefaultCapacity;
 	// T[] System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::EmptyArray

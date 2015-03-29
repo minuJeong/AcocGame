@@ -7,7 +7,7 @@ struct NavMeshAgent_t383;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.NavMeshAgent>
-struct CastHelper_1_t5078 
+struct CastHelper_1_t5079 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.NavMeshAgent>::t
 	NavMeshAgent_t383 * ___t;

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.UnhandledExceptionEventArgs
-struct UnhandledExceptionEventArgs_t3742;
+struct UnhandledExceptionEventArgs_t3743;
 

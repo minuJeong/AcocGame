@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Serialization.Formatters.Binary.TypeTag
-struct TypeTag_t3523;
+struct TypeTag_t3524;
 

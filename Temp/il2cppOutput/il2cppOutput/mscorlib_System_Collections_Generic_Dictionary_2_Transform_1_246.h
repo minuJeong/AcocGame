@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Type,ExitGames.Client.Photon.CustomType,System.Type>
-struct Transform_1_t11414  : public MulticastDelegate_t38
+struct Transform_1_t11415  : public MulticastDelegate_t38
 {
 };

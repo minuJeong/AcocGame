@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Double_t97_il2cpp_TypeInfo;
 // System.Func`2<System.Double,System.UInt16>
-struct Func_2_t7338  : public MulticastDelegate_t38
+struct Func_2_t7339  : public MulticastDelegate_t38
 {
 };

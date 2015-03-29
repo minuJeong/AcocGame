@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Dictionary`2/Transform`1
-struct Transform_1_t3269;
+struct Transform_1_t3270;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

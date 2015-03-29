@@ -5,7 +5,7 @@ struct IEnumerable_1_t2178;
 // System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.String,System.String>>
 struct IEnumerator_1_t2179;
 // System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct Func_2_t9705;
+struct Func_2_t9706;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,System.String>
@@ -13,7 +13,7 @@ struct Func_2_t9705;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Object>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_0.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t9706  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t9707  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::source
 	Object_t* ___source;
@@ -22,7 +22,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t9706  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<element>__1
 	KeyValuePair_2_t443  ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::selector
-	Func_2_t9705 * ___selector;
+	Func_2_t9706 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t9706  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<$>selector
-	Func_2_t9705 * ___U3C$U3Eselector;
+	Func_2_t9706 * ___U3C$U3Eselector;
 };

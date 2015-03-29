@@ -9,7 +9,7 @@ struct TypeU5BU5D_t291;
 // System.Reflection.MethodBase
 struct MethodBase_t424;
 // System.Runtime.Remoting.Messaging.LogicalCallContext
-struct LogicalCallContext_t3483;
+struct LogicalCallContext_t3484;
 // System.Collections.IDictionary
 struct IDictionary_t255;
 // System.Collections.Generic.Dictionary`2<System.String,System.Int32>
@@ -17,7 +17,7 @@ struct Dictionary_2_t57;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Runtime.Remoting.Messaging.MethodCall
-struct MethodCall_t3477  : public Object_t
+struct MethodCall_t3478  : public Object_t
 {
 	// System.String System.Runtime.Remoting.Messaging.MethodCall::_uri
 	String_t* ____uri;
@@ -32,7 +32,7 @@ struct MethodCall_t3477  : public Object_t
 	// System.Reflection.MethodBase System.Runtime.Remoting.Messaging.MethodCall::_methodBase
 	MethodBase_t424 * ____methodBase;
 	// System.Runtime.Remoting.Messaging.LogicalCallContext System.Runtime.Remoting.Messaging.MethodCall::_callContext
-	LogicalCallContext_t3483 * ____callContext;
+	LogicalCallContext_t3484 * ____callContext;
 	// System.Type[] System.Runtime.Remoting.Messaging.MethodCall::_genericArguments
 	TypeU5BU5D_t291* ____genericArguments;
 	// System.Collections.IDictionary System.Runtime.Remoting.Messaging.MethodCall::ExternalProperties
@@ -40,7 +40,7 @@ struct MethodCall_t3477  : public Object_t
 	// System.Collections.IDictionary System.Runtime.Remoting.Messaging.MethodCall::InternalProperties
 	Object_t * ___InternalProperties;
 };
-struct MethodCall_t3477_StaticFields{
+struct MethodCall_t3478_StaticFields{
 	// System.Collections.Generic.Dictionary`2<System.String,System.Int32> System.Runtime.Remoting.Messaging.MethodCall::<>f__switch$map1F
 	Dictionary_2_t57 * ___U3CU3Ef__switch$map1F;
 };

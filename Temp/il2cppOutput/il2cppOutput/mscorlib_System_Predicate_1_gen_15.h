@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Predicate`1<gamecontext.Hero>
-struct Predicate_1_t5125  : public MulticastDelegate_t38
+struct Predicate_1_t5126  : public MulticastDelegate_t38
 {
 };

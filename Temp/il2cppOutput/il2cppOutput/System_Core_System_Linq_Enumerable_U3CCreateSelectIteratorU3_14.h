@@ -13,7 +13,7 @@ struct IDictionary_2_t1120;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<Parse.ParseObject,System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6705  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6706  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<Parse.ParseObject,System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>>::source
 	Object_t* ___source;

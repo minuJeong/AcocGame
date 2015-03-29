@@ -3,6 +3,6 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.GUIClip
-struct GUIClip_t2511  : public Object_t
+struct GUIClip_t2512  : public Object_t
 {
 };

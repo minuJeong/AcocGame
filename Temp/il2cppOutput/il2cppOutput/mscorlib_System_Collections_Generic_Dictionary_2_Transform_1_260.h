@@ -15,6 +15,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Collections.Generic.Dictionary`2/Transform`1<System.String,UnityEngine.GUIStyle,System.Collections.DictionaryEntry>
-struct Transform_1_t11551  : public MulticastDelegate_t38
+struct Transform_1_t11552  : public MulticastDelegate_t38
 {
 };

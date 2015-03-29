@@ -5,7 +5,7 @@ struct ArrayList_t94;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Security.Policy.Evidence
-struct Evidence_t3382  : public Object_t
+struct Evidence_t3383  : public Object_t
 {
 	// System.Collections.ArrayList System.Security.Policy.Evidence::hostEvidenceList
 	ArrayList_t94 * ___hostEvidenceList;

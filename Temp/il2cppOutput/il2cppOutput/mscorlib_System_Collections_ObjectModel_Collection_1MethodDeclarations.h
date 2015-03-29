@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.ObjectModel.Collection`1
-struct Collection_1_t3276;
+struct Collection_1_t3277;
 // System.Object
 struct Object_t;
 // System.Array

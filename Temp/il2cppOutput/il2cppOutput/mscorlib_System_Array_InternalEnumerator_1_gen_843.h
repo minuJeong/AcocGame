@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<System.Runtime.InteropServices.FieldOffsetAttribute>
-struct InternalEnumerator_1_t11995 
+struct InternalEnumerator_1_t11996 
 {
 	// System.Array System.Array/InternalEnumerator`1<System.Runtime.InteropServices.FieldOffsetAttribute>::array
 	Array_t * ___array;

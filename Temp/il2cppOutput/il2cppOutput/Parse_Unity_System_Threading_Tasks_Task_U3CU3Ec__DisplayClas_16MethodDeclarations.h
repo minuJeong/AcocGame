@@ -5,15 +5,15 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>
-struct U3CU3Ec__DisplayClass3_1_t6411;
+struct U3CU3Ec__DisplayClass3_1_t6412;
 // System.Threading.Tasks.Task
 struct Task_t390;
 
 // System.Void System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::.ctor()
 // System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Object>
 #include "Parse_Unity_System_Threading_Tasks_Task_U3CU3Ec__DisplayClas_8MethodDeclarations.h"
-#define U3CU3Ec__DisplayClass3_1__ctor_m32898(__this, method) (void)U3CU3Ec__DisplayClass3_1__ctor_m30618_gshared((U3CU3Ec__DisplayClass3_1_t6119 *)__this, method)
+#define U3CU3Ec__DisplayClass3_1__ctor_m32901(__this, method) (void)U3CU3Ec__DisplayClass3_1__ctor_m30621_gshared((U3CU3Ec__DisplayClass3_1_t6120 *)__this, method)
 // System.Void System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::<ContinueWith>b__0()
-#define U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__0_m32899(__this, method) (void)U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__0_m30619_gshared((U3CU3Ec__DisplayClass3_1_t6119 *)__this, method)
+#define U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__0_m32902(__this, method) (void)U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__0_m30622_gshared((U3CU3Ec__DisplayClass3_1_t6120 *)__this, method)
 // System.Void System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::<ContinueWith>b__1(System.Threading.Tasks.Task)
-#define U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__1_m32900(__this, ___t, method) (void)U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__1_m30620_gshared((U3CU3Ec__DisplayClass3_1_t6119 *)__this, (Task_t390 *)___t, method)
+#define U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__1_m32903(__this, ___t, method) (void)U3CU3Ec__DisplayClass3_1_U3CContinueWithU3Eb__1_m30623_gshared((U3CU3Ec__DisplayClass3_1_t6120 *)__this, (Task_t390 *)___t, method)

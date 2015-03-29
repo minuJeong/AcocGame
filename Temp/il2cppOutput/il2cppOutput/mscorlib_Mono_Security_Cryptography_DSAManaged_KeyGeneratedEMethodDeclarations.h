@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler
-struct KeyGeneratedEventHandler_t3237;
+struct KeyGeneratedEventHandler_t3238;
 // System.Object
 struct Object_t;
 // System.EventArgs
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler::.ctor(System.Object,System.IntPtr)
- void KeyGeneratedEventHandler__ctor_m11392 (KeyGeneratedEventHandler_t3237 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void KeyGeneratedEventHandler__ctor_m11395 (KeyGeneratedEventHandler_t3238 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler::Invoke(System.Object,System.EventArgs)
- void KeyGeneratedEventHandler_Invoke_m11393 (KeyGeneratedEventHandler_t3237 * __this, Object_t * ___sender, EventArgs_t1191 * ___e, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void KeyGeneratedEventHandler_Invoke_m11396 (KeyGeneratedEventHandler_t3238 * __this, Object_t * ___sender, EventArgs_t1191 * ___e, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler::BeginInvoke(System.Object,System.EventArgs,System.AsyncCallback,System.Object)
- Object_t * KeyGeneratedEventHandler_BeginInvoke_m11394 (KeyGeneratedEventHandler_t3237 * __this, Object_t * ___sender, EventArgs_t1191 * ___e, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * KeyGeneratedEventHandler_BeginInvoke_m11397 (KeyGeneratedEventHandler_t3238 * __this, Object_t * ___sender, EventArgs_t1191 * ___e, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Mono.Security.Cryptography.DSAManaged/KeyGeneratedEventHandler::EndInvoke(System.IAsyncResult)
- void KeyGeneratedEventHandler_EndInvoke_m11395 (KeyGeneratedEventHandler_t3237 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void KeyGeneratedEventHandler_EndInvoke_m11398 (KeyGeneratedEventHandler_t3238 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -7,7 +7,7 @@ struct ImporterFunc_t900;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.Type,LitJson.ImporterFunc>
-struct KeyValuePair_2_t5848 
+struct KeyValuePair_2_t5849 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.Type,LitJson.ImporterFunc>::key
 	Type_t * ___key;

@@ -7,7 +7,7 @@ struct ThirdPersonCamera_t226;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<ThirdPersonCamera>
-struct CastHelper_1_t4594 
+struct CastHelper_1_t4595 
 {
 	// T UnityEngine.CastHelper`1<ThirdPersonCamera>::t
 	ThirdPersonCamera_t226 * ___t;

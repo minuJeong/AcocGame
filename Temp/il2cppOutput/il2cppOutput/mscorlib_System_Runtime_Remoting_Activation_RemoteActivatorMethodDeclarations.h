@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Remoting.Activation.RemoteActivator
-struct RemoteActivator_t3448;
+struct RemoteActivator_t3449;
 

@@ -9,7 +9,7 @@ struct ParseObject_t534;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateConcatIterator>c__Iterator1`1<Parse.ParseObject>
-struct U3CCreateConcatIteratorU3Ec__Iterator1_1_t6290  : public Object_t
+struct U3CCreateConcatIteratorU3Ec__Iterator1_1_t6291  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateConcatIterator>c__Iterator1`1<Parse.ParseObject>::first
 	Object_t* ___first;

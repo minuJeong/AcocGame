@@ -7,7 +7,7 @@ struct OnClickDestroy_t353;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<OnClickDestroy>
-struct CastHelper_1_t4970 
+struct CastHelper_1_t4971 
 {
 	// T UnityEngine.CastHelper`1<OnClickDestroy>::t
 	OnClickDestroy_t353 * ___t;

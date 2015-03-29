@@ -7,7 +7,7 @@ struct CharU5BU5D_t450;
 // System.Text.Encoding
 struct Encoding_t1422;
 // System.Text.Decoder
-struct Decoder_t3327;
+struct Decoder_t3328;
 // System.IO.Stream
 struct Stream_t990;
 // System.Text.StringBuilder
@@ -34,7 +34,7 @@ struct StreamReader_t988  : public TextReader_t877
 	// System.Text.Encoding System.IO.StreamReader::encoding
 	Encoding_t1422 * ___encoding;
 	// System.Text.Decoder System.IO.StreamReader::decoder
-	Decoder_t3327 * ___decoder;
+	Decoder_t3328 * ___decoder;
 	// System.IO.Stream System.IO.StreamReader::base_stream
 	Stream_t990 * ___base_stream;
 	// System.Boolean System.IO.StreamReader::mayBlock

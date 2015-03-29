@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IDictionary`2<System.Int64,System.Int32>
-struct IDictionary_2_t11277;
+struct IDictionary_2_t11278;
 // System.Collections.Generic.IList`1<System.WeakReference>
 struct IList_1_t1329;
 // System.Func`1<System.Int32>

@@ -7,7 +7,7 @@ struct Exception_t107;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<System.Exception>
-struct Enumerator_t6113 
+struct Enumerator_t6114 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Exception>::l
 	List_1_t2232 * ___l;

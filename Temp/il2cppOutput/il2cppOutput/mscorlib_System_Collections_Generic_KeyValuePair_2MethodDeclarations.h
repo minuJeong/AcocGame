@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.KeyValuePair`2
-struct KeyValuePair_2_t3273;
+struct KeyValuePair_2_t3274;
 // System.String
 struct String_t;
 

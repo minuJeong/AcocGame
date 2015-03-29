@@ -5,7 +5,7 @@ struct IEnumerable_1U5BU5D_t1486;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.List`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>
-struct List_1_t6791  : public Object_t
+struct List_1_t6792  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>::_items
 	IEnumerable_1U5BU5D_t1486* ____items;
@@ -14,7 +14,7 @@ struct List_1_t6791  : public Object_t
 	// System.Int32 System.Collections.Generic.List`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>::_version
 	int32_t ____version;
 };
-struct List_1_t6791_StaticFields{
+struct List_1_t6792_StaticFields{
 	// System.Int32 System.Collections.Generic.List`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>::DefaultCapacity
 	int32_t ___DefaultCapacity;
 	// T[] System.Collections.Generic.List`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>::EmptyArray

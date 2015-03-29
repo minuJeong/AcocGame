@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<ToHubButton>
-struct UnityAction_1_t4437  : public MulticastDelegate_t38
+struct UnityAction_1_t4438  : public MulticastDelegate_t38
 {
 };

@@ -7,7 +7,7 @@ struct Texture_t455;
 // UnityEngine.Rect
 #include "UnityEngine_UnityEngine_Rect.h"
 // UnityEngine.UserAuthorizationDialog
-struct UserAuthorizationDialog_t2642  : public MonoBehaviour_t58
+struct UserAuthorizationDialog_t2643  : public MonoBehaviour_t58
 {
 	// UnityEngine.Rect UnityEngine.UserAuthorizationDialog::windowRect
 	Rect_t55  ___windowRect;

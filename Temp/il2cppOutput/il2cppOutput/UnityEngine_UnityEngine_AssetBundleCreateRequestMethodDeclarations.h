@@ -10,8 +10,8 @@ struct AssetBundleCreateRequest_t2454;
 struct AssetBundle_t414;
 
 // System.Void UnityEngine.AssetBundleCreateRequest::.ctor()
- void AssetBundleCreateRequest__ctor_m7879 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void AssetBundleCreateRequest__ctor_m7881 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.AssetBundle UnityEngine.AssetBundleCreateRequest::get_assetBundle()
- AssetBundle_t414 * AssetBundleCreateRequest_get_assetBundle_m7880 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ AssetBundle_t414 * AssetBundleCreateRequest_get_assetBundle_m7882 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AssetBundleCreateRequest::DisableCompatibilityChecks()
- void AssetBundleCreateRequest_DisableCompatibilityChecks_m7881 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void AssetBundleCreateRequest_DisableCompatibilityChecks_m7883 (AssetBundleCreateRequest_t2454 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

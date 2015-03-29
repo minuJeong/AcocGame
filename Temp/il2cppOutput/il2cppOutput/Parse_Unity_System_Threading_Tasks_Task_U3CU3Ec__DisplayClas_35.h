@@ -1,16 +1,16 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>[]>>
-struct U3CU3Ec__DisplayClass3_1_t6812;
+struct U3CU3Ec__DisplayClass3_1_t6813;
 // System.Threading.Tasks.Task
 struct Task_t390;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Threading.Tasks.Task/<>c__DisplayClass3`1/<>c__DisplayClass5<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>[]>>
-struct U3CU3Ec__DisplayClass5_t6813  : public Object_t
+struct U3CU3Ec__DisplayClass5_t6814  : public Object_t
 {
 	// System.Threading.Tasks.Task/<>c__DisplayClass3`1<T> System.Threading.Tasks.Task/<>c__DisplayClass3`1/<>c__DisplayClass5<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>[]>>::CS$<>8__locals4
-	U3CU3Ec__DisplayClass3_1_t6812 * ___CS$U3CU3E8__locals4;
+	U3CU3Ec__DisplayClass3_1_t6813 * ___CS$U3CU3E8__locals4;
 	// System.Threading.Tasks.Task System.Threading.Tasks.Task/<>c__DisplayClass3`1/<>c__DisplayClass5<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>[]>>::t
 	Task_t390 * ___t;
 };

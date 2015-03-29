@@ -5,7 +5,7 @@ struct TaskCompletionSource_1_t1216;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Threading.Tasks.TaskExtensions/<>c__DisplayClass7`1<System.Object>
-struct U3CU3Ec__DisplayClass7_1_t6154  : public Object_t
+struct U3CU3Ec__DisplayClass7_1_t6155  : public Object_t
 {
 	// System.Threading.Tasks.TaskCompletionSource`1<T> System.Threading.Tasks.TaskExtensions/<>c__DisplayClass7`1<System.Object>::tcs
 	TaskCompletionSource_1_t1216 * ___tcs;

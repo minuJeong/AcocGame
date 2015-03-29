@@ -7,7 +7,7 @@ struct List_1_t962;
 // LitJson.PropertyMetadata
 #include "LitJson_LitJson_PropertyMetadata.h"
 // System.Collections.Generic.List`1/Enumerator<LitJson.PropertyMetadata>
-struct Enumerator_t5991 
+struct Enumerator_t5992 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<LitJson.PropertyMetadata>::l
 	List_1_t962 * ___l;

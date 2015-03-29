@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1<System.Single>
-struct Predicate_1_t5016;
+struct Predicate_1_t5017;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -16,10 +16,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.Predicate`1<System.Single>::.ctor(System.Object,System.IntPtr)
- void Predicate_1__ctor_m22034 (Predicate_1_t5016 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Predicate_1__ctor_m22037 (Predicate_1_t5017 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Single>::Invoke(T)
- bool Predicate_1_Invoke_m22035 (Predicate_1_t5016 * __this, float ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_Invoke_m22038 (Predicate_1_t5017 * __this, float ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Predicate`1<System.Single>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Predicate_1_BeginInvoke_m22036 (Predicate_1_t5016 * __this, float ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Predicate_1_BeginInvoke_m22039 (Predicate_1_t5017 * __this, float ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Single>::EndInvoke(System.IAsyncResult)
- bool Predicate_1_EndInvoke_m22037 (Predicate_1_t5016 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_EndInvoke_m22040 (Predicate_1_t5017 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

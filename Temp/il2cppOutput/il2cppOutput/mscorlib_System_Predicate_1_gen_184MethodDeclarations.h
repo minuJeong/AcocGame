@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,Parse.ParseUser>>>
-struct Predicate_1_t11052;
+struct Predicate_1_t11053;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_116.h"
 
 // System.Void System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,Parse.ParseUser>>>::.ctor(System.Object,System.IntPtr)
- void Predicate_1__ctor_m81800 (Predicate_1_t11052 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Predicate_1__ctor_m81803 (Predicate_1_t11053 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,Parse.ParseUser>>>::Invoke(T)
- bool Predicate_1_Invoke_m81801 (Predicate_1_t11052 * __this, KeyValuePair_2_t11040  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_Invoke_m81804 (Predicate_1_t11053 * __this, KeyValuePair_2_t11041  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,Parse.ParseUser>>>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Predicate_1_BeginInvoke_m81802 (Predicate_1_t11052 * __this, KeyValuePair_2_t11040  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Predicate_1_BeginInvoke_m81805 (Predicate_1_t11053 * __this, KeyValuePair_2_t11041  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,Parse.ParseUser>>>::EndInvoke(System.IAsyncResult)
- bool Predicate_1_EndInvoke_m81803 (Predicate_1_t11052 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_EndInvoke_m81806 (Predicate_1_t11053 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

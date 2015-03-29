@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Func`2<System.Object,Parse.ParseRole>
-struct Func_2_t6919;
+struct Func_2_t6920;
 // System.Object
 struct Object_t;
 // Parse.ParseRole
@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 // System.Void System.Func`2<System.Object,Parse.ParseRole>::.ctor(System.Object,System.IntPtr)
 // System.Func`2<System.Object,System.Object>
 #include "System_Core_System_Func_2_gen_13MethodDeclarations.h"
-#define Func_2__ctor_m36775(__this, ___object, ___method, method) (void)Func_2__ctor_m6470_gshared((Func_2_t1092 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
+#define Func_2__ctor_m36778(__this, ___object, ___method, method) (void)Func_2__ctor_m6472_gshared((Func_2_t1092 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
 // TResult System.Func`2<System.Object,Parse.ParseRole>::Invoke(T)
-#define Func_2_Invoke_m36776(__this, ___arg1, method) (ParseRole_t1081 *)Func_2_Invoke_m30610_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, method)
+#define Func_2_Invoke_m36779(__this, ___arg1, method) (ParseRole_t1081 *)Func_2_Invoke_m30613_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, method)
 // System.IAsyncResult System.Func`2<System.Object,Parse.ParseRole>::BeginInvoke(T,System.AsyncCallback,System.Object)
-#define Func_2_BeginInvoke_m36777(__this, ___arg1, ___callback, ___object, method) (Object_t *)Func_2_BeginInvoke_m30612_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
+#define Func_2_BeginInvoke_m36780(__this, ___arg1, ___callback, ___object, method) (Object_t *)Func_2_BeginInvoke_m30615_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
 // TResult System.Func`2<System.Object,Parse.ParseRole>::EndInvoke(System.IAsyncResult)
-#define Func_2_EndInvoke_m36778(__this, ___result, method) (ParseRole_t1081 *)Func_2_EndInvoke_m30614_gshared((Func_2_t1092 *)__this, (Object_t *)___result, method)
+#define Func_2_EndInvoke_m36781(__this, ___result, method) (ParseRole_t1081 *)Func_2_EndInvoke_m30617_gshared((Func_2_t1092 *)__this, (Object_t *)___result, method)

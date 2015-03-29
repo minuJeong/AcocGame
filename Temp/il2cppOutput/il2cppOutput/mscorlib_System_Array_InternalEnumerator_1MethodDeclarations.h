@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Array/InternalEnumerator`1
-struct InternalEnumerator_1_t3171;
+struct InternalEnumerator_1_t3172;
 // System.Object
 struct Object_t;
 // System.Array

@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>,System.String>
-struct Transform_1_t6749  : public MulticastDelegate_t38
+struct Transform_1_t6750  : public MulticastDelegate_t38
 {
 };

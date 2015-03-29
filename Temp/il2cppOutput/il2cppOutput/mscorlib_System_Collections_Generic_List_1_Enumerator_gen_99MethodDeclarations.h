@@ -5,27 +5,27 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>
-struct Enumerator_t8513;
+struct Enumerator_t8514;
 // System.Object
 struct Object_t;
 // System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>
 struct IDictionary_2_t2218;
 // System.Collections.Generic.List`1<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>
-struct List_1_t8508;
+struct List_1_t8509;
 
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::.ctor(System.Collections.Generic.List`1<T>)
 // System.Collections.Generic.List`1/Enumerator<System.Object>
 #include "mscorlib_System_Collections_Generic_List_1_Enumerator_gen_1MethodDeclarations.h"
-#define Enumerator__ctor_m54000(__this, ___l, method) (void)Enumerator__ctor_m15500_gshared((Enumerator_t413 *)__this, (List_1_t2 *)___l, method)
+#define Enumerator__ctor_m54003(__this, ___l, method) (void)Enumerator__ctor_m15503_gshared((Enumerator_t413 *)__this, (List_1_t2 *)___l, method)
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::System.Collections.IEnumerator.Reset()
-#define Enumerator_System_Collections_IEnumerator_Reset_m54001(__this, method) (void)Enumerator_System_Collections_IEnumerator_Reset_m15501_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_System_Collections_IEnumerator_Reset_m54004(__this, method) (void)Enumerator_System_Collections_IEnumerator_Reset_m15504_gshared((Enumerator_t413 *)__this, method)
 // System.Object System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::System.Collections.IEnumerator.get_Current()
-#define Enumerator_System_Collections_IEnumerator_get_Current_m54002(__this, method) (Object_t *)Enumerator_System_Collections_IEnumerator_get_Current_m15502_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_System_Collections_IEnumerator_get_Current_m54005(__this, method) (Object_t *)Enumerator_System_Collections_IEnumerator_get_Current_m15505_gshared((Enumerator_t413 *)__this, method)
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::Dispose()
-#define Enumerator_Dispose_m54003(__this, method) (void)Enumerator_Dispose_m15503_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_Dispose_m54006(__this, method) (void)Enumerator_Dispose_m15506_gshared((Enumerator_t413 *)__this, method)
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::VerifyState()
-#define Enumerator_VerifyState_m54004(__this, method) (void)Enumerator_VerifyState_m15504_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_VerifyState_m54007(__this, method) (void)Enumerator_VerifyState_m15507_gshared((Enumerator_t413 *)__this, method)
 // System.Boolean System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::MoveNext()
-#define Enumerator_MoveNext_m54005(__this, method) (bool)Enumerator_MoveNext_m2044_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_MoveNext_m54008(__this, method) (bool)Enumerator_MoveNext_m2044_gshared((Enumerator_t413 *)__this, method)
 // T System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseGeoPoint>>::get_Current()
-#define Enumerator_get_Current_m54006(__this, method) (Object_t*)Enumerator_get_Current_m2043_gshared((Enumerator_t413 *)__this, method)
+#define Enumerator_get_Current_m54009(__this, method) (Object_t*)Enumerator_get_Current_m2043_gshared((Enumerator_t413 *)__this, method)

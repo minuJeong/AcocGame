@@ -7,7 +7,7 @@ struct ParseACL_t1080;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseACL>
-struct KeyValuePair_2_t8546 
+struct KeyValuePair_2_t8547 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseACL>::key
 	String_t* ___key;

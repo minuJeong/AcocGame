@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Action`1<System.Linq.Expressions.ParameterExpression>
-struct Action_1_t2963  : public MulticastDelegate_t38
+struct Action_1_t2964  : public MulticastDelegate_t38
 {
 };

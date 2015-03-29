@@ -3,6 +3,6 @@
 // System.Exception
 #include "mscorlib_System_Exception.h"
 // UnityEngine.ExitGUIException
-struct ExitGUIException_t2508  : public Exception_t107
+struct ExitGUIException_t2509  : public Exception_t107
 {
 };

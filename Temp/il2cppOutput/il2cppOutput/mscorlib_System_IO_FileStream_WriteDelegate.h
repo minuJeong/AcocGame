@@ -16,6 +16,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Int32_t63_il2cpp_TypeInfo;
 // System.IO.FileStream/WriteDelegate
-struct WriteDelegate_t3344  : public MulticastDelegate_t38
+struct WriteDelegate_t3345  : public MulticastDelegate_t38
 {
 };

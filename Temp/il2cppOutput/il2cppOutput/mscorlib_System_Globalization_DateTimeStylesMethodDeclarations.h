@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Globalization.DateTimeStyles
-struct DateTimeStyles_t3320;
+struct DateTimeStyles_t3321;
 

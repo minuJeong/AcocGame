@@ -8,6 +8,6 @@
 struct U3CU3Ec__DisplayClass2_t2358;
 
 // System.Void ExitGames.Client.Photon.PeerBase/<>c__DisplayClass2::.ctor()
- void U3CU3Ec__DisplayClass2__ctor_m7269 (U3CU3Ec__DisplayClass2_t2358 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClass2__ctor_m7271 (U3CU3Ec__DisplayClass2_t2358 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ExitGames.Client.Photon.PeerBase/<>c__DisplayClass2::<EnqueueDebugReturn>b__0()
- void U3CU3Ec__DisplayClass2_U3CEnqueueDebugReturnU3Eb__0_m7270 (U3CU3Ec__DisplayClass2_t2358 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClass2_U3CEnqueueDebugReturnU3Eb__0_m7272 (U3CU3Ec__DisplayClass2_t2358 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

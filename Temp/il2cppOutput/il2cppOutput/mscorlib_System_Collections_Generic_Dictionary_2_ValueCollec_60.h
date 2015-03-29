@@ -5,8 +5,8 @@
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Type,LitJson.ObjectMetadata>
 #include "mscorlib_System_Collections_Generic_Dictionary_2_Enumerator__27.h"
 // System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.Type,LitJson.ObjectMetadata>
-struct Enumerator_t5912 
+struct Enumerator_t5913 
 {
 	// System.Collections.Generic.Dictionary`2/Enumerator<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.Type,LitJson.ObjectMetadata>::host_enumerator
-	Enumerator_t5908  ___host_enumerator;
+	Enumerator_t5909  ___host_enumerator;
 };

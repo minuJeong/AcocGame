@@ -7,7 +7,7 @@ struct List_1_t1421;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.String>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_1.h"
 // System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.String,System.String>>
-struct Enumerator_t6398 
+struct Enumerator_t6399 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.String,System.String>>::l
 	List_1_t1421 * ___l;

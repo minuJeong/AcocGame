@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Boolean,System.Collections.DictionaryEntry>
-struct Transform_1_t6503;
+struct Transform_1_t6504;
 // System.Object
 struct Object_t;
 // System.String
@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_DictionaryEntry.h"
 
 // System.Void System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Boolean,System.Collections.DictionaryEntry>::.ctor(System.Object,System.IntPtr)
- void Transform_1__ctor_m33545 (Transform_1_t6503 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Transform_1__ctor_m33548 (Transform_1_t6504 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Boolean,System.Collections.DictionaryEntry>::Invoke(TKey,TValue)
- DictionaryEntry_t96  Transform_1_Invoke_m33546 (Transform_1_t6503 * __this, String_t* ___key, bool ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ DictionaryEntry_t96  Transform_1_Invoke_m33549 (Transform_1_t6504 * __this, String_t* ___key, bool ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Boolean,System.Collections.DictionaryEntry>::BeginInvoke(TKey,TValue,System.AsyncCallback,System.Object)
- Object_t * Transform_1_BeginInvoke_m33547 (Transform_1_t6503 * __this, String_t* ___key, bool ___value, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Transform_1_BeginInvoke_m33550 (Transform_1_t6504 * __this, String_t* ___key, bool ___value, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Boolean,System.Collections.DictionaryEntry>::EndInvoke(System.IAsyncResult)
- DictionaryEntry_t96  Transform_1_EndInvoke_m33548 (Transform_1_t6503 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ DictionaryEntry_t96  Transform_1_EndInvoke_m33551 (Transform_1_t6504 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

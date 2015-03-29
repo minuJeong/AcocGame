@@ -7,7 +7,7 @@ struct Object_t;
 // System.Collections.Generic.LinkedListNode`1<ExitGames.Client.Photon.SimulationItem>
 struct LinkedListNode_1_t2431;
 // System.Runtime.Serialization.SerializationInfo
-struct SerializationInfo_t2614;
+struct SerializationInfo_t2615;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.LinkedList`1<ExitGames.Client.Photon.SimulationItem>
@@ -22,5 +22,5 @@ struct LinkedList_1_t2362  : public Object_t
 	// System.Collections.Generic.LinkedListNode`1<T> System.Collections.Generic.LinkedList`1<ExitGames.Client.Photon.SimulationItem>::first
 	LinkedListNode_1_t2431 * ___first;
 	// System.Runtime.Serialization.SerializationInfo System.Collections.Generic.LinkedList`1<ExitGames.Client.Photon.SimulationItem>::si
-	SerializationInfo_t2614 * ___si;
+	SerializationInfo_t2615 * ___si;
 };

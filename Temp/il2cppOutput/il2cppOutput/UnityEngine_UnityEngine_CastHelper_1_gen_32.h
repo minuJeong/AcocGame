@@ -7,7 +7,7 @@ struct RectTransform_t642;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.RectTransform>
-struct CastHelper_1_t5440 
+struct CastHelper_1_t5441 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.RectTransform>::t
 	RectTransform_t642 * ___t;

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.Events.UnityEventCallState
-struct UnityEventCallState_t2631;
+struct UnityEventCallState_t2632;
 

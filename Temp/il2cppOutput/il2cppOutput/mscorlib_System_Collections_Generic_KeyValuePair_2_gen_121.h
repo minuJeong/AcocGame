@@ -7,7 +7,7 @@ struct CustomType_t2394;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.Type,ExitGames.Client.Photon.CustomType>
-struct KeyValuePair_2_t11408 
+struct KeyValuePair_2_t11409 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.Type,ExitGames.Client.Photon.CustomType>::key
 	Type_t * ___key;

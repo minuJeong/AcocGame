@@ -7,7 +7,7 @@ struct Texture2D_t62;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // UnityEngine.SocialPlatforms.GameCenter.GcAchievementDescriptionData
-struct GcAchievementDescriptionData_t2481 
+struct GcAchievementDescriptionData_t2482 
 {
 	// System.String UnityEngine.SocialPlatforms.GameCenter.GcAchievementDescriptionData::m_Identifier
 	String_t* ___m_Identifier;

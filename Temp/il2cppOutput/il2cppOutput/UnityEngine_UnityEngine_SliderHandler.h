@@ -7,7 +7,7 @@ struct GUIStyle_t138;
 // UnityEngine.Rect
 #include "UnityEngine_UnityEngine_Rect.h"
 // UnityEngine.SliderHandler
-struct SliderHandler_t2611 
+struct SliderHandler_t2612 
 {
 	// UnityEngine.Rect UnityEngine.SliderHandler::position
 	Rect_t55  ___position;

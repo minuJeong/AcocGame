@@ -5,7 +5,7 @@ struct Stack_1_t915;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.Stack`1/Enumerator<System.Int32>
-struct Enumerator_t6049 
+struct Enumerator_t6050 
 {
 	// System.Collections.Generic.Stack`1<T> System.Collections.Generic.Stack`1/Enumerator<System.Int32>::parent
 	Stack_1_t915 * ___parent;

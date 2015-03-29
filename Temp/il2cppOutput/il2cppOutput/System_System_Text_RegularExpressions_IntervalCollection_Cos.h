@@ -10,8 +10,8 @@ struct Object_t;
 #include "System_System_Text_RegularExpressions_Interval.h"
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
-extern TypeInfo Interval_t2798_il2cpp_TypeInfo;
+extern TypeInfo Interval_t2800_il2cpp_TypeInfo;
 // System.Text.RegularExpressions.IntervalCollection/CostDelegate
-struct CostDelegate_t2800  : public MulticastDelegate_t38
+struct CostDelegate_t2802  : public MulticastDelegate_t38
 {
 };

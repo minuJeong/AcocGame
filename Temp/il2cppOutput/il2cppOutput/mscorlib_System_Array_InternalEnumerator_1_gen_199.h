@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<ExitGames.Client.Photon.IPhotonPeerListener>
-struct InternalEnumerator_1_t4854 
+struct InternalEnumerator_1_t4855 
 {
 	// System.Array System.Array/InternalEnumerator`1<ExitGames.Client.Photon.IPhotonPeerListener>::array
 	Array_t * ___array;

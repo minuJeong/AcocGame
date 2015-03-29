@@ -7,7 +7,7 @@ struct ExporterFunc_t898;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.Type,LitJson.ExporterFunc>
-struct KeyValuePair_2_t5844 
+struct KeyValuePair_2_t5845 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.Type,LitJson.ExporterFunc>::key
 	Type_t * ___key;

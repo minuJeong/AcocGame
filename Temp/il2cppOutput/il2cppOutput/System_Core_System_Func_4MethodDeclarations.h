@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Func`4
-struct Func_4_t2940;
+struct Func_4_t2941;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

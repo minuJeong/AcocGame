@@ -5,7 +5,7 @@ struct Object_t;
 // System.Reflection.MethodInfo
 struct MethodInfo_t292;
 // System.DelegateData
-struct DelegateData_t3170;
+struct DelegateData_t3171;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.IntPtr
@@ -30,5 +30,5 @@ struct Delegate_t793  : public Object_t
 	// System.Reflection.MethodInfo System.Delegate::original_method_info
 	MethodInfo_t292 * ___original_method_info;
 	// System.DelegateData System.Delegate::data
-	DelegateData_t3170 * ___data;
+	DelegateData_t3171 * ___data;
 };

@@ -3,6 +3,6 @@
 // System.UriParser
 #include "System_System_UriParser.h"
 // System.DefaultUriParser
-struct DefaultUriParser_t2824  : public UriParser_t2825
+struct DefaultUriParser_t2826  : public UriParser_t2827
 {
 };

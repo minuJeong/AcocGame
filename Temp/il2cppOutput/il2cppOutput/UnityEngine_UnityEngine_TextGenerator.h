@@ -5,9 +5,9 @@ struct String_t;
 // System.Collections.Generic.List`1<UnityEngine.UIVertex>
 struct List_1_t649;
 // System.Collections.Generic.List`1<UnityEngine.UICharInfo>
-struct List_1_t2578;
-// System.Collections.Generic.List`1<UnityEngine.UILineInfo>
 struct List_1_t2579;
+// System.Collections.Generic.List`1<UnityEngine.UILineInfo>
+struct List_1_t2580;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.IntPtr
@@ -30,9 +30,9 @@ struct TextGenerator_t682  : public Object_t
 	// System.Collections.Generic.List`1<UnityEngine.UIVertex> UnityEngine.TextGenerator::m_Verts
 	List_1_t649 * ___m_Verts;
 	// System.Collections.Generic.List`1<UnityEngine.UICharInfo> UnityEngine.TextGenerator::m_Characters
-	List_1_t2578 * ___m_Characters;
+	List_1_t2579 * ___m_Characters;
 	// System.Collections.Generic.List`1<UnityEngine.UILineInfo> UnityEngine.TextGenerator::m_Lines
-	List_1_t2579 * ___m_Lines;
+	List_1_t2580 * ___m_Lines;
 	// System.Boolean UnityEngine.TextGenerator::m_CachedVerts
 	bool ___m_CachedVerts;
 	// System.Boolean UnityEngine.TextGenerator::m_CachedCharacters

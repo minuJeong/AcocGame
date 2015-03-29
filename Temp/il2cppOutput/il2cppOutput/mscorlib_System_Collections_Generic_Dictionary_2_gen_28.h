@@ -3,17 +3,17 @@
 // System.Int32[]
 struct Int32U5BU5D_t257;
 // System.Collections.Generic.Link[]
-struct LinkU5BU5D_t3908;
+struct LinkU5BU5D_t3909;
 // System.Type[]
 struct TypeU5BU5D_t291;
 // System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>[]
-struct IDictionary_2U5BU5D_t5952;
+struct IDictionary_2U5BU5D_t5953;
 // System.Collections.Generic.IEqualityComparer`1<System.Type>
-struct IEqualityComparer_1_t4680;
+struct IEqualityComparer_1_t4681;
 // System.Runtime.Serialization.SerializationInfo
-struct SerializationInfo_t2614;
+struct SerializationInfo_t2615;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>,System.Collections.DictionaryEntry>
-struct Transform_1_t5953;
+struct Transform_1_t5954;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>
@@ -22,11 +22,11 @@ struct Dictionary_2_t956  : public Object_t
 	// System.Int32[] System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::table
 	Int32U5BU5D_t257* ___table;
 	// System.Collections.Generic.Link[] System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::linkSlots
-	LinkU5BU5D_t3908* ___linkSlots;
+	LinkU5BU5D_t3909* ___linkSlots;
 	// TKey[] System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::keySlots
 	TypeU5BU5D_t291* ___keySlots;
 	// TValue[] System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::valueSlots
-	IDictionary_2U5BU5D_t5952* ___valueSlots;
+	IDictionary_2U5BU5D_t5953* ___valueSlots;
 	// System.Int32 System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::touchedSlots
 	int32_t ___touchedSlots;
 	// System.Int32 System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::emptySlot
@@ -38,7 +38,7 @@ struct Dictionary_2_t956  : public Object_t
 	// System.Collections.Generic.IEqualityComparer`1<TKey> System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::hcp
 	Object_t* ___hcp;
 	// System.Runtime.Serialization.SerializationInfo System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::serialization_info
-	SerializationInfo_t2614 * ___serialization_info;
+	SerializationInfo_t2615 * ___serialization_info;
 	// System.Int32 System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::generation
 	int32_t ___generation;
 };
@@ -52,5 +52,5 @@ struct Dictionary_2_t956_StaticFields{
 	// System.Int32 System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::HASH_FLAG
 	int32_t ___HASH_FLAG;
 	// System.Collections.Generic.Dictionary`2/Transform`1<TKey,TValue,System.Collections.DictionaryEntry> System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.IDictionary`2<System.Type,LitJson.ImporterFunc>>::<>f__am$cacheB
-	Transform_1_t5953 * ___U3CU3Ef__am$cacheB;
+	Transform_1_t5954 * ___U3CU3Ef__am$cacheB;
 };

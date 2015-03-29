@@ -5,7 +5,7 @@
 // System.Runtime.ConstrainedExecution.Consistency
 #include "mscorlib_System_Runtime_ConstrainedExecution_Consistency.h"
 // System.Runtime.ConstrainedExecution.Consistency
-struct Consistency_t3424 
+struct Consistency_t3425 
 {
 	// System.Int32 System.Runtime.ConstrainedExecution.Consistency::value__
 	int32_t ___value__;

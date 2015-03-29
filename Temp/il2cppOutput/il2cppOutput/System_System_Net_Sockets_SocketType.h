@@ -5,7 +5,7 @@
 // System.Net.Sockets.SocketType
 #include "System_System_Net_Sockets_SocketType.h"
 // System.Net.Sockets.SocketType
-struct SocketType_t2764 
+struct SocketType_t2766 
 {
 	// System.Int32 System.Net.Sockets.SocketType::value__
 	int32_t ___value__;

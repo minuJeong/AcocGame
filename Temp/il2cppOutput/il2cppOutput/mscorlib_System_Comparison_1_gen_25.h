@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Comparison`1<UnityEngine.Canvas>
-struct Comparison_1_t5466  : public MulticastDelegate_t38
+struct Comparison_1_t5467  : public MulticastDelegate_t38
 {
 };

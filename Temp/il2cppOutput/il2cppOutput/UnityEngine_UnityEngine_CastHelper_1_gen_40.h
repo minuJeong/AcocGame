@@ -7,7 +7,7 @@ struct EditorFacebook_t132;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<Facebook.EditorFacebook>
-struct CastHelper_1_t4297 
+struct CastHelper_1_t4298 
 {
 	// T UnityEngine.CastHelper`1<Facebook.EditorFacebook>::t
 	EditorFacebook_t132 * ___t;

@@ -5,7 +5,7 @@
 // System.Runtime.CompilerServices.LoadHint
 #include "mscorlib_System_Runtime_CompilerServices_LoadHint.h"
 // System.Runtime.CompilerServices.DefaultDependencyAttribute
-struct DefaultDependencyAttribute_t3419  : public Attribute_t862
+struct DefaultDependencyAttribute_t3420  : public Attribute_t862
 {
 	// System.Runtime.CompilerServices.LoadHint System.Runtime.CompilerServices.DefaultDependencyAttribute::hint
 	int32_t ___hint;

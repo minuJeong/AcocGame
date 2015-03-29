@@ -7,10 +7,10 @@
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // System.IO.MonoIO
-struct MonoIO_t3348  : public Object_t
+struct MonoIO_t3349  : public Object_t
 {
 };
-struct MonoIO_t3348_StaticFields{
+struct MonoIO_t3349_StaticFields{
 	// System.IO.FileAttributes System.IO.MonoIO::InvalidFileAttributes
 	int32_t ___InvalidFileAttributes;
 	// System.IntPtr System.IO.MonoIO::InvalidHandle

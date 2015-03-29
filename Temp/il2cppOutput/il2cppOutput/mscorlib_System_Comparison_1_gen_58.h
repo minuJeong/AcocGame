@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Double_t97_il2cpp_TypeInfo;
 // System.Comparison`1<System.Double>
-struct Comparison_1_t7588  : public MulticastDelegate_t38
+struct Comparison_1_t7589  : public MulticastDelegate_t38
 {
 };

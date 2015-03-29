@@ -3,15 +3,15 @@
 // System.String
 struct String_t;
 // System.Runtime.Hosting.ActivationArguments
-struct ActivationArguments_t3427;
+struct ActivationArguments_t3428;
 // System.AppDomainInitializer
-struct AppDomainInitializer_t3680;
+struct AppDomainInitializer_t3681;
 // System.Security.Policy.ApplicationTrust
-struct ApplicationTrust_t3619;
+struct ApplicationTrust_t3620;
 // System.String[]
 struct StringU5BU5D_t4;
 // System.Security.SecurityElement
-struct SecurityElement_t3165;
+struct SecurityElement_t3166;
 // System.Byte[]
 struct ByteU5BU5D_t21;
 // System.Object
@@ -19,7 +19,7 @@ struct ByteU5BU5D_t21;
 // System.LoaderOptimization
 #include "mscorlib_System_LoaderOptimization.h"
 // System.AppDomainSetup
-struct AppDomainSetup_t3681  : public Object_t
+struct AppDomainSetup_t3682  : public Object_t
 {
 	// System.String System.AppDomainSetup::application_base
 	String_t* ___application_base;
@@ -52,15 +52,15 @@ struct AppDomainSetup_t3681  : public Object_t
 	// System.Boolean System.AppDomainSetup::disallow_code_downloads
 	bool ___disallow_code_downloads;
 	// System.Runtime.Hosting.ActivationArguments System.AppDomainSetup::_activationArguments
-	ActivationArguments_t3427 * ____activationArguments;
+	ActivationArguments_t3428 * ____activationArguments;
 	// System.AppDomainInitializer System.AppDomainSetup::domain_initializer
-	AppDomainInitializer_t3680 * ___domain_initializer;
+	AppDomainInitializer_t3681 * ___domain_initializer;
 	// System.Security.Policy.ApplicationTrust System.AppDomainSetup::application_trust
-	ApplicationTrust_t3619 * ___application_trust;
+	ApplicationTrust_t3620 * ___application_trust;
 	// System.String[] System.AppDomainSetup::domain_initializer_args
 	StringU5BU5D_t4* ___domain_initializer_args;
 	// System.Security.SecurityElement System.AppDomainSetup::application_trust_xml
-	SecurityElement_t3165 * ___application_trust_xml;
+	SecurityElement_t3166 * ___application_trust_xml;
 	// System.Boolean System.AppDomainSetup::disallow_appbase_probe
 	bool ___disallow_appbase_probe;
 	// System.Byte[] System.AppDomainSetup::configuration_bytes

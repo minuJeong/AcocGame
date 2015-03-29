@@ -11,7 +11,7 @@ struct Func_2_t824;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateWhereIterator>c__Iterator1D`1<System.Object>
-struct U3CCreateWhereIteratorU3Ec__Iterator1D_1_t5660  : public Object_t
+struct U3CCreateWhereIteratorU3Ec__Iterator1D_1_t5661  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateWhereIterator>c__Iterator1D`1<System.Object>::source
 	Object_t* ___source;

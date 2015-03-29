@@ -5,7 +5,7 @@ struct Dictionary_2_t799;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.Dictionary`2/ValueCollection<UnityEngine.UI.ICanvasElement,System.Int32>
-struct ValueCollection_t5378  : public Object_t
+struct ValueCollection_t5379  : public Object_t
 {
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection<UnityEngine.UI.ICanvasElement,System.Int32>::dictionary
 	Dictionary_2_t799 * ___dictionary;

@@ -3,6 +3,6 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Check
-struct Check_t2908  : public Object_t
+struct Check_t2909  : public Object_t
 {
 };

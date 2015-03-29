@@ -1,11 +1,11 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>
-struct IEnumerable_1_t10016;
+struct IEnumerable_1_t10017;
 // System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>
-struct IEnumerator_1_t10017;
+struct IEnumerator_1_t10018;
 // System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct Func_2_t10013;
+struct Func_2_t10014;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>
@@ -13,16 +13,16 @@ struct Func_2_t10013;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Object>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_0.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t10018  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t10019  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::source
 	Object_t* ___source;
 	// System.Collections.Generic.IEnumerator`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<$s_70>__0
 	Object_t* ___U3C$s_70U3E__0;
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<element>__1
-	KeyValuePair_2_t10014  ___U3CelementU3E__1;
+	KeyValuePair_2_t10015  ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::selector
-	Func_2_t10013 * ___selector;
+	Func_2_t10014 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t10018  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::<$>selector
-	Func_2_t10013 * ___U3C$U3Eselector;
+	Func_2_t10014 * ___U3C$U3Eselector;
 };

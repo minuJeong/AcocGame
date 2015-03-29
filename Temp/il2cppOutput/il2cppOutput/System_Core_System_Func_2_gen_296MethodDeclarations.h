@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Func`2<Parse.ParseFile,System.Object>
-struct Func_2_t7718;
+struct Func_2_t7719;
 // System.Object
 struct Object_t;
 // Parse.ParseFile
@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 // System.Void System.Func`2<Parse.ParseFile,System.Object>::.ctor(System.Object,System.IntPtr)
 // System.Func`2<System.Object,System.Object>
 #include "System_Core_System_Func_2_gen_13MethodDeclarations.h"
-#define Func_2__ctor_m45660(__this, ___object, ___method, method) (void)Func_2__ctor_m6470_gshared((Func_2_t1092 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
+#define Func_2__ctor_m45663(__this, ___object, ___method, method) (void)Func_2__ctor_m6472_gshared((Func_2_t1092 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
 // TResult System.Func`2<Parse.ParseFile,System.Object>::Invoke(T)
-#define Func_2_Invoke_m45661(__this, ___arg1, method) (Object_t *)Func_2_Invoke_m30610_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, method)
+#define Func_2_Invoke_m45664(__this, ___arg1, method) (Object_t *)Func_2_Invoke_m30613_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, method)
 // System.IAsyncResult System.Func`2<Parse.ParseFile,System.Object>::BeginInvoke(T,System.AsyncCallback,System.Object)
-#define Func_2_BeginInvoke_m45662(__this, ___arg1, ___callback, ___object, method) (Object_t *)Func_2_BeginInvoke_m30612_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
+#define Func_2_BeginInvoke_m45665(__this, ___arg1, ___callback, ___object, method) (Object_t *)Func_2_BeginInvoke_m30615_gshared((Func_2_t1092 *)__this, (Object_t *)___arg1, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
 // TResult System.Func`2<Parse.ParseFile,System.Object>::EndInvoke(System.IAsyncResult)
-#define Func_2_EndInvoke_m45663(__this, ___result, method) (Object_t *)Func_2_EndInvoke_m30614_gshared((Func_2_t1092 *)__this, (Object_t *)___result, method)
+#define Func_2_EndInvoke_m45666(__this, ___result, method) (Object_t *)Func_2_EndInvoke_m30617_gshared((Func_2_t1092 *)__this, (Object_t *)___result, method)

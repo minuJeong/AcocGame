@@ -8,4 +8,4 @@
 struct PingMono_t475;
 
 // System.Void ExitGames.Client.Photon.PingMono::.ctor()
- void PingMono__ctor_m7449 (PingMono_t475 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PingMono__ctor_m7451 (PingMono_t475 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

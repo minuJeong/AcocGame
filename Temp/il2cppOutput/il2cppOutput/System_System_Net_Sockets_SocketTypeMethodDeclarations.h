@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Net.Sockets.SocketType
-struct SocketType_t2764;
+struct SocketType_t2766;
 

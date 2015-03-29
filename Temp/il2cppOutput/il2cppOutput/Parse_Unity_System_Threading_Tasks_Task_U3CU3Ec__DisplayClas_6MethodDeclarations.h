@@ -10,6 +10,6 @@ struct U3CU3Ec__DisplayClass20_t1239;
 struct Object_t;
 
 // System.Void System.Threading.Tasks.Task/<>c__DisplayClass20::.ctor()
- void U3CU3Ec__DisplayClass20__ctor_m6052 (U3CU3Ec__DisplayClass20_t1239 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClass20__ctor_m6054 (U3CU3Ec__DisplayClass20_t1239 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Threading.Tasks.Task/<>c__DisplayClass20::<Delay>b__1f(System.Object)
- void U3CU3Ec__DisplayClass20_U3CDelayU3Eb__1f_m6053 (U3CU3Ec__DisplayClass20_t1239 * __this, Object_t * ____, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClass20_U3CDelayU3Eb__1f_m6055 (U3CU3Ec__DisplayClass20_t1239 * __this, Object_t * ____, MethodInfo* method) IL2CPP_METHOD_ATTR;

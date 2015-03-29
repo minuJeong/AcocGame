@@ -5,7 +5,7 @@ struct ObjectU5BU5D_t5;
 // UnityEngine.Events.InvokableCall`1<ThirdPersonController>
 #include "UnityEngine_UnityEngine_Events_InvokableCall_1_gen_50.h"
 // UnityEngine.Events.CachedInvokableCall`1<ThirdPersonController>
-struct CachedInvokableCall_1_t4587  : public InvokableCall_1_t4588
+struct CachedInvokableCall_1_t4588  : public InvokableCall_1_t4589
 {
 	// System.Object[] UnityEngine.Events.CachedInvokableCall`1<ThirdPersonController>::m_Arg1
 	ObjectU5BU5D_t5* ___m_Arg1;

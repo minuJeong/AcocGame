@@ -8,5 +8,5 @@
 struct Enumerator_t463 
 {
 	// System.Collections.Generic.Dictionary`2/Enumerator<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<PunTeams/Team,System.Collections.Generic.List`1<PhotonPlayer>>::host_enumerator
-	Enumerator_t4506  ___host_enumerator;
+	Enumerator_t4507  ___host_enumerator;
 };

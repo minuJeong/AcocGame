@@ -11,7 +11,7 @@ struct IEnumerator_1_t1589;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,System.Object>>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_7.h"
 // Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.IDictionary`2<System.String,System.Object>>
-struct U3CGetEnumeratorU3Ed__4_t10590  : public Object_t
+struct U3CGetEnumeratorU3Ed__4_t10591  : public Object_t
 {
 	// System.Collections.Generic.KeyValuePair`2<System.String,TOut> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.IDictionary`2<System.String,System.Object>>::<>2__current
 	KeyValuePair_2_t410  ___U3CU3E2__current;

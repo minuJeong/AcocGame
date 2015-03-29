@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Int32_t63_il2cpp_TypeInfo;
 // UnityEngine.AudioClip/PCMSetPositionCallback
-struct PCMSetPositionCallback_t2562  : public MulticastDelegate_t38
+struct PCMSetPositionCallback_t2563  : public MulticastDelegate_t38
 {
 };

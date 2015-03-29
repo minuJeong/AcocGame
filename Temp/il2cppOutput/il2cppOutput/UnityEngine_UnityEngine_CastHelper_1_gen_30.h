@@ -7,7 +7,7 @@ struct Hero_t381;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<gamecontext.Hero>
-struct CastHelper_1_t5138 
+struct CastHelper_1_t5139 
 {
 	// T UnityEngine.CastHelper`1<gamecontext.Hero>::t
 	Hero_t381 * ___t;

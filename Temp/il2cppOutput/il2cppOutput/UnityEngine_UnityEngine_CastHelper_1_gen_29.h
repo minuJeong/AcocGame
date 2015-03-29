@@ -7,7 +7,7 @@ struct Button_t539;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.UI.Button>
-struct CastHelper_1_t5110 
+struct CastHelper_1_t5111 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.UI.Button>::t
 	Button_t539 * ___t;

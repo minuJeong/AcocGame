@@ -1,15 +1,15 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<System.Double>
-struct IEnumerable_1_t7100;
+struct IEnumerable_1_t7101;
 // System.Collections.Generic.IEnumerator`1<System.Double>
-struct IEnumerator_1_t7101;
+struct IEnumerator_1_t7102;
 // System.Func`2<System.Double,System.Single>
-struct Func_2_t7666;
+struct Func_2_t7667;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7667  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7668  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::source
 	Object_t* ___source;
@@ -18,7 +18,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7667  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::<element>__1
 	double ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::selector
-	Func_2_t7666 * ___selector;
+	Func_2_t7667 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::$current
@@ -26,5 +26,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7667  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Double,System.Single>::<$>selector
-	Func_2_t7666 * ___U3C$U3Eselector;
+	Func_2_t7667 * ___U3C$U3Eselector;
 };

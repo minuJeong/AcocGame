@@ -389,10 +389,10 @@ extern TypeInfo Pawn_t382_il2cpp_TypeInfo;
 // gamecontext.uicontrol.SelectCursor
 #include "AssemblyU2DCSharp_gamecontext_uicontrol_SelectCursorMethodDeclarations.h"
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo Component_GetComponent_TisNavMeshAgent_t383_m2750_MethodInfo;
+extern MethodInfo Component_GetComponent_TisNavMeshAgent_t383_m2752_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
-extern MethodInfo Transform_FindChild_m2751_MethodInfo;
-extern MethodInfo Component_GetComponent_TisSelectCursor_t384_m2752_MethodInfo;
+extern MethodInfo Transform_FindChild_m2753_MethodInfo;
+extern MethodInfo Component_GetComponent_TisSelectCursor_t384_m2754_MethodInfo;
 extern MethodInfo SelectCursor_SetHide_m1919_MethodInfo;
 struct Component_t105;
 // UnityEngine.Component
@@ -416,15 +416,15 @@ struct Component_t105;
 #define Component_GetComponent_TisObject_t_m646(__this, method) (Object_t *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
 // Declaration !!0 UnityEngine.Component::GetComponent<UnityEngine.NavMeshAgent>()
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.NavMeshAgent>()
-#define Component_GetComponent_TisNavMeshAgent_t383_m2750(__this, method) (NavMeshAgent_t383 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
-extern MethodInfo Component_GetComponent_TisNavMeshAgent_t383_m2750_MethodInfo;
+#define Component_GetComponent_TisNavMeshAgent_t383_m2752(__this, method) (NavMeshAgent_t383 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
+extern MethodInfo Component_GetComponent_TisNavMeshAgent_t383_m2752_MethodInfo;
 struct Component_t105;
 // UnityEngine.CastHelper`1<gamecontext.uicontrol.SelectCursor>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_26.h"
 // Declaration !!0 UnityEngine.Component::GetComponent<gamecontext.uicontrol.SelectCursor>()
 // !!0 UnityEngine.Component::GetComponent<gamecontext.uicontrol.SelectCursor>()
-#define Component_GetComponent_TisSelectCursor_t384_m2752(__this, method) (SelectCursor_t384 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
-extern MethodInfo Component_GetComponent_TisSelectCursor_t384_m2752_MethodInfo;
+#define Component_GetComponent_TisSelectCursor_t384_m2754(__this, method) (SelectCursor_t384 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
+extern MethodInfo Component_GetComponent_TisSelectCursor_t384_m2754_MethodInfo;
 
 
 // System.Void gamecontext.Pawn::.ctor()
@@ -439,13 +439,13 @@ extern MethodInfo Pawn__ctor_m1908_MethodInfo;
 extern MethodInfo Pawn_Awake_m1909_MethodInfo;
  void Pawn_Awake_m1909 (Pawn_t382 * __this, MethodInfo* method){
 	{
-		NavMeshAgent_t383 * L_0 = Component_GetComponent_TisNavMeshAgent_t383_m2750(__this, /*hidden argument*/&Component_GetComponent_TisNavMeshAgent_t383_m2750_MethodInfo);
+		NavMeshAgent_t383 * L_0 = Component_GetComponent_TisNavMeshAgent_t383_m2752(__this, /*hidden argument*/&Component_GetComponent_TisNavMeshAgent_t383_m2752_MethodInfo);
 		__this->___CachedNMAgent = L_0;
 		Transform_t56 * L_1 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_1);
-		Transform_t56 * L_2 = Transform_FindChild_m2751(L_1, (String_t*) &_stringLiteral847, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_2 = Transform_FindChild_m2753(L_1, (String_t*) &_stringLiteral849, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		NullCheck(L_2);
-		SelectCursor_t384 * L_3 = Component_GetComponent_TisSelectCursor_t384_m2752(L_2, /*hidden argument*/&Component_GetComponent_TisSelectCursor_t384_m2752_MethodInfo);
+		SelectCursor_t384 * L_3 = Component_GetComponent_TisSelectCursor_t384_m2754(L_2, /*hidden argument*/&Component_GetComponent_TisSelectCursor_t384_m2754_MethodInfo);
 		__this->___SelectCursor = L_3;
 		SelectCursor_t384 * L_4 = (__this->___SelectCursor);
 		NullCheck(L_4);
@@ -571,26 +571,26 @@ extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
 #include "UnityEngine_UnityEngine_HideInInspector.h"
 // UnityEngine.HideInInspector
 #include "UnityEngine_UnityEngine_HideInInspectorMethodDeclarations.h"
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 void Pawn_t382_CustomAttributesCacheGenerator_CachedNMAgent(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 }
 extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 void Pawn_t382_CustomAttributesCacheGenerator_SelectCursor(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 }
@@ -711,9 +711,9 @@ extern TypeInfo JoinRoom_t389_il2cpp_TypeInfo;
 #include "UnityEngine_UnityEngine_GameObjectMethodDeclarations.h"
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
-extern MethodInfo Transform_FindChild_m2751_MethodInfo;
-extern MethodInfo Component_GetComponent_TisText_t532_m2753_MethodInfo;
-extern MethodInfo Text_get_text_m2754_MethodInfo;
+extern MethodInfo Transform_FindChild_m2753_MethodInfo;
+extern MethodInfo Component_GetComponent_TisText_t532_m2755_MethodInfo;
+extern MethodInfo Text_get_text_m2756_MethodInfo;
 extern MethodInfo String_op_Equality_m580_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
 extern MethodInfo JoinRoom_Join_m1928_MethodInfo;
@@ -724,8 +724,8 @@ struct Component_t105;
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_27.h"
 // Declaration !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Text>()
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Text>()
-#define Component_GetComponent_TisText_t532_m2753(__this, method) (Text_t532 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
-extern MethodInfo Component_GetComponent_TisText_t532_m2753_MethodInfo;
+#define Component_GetComponent_TisText_t532_m2755(__this, method) (Text_t532 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
+extern MethodInfo Component_GetComponent_TisText_t532_m2755_MethodInfo;
 
 
 // System.Void gamecontext.uicontrol.CreateRoomInputField::.ctor()
@@ -743,11 +743,11 @@ extern MethodInfo CreateRoomInputField_Confirm_m1911_MethodInfo;
 	{
 		Transform_t56 * L_0 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_0);
-		Transform_t56 * L_1 = Transform_FindChild_m2751(L_0, (String_t*) &_stringLiteral848, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_1 = Transform_FindChild_m2753(L_0, (String_t*) &_stringLiteral850, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		NullCheck(L_1);
-		Text_t532 * L_2 = Component_GetComponent_TisText_t532_m2753(L_1, /*hidden argument*/&Component_GetComponent_TisText_t532_m2753_MethodInfo);
+		Text_t532 * L_2 = Component_GetComponent_TisText_t532_m2755(L_1, /*hidden argument*/&Component_GetComponent_TisText_t532_m2755_MethodInfo);
 		NullCheck(L_2);
-		String_t* L_3 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2754_MethodInfo, L_2);
+		String_t* L_3 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2756_MethodInfo, L_2);
 		V_0 = L_3;
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
 		bool L_4 = String_op_Equality_m580(NULL /*static, unused*/, V_0, (((String_t_StaticFields*)(&String_t_il2cpp_TypeInfo)->static_fields)->___Empty), /*hidden argument*/&String_op_Equality_m580_MethodInfo);
@@ -757,7 +757,7 @@ extern MethodInfo CreateRoomInputField_Confirm_m1911_MethodInfo;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral849, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral851, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 
@@ -1047,8 +1047,8 @@ extern TypeInfo Text_t532_il2cpp_TypeInfo;
 extern TypeInfo Void_t40_il2cpp_TypeInfo;
 extern TypeInfo JoinRoom_t389_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo Component_GetComponentInChildren_TisText_t532_m2755_MethodInfo;
-extern MethodInfo Text_set_text_m2756_MethodInfo;
+extern MethodInfo Component_GetComponentInChildren_TisText_t532_m2757_MethodInfo;
+extern MethodInfo Text_set_text_m2758_MethodInfo;
 extern MethodInfo JoinRoom_Join_m1928_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
 extern MethodInfo GameObject_SetActive_m2227_MethodInfo;
@@ -1060,8 +1060,8 @@ struct Component_t105;
 #define Component_GetComponentInChildren_TisObject_t_m2393(__this, method) (Object_t *)Component_GetComponentInChildren_TisObject_t_m2393_gshared((Component_t105 *)__this, method)
 // Declaration !!0 UnityEngine.Component::GetComponentInChildren<UnityEngine.UI.Text>()
 // !!0 UnityEngine.Component::GetComponentInChildren<UnityEngine.UI.Text>()
-#define Component_GetComponentInChildren_TisText_t532_m2755(__this, method) (Text_t532 *)Component_GetComponentInChildren_TisObject_t_m2393_gshared((Component_t105 *)__this, method)
-extern MethodInfo Component_GetComponentInChildren_TisText_t532_m2755_MethodInfo;
+#define Component_GetComponentInChildren_TisText_t532_m2757(__this, method) (Text_t532 *)Component_GetComponentInChildren_TisObject_t_m2393_gshared((Component_t105 *)__this, method)
+extern MethodInfo Component_GetComponentInChildren_TisText_t532_m2757_MethodInfo;
 
 
 // System.Void gamecontext.uicontrol.RoomItemButton::.ctor()
@@ -1078,9 +1078,9 @@ extern MethodInfo RoomItemButton__ctor_m1913_MethodInfo;
 extern MethodInfo RoomItemButton_SetRoomName_m1914_MethodInfo;
  void RoomItemButton_SetRoomName_m1914 (RoomItemButton_t387 * __this, String_t* ___roomName, MethodInfo* method){
 	{
-		Text_t532 * L_0 = Component_GetComponentInChildren_TisText_t532_m2755(__this, /*hidden argument*/&Component_GetComponentInChildren_TisText_t532_m2755_MethodInfo);
+		Text_t532 * L_0 = Component_GetComponentInChildren_TisText_t532_m2757(__this, /*hidden argument*/&Component_GetComponentInChildren_TisText_t532_m2757_MethodInfo);
 		NullCheck(L_0);
-		VirtActionInvoker1< String_t* >::Invoke(&Text_set_text_m2756_MethodInfo, L_0, ___roomName);
+		VirtActionInvoker1< String_t* >::Invoke(&Text_set_text_m2758_MethodInfo, L_0, ___roomName);
 		__this->____representingRoomName = ___roomName;
 		return;
 	}
@@ -2020,32 +2020,32 @@ extern TypeInfo InputManager_t394_il2cpp_TypeInfo;
 // gamecontext.InputManager
 #include "AssemblyU2DCSharp_gamecontext_InputManagerMethodDeclarations.h"
 extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
-extern MethodInfo GameObject_FindGameObjectWithTag_m2757_MethodInfo;
-extern MethodInfo Resources_Load_TisGameObject_t47_m2758_MethodInfo;
-extern MethodInfo Security_PrefetchSocketPolicy_m2759_MethodInfo;
+extern MethodInfo GameObject_FindGameObjectWithTag_m2759_MethodInfo;
+extern MethodInfo Resources_Load_TisGameObject_t47_m2760_MethodInfo;
+extern MethodInfo Security_PrefetchSocketPolicy_m2761_MethodInfo;
 extern MethodInfo PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo;
-extern MethodInfo Object_Instantiate_TisGameObject_t47_m2698_MethodInfo;
+extern MethodInfo Object_Instantiate_TisGameObject_t47_m2700_MethodInfo;
 extern MethodInfo GameObject_get_transform_m492_MethodInfo;
-extern MethodInfo Transform_SetParent_m2760_MethodInfo;
+extern MethodInfo Transform_SetParent_m2762_MethodInfo;
 extern MethodInfo Screen_get_width_m591_MethodInfo;
 extern MethodInfo Screen_get_height_m592_MethodInfo;
-extern MethodInfo Vector3__ctor_m2761_MethodInfo;
+extern MethodInfo Vector3__ctor_m2763_MethodInfo;
 extern MethodInfo Transform_set_position_m532_MethodInfo;
 extern MethodInfo GameObject_SetActive_m2227_MethodInfo;
 extern MethodInfo PhotonNetwork_GetRoomList_m1549_MethodInfo;
 extern MethodInfo Vector3__ctor_m527_MethodInfo;
-extern MethodInfo Mathf_Floor_m2762_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisRoomItemButton_t387_m2763_MethodInfo;
+extern MethodInfo Mathf_Floor_m2764_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisRoomItemButton_t387_m2765_MethodInfo;
 extern MethodInfo RoomInfo_get_name_m1684_MethodInfo;
 extern MethodInfo RoomItemButton_SetRoomName_m1914_MethodInfo;
 extern MethodInfo RoomOptions__ctor_m1382_MethodInfo;
 extern MethodInfo RoomOptions_set_isVisible_m1384_MethodInfo;
 extern MethodInfo PhotonNetwork_JoinOrCreateRoom_m1541_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisText_t532_m2764_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisText_t532_m2766_MethodInfo;
 extern MethodInfo PhotonNetwork_get_room_m1472_MethodInfo;
 extern MethodInfo Room_get_name_m1664_MethodInfo;
 extern MethodInfo String_Concat_m604_MethodInfo;
-extern MethodInfo Text_set_text_m2756_MethodInfo;
+extern MethodInfo Text_set_text_m2758_MethodInfo;
 extern MethodInfo Random_Range_m578_MethodInfo;
 extern MethodInfo PawnManager_Spawn_m1963_MethodInfo;
 extern MethodInfo InputManager_Run_m1956_MethodInfo;
@@ -2057,13 +2057,13 @@ struct Resources_t533;
 #include "UnityEngine_UnityEngine_Object.h"
 // Declaration !!0 UnityEngine.Resources::Load<UnityEngine.GameObject>(System.String)
 // !!0 UnityEngine.Resources::Load<UnityEngine.GameObject>(System.String)
- GameObject_t47 * Resources_Load_TisGameObject_t47_m2758 (Object_t * __this/* static, unused */, String_t* p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo Resources_Load_TisGameObject_t47_m2758_MethodInfo;
+ GameObject_t47 * Resources_Load_TisGameObject_t47_m2760 (Object_t * __this/* static, unused */, String_t* p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo Resources_Load_TisGameObject_t47_m2760_MethodInfo;
 struct Object_t111;
 // Declaration !!0 UnityEngine.Object::Instantiate<UnityEngine.GameObject>(!!0)
 // !!0 UnityEngine.Object::Instantiate<UnityEngine.GameObject>(!!0)
- GameObject_t47 * Object_Instantiate_TisGameObject_t47_m2698 (Object_t * __this/* static, unused */, GameObject_t47 * p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo Object_Instantiate_TisGameObject_t47_m2698_MethodInfo;
+ GameObject_t47 * Object_Instantiate_TisGameObject_t47_m2700 (Object_t * __this/* static, unused */, GameObject_t47 * p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo Object_Instantiate_TisGameObject_t47_m2700_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<gamecontext.uicontrol.RoomItemButton>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_28.h"
@@ -2074,13 +2074,13 @@ struct GameObject_t47;
 #define GameObject_GetComponent_TisObject_t_m645(__this, method) (Object_t *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
 // Declaration !!0 UnityEngine.GameObject::GetComponent<gamecontext.uicontrol.RoomItemButton>()
 // !!0 UnityEngine.GameObject::GetComponent<gamecontext.uicontrol.RoomItemButton>()
-#define GameObject_GetComponent_TisRoomItemButton_t387_m2763(__this, method) (RoomItemButton_t387 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisRoomItemButton_t387_m2763_MethodInfo;
+#define GameObject_GetComponent_TisRoomItemButton_t387_m2765(__this, method) (RoomItemButton_t387 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisRoomItemButton_t387_m2765_MethodInfo;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Text>()
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Text>()
-#define GameObject_GetComponent_TisText_t532_m2764(__this, method) (Text_t532 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisText_t532_m2764_MethodInfo;
+#define GameObject_GetComponent_TisText_t532_m2766(__this, method) (Text_t532 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisText_t532_m2766_MethodInfo;
 
 
 // System.Void gamecontext.connection.JoinRoom::.ctor()
@@ -2096,15 +2096,15 @@ extern MethodInfo JoinRoom_Start_m1924_MethodInfo;
  void JoinRoom_Start_m1924 (JoinRoom_t389 * __this, MethodInfo* method){
 	{
 		((JoinRoom_t389_StaticFields*)InitializedTypeInfo(&JoinRoom_t389_il2cpp_TypeInfo)->static_fields)->___instance = __this;
-		GameObject_t47 * L_0 = GameObject_FindGameObjectWithTag_m2757(NULL /*static, unused*/, (String_t*) &_stringLiteral850, /*hidden argument*/&GameObject_FindGameObjectWithTag_m2757_MethodInfo);
+		GameObject_t47 * L_0 = GameObject_FindGameObjectWithTag_m2759(NULL /*static, unused*/, (String_t*) &_stringLiteral852, /*hidden argument*/&GameObject_FindGameObjectWithTag_m2759_MethodInfo);
 		__this->___uiCanvas = L_0;
-		GameObject_t47 * L_1 = Resources_Load_TisGameObject_t47_m2758(NULL /*static, unused*/, (String_t*) &_stringLiteral851, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2758_MethodInfo);
+		GameObject_t47 * L_1 = Resources_Load_TisGameObject_t47_m2760(NULL /*static, unused*/, (String_t*) &_stringLiteral853, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2760_MethodInfo);
 		__this->___roomItemButton = L_1;
-		GameObject_t47 * L_2 = Resources_Load_TisGameObject_t47_m2758(NULL /*static, unused*/, (String_t*) &_stringLiteral852, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2758_MethodInfo);
+		GameObject_t47 * L_2 = Resources_Load_TisGameObject_t47_m2760(NULL /*static, unused*/, (String_t*) &_stringLiteral854, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2760_MethodInfo);
 		__this->___createRoomInputField = L_2;
-		GameObject_t47 * L_3 = Resources_Load_TisGameObject_t47_m2758(NULL /*static, unused*/, (String_t*) &_stringLiteral853, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2758_MethodInfo);
+		GameObject_t47 * L_3 = Resources_Load_TisGameObject_t47_m2760(NULL /*static, unused*/, (String_t*) &_stringLiteral855, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2760_MethodInfo);
 		__this->___loadingDisplay = L_3;
-		GameObject_t47 * L_4 = Resources_Load_TisGameObject_t47_m2758(NULL /*static, unused*/, (String_t*) &_stringLiteral854, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2758_MethodInfo);
+		GameObject_t47 * L_4 = Resources_Load_TisGameObject_t47_m2760(NULL /*static, unused*/, (String_t*) &_stringLiteral856, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2760_MethodInfo);
 		__this->___currentRoomDisplay = L_4;
 		return;
 	}
@@ -2113,11 +2113,11 @@ extern MethodInfo JoinRoom_Start_m1924_MethodInfo;
 extern MethodInfo JoinRoom_Init_m1925_MethodInfo;
  void JoinRoom_Init_m1925 (JoinRoom_t389 * __this, MethodInfo* method){
 	{
-		Security_PrefetchSocketPolicy_m2759(NULL /*static, unused*/, (String_t*) &_stringLiteral855, ((int32_t)843), ((int32_t)500), /*hidden argument*/&Security_PrefetchSocketPolicy_m2759_MethodInfo);
+		Security_PrefetchSocketPolicy_m2761(NULL /*static, unused*/, (String_t*) &_stringLiteral857, ((int32_t)843), ((int32_t)500), /*hidden argument*/&Security_PrefetchSocketPolicy_m2761_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
-		PhotonNetwork_ConnectUsingSettings_m1527(NULL /*static, unused*/, (String_t*) &_stringLiteral856, /*hidden argument*/&PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo);
+		PhotonNetwork_ConnectUsingSettings_m1527(NULL /*static, unused*/, (String_t*) &_stringLiteral858, /*hidden argument*/&PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo);
 		GameObject_t47 * L_0 = (__this->___loadingDisplay);
-		GameObject_t47 * L_1 = Object_Instantiate_TisGameObject_t47_m2698(NULL /*static, unused*/, L_0, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2698_MethodInfo);
+		GameObject_t47 * L_1 = Object_Instantiate_TisGameObject_t47_m2700(NULL /*static, unused*/, L_0, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2700_MethodInfo);
 		__this->___loadingDisplay = L_1;
 		GameObject_t47 * L_2 = (__this->___loadingDisplay);
 		NullCheck(L_2);
@@ -2126,14 +2126,14 @@ extern MethodInfo JoinRoom_Init_m1925_MethodInfo;
 		NullCheck(L_4);
 		Transform_t56 * L_5 = GameObject_get_transform_m492(L_4, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_3);
-		Transform_SetParent_m2760(L_3, L_5, /*hidden argument*/&Transform_SetParent_m2760_MethodInfo);
+		Transform_SetParent_m2762(L_3, L_5, /*hidden argument*/&Transform_SetParent_m2762_MethodInfo);
 		GameObject_t47 * L_6 = (__this->___loadingDisplay);
 		NullCheck(L_6);
 		Transform_t56 * L_7 = GameObject_get_transform_m492(L_6, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		int32_t L_8 = Screen_get_width_m591(NULL /*static, unused*/, /*hidden argument*/&Screen_get_width_m591_MethodInfo);
 		int32_t L_9 = Screen_get_height_m592(NULL /*static, unused*/, /*hidden argument*/&Screen_get_height_m592_MethodInfo);
 		Vector3_t31  L_10 = {0};
-		Vector3__ctor_m2761(&L_10, ((float)((((float)L_8))*(0.5f))), ((float)((((float)L_9))*(0.5f))), /*hidden argument*/&Vector3__ctor_m2761_MethodInfo);
+		Vector3__ctor_m2763(&L_10, ((float)((((float)L_8))*(0.5f))), ((float)((((float)L_9))*(0.5f))), /*hidden argument*/&Vector3__ctor_m2763_MethodInfo);
 		NullCheck(L_7);
 		Transform_set_position_m532(L_7, L_10, /*hidden argument*/&Transform_set_position_m532_MethodInfo);
 		return;
@@ -2174,7 +2174,7 @@ extern MethodInfo JoinRoom_OnReceivedRoomListUpdate_m1927_MethodInfo;
 	}
 	{
 		GameObject_t47 * L_2 = (__this->___createRoomInputField);
-		GameObject_t47 * L_3 = Object_Instantiate_TisGameObject_t47_m2698(NULL /*static, unused*/, L_2, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2698_MethodInfo);
+		GameObject_t47 * L_3 = Object_Instantiate_TisGameObject_t47_m2700(NULL /*static, unused*/, L_2, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2700_MethodInfo);
 		V_1 = L_3;
 		NullCheck(V_1);
 		Transform_t56 * L_4 = GameObject_get_transform_m492(V_1, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -2182,7 +2182,7 @@ extern MethodInfo JoinRoom_OnReceivedRoomListUpdate_m1927_MethodInfo;
 		NullCheck(L_5);
 		Transform_t56 * L_6 = GameObject_get_transform_m492(L_5, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_4);
-		Transform_SetParent_m2760(L_4, L_6, /*hidden argument*/&Transform_SetParent_m2760_MethodInfo);
+		Transform_SetParent_m2762(L_4, L_6, /*hidden argument*/&Transform_SetParent_m2762_MethodInfo);
 		int32_t L_7 = Screen_get_width_m591(NULL /*static, unused*/, /*hidden argument*/&Screen_get_width_m591_MethodInfo);
 		V_2 = ((float)((((float)L_7))*(0.5f)));
 		int32_t L_8 = Screen_get_height_m592(NULL /*static, unused*/, /*hidden argument*/&Screen_get_height_m592_MethodInfo);
@@ -2205,7 +2205,7 @@ IL_0072:
 IL_007a:
 	{
 		GameObject_t47 * L_11 = (__this->___roomItemButton);
-		GameObject_t47 * L_12 = Object_Instantiate_TisGameObject_t47_m2698(NULL /*static, unused*/, L_11, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2698_MethodInfo);
+		GameObject_t47 * L_12 = Object_Instantiate_TisGameObject_t47_m2700(NULL /*static, unused*/, L_11, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2700_MethodInfo);
 		V_5 = L_12;
 		NullCheck(V_5);
 		Transform_t56 * L_13 = GameObject_get_transform_m492(V_5, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -2213,7 +2213,7 @@ IL_007a:
 		NullCheck(L_14);
 		Transform_t56 * L_15 = GameObject_get_transform_m492(L_14, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_13);
-		Transform_SetParent_m2760(L_13, L_15, /*hidden argument*/&Transform_SetParent_m2760_MethodInfo);
+		Transform_SetParent_m2762(L_13, L_15, /*hidden argument*/&Transform_SetParent_m2762_MethodInfo);
 		int32_t L_16 = Screen_get_width_m591(NULL /*static, unused*/, /*hidden argument*/&Screen_get_width_m591_MethodInfo);
 		V_6 = ((float)(((float)((((float)L_16))*(0.25f)))+((float)((((float)((int32_t)(V_4%3))))*(170.0f)))));
 		int32_t L_17 = Screen_get_height_m592(NULL /*static, unused*/, /*hidden argument*/&Screen_get_height_m592_MethodInfo);
@@ -2227,7 +2227,7 @@ IL_007a:
 		NullCheck(L_19);
 		Transform_set_position_m532(L_19, L_20, /*hidden argument*/&Transform_set_position_m532_MethodInfo);
 		NullCheck(V_5);
-		RoomItemButton_t387 * L_21 = GameObject_GetComponent_TisRoomItemButton_t387_m2763(V_5, /*hidden argument*/&GameObject_GetComponent_TisRoomItemButton_t387_m2763_MethodInfo);
+		RoomItemButton_t387 * L_21 = GameObject_GetComponent_TisRoomItemButton_t387_m2765(V_5, /*hidden argument*/&GameObject_GetComponent_TisRoomItemButton_t387_m2765_MethodInfo);
 		RoomInfoU5BU5D_t280* L_22 = (__this->___roomList);
 		NullCheck(L_22);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_22, V_4);
@@ -2281,19 +2281,19 @@ extern MethodInfo JoinRoom_OnJoinedRoom_m1929_MethodInfo;
 		NullCheck(L_0);
 		GameObject_SetActive_m2227(L_0, 0, /*hidden argument*/&GameObject_SetActive_m2227_MethodInfo);
 		GameObject_t47 * L_1 = (__this->___currentRoomDisplay);
-		GameObject_t47 * L_2 = Object_Instantiate_TisGameObject_t47_m2698(NULL /*static, unused*/, L_1, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2698_MethodInfo);
+		GameObject_t47 * L_2 = Object_Instantiate_TisGameObject_t47_m2700(NULL /*static, unused*/, L_1, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2700_MethodInfo);
 		__this->___currentRoomDisplay = L_2;
 		GameObject_t47 * L_3 = (__this->___currentRoomDisplay);
 		NullCheck(L_3);
-		Text_t532 * L_4 = GameObject_GetComponent_TisText_t532_m2764(L_3, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2764_MethodInfo);
+		Text_t532 * L_4 = GameObject_GetComponent_TisText_t532_m2766(L_3, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2766_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		Room_t286 * L_5 = PhotonNetwork_get_room_m1472(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_room_m1472_MethodInfo);
 		NullCheck(L_5);
 		String_t* L_6 = Room_get_name_m1664(L_5, /*hidden argument*/&Room_get_name_m1664_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_7 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral857, L_6, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_7 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral859, L_6, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		NullCheck(L_4);
-		VirtActionInvoker1< String_t* >::Invoke(&Text_set_text_m2756_MethodInfo, L_4, L_7);
+		VirtActionInvoker1< String_t* >::Invoke(&Text_set_text_m2758_MethodInfo, L_4, L_7);
 		GameObject_t47 * L_8 = (__this->___currentRoomDisplay);
 		NullCheck(L_8);
 		Transform_t56 * L_9 = GameObject_get_transform_m492(L_8, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -2301,13 +2301,13 @@ extern MethodInfo JoinRoom_OnJoinedRoom_m1929_MethodInfo;
 		NullCheck(L_10);
 		Transform_t56 * L_11 = GameObject_get_transform_m492(L_10, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_9);
-		Transform_SetParent_m2760(L_9, L_11, /*hidden argument*/&Transform_SetParent_m2760_MethodInfo);
+		Transform_SetParent_m2762(L_9, L_11, /*hidden argument*/&Transform_SetParent_m2762_MethodInfo);
 		GameObject_t47 * L_12 = (__this->___currentRoomDisplay);
 		NullCheck(L_12);
 		Transform_t56 * L_13 = GameObject_get_transform_m492(L_12, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		int32_t L_14 = Screen_get_height_m592(NULL /*static, unused*/, /*hidden argument*/&Screen_get_height_m592_MethodInfo);
 		Vector3_t31  L_15 = {0};
-		Vector3__ctor_m2761(&L_15, (120.0f), ((float)((((float)L_14))-(70.0f))), /*hidden argument*/&Vector3__ctor_m2761_MethodInfo);
+		Vector3__ctor_m2763(&L_15, (120.0f), ((float)((((float)L_14))-(70.0f))), /*hidden argument*/&Vector3__ctor_m2763_MethodInfo);
 		NullCheck(L_13);
 		Transform_set_position_m532(L_13, L_15, /*hidden argument*/&Transform_set_position_m532_MethodInfo);
 		V_0 = 0;
@@ -2316,7 +2316,7 @@ extern MethodInfo JoinRoom_OnJoinedRoom_m1929_MethodInfo;
 
 IL_0089:
 	{
-		GameObject_t47 * L_16 = Resources_Load_TisGameObject_t47_m2758(NULL /*static, unused*/, (String_t*) &_stringLiteral858, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2758_MethodInfo);
+		GameObject_t47 * L_16 = Resources_Load_TisGameObject_t47_m2760(NULL /*static, unused*/, (String_t*) &_stringLiteral860, /*hidden argument*/&Resources_Load_TisGameObject_t47_m2760_MethodInfo);
 		float L_17 = Random_Range_m578(NULL /*static, unused*/, (-15.0f), (15.0f), /*hidden argument*/&Random_Range_m578_MethodInfo);
 		float L_18 = Random_Range_m578(NULL /*static, unused*/, (-15.0f), (15.0f), /*hidden argument*/&Random_Range_m578_MethodInfo);
 		Vector3_t31  L_19 = {0};
@@ -2342,7 +2342,7 @@ IL_00c5:
 extern MethodInfo JoinRoom_OnConnectionFail_m1930_MethodInfo;
  void JoinRoom_OnConnectionFail_m1930 (JoinRoom_t389 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral859, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral861, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 }
@@ -2761,18 +2761,18 @@ extern TypeInfo NotSupportedException_t87_il2cpp_TypeInfo;
 // System.NotSupportedException
 #include "mscorlib_System_NotSupportedExceptionMethodDeclarations.h"
 extern MethodInfo Object__ctor_m361_MethodInfo;
-extern MethodInfo ParseUser_LogInAsync_m2765_MethodInfo;
-extern MethodInfo Task_get_IsCompleted_m2766_MethodInfo;
-extern MethodInfo Task_get_IsFaulted_m2767_MethodInfo;
-extern MethodInfo Task_get_IsCanceled_m2768_MethodInfo;
+extern MethodInfo ParseUser_LogInAsync_m2767_MethodInfo;
+extern MethodInfo Task_get_IsCompleted_m2768_MethodInfo;
+extern MethodInfo Task_get_IsFaulted_m2769_MethodInfo;
+extern MethodInfo Task_get_IsCanceled_m2770_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
-extern MethodInfo ParseUser__ctor_m2769_MethodInfo;
-extern MethodInfo ParseUser_set_Username_m2770_MethodInfo;
-extern MethodInfo ParseUser_set_Password_m2771_MethodInfo;
-extern MethodInfo ParseUser_SignUpAsync_m2772_MethodInfo;
+extern MethodInfo ParseUser__ctor_m2771_MethodInfo;
+extern MethodInfo ParseUser_set_Username_m2772_MethodInfo;
+extern MethodInfo ParseUser_set_Password_m2773_MethodInfo;
+extern MethodInfo ParseUser_SignUpAsync_m2774_MethodInfo;
 extern MethodInfo Login_EnableGuestLogin_m1940_MethodInfo;
-extern MethodInfo ParseObject_set_Item_m2773_MethodInfo;
-extern MethodInfo ParseObject_SaveAsync_m2774_MethodInfo;
+extern MethodInfo ParseObject_set_Item_m2775_MethodInfo;
+extern MethodInfo ParseObject_SaveAsync_m2776_MethodInfo;
 extern MethodInfo Login_LoginComplete_m1944_MethodInfo;
 extern MethodInfo NotSupportedException__ctor_m479_MethodInfo;
 
@@ -2841,7 +2841,7 @@ IL_0029:
 		NullCheck(L_3);
 		String_t* L_4 = (L_3->___password);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&ParseUser_t391_il2cpp_TypeInfo));
-		Task_1_t535 * L_5 = ParseUser_LogInAsync_m2765(NULL /*static, unused*/, L_2, L_4, /*hidden argument*/&ParseUser_LogInAsync_m2765_MethodInfo);
+		Task_1_t535 * L_5 = ParseUser_LogInAsync_m2767(NULL /*static, unused*/, L_2, L_4, /*hidden argument*/&ParseUser_LogInAsync_m2767_MethodInfo);
 		__this->___U3CLoginTaskU3E__0 = L_5;
 		goto IL_0067;
 	}
@@ -2859,7 +2859,7 @@ IL_0067:
 	{
 		Task_t390 * L_8 = (__this->___U3CLoginTaskU3E__0);
 		NullCheck(L_8);
-		bool L_9 = Task_get_IsCompleted_m2766(L_8, /*hidden argument*/&Task_get_IsCompleted_m2766_MethodInfo);
+		bool L_9 = Task_get_IsCompleted_m2768(L_8, /*hidden argument*/&Task_get_IsCompleted_m2768_MethodInfo);
 		if (!L_9)
 		{
 			goto IL_004f;
@@ -2868,7 +2868,7 @@ IL_0067:
 	{
 		Task_t390 * L_10 = (__this->___U3CLoginTaskU3E__0);
 		NullCheck(L_10);
-		bool L_11 = Task_get_IsFaulted_m2767(L_10, /*hidden argument*/&Task_get_IsFaulted_m2767_MethodInfo);
+		bool L_11 = Task_get_IsFaulted_m2769(L_10, /*hidden argument*/&Task_get_IsFaulted_m2769_MethodInfo);
 		if (L_11)
 		{
 			goto IL_0097;
@@ -2877,7 +2877,7 @@ IL_0067:
 	{
 		Task_t390 * L_12 = (__this->___U3CLoginTaskU3E__0);
 		NullCheck(L_12);
-		bool L_13 = Task_get_IsCanceled_m2768(L_12, /*hidden argument*/&Task_get_IsCanceled_m2768_MethodInfo);
+		bool L_13 = Task_get_IsCanceled_m2770(L_12, /*hidden argument*/&Task_get_IsCanceled_m2770_MethodInfo);
 		if (!L_13)
 		{
 			goto IL_01a6;
@@ -2886,25 +2886,25 @@ IL_0067:
 
 IL_0097:
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral873, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral875, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&ParseUser_t391_il2cpp_TypeInfo));
 		ParseUser_t391 * L_14 = (ParseUser_t391 *)il2cpp_codegen_object_new (InitializedTypeInfo(&ParseUser_t391_il2cpp_TypeInfo));
-		ParseUser__ctor_m2769(L_14, /*hidden argument*/&ParseUser__ctor_m2769_MethodInfo);
+		ParseUser__ctor_m2771(L_14, /*hidden argument*/&ParseUser__ctor_m2771_MethodInfo);
 		V_1 = L_14;
 		Login_t392 * L_15 = (__this->___U3CU3Ef__this);
 		NullCheck(L_15);
 		String_t* L_16 = (L_15->___account);
 		NullCheck(V_1);
-		ParseUser_set_Username_m2770(V_1, L_16, /*hidden argument*/&ParseUser_set_Username_m2770_MethodInfo);
+		ParseUser_set_Username_m2772(V_1, L_16, /*hidden argument*/&ParseUser_set_Username_m2772_MethodInfo);
 		Login_t392 * L_17 = (__this->___U3CU3Ef__this);
 		NullCheck(L_17);
 		String_t* L_18 = (L_17->___password);
 		NullCheck(V_1);
-		ParseUser_set_Password_m2771(V_1, L_18, /*hidden argument*/&ParseUser_set_Password_m2771_MethodInfo);
+		ParseUser_set_Password_m2773(V_1, L_18, /*hidden argument*/&ParseUser_set_Password_m2773_MethodInfo);
 		__this->___U3CloginUserU3E__1 = V_1;
 		ParseUser_t391 * L_19 = (__this->___U3CloginUserU3E__1);
 		NullCheck(L_19);
-		Task_t390 * L_20 = ParseUser_SignUpAsync_m2772(L_19, /*hidden argument*/&ParseUser_SignUpAsync_m2772_MethodInfo);
+		Task_t390 * L_20 = ParseUser_SignUpAsync_m2774(L_19, /*hidden argument*/&ParseUser_SignUpAsync_m2774_MethodInfo);
 		__this->___U3CSignupTaskU3E__2 = L_20;
 		goto IL_0138;
 	}
@@ -2922,7 +2922,7 @@ IL_00fe:
 	{
 		Task_t390 * L_23 = (__this->___U3CSignupTaskU3E__2);
 		NullCheck(L_23);
-		bool L_24 = Task_get_IsCanceled_m2768(L_23, /*hidden argument*/&Task_get_IsCanceled_m2768_MethodInfo);
+		bool L_24 = Task_get_IsCanceled_m2770(L_23, /*hidden argument*/&Task_get_IsCanceled_m2770_MethodInfo);
 		if (L_24)
 		{
 			goto IL_011e;
@@ -2931,7 +2931,7 @@ IL_00fe:
 	{
 		Task_t390 * L_25 = (__this->___U3CSignupTaskU3E__2);
 		NullCheck(L_25);
-		bool L_26 = Task_get_IsFaulted_m2767(L_25, /*hidden argument*/&Task_get_IsFaulted_m2767_MethodInfo);
+		bool L_26 = Task_get_IsFaulted_m2769(L_25, /*hidden argument*/&Task_get_IsFaulted_m2769_MethodInfo);
 		if (!L_26)
 		{
 			goto IL_0138;
@@ -2940,7 +2940,7 @@ IL_00fe:
 
 IL_011e:
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral874, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral876, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		Login_t392 * L_27 = (__this->___U3CU3Ef__this);
 		NullCheck(L_27);
 		Login_EnableGuestLogin_m1940(L_27, /*hidden argument*/&Login_EnableGuestLogin_m1940_MethodInfo);
@@ -2951,7 +2951,7 @@ IL_0138:
 	{
 		Task_t390 * L_28 = (__this->___U3CSignupTaskU3E__2);
 		NullCheck(L_28);
-		bool L_29 = Task_get_IsCompleted_m2766(L_28, /*hidden argument*/&Task_get_IsCompleted_m2766_MethodInfo);
+		bool L_29 = Task_get_IsCompleted_m2768(L_28, /*hidden argument*/&Task_get_IsCompleted_m2768_MethodInfo);
 		if (!L_29)
 		{
 			goto IL_00e6;
@@ -2965,10 +2965,10 @@ IL_0138:
 		bool L_33 = L_32;
 		Object_t * L_34 = Box(InitializedTypeInfo(&Boolean_t64_il2cpp_TypeInfo), &L_33);
 		NullCheck(L_30);
-		VirtActionInvoker2< String_t*, Object_t * >::Invoke(&ParseObject_set_Item_m2773_MethodInfo, L_30, (String_t*) &_stringLiteral875, L_34);
+		VirtActionInvoker2< String_t*, Object_t * >::Invoke(&ParseObject_set_Item_m2775_MethodInfo, L_30, (String_t*) &_stringLiteral877, L_34);
 		ParseUser_t391 * L_35 = (__this->___U3CloginUserU3E__1);
 		NullCheck(L_35);
-		Task_t390 * L_36 = ParseObject_SaveAsync_m2774(L_35, /*hidden argument*/&ParseObject_SaveAsync_m2774_MethodInfo);
+		Task_t390 * L_36 = ParseObject_SaveAsync_m2776(L_35, /*hidden argument*/&ParseObject_SaveAsync_m2776_MethodInfo);
 		__this->___U3CSaveTaskU3E__3 = L_36;
 		goto IL_0196;
 	}
@@ -2986,7 +2986,7 @@ IL_0196:
 	{
 		Task_t390 * L_39 = (__this->___U3CSaveTaskU3E__3);
 		NullCheck(L_39);
-		bool L_40 = Task_get_IsCompleted_m2766(L_39, /*hidden argument*/&Task_get_IsCompleted_m2766_MethodInfo);
+		bool L_40 = Task_get_IsCompleted_m2768(L_39, /*hidden argument*/&Task_get_IsCompleted_m2768_MethodInfo);
 		if (!L_40)
 		{
 			goto IL_017e;
@@ -3556,20 +3556,20 @@ extern TypeInfo JsonData_t537_il2cpp_TypeInfo;
 #include "LitJson_LitJson_JsonDataMethodDeclarations.h"
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
-extern MethodInfo Transform_FindChild_m2751_MethodInfo;
+extern MethodInfo Transform_FindChild_m2753_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
-extern MethodInfo GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo;
-extern MethodInfo Selectable_set_interactable_m2776_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisButton_t539_m2777_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisText_t532_m2764_MethodInfo;
-extern MethodInfo Text_get_text_m2754_MethodInfo;
+extern MethodInfo GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo;
+extern MethodInfo Selectable_set_interactable_m2778_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisButton_t539_m2779_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisText_t532_m2766_MethodInfo;
+extern MethodInfo Text_get_text_m2756_MethodInfo;
 extern MethodInfo String_op_Equality_m580_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
 extern MethodInfo Login_DisableGuestLogin_m1939_MethodInfo;
 extern MethodInfo Login_LoginParse_m1943_MethodInfo;
 extern MethodInfo MonoBehaviour_StartCoroutine_m2033_MethodInfo;
 extern MethodInfo Login_U3CFacebookLoginU3Em__6_m1945_MethodInfo;
-extern MethodInfo InitDelegate__ctor_m2778_MethodInfo;
+extern MethodInfo InitDelegate__ctor_m2780_MethodInfo;
 extern MethodInfo FB_Init_m777_MethodInfo;
 extern MethodInfo U3CLoginParseU3Ec__Iterator7__ctor_m1931_MethodInfo;
 extern MethodInfo JoinRoom_Init_m1925_MethodInfo;
@@ -3583,29 +3583,29 @@ extern MethodInfo Login_U3CFacebookLoginU3Em__8_m1947_MethodInfo;
 extern MethodInfo FB_API_m786_MethodInfo;
 extern MethodInfo Login_EnableGuestLogin_m1940_MethodInfo;
 extern MethodInfo FBResult_get_Text_m2041_MethodInfo;
-extern MethodInfo JsonMapper_ToObject_m2779_MethodInfo;
-extern MethodInfo JsonData_get_Item_m2780_MethodInfo;
-extern MethodInfo JsonData_ToString_m2781_MethodInfo;
+extern MethodInfo JsonMapper_ToObject_m2781_MethodInfo;
+extern MethodInfo JsonData_get_Item_m2782_MethodInfo;
+extern MethodInfo JsonData_ToString_m2783_MethodInfo;
 extern MethodInfo String_Concat_m2471_MethodInfo;
 extern MethodInfo String_Concat_m604_MethodInfo;
 struct GameObject_t47;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::GetComponentInParent<System.Object>()
 // !!0 UnityEngine.GameObject::GetComponentInParent<System.Object>()
- Object_t * GameObject_GetComponentInParent_TisObject_t_m2782_gshared (GameObject_t47 * __this, MethodInfo* method);
-#define GameObject_GetComponentInParent_TisObject_t_m2782(__this, method) (Object_t *)GameObject_GetComponentInParent_TisObject_t_m2782_gshared((GameObject_t47 *)__this, method)
+ Object_t * GameObject_GetComponentInParent_TisObject_t_m2784_gshared (GameObject_t47 * __this, MethodInfo* method);
+#define GameObject_GetComponentInParent_TisObject_t_m2784(__this, method) (Object_t *)GameObject_GetComponentInParent_TisObject_t_m2784_gshared((GameObject_t47 *)__this, method)
 // Declaration !!0 UnityEngine.GameObject::GetComponentInParent<UnityEngine.UI.InputField>()
 // !!0 UnityEngine.GameObject::GetComponentInParent<UnityEngine.UI.InputField>()
-#define GameObject_GetComponentInParent_TisInputField_t538_m2775(__this, method) (InputField_t538 *)GameObject_GetComponentInParent_TisObject_t_m2782_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo;
+#define GameObject_GetComponentInParent_TisInputField_t538_m2777(__this, method) (InputField_t538 *)GameObject_GetComponentInParent_TisObject_t_m2784_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<UnityEngine.UI.Button>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_29.h"
 // Declaration !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Button>()
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Button>()
-#define GameObject_GetComponent_TisButton_t539_m2777(__this, method) (Button_t539 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisButton_t539_m2777_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisText_t532_m2764_MethodInfo;
+#define GameObject_GetComponent_TisButton_t539_m2779(__this, method) (Button_t539 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisButton_t539_m2779_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisText_t532_m2766_MethodInfo;
 
 
 // System.Void gamecontext.connection.Login::.ctor()
@@ -3623,19 +3623,19 @@ extern MethodInfo Login_Start_m1938_MethodInfo;
 		((Login_t392_StaticFields*)InitializedTypeInfo(&Login_t392_il2cpp_TypeInfo)->static_fields)->___instance = __this;
 		Transform_t56 * L_0 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_0);
-		Transform_t56 * L_1 = Transform_FindChild_m2751(L_0, (String_t*) &_stringLiteral860, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_1 = Transform_FindChild_m2753(L_0, (String_t*) &_stringLiteral862, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		NullCheck(L_1);
 		GameObject_t47 * L_2 = Component_get_gameObject_m496(L_1, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		__this->___InputField_ID_Text = L_2;
 		Transform_t56 * L_3 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_3);
-		Transform_t56 * L_4 = Transform_FindChild_m2751(L_3, (String_t*) &_stringLiteral861, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_4 = Transform_FindChild_m2753(L_3, (String_t*) &_stringLiteral863, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		NullCheck(L_4);
 		GameObject_t47 * L_5 = Component_get_gameObject_m496(L_4, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		__this->___InputField_Pass_Text = L_5;
 		Transform_t56 * L_6 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_6);
-		Transform_t56 * L_7 = Transform_FindChild_m2751(L_6, (String_t*) &_stringLiteral862, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_7 = Transform_FindChild_m2753(L_6, (String_t*) &_stringLiteral864, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		NullCheck(L_7);
 		GameObject_t47 * L_8 = Component_get_gameObject_m496(L_7, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		__this->___GuestLoginButton = L_8;
@@ -3648,19 +3648,19 @@ extern MethodInfo Login_DisableGuestLogin_m1939_MethodInfo;
 	{
 		GameObject_t47 * L_0 = (__this->___InputField_ID_Text);
 		NullCheck(L_0);
-		InputField_t538 * L_1 = GameObject_GetComponentInParent_TisInputField_t538_m2775(L_0, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo);
+		InputField_t538 * L_1 = GameObject_GetComponentInParent_TisInputField_t538_m2777(L_0, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo);
 		NullCheck(L_1);
-		Selectable_set_interactable_m2776(L_1, 0, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_1, 0, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		GameObject_t47 * L_2 = (__this->___InputField_Pass_Text);
 		NullCheck(L_2);
-		InputField_t538 * L_3 = GameObject_GetComponentInParent_TisInputField_t538_m2775(L_2, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo);
+		InputField_t538 * L_3 = GameObject_GetComponentInParent_TisInputField_t538_m2777(L_2, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo);
 		NullCheck(L_3);
-		Selectable_set_interactable_m2776(L_3, 0, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_3, 0, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		GameObject_t47 * L_4 = (__this->___GuestLoginButton);
 		NullCheck(L_4);
-		Button_t539 * L_5 = GameObject_GetComponent_TisButton_t539_m2777(L_4, /*hidden argument*/&GameObject_GetComponent_TisButton_t539_m2777_MethodInfo);
+		Button_t539 * L_5 = GameObject_GetComponent_TisButton_t539_m2779(L_4, /*hidden argument*/&GameObject_GetComponent_TisButton_t539_m2779_MethodInfo);
 		NullCheck(L_5);
-		Selectable_set_interactable_m2776(L_5, 0, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_5, 0, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		return;
 	}
 }
@@ -3670,19 +3670,19 @@ extern MethodInfo Login_EnableGuestLogin_m1940_MethodInfo;
 	{
 		GameObject_t47 * L_0 = (__this->___InputField_ID_Text);
 		NullCheck(L_0);
-		InputField_t538 * L_1 = GameObject_GetComponentInParent_TisInputField_t538_m2775(L_0, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo);
+		InputField_t538 * L_1 = GameObject_GetComponentInParent_TisInputField_t538_m2777(L_0, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo);
 		NullCheck(L_1);
-		Selectable_set_interactable_m2776(L_1, 1, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_1, 1, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		GameObject_t47 * L_2 = (__this->___InputField_Pass_Text);
 		NullCheck(L_2);
-		InputField_t538 * L_3 = GameObject_GetComponentInParent_TisInputField_t538_m2775(L_2, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2775_MethodInfo);
+		InputField_t538 * L_3 = GameObject_GetComponentInParent_TisInputField_t538_m2777(L_2, /*hidden argument*/&GameObject_GetComponentInParent_TisInputField_t538_m2777_MethodInfo);
 		NullCheck(L_3);
-		Selectable_set_interactable_m2776(L_3, 1, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_3, 1, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		GameObject_t47 * L_4 = (__this->___GuestLoginButton);
 		NullCheck(L_4);
-		Button_t539 * L_5 = GameObject_GetComponent_TisButton_t539_m2777(L_4, /*hidden argument*/&GameObject_GetComponent_TisButton_t539_m2777_MethodInfo);
+		Button_t539 * L_5 = GameObject_GetComponent_TisButton_t539_m2779(L_4, /*hidden argument*/&GameObject_GetComponent_TisButton_t539_m2779_MethodInfo);
 		NullCheck(L_5);
-		Selectable_set_interactable_m2776(L_5, 1, /*hidden argument*/&Selectable_set_interactable_m2776_MethodInfo);
+		Selectable_set_interactable_m2778(L_5, 1, /*hidden argument*/&Selectable_set_interactable_m2778_MethodInfo);
 		return;
 	}
 }
@@ -3692,15 +3692,15 @@ extern MethodInfo Login_GuestLogin_m1941_MethodInfo;
 	{
 		GameObject_t47 * L_0 = (__this->___InputField_ID_Text);
 		NullCheck(L_0);
-		Text_t532 * L_1 = GameObject_GetComponent_TisText_t532_m2764(L_0, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2764_MethodInfo);
+		Text_t532 * L_1 = GameObject_GetComponent_TisText_t532_m2766(L_0, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2766_MethodInfo);
 		NullCheck(L_1);
-		String_t* L_2 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2754_MethodInfo, L_1);
+		String_t* L_2 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2756_MethodInfo, L_1);
 		__this->___account = L_2;
 		GameObject_t47 * L_3 = (__this->___InputField_Pass_Text);
 		NullCheck(L_3);
-		Text_t532 * L_4 = GameObject_GetComponent_TisText_t532_m2764(L_3, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2764_MethodInfo);
+		Text_t532 * L_4 = GameObject_GetComponent_TisText_t532_m2766(L_3, /*hidden argument*/&GameObject_GetComponent_TisText_t532_m2766_MethodInfo);
 		NullCheck(L_4);
-		String_t* L_5 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2754_MethodInfo, L_4);
+		String_t* L_5 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Text_get_text_m2756_MethodInfo, L_4);
 		__this->___password = L_5;
 		String_t* L_6 = (__this->___account);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
@@ -3711,7 +3711,7 @@ extern MethodInfo Login_GuestLogin_m1941_MethodInfo;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral863, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral865, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 
@@ -3726,7 +3726,7 @@ IL_004c:
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral864, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral866, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 
@@ -3745,7 +3745,7 @@ extern MethodInfo Login_FacebookLogin_m1942_MethodInfo;
 		Login_DisableGuestLogin_m1939(__this, /*hidden argument*/&Login_DisableGuestLogin_m1939_MethodInfo);
 		IntPtr_t39 L_0 = { &Login_U3CFacebookLoginU3Em__6_m1945_MethodInfo };
 		InitDelegate_t116 * L_1 = (InitDelegate_t116 *)il2cpp_codegen_object_new (InitializedTypeInfo(&InitDelegate_t116_il2cpp_TypeInfo));
-		InitDelegate__ctor_m2778(L_1, __this, L_0, /*hidden argument*/&InitDelegate__ctor_m2778_MethodInfo);
+		InitDelegate__ctor_m2780(L_1, __this, L_0, /*hidden argument*/&InitDelegate__ctor_m2780_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&FB_t150_il2cpp_TypeInfo));
 		FB_Init_m777(NULL /*static, unused*/, L_1, (HideUnityDelegate_t119 *)NULL, (String_t*)NULL, /*hidden argument*/&FB_Init_m777_MethodInfo);
 		return;
@@ -3780,12 +3780,12 @@ extern MethodInfo Login_LoginComplete_m1944_MethodInfo;
 extern MethodInfo Login_U3CFacebookLoginU3Em__6_m1945_MethodInfo;
  void Login_U3CFacebookLoginU3Em__6_m1945 (Login_t392 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral865, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral867, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		IntPtr_t39 L_0 = { &Login_U3CFacebookLoginU3Em__7_m1946_MethodInfo };
 		FacebookDelegate_t115 * L_1 = (FacebookDelegate_t115 *)il2cpp_codegen_object_new (InitializedTypeInfo(&FacebookDelegate_t115_il2cpp_TypeInfo));
 		FacebookDelegate__ctor_m2078(L_1, __this, L_0, /*hidden argument*/&FacebookDelegate__ctor_m2078_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&FB_t150_il2cpp_TypeInfo));
-		FB_Login_m780(NULL /*static, unused*/, (String_t*) &_stringLiteral866, L_1, /*hidden argument*/&FB_Login_m780_MethodInfo);
+		FB_Login_m780(NULL /*static, unused*/, (String_t*) &_stringLiteral868, L_1, /*hidden argument*/&FB_Login_m780_MethodInfo);
 		return;
 	}
 }
@@ -3801,20 +3801,20 @@ extern MethodInfo Login_U3CFacebookLoginU3Em__7_m1946_MethodInfo;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral867, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral869, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&HttpMethod_t152_il2cpp_TypeInfo));
 		HttpMethod_t152 * L_1 = HttpMethod_get_GET_m2077(NULL /*static, unused*/, /*hidden argument*/&HttpMethod_get_GET_m2077_MethodInfo);
 		IntPtr_t39 L_2 = { &Login_U3CFacebookLoginU3Em__8_m1947_MethodInfo };
 		FacebookDelegate_t115 * L_3 = (FacebookDelegate_t115 *)il2cpp_codegen_object_new (InitializedTypeInfo(&FacebookDelegate_t115_il2cpp_TypeInfo));
 		FacebookDelegate__ctor_m2078(L_3, __this, L_2, /*hidden argument*/&FacebookDelegate__ctor_m2078_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&FB_t150_il2cpp_TypeInfo));
-		FB_API_m786(NULL /*static, unused*/, (String_t*) &_stringLiteral868, L_1, L_3, (Dictionary_2_t123 *)NULL, /*hidden argument*/&FB_API_m786_MethodInfo);
+		FB_API_m786(NULL /*static, unused*/, (String_t*) &_stringLiteral870, L_1, L_3, (Dictionary_2_t123 *)NULL, /*hidden argument*/&FB_API_m786_MethodInfo);
 		goto IL_0045;
 	}
 
 IL_0035:
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral869, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral871, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		Login_EnableGuestLogin_m1940(__this, /*hidden argument*/&Login_EnableGuestLogin_m1940_MethodInfo);
 	}
 
@@ -3831,20 +3831,20 @@ extern MethodInfo Login_U3CFacebookLoginU3Em__8_m1947_MethodInfo;
 		NullCheck(___r_api);
 		String_t* L_0 = FBResult_get_Text_m2041(___r_api, /*hidden argument*/&FBResult_get_Text_m2041_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&JsonMapper_t536_il2cpp_TypeInfo));
-		JsonData_t537 * L_1 = JsonMapper_ToObject_m2779(NULL /*static, unused*/, L_0, /*hidden argument*/&JsonMapper_ToObject_m2779_MethodInfo);
+		JsonData_t537 * L_1 = JsonMapper_ToObject_m2781(NULL /*static, unused*/, L_0, /*hidden argument*/&JsonMapper_ToObject_m2781_MethodInfo);
 		V_0 = L_1;
 		NullCheck(V_0);
-		JsonData_t537 * L_2 = JsonData_get_Item_m2780(V_0, (String_t*) &_stringLiteral95, /*hidden argument*/&JsonData_get_Item_m2780_MethodInfo);
+		JsonData_t537 * L_2 = JsonData_get_Item_m2782(V_0, (String_t*) &_stringLiteral95, /*hidden argument*/&JsonData_get_Item_m2782_MethodInfo);
 		NullCheck(L_2);
-		String_t* L_3 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&JsonData_ToString_m2781_MethodInfo, L_2);
+		String_t* L_3 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&JsonData_ToString_m2783_MethodInfo, L_2);
 		__this->___account = L_3;
 		NullCheck(V_0);
-		JsonData_t537 * L_4 = JsonData_get_Item_m2780(V_0, (String_t*) &_stringLiteral95, /*hidden argument*/&JsonData_get_Item_m2780_MethodInfo);
+		JsonData_t537 * L_4 = JsonData_get_Item_m2782(V_0, (String_t*) &_stringLiteral95, /*hidden argument*/&JsonData_get_Item_m2782_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_5 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral870, L_4, (String_t*) &_stringLiteral871, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_5 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral872, L_4, (String_t*) &_stringLiteral873, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		__this->___password = L_5;
 		String_t* L_6 = (__this->___account);
-		String_t* L_7 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral872, L_6, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_7 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral874, L_6, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_7, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		__this->___isFacebookLogin = 1;
 		Object_t * L_8 = Login_LoginParse_m1943(__this, /*hidden argument*/&Login_LoginParse_m1943_MethodInfo);
@@ -4413,23 +4413,23 @@ extern TypeInfo NotSupportedException_t87_il2cpp_TypeInfo;
 // UnityEngine.RaycastHit
 #include "UnityEngine_UnityEngine_RaycastHitMethodDeclarations.h"
 extern MethodInfo Object__ctor_m361_MethodInfo;
-extern MethodInfo Input_GetMouseButtonDown_m2704_MethodInfo;
+extern MethodInfo Input_GetMouseButtonDown_m2706_MethodInfo;
 extern MethodInfo InputManager_StartDrawSelection_m1959_MethodInfo;
-extern MethodInfo Input_GetMouseButtonUp_m2705_MethodInfo;
+extern MethodInfo Input_GetMouseButtonUp_m2707_MethodInfo;
 extern MethodInfo InputManager_EndDrawSelection_m1960_MethodInfo;
 extern MethodInfo Input_get_mousePosition_m2375_MethodInfo;
 extern MethodInfo Camera_ScreenPointToRay_m2380_MethodInfo;
-extern MethodInfo Physics_Raycast_m2783_MethodInfo;
+extern MethodInfo Physics_Raycast_m2785_MethodInfo;
 extern MethodInfo RaycastHit_get_collider_m2382_MethodInfo;
-extern MethodInfo Component_CompareTag_m2784_MethodInfo;
-extern MethodInfo RaycastHit_get_point_m2707_MethodInfo;
+extern MethodInfo Component_CompareTag_m2786_MethodInfo;
+extern MethodInfo RaycastHit_get_point_m2709_MethodInfo;
 extern MethodInfo InputManager_OrderMove_m1961_MethodInfo;
 extern MethodInfo Vector3_get_zero_m484_MethodInfo;
 extern MethodInfo Screen_get_width_m591_MethodInfo;
-extern MethodInfo Vector3_get_left_m2710_MethodInfo;
+extern MethodInfo Vector3_get_left_m2712_MethodInfo;
 extern MethodInfo Vector3_op_Multiply_m467_MethodInfo;
 extern MethodInfo Vector3_op_Addition_m465_MethodInfo;
-extern MethodInfo Vector3_get_right_m2711_MethodInfo;
+extern MethodInfo Vector3_get_right_m2713_MethodInfo;
 extern MethodInfo Screen_get_height_m592_MethodInfo;
 extern MethodInfo Vector3_get_down_m2311_MethodInfo;
 extern MethodInfo Vector3_get_up_m459_MethodInfo;
@@ -4488,7 +4488,7 @@ extern MethodInfo U3CReadInputU3Ec__Iterator8_MoveNext_m1951_MethodInfo;
 IL_0021:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_1 = Input_GetMouseButtonDown_m2704(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonDown_m2704_MethodInfo);
+		bool L_1 = Input_GetMouseButtonDown_m2706(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonDown_m2706_MethodInfo);
 		if (!L_1)
 		{
 			goto IL_0037;
@@ -4503,7 +4503,7 @@ IL_0021:
 IL_0037:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_3 = Input_GetMouseButtonUp_m2705(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonUp_m2705_MethodInfo);
+		bool L_3 = Input_GetMouseButtonUp_m2707(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonUp_m2707_MethodInfo);
 		if (!L_3)
 		{
 			goto IL_004d;
@@ -4518,7 +4518,7 @@ IL_0037:
 IL_004d:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_5 = Input_GetMouseButtonDown_m2704(NULL /*static, unused*/, 1, /*hidden argument*/&Input_GetMouseButtonDown_m2704_MethodInfo);
+		bool L_5 = Input_GetMouseButtonDown_m2706(NULL /*static, unused*/, 1, /*hidden argument*/&Input_GetMouseButtonDown_m2706_MethodInfo);
 		if (!L_5)
 		{
 			goto IL_00b9;
@@ -4535,7 +4535,7 @@ IL_004d:
 		__this->___U3CrayU3E__0 = L_9;
 		Ray_t396  L_10 = (__this->___U3CrayU3E__0);
 		RaycastHit_t397 * L_11 = &(__this->___U3ChitU3E__1);
-		bool L_12 = Physics_Raycast_m2783(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/&Physics_Raycast_m2783_MethodInfo);
+		bool L_12 = Physics_Raycast_m2785(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/&Physics_Raycast_m2785_MethodInfo);
 		if (!L_12)
 		{
 			goto IL_00b9;
@@ -4545,7 +4545,7 @@ IL_004d:
 		RaycastHit_t397 * L_13 = &(__this->___U3ChitU3E__1);
 		Collider_t200 * L_14 = RaycastHit_get_collider_m2382(L_13, /*hidden argument*/&RaycastHit_get_collider_m2382_MethodInfo);
 		NullCheck(L_14);
-		bool L_15 = Component_CompareTag_m2784(L_14, (String_t*) &_stringLiteral878, /*hidden argument*/&Component_CompareTag_m2784_MethodInfo);
+		bool L_15 = Component_CompareTag_m2786(L_14, (String_t*) &_stringLiteral880, /*hidden argument*/&Component_CompareTag_m2786_MethodInfo);
 		if (!L_15)
 		{
 			goto IL_00b9;
@@ -4554,7 +4554,7 @@ IL_004d:
 	{
 		InputManager_t394 * L_16 = (__this->___U3CU3Ef__this);
 		RaycastHit_t397 * L_17 = &(__this->___U3ChitU3E__1);
-		Vector3_t31  L_18 = RaycastHit_get_point_m2707(L_17, /*hidden argument*/&RaycastHit_get_point_m2707_MethodInfo);
+		Vector3_t31  L_18 = RaycastHit_get_point_m2709(L_17, /*hidden argument*/&RaycastHit_get_point_m2709_MethodInfo);
 		NullCheck(L_16);
 		InputManager_OrderMove_m1961(L_16, L_18, /*hidden argument*/&InputManager_OrderMove_m1961_MethodInfo);
 	}
@@ -4576,7 +4576,7 @@ IL_00b9:
 	}
 	{
 		Vector3_t31  L_23 = (__this->___U3CscrollAmountU3E__2);
-		Vector3_t31  L_24 = Vector3_get_left_m2710(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_left_m2710_MethodInfo);
+		Vector3_t31  L_24 = Vector3_get_left_m2712(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_left_m2712_MethodInfo);
 		Vector3_t31  L_25 = Vector3_op_Multiply_m467(NULL /*static, unused*/, L_24, (0.1f), /*hidden argument*/&Vector3_op_Multiply_m467_MethodInfo);
 		Vector3_t31  L_26 = Vector3_op_Addition_m465(NULL /*static, unused*/, L_23, L_25, /*hidden argument*/&Vector3_op_Addition_m465_MethodInfo);
 		__this->___U3CscrollAmountU3E__2 = L_26;
@@ -4597,7 +4597,7 @@ IL_0102:
 	}
 	{
 		Vector3_t31  L_30 = (__this->___U3CscrollAmountU3E__2);
-		Vector3_t31  L_31 = Vector3_get_right_m2711(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_right_m2711_MethodInfo);
+		Vector3_t31  L_31 = Vector3_get_right_m2713(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_right_m2713_MethodInfo);
 		Vector3_t31  L_32 = Vector3_op_Multiply_m467(NULL /*static, unused*/, L_31, (0.1f), /*hidden argument*/&Vector3_op_Multiply_m467_MethodInfo);
 		Vector3_t31  L_33 = Vector3_op_Addition_m465(NULL /*static, unused*/, L_30, L_32, /*hidden argument*/&Vector3_op_Addition_m465_MethodInfo);
 		__this->___U3CscrollAmountU3E__2 = L_33;
@@ -5163,19 +5163,19 @@ extern TypeInfo Hero_t381_il2cpp_TypeInfo;
 #include "mscorlib_System_Collections_Generic_List_1_gen_12MethodDeclarations.h"
 // UnityEngine.NavMeshAgent
 #include "UnityEngine_UnityEngine_NavMeshAgentMethodDeclarations.h"
-extern MethodInfo List_1__ctor_m2785_MethodInfo;
+extern MethodInfo List_1__ctor_m2787_MethodInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo GameObject_FindWithTag_m2786_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisCamera_t204_m2787_MethodInfo;
-extern MethodInfo Object_FindObjectOfType_TisSelectRect_t388_m2788_MethodInfo;
+extern MethodInfo GameObject_FindWithTag_m2788_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisCamera_t204_m2789_MethodInfo;
+extern MethodInfo Object_FindObjectOfType_TisSelectRect_t388_m2790_MethodInfo;
 extern MethodInfo MonoBehaviour_StartCoroutine_m481_MethodInfo;
 extern MethodInfo MonoBehaviour_StopCoroutine_m614_MethodInfo;
 extern MethodInfo U3CReadInputU3Ec__Iterator8__ctor_m1948_MethodInfo;
-extern MethodInfo List_1_Clear_m2789_MethodInfo;
+extern MethodInfo List_1_Clear_m2791_MethodInfo;
 extern MethodInfo Input_get_mousePosition_m2375_MethodInfo;
 extern MethodInfo Rect_set_x_m560_MethodInfo;
 extern MethodInfo Rect_set_y_m562_MethodInfo;
-extern MethodInfo Object_FindObjectsOfType_TisHero_t381_m2790_MethodInfo;
+extern MethodInfo Object_FindObjectsOfType_TisHero_t381_m2792_MethodInfo;
 extern MethodInfo SelectCursor_SetHide_m1919_MethodInfo;
 extern MethodInfo Rect_get_x_m559_MethodInfo;
 extern MethodInfo Rect_set_width_m564_MethodInfo;
@@ -5183,13 +5183,13 @@ extern MethodInfo Rect_get_y_m561_MethodInfo;
 extern MethodInfo Rect_set_height_m566_MethodInfo;
 extern MethodInfo Rect_get_width_m563_MethodInfo;
 extern MethodInfo Rect_get_height_m565_MethodInfo;
-extern MethodInfo List_1_get_Count_m2791_MethodInfo;
-extern MethodInfo List_1_get_Item_m2792_MethodInfo;
+extern MethodInfo List_1_get_Count_m2793_MethodInfo;
+extern MethodInfo List_1_get_Item_m2794_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
 extern MethodInfo Transform_get_position_m526_MethodInfo;
-extern MethodInfo Camera_WorldToScreenPoint_m2793_MethodInfo;
-extern MethodInfo Rect_Contains_m2794_MethodInfo;
-extern MethodInfo List_1_Add_m2795_MethodInfo;
+extern MethodInfo Camera_WorldToScreenPoint_m2795_MethodInfo;
+extern MethodInfo Rect_Contains_m2796_MethodInfo;
+extern MethodInfo List_1_Add_m2797_MethodInfo;
 extern MethodInfo SelectCursor_SetShow_m1920_MethodInfo;
 extern MethodInfo Vector3_get_zero_m484_MethodInfo;
 extern MethodInfo Vector3__ctor_m527_MethodInfo;
@@ -5198,25 +5198,25 @@ extern MethodInfo Vector3_op_Division_m2361_MethodInfo;
 extern MethodInfo Vector3_op_Subtraction_m466_MethodInfo;
 extern MethodInfo Vector3_Distance_m538_MethodInfo;
 extern MethodInfo Vector3_get_magnitude_m2327_MethodInfo;
-extern MethodInfo NavMeshAgent_SetDestination_m2796_MethodInfo;
+extern MethodInfo NavMeshAgent_SetDestination_m2798_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<UnityEngine.Camera>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_11.h"
 // Declaration !!0 UnityEngine.GameObject::GetComponent<UnityEngine.Camera>()
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.Camera>()
-#define GameObject_GetComponent_TisCamera_t204_m2787(__this, method) (Camera_t204 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisCamera_t204_m2787_MethodInfo;
+#define GameObject_GetComponent_TisCamera_t204_m2789(__this, method) (Camera_t204 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisCamera_t204_m2789_MethodInfo;
 struct Object_t111;
 // Declaration !!0 UnityEngine.Object::FindObjectOfType<gamecontext.uicontrol.SelectRect>()
 // !!0 UnityEngine.Object::FindObjectOfType<gamecontext.uicontrol.SelectRect>()
- SelectRect_t388 * Object_FindObjectOfType_TisSelectRect_t388_m2788 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo Object_FindObjectOfType_TisSelectRect_t388_m2788_MethodInfo;
+ SelectRect_t388 * Object_FindObjectOfType_TisSelectRect_t388_m2790 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo Object_FindObjectOfType_TisSelectRect_t388_m2790_MethodInfo;
 struct Object_t111;
 #include "UnityEngine_ArrayTypes.h"
 // Declaration !!0[] UnityEngine.Object::FindObjectsOfType<gamecontext.Hero>()
 // !!0[] UnityEngine.Object::FindObjectsOfType<gamecontext.Hero>()
- HeroU5BU5D_t540* Object_FindObjectsOfType_TisHero_t381_m2790 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo Object_FindObjectsOfType_TisHero_t381_m2790_MethodInfo;
+ HeroU5BU5D_t540* Object_FindObjectsOfType_TisHero_t381_m2792 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo Object_FindObjectsOfType_TisHero_t381_m2792_MethodInfo;
 
 
 // System.Void gamecontext.InputManager::.ctor()
@@ -5225,10 +5225,10 @@ extern MethodInfo InputManager__ctor_m1954_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&List_1_t398_il2cpp_TypeInfo));
 		List_1_t398 * L_0 = (List_1_t398 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t398_il2cpp_TypeInfo));
-		List_1__ctor_m2785(L_0, /*hidden argument*/&List_1__ctor_m2785_MethodInfo);
+		List_1__ctor_m2787(L_0, /*hidden argument*/&List_1__ctor_m2787_MethodInfo);
 		__this->___ControlableHeroes = L_0;
 		List_1_t398 * L_1 = (List_1_t398 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t398_il2cpp_TypeInfo));
-		List_1__ctor_m2785(L_1, /*hidden argument*/&List_1__ctor_m2785_MethodInfo);
+		List_1__ctor_m2787(L_1, /*hidden argument*/&List_1__ctor_m2787_MethodInfo);
 		__this->___SelectedHeroes = L_1;
 		MonoBehaviour__ctor_m482(__this, /*hidden argument*/&MonoBehaviour__ctor_m482_MethodInfo);
 		return;
@@ -5239,11 +5239,11 @@ extern MethodInfo InputManager_Start_m1955_MethodInfo;
  void InputManager_Start_m1955 (InputManager_t394 * __this, MethodInfo* method){
 	{
 		((InputManager_t394_StaticFields*)InitializedTypeInfo(&InputManager_t394_il2cpp_TypeInfo)->static_fields)->___instance = __this;
-		GameObject_t47 * L_0 = GameObject_FindWithTag_m2786(NULL /*static, unused*/, (String_t*) &_stringLiteral876, /*hidden argument*/&GameObject_FindWithTag_m2786_MethodInfo);
+		GameObject_t47 * L_0 = GameObject_FindWithTag_m2788(NULL /*static, unused*/, (String_t*) &_stringLiteral878, /*hidden argument*/&GameObject_FindWithTag_m2788_MethodInfo);
 		NullCheck(L_0);
-		Camera_t204 * L_1 = GameObject_GetComponent_TisCamera_t204_m2787(L_0, /*hidden argument*/&GameObject_GetComponent_TisCamera_t204_m2787_MethodInfo);
+		Camera_t204 * L_1 = GameObject_GetComponent_TisCamera_t204_m2789(L_0, /*hidden argument*/&GameObject_GetComponent_TisCamera_t204_m2789_MethodInfo);
 		__this->____cachedMainCamera = L_1;
-		SelectRect_t388 * L_2 = Object_FindObjectOfType_TisSelectRect_t388_m2788(NULL /*static, unused*/, /*hidden argument*/&Object_FindObjectOfType_TisSelectRect_t388_m2788_MethodInfo);
+		SelectRect_t388 * L_2 = Object_FindObjectOfType_TisSelectRect_t388_m2790(NULL /*static, unused*/, /*hidden argument*/&Object_FindObjectOfType_TisSelectRect_t388_m2790_MethodInfo);
 		__this->____cachedSelectRect = L_2;
 		return;
 	}
@@ -5252,7 +5252,7 @@ extern MethodInfo InputManager_Start_m1955_MethodInfo;
 extern MethodInfo InputManager_Run_m1956_MethodInfo;
  void InputManager_Run_m1956 (InputManager_t394 * __this, MethodInfo* method){
 	{
-		MonoBehaviour_StartCoroutine_m481(__this, (String_t*) &_stringLiteral877, /*hidden argument*/&MonoBehaviour_StartCoroutine_m481_MethodInfo);
+		MonoBehaviour_StartCoroutine_m481(__this, (String_t*) &_stringLiteral879, /*hidden argument*/&MonoBehaviour_StartCoroutine_m481_MethodInfo);
 		return;
 	}
 }
@@ -5260,7 +5260,7 @@ extern MethodInfo InputManager_Run_m1956_MethodInfo;
 extern MethodInfo InputManager_Stop_m1957_MethodInfo;
  void InputManager_Stop_m1957 (InputManager_t394 * __this, MethodInfo* method){
 	{
-		MonoBehaviour_StopCoroutine_m614(__this, (String_t*) &_stringLiteral877, /*hidden argument*/&MonoBehaviour_StopCoroutine_m614_MethodInfo);
+		MonoBehaviour_StopCoroutine_m614(__this, (String_t*) &_stringLiteral879, /*hidden argument*/&MonoBehaviour_StopCoroutine_m614_MethodInfo);
 		return;
 	}
 }
@@ -5289,7 +5289,7 @@ extern MethodInfo InputManager_StartDrawSelection_m1959_MethodInfo;
 	{
 		List_1_t398 * L_0 = (__this->___SelectedHeroes);
 		NullCheck(L_0);
-		VirtActionInvoker0::Invoke(&List_1_Clear_m2789_MethodInfo, L_0);
+		VirtActionInvoker0::Invoke(&List_1_Clear_m2791_MethodInfo, L_0);
 		SelectRect_t388 * L_1 = (__this->____cachedSelectRect);
 		Initobj (&Rect_t55_il2cpp_TypeInfo, (&V_3));
 		NullCheck(L_1);
@@ -5311,7 +5311,7 @@ extern MethodInfo InputManager_StartDrawSelection_m1959_MethodInfo;
 		NullCheck((&V_5));
 		float L_9 = ((&V_5)->___y);
 		Rect_set_y_m562(L_7, L_9, /*hidden argument*/&Rect_set_y_m562_MethodInfo);
-		HeroU5BU5D_t540* L_10 = Object_FindObjectsOfType_TisHero_t381_m2790(NULL /*static, unused*/, /*hidden argument*/&Object_FindObjectsOfType_TisHero_t381_m2790_MethodInfo);
+		HeroU5BU5D_t540* L_10 = Object_FindObjectsOfType_TisHero_t381_m2792(NULL /*static, unused*/, /*hidden argument*/&Object_FindObjectsOfType_TisHero_t381_m2792_MethodInfo);
 		V_0 = L_10;
 		NullCheck(V_0);
 		V_1 = (((int32_t)(((Array_t *)V_0)->max_length)));
@@ -5444,7 +5444,7 @@ IL_012b:
 	{
 		List_1_t398 * L_44 = (__this->___ControlableHeroes);
 		NullCheck(L_44);
-		int32_t L_45 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2791_MethodInfo, L_44);
+		int32_t L_45 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2793_MethodInfo, L_44);
 		V_0 = L_45;
 		V_1 = 0;
 		goto IL_01a7;
@@ -5455,18 +5455,18 @@ IL_013e:
 		Camera_t204 * L_46 = (__this->____cachedMainCamera);
 		List_1_t398 * L_47 = (__this->___ControlableHeroes);
 		NullCheck(L_47);
-		Hero_t381 * L_48 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2792_MethodInfo, L_47, V_1);
+		Hero_t381 * L_48 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2794_MethodInfo, L_47, V_1);
 		NullCheck(L_48);
 		Transform_t56 * L_49 = Component_get_transform_m617(L_48, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_49);
 		Vector3_t31  L_50 = Transform_get_position_m526(L_49, /*hidden argument*/&Transform_get_position_m526_MethodInfo);
 		NullCheck(L_46);
-		Vector3_t31  L_51 = Camera_WorldToScreenPoint_m2793(L_46, L_50, /*hidden argument*/&Camera_WorldToScreenPoint_m2793_MethodInfo);
+		Vector3_t31  L_51 = Camera_WorldToScreenPoint_m2795(L_46, L_50, /*hidden argument*/&Camera_WorldToScreenPoint_m2795_MethodInfo);
 		V_2 = L_51;
 		SelectRect_t388 * L_52 = (__this->____cachedSelectRect);
 		NullCheck(L_52);
 		Rect_t55 * L_53 = &(L_52->___SelectionArea);
-		bool L_54 = Rect_Contains_m2794(L_53, V_2, /*hidden argument*/&Rect_Contains_m2794_MethodInfo);
+		bool L_54 = Rect_Contains_m2796(L_53, V_2, /*hidden argument*/&Rect_Contains_m2796_MethodInfo);
 		if (!L_54)
 		{
 			goto IL_01a3;
@@ -5476,12 +5476,12 @@ IL_013e:
 		List_1_t398 * L_55 = (__this->___SelectedHeroes);
 		List_1_t398 * L_56 = (__this->___ControlableHeroes);
 		NullCheck(L_56);
-		Hero_t381 * L_57 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2792_MethodInfo, L_56, V_1);
+		Hero_t381 * L_57 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2794_MethodInfo, L_56, V_1);
 		NullCheck(L_55);
-		VirtActionInvoker1< Hero_t381 * >::Invoke(&List_1_Add_m2795_MethodInfo, L_55, L_57);
+		VirtActionInvoker1< Hero_t381 * >::Invoke(&List_1_Add_m2797_MethodInfo, L_55, L_57);
 		List_1_t398 * L_58 = (__this->___ControlableHeroes);
 		NullCheck(L_58);
-		Hero_t381 * L_59 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2792_MethodInfo, L_58, V_1);
+		Hero_t381 * L_59 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2794_MethodInfo, L_58, V_1);
 		NullCheck(L_59);
 		SelectCursor_t384 * L_60 = (L_59->___SelectCursor);
 		NullCheck(L_60);
@@ -5521,7 +5521,7 @@ extern MethodInfo InputManager_OrderMove_m1961_MethodInfo;
 		V_0 = L_0;
 		List_1_t398 * L_1 = (__this->___SelectedHeroes);
 		NullCheck(L_1);
-		int32_t L_2 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2791_MethodInfo, L_1);
+		int32_t L_2 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2793_MethodInfo, L_1);
 		V_1 = L_2;
 		V_2 = 0;
 		goto IL_0053;
@@ -5531,7 +5531,7 @@ IL_0019:
 	{
 		List_1_t398 * L_3 = (__this->___SelectedHeroes);
 		NullCheck(L_3);
-		Hero_t381 * L_4 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2792_MethodInfo, L_3, V_2);
+		Hero_t381 * L_4 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2794_MethodInfo, L_3, V_2);
 		NullCheck(L_4);
 		Transform_t56 * L_5 = Component_get_transform_m617(L_4, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_5);
@@ -5562,7 +5562,7 @@ IL_006a:
 	{
 		List_1_t398 * L_11 = (__this->___SelectedHeroes);
 		NullCheck(L_11);
-		Hero_t381 * L_12 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2792_MethodInfo, L_11, V_3);
+		Hero_t381 * L_12 = (Hero_t381 *)VirtFuncInvoker1< Hero_t381 *, int32_t >::Invoke(&List_1_get_Item_m2794_MethodInfo, L_11, V_3);
 		V_4 = L_12;
 		NullCheck(V_4);
 		Transform_t56 * L_13 = Component_get_transform_m617(V_4, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
@@ -5586,7 +5586,7 @@ IL_006a:
 		NavMeshAgent_t383 * L_20 = (V_4->___CachedNMAgent);
 		Vector3_t31  L_21 = Vector3_op_Subtraction_m466(NULL /*static, unused*/, ___TargetPosition, V_5, /*hidden argument*/&Vector3_op_Subtraction_m466_MethodInfo);
 		NullCheck(L_20);
-		NavMeshAgent_SetDestination_m2796(L_20, L_21, /*hidden argument*/&NavMeshAgent_SetDestination_m2796_MethodInfo);
+		NavMeshAgent_SetDestination_m2798(L_20, L_21, /*hidden argument*/&NavMeshAgent_SetDestination_m2798_MethodInfo);
 		goto IL_00d2;
 	}
 
@@ -5595,7 +5595,7 @@ IL_00c4:
 		NullCheck(V_4);
 		NavMeshAgent_t383 * L_22 = (V_4->___CachedNMAgent);
 		NullCheck(L_22);
-		NavMeshAgent_SetDestination_m2796(L_22, V_0, /*hidden argument*/&NavMeshAgent_SetDestination_m2796_MethodInfo);
+		NavMeshAgent_SetDestination_m2798(L_22, V_0, /*hidden argument*/&NavMeshAgent_SetDestination_m2798_MethodInfo);
 	}
 
 IL_00d2:
@@ -6005,16 +6005,16 @@ extern MethodInfo PhotonNetwork_Instantiate_m1557_MethodInfo;
 extern MethodInfo GameObject_get_transform_m492_MethodInfo;
 extern MethodInfo Transform_set_position_m532_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
-extern MethodInfo Transform_SetParent_m2760_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisHero_t381_m2797_MethodInfo;
-extern MethodInfo List_1_Add_m2795_MethodInfo;
+extern MethodInfo Transform_SetParent_m2762_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisHero_t381_m2799_MethodInfo;
+extern MethodInfo List_1_Add_m2797_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<gamecontext.Hero>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_30.h"
 // Declaration !!0 UnityEngine.GameObject::GetComponent<gamecontext.Hero>()
 // !!0 UnityEngine.GameObject::GetComponent<gamecontext.Hero>()
-#define GameObject_GetComponent_TisHero_t381_m2797(__this, method) (Hero_t381 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisHero_t381_m2797_MethodInfo;
+#define GameObject_GetComponent_TisHero_t381_m2799(__this, method) (Hero_t381 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisHero_t381_m2799_MethodInfo;
 
 
 // System.Void gamecontext.manager.PawnManager::.ctor()
@@ -6032,7 +6032,7 @@ extern MethodInfo PawnManager_Spawn_m1963_MethodInfo;
 	{
 		Quaternion_t110  L_0 = Quaternion_get_identity_m2199(NULL /*static, unused*/, /*hidden argument*/&Quaternion_get_identity_m2199_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
-		GameObject_t47 * L_1 = PhotonNetwork_Instantiate_m1557(NULL /*static, unused*/, (String_t*) &_stringLiteral879, ___position, L_0, 0, /*hidden argument*/&PhotonNetwork_Instantiate_m1557_MethodInfo);
+		GameObject_t47 * L_1 = PhotonNetwork_Instantiate_m1557(NULL /*static, unused*/, (String_t*) &_stringLiteral881, ___position, L_0, 0, /*hidden argument*/&PhotonNetwork_Instantiate_m1557_MethodInfo);
 		V_0 = L_1;
 		NullCheck(V_0);
 		Transform_t56 * L_2 = GameObject_get_transform_m492(V_0, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -6043,13 +6043,13 @@ extern MethodInfo PawnManager_Spawn_m1963_MethodInfo;
 		NullCheck((((Game_t380_StaticFields*)InitializedTypeInfo(&Game_t380_il2cpp_TypeInfo)->static_fields)->___instance));
 		Transform_t56 * L_4 = Component_get_transform_m617((((Game_t380_StaticFields*)InitializedTypeInfo(&Game_t380_il2cpp_TypeInfo)->static_fields)->___instance), /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_3);
-		Transform_SetParent_m2760(L_3, L_4, /*hidden argument*/&Transform_SetParent_m2760_MethodInfo);
+		Transform_SetParent_m2762(L_3, L_4, /*hidden argument*/&Transform_SetParent_m2762_MethodInfo);
 		NullCheck((((InputManager_t394_StaticFields*)InitializedTypeInfo(&InputManager_t394_il2cpp_TypeInfo)->static_fields)->___instance));
 		List_1_t398 * L_5 = ((((InputManager_t394_StaticFields*)InitializedTypeInfo(&InputManager_t394_il2cpp_TypeInfo)->static_fields)->___instance)->___ControlableHeroes);
 		NullCheck(V_0);
-		Hero_t381 * L_6 = GameObject_GetComponent_TisHero_t381_m2797(V_0, /*hidden argument*/&GameObject_GetComponent_TisHero_t381_m2797_MethodInfo);
+		Hero_t381 * L_6 = GameObject_GetComponent_TisHero_t381_m2799(V_0, /*hidden argument*/&GameObject_GetComponent_TisHero_t381_m2799_MethodInfo);
 		NullCheck(L_5);
-		VirtActionInvoker1< Hero_t381 * >::Invoke(&List_1_Add_m2795_MethodInfo, L_5, L_6);
+		VirtActionInvoker1< Hero_t381 * >::Invoke(&List_1_Add_m2797_MethodInfo, L_5, L_6);
 		return V_0;
 	}
 }
@@ -6210,7 +6210,7 @@ extern TypeInfo PawnMecanimControl_t400_il2cpp_TypeInfo;
 extern MethodInfo Vector3_get_zero_m484_MethodInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
-extern MethodInfo Transform_FindChild_m2751_MethodInfo;
+extern MethodInfo Transform_FindChild_m2753_MethodInfo;
 extern MethodInfo Transform_get_position_m526_MethodInfo;
 extern MethodInfo Component_GetComponent_TisAnimator_t168_m2200_MethodInfo;
 extern MethodInfo Vector3_Distance_m538_MethodInfo;
@@ -6240,7 +6240,7 @@ extern MethodInfo PawnMecanimControl_Start_m1965_MethodInfo;
 	{
 		Transform_t56 * L_0 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_0);
-		Transform_t56 * L_1 = Transform_FindChild_m2751(L_0, (String_t*) &_stringLiteral880, /*hidden argument*/&Transform_FindChild_m2751_MethodInfo);
+		Transform_t56 * L_1 = Transform_FindChild_m2753(L_0, (String_t*) &_stringLiteral882, /*hidden argument*/&Transform_FindChild_m2753_MethodInfo);
 		__this->____cachedBody = L_1;
 		Transform_t56 * L_2 = (__this->____cachedBody);
 		NullCheck(L_2);

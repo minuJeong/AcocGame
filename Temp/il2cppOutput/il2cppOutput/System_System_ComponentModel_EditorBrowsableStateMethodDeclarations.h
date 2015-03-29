@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.ComponentModel.EditorBrowsableState
-struct EditorBrowsableState_t2748;
+struct EditorBrowsableState_t2750;
 

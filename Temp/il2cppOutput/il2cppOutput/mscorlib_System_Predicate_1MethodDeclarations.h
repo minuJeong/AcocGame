@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1
-struct Predicate_1_t3749;
+struct Predicate_1_t3750;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

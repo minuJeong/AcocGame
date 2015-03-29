@@ -9,7 +9,7 @@ struct Hashtable_t48;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Text.RegularExpressions.Syntax.Parser
-struct Parser_t2802  : public Object_t
+struct Parser_t2804  : public Object_t
 {
 	// System.String System.Text.RegularExpressions.Syntax.Parser::pattern
 	String_t* ___pattern;

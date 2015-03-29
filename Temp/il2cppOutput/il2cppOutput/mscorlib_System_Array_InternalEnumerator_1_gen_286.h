@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<UnityEngine.EventSystems.ISelectHandler>
-struct InternalEnumerator_1_t5230 
+struct InternalEnumerator_1_t5231 
 {
 	// System.Array System.Array/InternalEnumerator`1<UnityEngine.EventSystems.ISelectHandler>::array
 	Array_t * ___array;

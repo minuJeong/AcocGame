@@ -5,7 +5,7 @@ struct String_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // UnityEngine.SocialPlatforms.GameCenter.GcScoreData
-struct GcScoreData_t2478 
+struct GcScoreData_t2479 
 {
 	// System.String UnityEngine.SocialPlatforms.GameCenter.GcScoreData::m_Category
 	String_t* ___m_Category;
@@ -23,7 +23,7 @@ struct GcScoreData_t2478
 	int32_t ___m_Rank;
 };
 // Native definition for marshalling of: UnityEngine.SocialPlatforms.GameCenter.GcScoreData
-struct GcScoreData_t2478_marshaled
+struct GcScoreData_t2479_marshaled
 {
 	char* ___m_Category;
 	int32_t ___m_ValueLow;

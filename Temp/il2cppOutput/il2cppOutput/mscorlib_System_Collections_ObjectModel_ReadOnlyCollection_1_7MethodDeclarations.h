@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1
-struct ReadOnlyCollection_1_t3277;
+struct ReadOnlyCollection_1_t3278;
 // System.Object
 struct Object_t;
 // System.Array

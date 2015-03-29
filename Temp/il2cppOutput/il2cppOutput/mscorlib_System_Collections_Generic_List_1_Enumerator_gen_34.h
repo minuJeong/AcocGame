@@ -7,7 +7,7 @@ struct Toggle_t717;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.UI.Toggle>
-struct Enumerator_t5653 
+struct Enumerator_t5654 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<UnityEngine.UI.Toggle>::l
 	List_1_t718 * ___l;

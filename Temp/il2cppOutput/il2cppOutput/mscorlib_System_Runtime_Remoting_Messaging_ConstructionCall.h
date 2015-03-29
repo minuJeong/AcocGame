@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Runtime.Remoting.Activation.IActivator
-struct IActivator_t3442;
+struct IActivator_t3443;
 // System.Object[]
 struct ObjectU5BU5D_t5;
 // System.Collections.IList
@@ -15,7 +15,7 @@ struct Dictionary_2_t57;
 // System.Runtime.Remoting.Messaging.MethodCall
 #include "mscorlib_System_Runtime_Remoting_Messaging_MethodCall.h"
 // System.Runtime.Remoting.Messaging.ConstructionCall
-struct ConstructionCall_t3444  : public MethodCall_t3477
+struct ConstructionCall_t3445  : public MethodCall_t3478
 {
 	// System.Runtime.Remoting.Activation.IActivator System.Runtime.Remoting.Messaging.ConstructionCall::_activator
 	Object_t * ____activator;
@@ -30,7 +30,7 @@ struct ConstructionCall_t3444  : public MethodCall_t3477
 	// System.Boolean System.Runtime.Remoting.Messaging.ConstructionCall::_isContextOk
 	bool ____isContextOk;
 };
-struct ConstructionCall_t3444_StaticFields{
+struct ConstructionCall_t3445_StaticFields{
 	// System.Collections.Generic.Dictionary`2<System.String,System.Int32> System.Runtime.Remoting.Messaging.ConstructionCall::<>f__switch$map20
 	Dictionary_2_t57 * ___U3CU3Ef__switch$map20;
 };

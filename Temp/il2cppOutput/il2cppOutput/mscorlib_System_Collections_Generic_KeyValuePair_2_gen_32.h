@@ -7,7 +7,7 @@ struct MethodInfo_t292;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.Type,System.Reflection.MethodInfo>
-struct KeyValuePair_2_t5857 
+struct KeyValuePair_2_t5858 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.Type,System.Reflection.MethodInfo>::key
 	Type_t * ___key;

@@ -13,7 +13,7 @@ struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateDistinctIterator>c__Iterator3`1<System.String>
-struct U3CCreateDistinctIteratorU3Ec__Iterator3_1_t6306  : public Object_t
+struct U3CCreateDistinctIteratorU3Ec__Iterator3_1_t6307  : public Object_t
 {
 	// System.Collections.Generic.IEqualityComparer`1<TSource> System.Linq.Enumerable/<CreateDistinctIterator>c__Iterator3`1<System.String>::comparer
 	Object_t* ___comparer;

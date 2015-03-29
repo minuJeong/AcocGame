@@ -8,4 +8,4 @@
 struct PingWindowsStore_t2390;
 
 // System.Void ExitGames.Client.Photon.PingWindowsStore::.ctor()
- void PingWindowsStore__ctor_m7450 (PingWindowsStore_t2390 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PingWindowsStore__ctor_m7452 (PingWindowsStore_t2390 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<ExitGames.Client.Photon.Lite.EventCaching>
-struct InternalEnumerator_1_t11394 
+struct InternalEnumerator_1_t11395 
 {
 	// System.Array System.Array/InternalEnumerator`1<ExitGames.Client.Photon.Lite.EventCaching>::array
 	Array_t * ___array;

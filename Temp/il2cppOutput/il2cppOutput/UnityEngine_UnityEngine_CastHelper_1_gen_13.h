@@ -7,7 +7,7 @@ struct PickupController_t203;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<PickupController>
-struct CastHelper_1_t4477 
+struct CastHelper_1_t4478 
 {
 	// T UnityEngine.CastHelper`1<PickupController>::t
 	PickupController_t203 * ___t;

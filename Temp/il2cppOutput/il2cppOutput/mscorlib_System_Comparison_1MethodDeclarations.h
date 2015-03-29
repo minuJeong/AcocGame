@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Comparison`1
-struct Comparison_1_t3746;
+struct Comparison_1_t3747;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

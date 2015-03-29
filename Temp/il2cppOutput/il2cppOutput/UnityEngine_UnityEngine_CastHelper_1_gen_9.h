@@ -7,7 +7,7 @@ struct InputToEvent_t349;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<InputToEvent>
-struct CastHelper_1_t4354 
+struct CastHelper_1_t4355 
 {
 	// T UnityEngine.CastHelper`1<InputToEvent>::t
 	InputToEvent_t349 * ___t;

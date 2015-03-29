@@ -5,7 +5,7 @@ struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Guid/GuidParser
-struct GuidParser_t3711  : public Object_t
+struct GuidParser_t3712  : public Object_t
 {
 	// System.String System.Guid/GuidParser::_src
 	String_t* ____src;

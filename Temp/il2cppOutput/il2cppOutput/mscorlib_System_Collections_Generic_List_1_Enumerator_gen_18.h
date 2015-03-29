@@ -7,7 +7,7 @@ struct Hero_t381;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<gamecontext.Hero>
-struct Enumerator_t5127 
+struct Enumerator_t5128 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<gamecontext.Hero>::l
 	List_1_t398 * ___l;

@@ -9,7 +9,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Runtime.Serialization.SerializationCallbacks
-struct SerializationCallbacks_t3551  : public Object_t
+struct SerializationCallbacks_t3552  : public Object_t
 {
 	// System.Collections.ArrayList System.Runtime.Serialization.SerializationCallbacks::onSerializingList
 	ArrayList_t94 * ___onSerializingList;
@@ -20,7 +20,7 @@ struct SerializationCallbacks_t3551  : public Object_t
 	// System.Collections.ArrayList System.Runtime.Serialization.SerializationCallbacks::onDeserializedList
 	ArrayList_t94 * ___onDeserializedList;
 };
-struct SerializationCallbacks_t3551_StaticFields{
+struct SerializationCallbacks_t3552_StaticFields{
 	// System.Collections.Hashtable System.Runtime.Serialization.SerializationCallbacks::cache
 	Hashtable_t48 * ___cache;
 	// System.Object System.Runtime.Serialization.SerializationCallbacks::cache_lock

@@ -5,13 +5,13 @@ struct Object_t;
 // System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile)
 struct Int32_t63;
 // System.Threading.ExecutionContext
-struct ExecutionContext_t3472;
+struct ExecutionContext_t3473;
 // System.Object[]
 struct ObjectU5BU5D_t5;
 // System.MulticastDelegate
 struct MulticastDelegate_t38;
 // System.Security.Principal.IPrincipal
-struct IPrincipal_t3663;
+struct IPrincipal_t3664;
 // System.Collections.Hashtable
 struct Hashtable_t48;
 // System.Runtime.ConstrainedExecution.CriticalFinalizerObject
@@ -23,7 +23,7 @@ struct Hashtable_t48;
 // System.UIntPtr
 #include "mscorlib_System_UIntPtr.h"
 // System.Threading.Thread
-struct Thread_t1419  : public CriticalFinalizerObject_t3425
+struct Thread_t1419  : public CriticalFinalizerObject_t3426
 {
 	// System.Int32 System.Threading.Thread::lock_thread_id
 	int32_t ___lock_thread_id;
@@ -52,7 +52,7 @@ struct Thread_t1419  : public CriticalFinalizerObject_t3425
 	// System.IntPtr System.Threading.Thread::stack_ptr
 	IntPtr_t39 ___stack_ptr;
 	// System.UIntPtr System.Threading.Thread::static_data
-	UIntPtr_t3169  ___static_data;
+	UIntPtr_t3170  ___static_data;
 	// System.IntPtr System.Threading.Thread::jit_data
 	IntPtr_t39 ___jit_data;
 	// System.IntPtr System.Threading.Thread::lock_data
@@ -100,7 +100,7 @@ struct Thread_t1419  : public CriticalFinalizerObject_t3425
 	// System.Object System.Threading.Thread::pending_exception
 	Object_t * ___pending_exception;
 	// System.Threading.ExecutionContext System.Threading.Thread::ec_to_set
-	ExecutionContext_t3472 * ___ec_to_set;
+	ExecutionContext_t3473 * ___ec_to_set;
 	// System.IntPtr System.Threading.Thread::interrupt_on_stop
 	IntPtr_t39 ___interrupt_on_stop;
 	// System.IntPtr System.Threading.Thread::unused3
@@ -132,5 +132,5 @@ struct Thread_t1419_ThreadStaticFields{
 	// System.Object[] System.Threading.Thread::local_slots
 	ObjectU5BU5D_t5* ___local_slots;
 	// System.Threading.ExecutionContext System.Threading.Thread::_ec
-	ExecutionContext_t3472 * ____ec;
+	ExecutionContext_t3473 * ____ec;
 };

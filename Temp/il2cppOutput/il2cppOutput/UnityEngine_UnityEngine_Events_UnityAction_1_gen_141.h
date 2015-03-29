@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<UnityEngine.UI.Selectable>
-struct UnityAction_1_t5579  : public MulticastDelegate_t38
+struct UnityAction_1_t5580  : public MulticastDelegate_t38
 {
 };

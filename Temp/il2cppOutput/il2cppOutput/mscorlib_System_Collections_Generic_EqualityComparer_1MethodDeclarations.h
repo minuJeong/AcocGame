@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.EqualityComparer`1
-struct EqualityComparer_1_t3271;
+struct EqualityComparer_1_t3272;
 // System.Object
 struct Object_t;
 

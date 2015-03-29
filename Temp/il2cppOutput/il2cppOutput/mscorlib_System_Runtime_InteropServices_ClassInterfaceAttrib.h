@@ -5,7 +5,7 @@
 // System.Runtime.InteropServices.ClassInterfaceType
 #include "mscorlib_System_Runtime_InteropServices_ClassInterfaceType.h"
 // System.Runtime.InteropServices.ClassInterfaceAttribute
-struct ClassInterfaceAttribute_t3430  : public Attribute_t862
+struct ClassInterfaceAttribute_t3431  : public Attribute_t862
 {
 	// System.Runtime.InteropServices.ClassInterfaceType System.Runtime.InteropServices.ClassInterfaceAttribute::ciType
 	int32_t ___ciType;

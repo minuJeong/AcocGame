@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Linq.SortSequenceContext`2
-struct SortSequenceContext_2_t2932;
+struct SortSequenceContext_2_t2933;
 // System.Linq.SortDirection
 #include "System_Core_System_Linq_SortDirection.h"
 

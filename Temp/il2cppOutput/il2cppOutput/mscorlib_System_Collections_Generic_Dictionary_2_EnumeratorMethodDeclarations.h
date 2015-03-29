@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Dictionary`2/Enumerator
-struct Enumerator_t3264;
+struct Enumerator_t3265;
 // System.Object
 struct Object_t;
 // System.Collections.DictionaryEntry

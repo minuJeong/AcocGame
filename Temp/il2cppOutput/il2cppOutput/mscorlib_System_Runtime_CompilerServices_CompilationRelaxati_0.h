@@ -5,7 +5,7 @@
 // System.Runtime.CompilerServices.CompilationRelaxations
 #include "mscorlib_System_Runtime_CompilerServices_CompilationRelaxati_0.h"
 // System.Runtime.CompilerServices.CompilationRelaxations
-struct CompilationRelaxations_t3418 
+struct CompilationRelaxations_t3419 
 {
 	// System.Int32 System.Runtime.CompilerServices.CompilationRelaxations::value__
 	int32_t ___value__;

@@ -5,25 +5,25 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>
-struct InternalEnumerator_1_t11462;
+struct InternalEnumerator_1_t11463;
 // System.Object
 struct Object_t;
 // UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard
-struct GcLeaderboard_t2484;
+struct GcLeaderboard_t2485;
 // System.Array
 struct Array_t;
 
 // System.Void System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::.ctor(System.Array)
 // System.Array/InternalEnumerator`1<System.Object>
 #include "mscorlib_System_Array_InternalEnumerator_1_genMethodDeclarations.h"
-#define InternalEnumerator_1__ctor_m84559(__this, ___array, method) (void)InternalEnumerator_1__ctor_m15494_gshared((InternalEnumerator_1_t4053 *)__this, (Array_t *)___array, method)
+#define InternalEnumerator_1__ctor_m84562(__this, ___array, method) (void)InternalEnumerator_1__ctor_m15497_gshared((InternalEnumerator_1_t4054 *)__this, (Array_t *)___array, method)
 // System.Void System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::System.Collections.IEnumerator.Reset()
-#define InternalEnumerator_1_System_Collections_IEnumerator_Reset_m84560(__this, method) (void)InternalEnumerator_1_System_Collections_IEnumerator_Reset_m15495_gshared((InternalEnumerator_1_t4053 *)__this, method)
+#define InternalEnumerator_1_System_Collections_IEnumerator_Reset_m84563(__this, method) (void)InternalEnumerator_1_System_Collections_IEnumerator_Reset_m15498_gshared((InternalEnumerator_1_t4054 *)__this, method)
 // System.Object System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::System.Collections.IEnumerator.get_Current()
-#define InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m84561(__this, method) (Object_t *)InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m15496_gshared((InternalEnumerator_1_t4053 *)__this, method)
+#define InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m84564(__this, method) (Object_t *)InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m15499_gshared((InternalEnumerator_1_t4054 *)__this, method)
 // System.Void System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::Dispose()
-#define InternalEnumerator_1_Dispose_m84562(__this, method) (void)InternalEnumerator_1_Dispose_m15497_gshared((InternalEnumerator_1_t4053 *)__this, method)
+#define InternalEnumerator_1_Dispose_m84565(__this, method) (void)InternalEnumerator_1_Dispose_m15500_gshared((InternalEnumerator_1_t4054 *)__this, method)
 // System.Boolean System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::MoveNext()
-#define InternalEnumerator_1_MoveNext_m84563(__this, method) (bool)InternalEnumerator_1_MoveNext_m15498_gshared((InternalEnumerator_1_t4053 *)__this, method)
+#define InternalEnumerator_1_MoveNext_m84566(__this, method) (bool)InternalEnumerator_1_MoveNext_m15501_gshared((InternalEnumerator_1_t4054 *)__this, method)
 // T System.Array/InternalEnumerator`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::get_Current()
-#define InternalEnumerator_1_get_Current_m84564(__this, method) (GcLeaderboard_t2484 *)InternalEnumerator_1_get_Current_m15499_gshared((InternalEnumerator_1_t4053 *)__this, method)
+#define InternalEnumerator_1_get_Current_m84567(__this, method) (GcLeaderboard_t2485 *)InternalEnumerator_1_get_Current_m15502_gshared((InternalEnumerator_1_t4054 *)__this, method)

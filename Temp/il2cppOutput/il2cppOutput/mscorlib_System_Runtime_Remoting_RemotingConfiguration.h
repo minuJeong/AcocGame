@@ -7,10 +7,10 @@ struct Hashtable_t48;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Runtime.Remoting.RemotingConfiguration
-struct RemotingConfiguration_t3512  : public Object_t
+struct RemotingConfiguration_t3513  : public Object_t
 {
 };
-struct RemotingConfiguration_t3512_StaticFields{
+struct RemotingConfiguration_t3513_StaticFields{
 	// System.String System.Runtime.Remoting.RemotingConfiguration::applicationID
 	String_t* ___applicationID;
 	// System.String System.Runtime.Remoting.RemotingConfiguration::applicationName

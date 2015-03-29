@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Serialization.SerializationEntry
-struct SerializationEntry_t3552;
+struct SerializationEntry_t3553;
 // System.String
 struct String_t;
 // System.Object
@@ -14,8 +14,8 @@ struct Object_t;
 struct Type_t;
 
 // System.Void System.Runtime.Serialization.SerializationEntry::.ctor(System.String,System.Type,System.Object)
- void SerializationEntry__ctor_m13201 (SerializationEntry_t3552 * __this, String_t* ___name, Type_t * ___type, Object_t * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void SerializationEntry__ctor_m13204 (SerializationEntry_t3553 * __this, String_t* ___name, Type_t * ___type, Object_t * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Serialization.SerializationEntry::get_Name()
- String_t* SerializationEntry_get_Name_m13202 (SerializationEntry_t3552 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ String_t* SerializationEntry_get_Name_m13205 (SerializationEntry_t3553 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Runtime.Serialization.SerializationEntry::get_Value()
- Object_t * SerializationEntry_get_Value_m13203 (SerializationEntry_t3552 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * SerializationEntry_get_Value_m13206 (SerializationEntry_t3553 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

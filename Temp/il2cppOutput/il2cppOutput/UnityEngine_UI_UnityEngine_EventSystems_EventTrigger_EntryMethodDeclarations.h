@@ -8,4 +8,4 @@
 struct Entry_t554;
 
 // System.Void UnityEngine.EventSystems.EventTrigger/Entry::.ctor()
- void Entry__ctor_m2827 (Entry_t554 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Entry__ctor_m2829 (Entry_t554 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

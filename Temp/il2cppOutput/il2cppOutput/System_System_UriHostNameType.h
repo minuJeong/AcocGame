@@ -5,7 +5,7 @@
 // System.UriHostNameType
 #include "System_System_UriHostNameType.h"
 // System.UriHostNameType
-struct UriHostNameType_t2831 
+struct UriHostNameType_t2833 
 {
 	// System.Int32 System.UriHostNameType::value__
 	int32_t ___value__;

@@ -3,7 +3,7 @@
 // System.Attribute
 #include "mscorlib_System_Attribute.h"
 // System.Runtime.CompilerServices.DecimalConstantAttribute
-struct DecimalConstantAttribute_t3188  : public Attribute_t862
+struct DecimalConstantAttribute_t3189  : public Attribute_t862
 {
 	// System.Byte System.Runtime.CompilerServices.DecimalConstantAttribute::scale
 	uint8_t ___scale;

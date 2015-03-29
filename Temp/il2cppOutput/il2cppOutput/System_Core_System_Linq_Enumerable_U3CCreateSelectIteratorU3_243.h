@@ -1,19 +1,19 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<System.Collections.Generic.List`1<Parse.ParseGeoPoint>>
-struct IEnumerable_1_t8229;
+struct IEnumerable_1_t8230;
 // System.Collections.Generic.IEnumerator`1<System.Collections.Generic.List`1<Parse.ParseGeoPoint>>
-struct IEnumerator_1_t8230;
+struct IEnumerator_1_t8231;
 // System.Collections.Generic.List`1<Parse.ParseGeoPoint>
 struct List_1_t2209;
 // System.Func`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>
-struct Func_2_t8227;
+struct Func_2_t8228;
 // System.Object
 struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8231  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8232  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::source
 	Object_t* ___source;
@@ -22,7 +22,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8231  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::<element>__1
 	List_1_t2209 * ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::selector
-	Func_2_t8227 * ___selector;
+	Func_2_t8228 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8231  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.List`1<Parse.ParseGeoPoint>,System.Object>::<$>selector
-	Func_2_t8227 * ___U3C$U3Eselector;
+	Func_2_t8228 * ___U3C$U3Eselector;
 };

@@ -7,7 +7,7 @@ struct AudioSource_t49;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.AudioSource>
-struct CastHelper_1_t4228 
+struct CastHelper_1_t4229 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.AudioSource>::t
 	AudioSource_t49 * ___t;

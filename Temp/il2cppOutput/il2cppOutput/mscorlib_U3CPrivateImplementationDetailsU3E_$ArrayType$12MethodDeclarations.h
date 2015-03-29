@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // <PrivateImplementationDetails>/$ArrayType$12
-struct $ArrayType$12_t3759;
+struct $ArrayType$12_t3760;
 

@@ -12,6 +12,6 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo ParseGeoPoint_t1117_il2cpp_TypeInfo;
 // System.Func`2<Parse.ParseGeoPoint,System.Object>
-struct Func_2_t7699  : public MulticastDelegate_t38
+struct Func_2_t7700  : public MulticastDelegate_t38
 {
 };

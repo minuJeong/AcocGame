@@ -1,13 +1,13 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IList`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Single>>
-struct IList_1_t9662;
+struct IList_1_t9663;
 // System.Object
 struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.Collection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Single>>
-struct Collection_1_t9663  : public Object_t
+struct Collection_1_t9664  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.Collection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Single>>::list
 	Object_t* ___list;

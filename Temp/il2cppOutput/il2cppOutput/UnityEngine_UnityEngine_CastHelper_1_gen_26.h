@@ -7,7 +7,7 @@ struct SelectCursor_t384;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<gamecontext.uicontrol.SelectCursor>
-struct CastHelper_1_t5079 
+struct CastHelper_1_t5080 
 {
 	// T UnityEngine.CastHelper`1<gamecontext.uicontrol.SelectCursor>::t
 	SelectCursor_t384 * ___t;

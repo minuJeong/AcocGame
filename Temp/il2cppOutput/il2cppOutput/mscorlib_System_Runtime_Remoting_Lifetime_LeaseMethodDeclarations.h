@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Remoting.Lifetime.Lease
-struct Lease_t3468;
+struct Lease_t3469;
 

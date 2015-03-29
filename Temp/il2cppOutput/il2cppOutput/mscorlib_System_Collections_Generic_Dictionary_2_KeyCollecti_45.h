@@ -5,7 +5,7 @@ struct Dictionary_2_t798;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.Dictionary`2/KeyCollection<UnityEngine.UI.Graphic,System.Int32>
-struct KeyCollection_t5505  : public Object_t
+struct KeyCollection_t5506  : public Object_t
 {
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection<UnityEngine.UI.Graphic,System.Int32>::dictionary
 	Dictionary_2_t798 * ___dictionary;

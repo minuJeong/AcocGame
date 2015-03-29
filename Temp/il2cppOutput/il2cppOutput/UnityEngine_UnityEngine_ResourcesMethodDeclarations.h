@@ -17,7 +17,7 @@ struct Object_t111_marshaled;
 struct String_t;
 
 // UnityEngine.Object[] UnityEngine.Resources::FindObjectsOfTypeAll(System.Type)
- ObjectU5BU5D_t494* Resources_FindObjectsOfTypeAll_m2733 (Object_t * __this/* static, unused */, Type_t * ___type, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ ObjectU5BU5D_t494* Resources_FindObjectsOfTypeAll_m2735 (Object_t * __this/* static, unused */, Type_t * ___type, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Object UnityEngine.Resources::Load(System.String)
  Object_t111 * Resources_Load_m2186 (Object_t * __this/* static, unused */, String_t* ___path, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Object UnityEngine.Resources::Load(System.String,System.Type)

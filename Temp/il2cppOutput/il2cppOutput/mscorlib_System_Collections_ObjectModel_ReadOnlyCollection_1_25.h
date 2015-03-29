@@ -5,7 +5,7 @@ struct IList_1_t598;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.Transform>
-struct ReadOnlyCollection_1_t5258  : public Object_t
+struct ReadOnlyCollection_1_t5259  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.Transform>::list
 	Object_t* ___list;

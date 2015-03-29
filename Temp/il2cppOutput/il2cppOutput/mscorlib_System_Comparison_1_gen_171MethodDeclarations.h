@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,Parse.ParseUser>>>
-struct Comparison_1_t10741;
+struct Comparison_1_t10742;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_103.h"
 
 // System.Void System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,Parse.ParseUser>>>::.ctor(System.Object,System.IntPtr)
- void Comparison_1__ctor_m78651 (Comparison_1_t10741 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Comparison_1__ctor_m78654 (Comparison_1_t10742 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,Parse.ParseUser>>>::Invoke(T,T)
- int32_t Comparison_1_Invoke_m78652 (Comparison_1_t10741 * __this, KeyValuePair_2_t10728  ___x, KeyValuePair_2_t10728  ___y, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Comparison_1_Invoke_m78655 (Comparison_1_t10742 * __this, KeyValuePair_2_t10729  ___x, KeyValuePair_2_t10729  ___y, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,Parse.ParseUser>>>::BeginInvoke(T,T,System.AsyncCallback,System.Object)
- Object_t * Comparison_1_BeginInvoke_m78653 (Comparison_1_t10741 * __this, KeyValuePair_2_t10728  ___x, KeyValuePair_2_t10728  ___y, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Comparison_1_BeginInvoke_m78656 (Comparison_1_t10742 * __this, KeyValuePair_2_t10729  ___x, KeyValuePair_2_t10729  ___y, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IDictionary`2<System.String,Parse.ParseUser>>>::EndInvoke(System.IAsyncResult)
- int32_t Comparison_1_EndInvoke_m78654 (Comparison_1_t10741 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Comparison_1_EndInvoke_m78657 (Comparison_1_t10742 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

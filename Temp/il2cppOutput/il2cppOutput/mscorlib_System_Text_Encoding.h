@@ -1,9 +1,9 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Text.DecoderFallback
-struct DecoderFallback_t3637;
+struct DecoderFallback_t3638;
 // System.Text.EncoderFallback
-struct EncoderFallback_t3644;
+struct EncoderFallback_t3645;
 // System.Reflection.Assembly
 struct Assembly_t147;
 // System.Object[]
@@ -26,9 +26,9 @@ struct Encoding_t1422  : public Object_t
 	// System.Boolean System.Text.Encoding::is_readonly
 	bool ___is_readonly;
 	// System.Text.DecoderFallback System.Text.Encoding::decoder_fallback
-	DecoderFallback_t3637 * ___decoder_fallback;
+	DecoderFallback_t3638 * ___decoder_fallback;
 	// System.Text.EncoderFallback System.Text.Encoding::encoder_fallback
-	EncoderFallback_t3644 * ___encoder_fallback;
+	EncoderFallback_t3645 * ___encoder_fallback;
 	// System.String System.Text.Encoding::body_name
 	String_t* ___body_name;
 	// System.String System.Text.Encoding::encoding_name

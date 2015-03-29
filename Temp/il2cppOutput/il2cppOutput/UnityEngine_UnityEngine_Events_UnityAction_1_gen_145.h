@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Boolean_t64_il2cpp_TypeInfo;
 // UnityEngine.Events.UnityAction`1<System.Boolean>
-struct UnityAction_1_t5641  : public MulticastDelegate_t38
+struct UnityAction_1_t5642  : public MulticastDelegate_t38
 {
 };

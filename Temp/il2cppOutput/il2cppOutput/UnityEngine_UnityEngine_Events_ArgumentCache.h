@@ -8,7 +8,7 @@ struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.Events.ArgumentCache
-struct ArgumentCache_t2623  : public Object_t
+struct ArgumentCache_t2624  : public Object_t
 {
 	// UnityEngine.Object UnityEngine.Events.ArgumentCache::m_ObjectArgument
 	Object_t111 * ___m_ObjectArgument;

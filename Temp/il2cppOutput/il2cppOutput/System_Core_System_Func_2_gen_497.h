@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo KeyValuePair_2_t410_il2cpp_TypeInfo;
 // System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>,System.Collections.Generic.KeyValuePair`2<System.String,System.UInt32>>
-struct Func_2_t9395  : public MulticastDelegate_t38
+struct Func_2_t9396  : public MulticastDelegate_t38
 {
 };

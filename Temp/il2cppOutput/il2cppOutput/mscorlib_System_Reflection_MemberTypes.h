@@ -5,7 +5,7 @@
 // System.Reflection.MemberTypes
 #include "mscorlib_System_Reflection_MemberTypes.h"
 // System.Reflection.MemberTypes
-struct MemberTypes_t3393 
+struct MemberTypes_t3394 
 {
 	// System.Int32 System.Reflection.MemberTypes::value__
 	int32_t ___value__;

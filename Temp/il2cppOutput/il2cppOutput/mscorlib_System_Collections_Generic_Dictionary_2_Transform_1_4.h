@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Collections.Generic.Dictionary`2/Transform`1<System.String,ExitGames.Client.Photon.Chat.ChatChannel,ExitGames.Client.Photon.Chat.ChatChannel>
-struct Transform_1_t4113  : public MulticastDelegate_t38
+struct Transform_1_t4114  : public MulticastDelegate_t38
 {
 };

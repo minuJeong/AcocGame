@@ -3,6 +3,6 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.Security
-struct Security_t2529  : public Object_t
+struct Security_t2530  : public Object_t
 {
 };

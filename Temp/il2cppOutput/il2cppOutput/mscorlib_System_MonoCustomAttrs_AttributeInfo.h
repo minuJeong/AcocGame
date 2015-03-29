@@ -5,7 +5,7 @@ struct AttributeUsageAttribute_t874;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.MonoCustomAttrs/AttributeInfo
-struct AttributeInfo_t3719  : public Object_t
+struct AttributeInfo_t3720  : public Object_t
 {
 	// System.AttributeUsageAttribute System.MonoCustomAttrs/AttributeInfo::_usage
 	AttributeUsageAttribute_t874 * ____usage;

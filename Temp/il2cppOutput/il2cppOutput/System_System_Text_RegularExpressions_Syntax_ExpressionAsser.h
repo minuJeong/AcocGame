@@ -3,7 +3,7 @@
 // System.Text.RegularExpressions.Syntax.Assertion
 #include "System_System_Text_RegularExpressions_Syntax_Assertion.h"
 // System.Text.RegularExpressions.Syntax.ExpressionAssertion
-struct ExpressionAssertion_t2807  : public Assertion_t2805
+struct ExpressionAssertion_t2809  : public Assertion_t2807
 {
 	// System.Boolean System.Text.RegularExpressions.Syntax.ExpressionAssertion::reverse
 	bool ___reverse;

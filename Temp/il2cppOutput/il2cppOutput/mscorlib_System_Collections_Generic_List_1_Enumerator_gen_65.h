@@ -7,7 +7,7 @@ struct ParseACL_t1080;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<Parse.ParseACL>
-struct Enumerator_t7749 
+struct Enumerator_t7750 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<Parse.ParseACL>::l
 	List_1_t2211 * ___l;

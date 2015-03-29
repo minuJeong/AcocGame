@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<PhotonAnimatorView>
-struct CastHelper_1_t4460;
+struct CastHelper_1_t4461;
 

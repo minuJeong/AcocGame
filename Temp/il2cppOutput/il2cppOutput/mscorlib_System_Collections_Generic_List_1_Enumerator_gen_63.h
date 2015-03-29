@@ -7,7 +7,7 @@ struct List_1_t2209;
 // Parse.ParseGeoPoint
 #include "Parse_Unity_Parse_ParseGeoPoint.h"
 // System.Collections.Generic.List`1/Enumerator<Parse.ParseGeoPoint>
-struct Enumerator_t7711 
+struct Enumerator_t7712 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<Parse.ParseGeoPoint>::l
 	List_1_t2209 * ___l;

@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Predicate`1<Facebook.FacebookDelegate>
-struct Predicate_1_t5767  : public MulticastDelegate_t38
+struct Predicate_1_t5768  : public MulticastDelegate_t38
 {
 };

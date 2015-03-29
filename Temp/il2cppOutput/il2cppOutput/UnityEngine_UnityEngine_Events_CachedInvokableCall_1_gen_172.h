@@ -5,7 +5,7 @@ struct ObjectU5BU5D_t5;
 // UnityEngine.Events.InvokableCall`1<UnityEngine.Material>
 #include "UnityEngine_UnityEngine_Events_InvokableCall_1_gen_174.h"
 // UnityEngine.Events.CachedInvokableCall`1<UnityEngine.Material>
-struct CachedInvokableCall_1_t11586  : public InvokableCall_1_t11587
+struct CachedInvokableCall_1_t11587  : public InvokableCall_1_t11588
 {
 	// System.Object[] UnityEngine.Events.CachedInvokableCall`1<UnityEngine.Material>::m_Arg1
 	ObjectU5BU5D_t5* ___m_Arg1;

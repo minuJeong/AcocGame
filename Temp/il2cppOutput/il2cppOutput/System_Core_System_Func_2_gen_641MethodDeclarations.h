@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseRole>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>
-struct Func_2_t10445;
+struct Func_2_t10446;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_92.h"
 
 // System.Void System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseRole>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::.ctor(System.Object,System.IntPtr)
- void Func_2__ctor_m75547 (Func_2_t10445 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Func_2__ctor_m75550 (Func_2_t10446 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TResult System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseRole>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::Invoke(T)
- KeyValuePair_2_t410  Func_2_Invoke_m75548 (Func_2_t10445 * __this, KeyValuePair_2_t10446  ___arg1, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ KeyValuePair_2_t410  Func_2_Invoke_m75551 (Func_2_t10446 * __this, KeyValuePair_2_t10447  ___arg1, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseRole>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Func_2_BeginInvoke_m75549 (Func_2_t10445 * __this, KeyValuePair_2_t10446  ___arg1, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Func_2_BeginInvoke_m75552 (Func_2_t10446 * __this, KeyValuePair_2_t10447  ___arg1, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TResult System.Func`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseRole>>,System.Collections.Generic.KeyValuePair`2<System.String,System.Object>>::EndInvoke(System.IAsyncResult)
- KeyValuePair_2_t410  Func_2_EndInvoke_m75550 (Func_2_t10445 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ KeyValuePair_2_t410  Func_2_EndInvoke_m75553 (Func_2_t10446 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

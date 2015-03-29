@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Dictionary`2/ValueCollection
-struct ValueCollection_t3268;
+struct ValueCollection_t3269;
 // System.Object
 struct Object_t;
 // System.Array

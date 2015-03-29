@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Serialization.OnSerializedAttribute
-struct OnSerializedAttribute_t3548;
+struct OnSerializedAttribute_t3549;
 

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<UnityEngine.SpriteRenderer>
-struct CastHelper_1_t4975;
+struct CastHelper_1_t4976;
 

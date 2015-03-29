@@ -5,15 +5,15 @@ struct Type_t;
 // System.String
 struct String_t;
 // System.Reflection.Emit.TypeBuilder
-struct TypeBuilder_t3364;
+struct TypeBuilder_t3365;
 // System.Reflection.Emit.UnmanagedMarshal
-struct UnmanagedMarshal_t3370;
+struct UnmanagedMarshal_t3371;
 // System.Reflection.FieldInfo
 #include "mscorlib_System_Reflection_FieldInfo.h"
 // System.Reflection.FieldAttributes
 #include "mscorlib_System_Reflection_FieldAttributes.h"
 // System.Reflection.Emit.FieldBuilder
-struct FieldBuilder_t3371  : public FieldInfo_t961
+struct FieldBuilder_t3372  : public FieldInfo_t961
 {
 	// System.Reflection.FieldAttributes System.Reflection.Emit.FieldBuilder::attrs
 	int32_t ___attrs;
@@ -22,7 +22,7 @@ struct FieldBuilder_t3371  : public FieldInfo_t961
 	// System.String System.Reflection.Emit.FieldBuilder::name
 	String_t* ___name;
 	// System.Reflection.Emit.TypeBuilder System.Reflection.Emit.FieldBuilder::typeb
-	TypeBuilder_t3364 * ___typeb;
+	TypeBuilder_t3365 * ___typeb;
 	// System.Reflection.Emit.UnmanagedMarshal System.Reflection.Emit.FieldBuilder::marshal_info
-	UnmanagedMarshal_t3370 * ___marshal_info;
+	UnmanagedMarshal_t3371 * ___marshal_info;
 };

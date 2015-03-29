@@ -11,7 +11,7 @@ struct IDisposable_t89;
 // System.Object
 #include "mscorlib_System_Object.h"
 // Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Boolean,System.Boolean>
-struct U3CGetEnumeratorU3Ed__2_t7118  : public Object_t
+struct U3CGetEnumeratorU3Ed__2_t7119  : public Object_t
 {
 	// TOut Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Boolean,System.Boolean>::<>2__current
 	bool ___U3CU3E2__current;

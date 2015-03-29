@@ -5,7 +5,7 @@
 // System.DateTime/Which
 #include "mscorlib_System_DateTime_Which.h"
 // System.DateTime/Which
-struct Which_t3688 
+struct Which_t3689 
 {
 	// System.Int32 System.DateTime/Which::value__
 	int32_t ___value__;

@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.Events.UnityAction`1<SupportLogging>
-struct UnityAction_1_t5065;
+struct UnityAction_1_t5066;
 // System.Object
 struct Object_t;
 // SupportLogging
@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 // System.Void UnityEngine.Events.UnityAction`1<SupportLogging>::.ctor(System.Object,System.IntPtr)
 // UnityEngine.Events.UnityAction`1<System.Object>
 #include "UnityEngine_UnityEngine_Events_UnityAction_1_gen_6MethodDeclarations.h"
-#define UnityAction_1__ctor_m22210(__this, ___object, ___method, method) (void)UnityAction_1__ctor_m16522_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
+#define UnityAction_1__ctor_m22213(__this, ___object, ___method, method) (void)UnityAction_1__ctor_m16525_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
 // System.Void UnityEngine.Events.UnityAction`1<SupportLogging>::Invoke(T0)
-#define UnityAction_1_Invoke_m22211(__this, ___arg0, method) (void)UnityAction_1_Invoke_m16523_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___arg0, method)
+#define UnityAction_1_Invoke_m22214(__this, ___arg0, method) (void)UnityAction_1_Invoke_m16526_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___arg0, method)
 // System.IAsyncResult UnityEngine.Events.UnityAction`1<SupportLogging>::BeginInvoke(T0,System.AsyncCallback,System.Object)
-#define UnityAction_1_BeginInvoke_m22212(__this, ___arg0, ___callback, ___object, method) (Object_t *)UnityAction_1_BeginInvoke_m16524_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___arg0, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
+#define UnityAction_1_BeginInvoke_m22215(__this, ___arg0, ___callback, ___object, method) (Object_t *)UnityAction_1_BeginInvoke_m16527_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___arg0, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
 // System.Void UnityEngine.Events.UnityAction`1<SupportLogging>::EndInvoke(System.IAsyncResult)
-#define UnityAction_1_EndInvoke_m22213(__this, ___result, method) (void)UnityAction_1_EndInvoke_m16525_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___result, method)
+#define UnityAction_1_EndInvoke_m22216(__this, ___result, method) (void)UnityAction_1_EndInvoke_m16528_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___result, method)

@@ -1,16 +1,16 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.List`1<UnityEngine.GUILayoutEntry>
-struct List_1_t2504;
+struct List_1_t2505;
 // UnityEngine.RectOffset
 struct RectOffset_t422;
 // UnityEngine.GUILayoutEntry
 #include "UnityEngine_UnityEngine_GUILayoutEntry.h"
 // UnityEngine.GUILayoutGroup
-struct GUILayoutGroup_t2500  : public GUILayoutEntry_t2503
+struct GUILayoutGroup_t2501  : public GUILayoutEntry_t2504
 {
 	// System.Collections.Generic.List`1<UnityEngine.GUILayoutEntry> UnityEngine.GUILayoutGroup::entries
-	List_1_t2504 * ___entries;
+	List_1_t2505 * ___entries;
 	// System.Boolean UnityEngine.GUILayoutGroup::isVertical
 	bool ___isVertical;
 	// System.Boolean UnityEngine.GUILayoutGroup::resetCoords

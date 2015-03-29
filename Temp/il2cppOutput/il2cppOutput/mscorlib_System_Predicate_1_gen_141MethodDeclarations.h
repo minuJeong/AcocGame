@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>
-struct Predicate_1_t10026;
+struct Predicate_1_t10027;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_74.h"
 
 // System.Void System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>::.ctor(System.Object,System.IntPtr)
- void Predicate_1__ctor_m71363 (Predicate_1_t10026 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Predicate_1__ctor_m71366 (Predicate_1_t10027 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>::Invoke(T)
- bool Predicate_1_Invoke_m71364 (Predicate_1_t10026 * __this, KeyValuePair_2_t10014  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_Invoke_m71367 (Predicate_1_t10027 * __this, KeyValuePair_2_t10015  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Predicate_1_BeginInvoke_m71365 (Predicate_1_t10026 * __this, KeyValuePair_2_t10014  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Predicate_1_BeginInvoke_m71368 (Predicate_1_t10027 * __this, KeyValuePair_2_t10015  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<Parse.ParseObject>>>::EndInvoke(System.IAsyncResult)
- bool Predicate_1_EndInvoke_m71366 (Predicate_1_t10026 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_EndInvoke_m71369 (Predicate_1_t10027 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

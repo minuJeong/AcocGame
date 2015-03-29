@@ -8,4 +8,4 @@
 struct UIVertex_t668;
 
 // System.Void UnityEngine.UIVertex::.cctor()
- void UIVertex__cctor_m8824 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void UIVertex__cctor_m8827 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;

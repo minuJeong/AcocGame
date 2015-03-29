@@ -5,17 +5,17 @@ struct Dictionary_2_t122;
 // System.Collections.Generic.IEnumerable`1<Parse.ParseObject>
 struct IEnumerable_1_t1056;
 // System.Collections.Generic.IEnumerable`1<System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>>
-struct IEnumerable_1_t6706;
+struct IEnumerable_1_t6707;
 // System.Func`3<Parse.ParseObject,System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>,System.Collections.Generic.Dictionary`2<System.String,System.Object>>
 struct Func_3_t1139;
 // System.Collections.Generic.IEnumerator`1<Parse.ParseObject>
 struct IEnumerator_1_t1407;
 // System.Collections.Generic.IEnumerator`1<System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>>
-struct IEnumerator_1_t6455;
+struct IEnumerator_1_t6456;
 // System.Object
 #include "mscorlib_System_Object.h"
 // Parse.Internal.MissingExtensions/<Zip>d__9`3<Parse.ParseObject,System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>,System.Collections.Generic.Dictionary`2<System.String,System.Object>>
-struct U3CZipU3Ed__9_3_t6725  : public Object_t
+struct U3CZipU3Ed__9_3_t6726  : public Object_t
 {
 	// TResult Parse.Internal.MissingExtensions/<Zip>d__9`3<Parse.ParseObject,System.Collections.Generic.IDictionary`2<System.String,Parse.Internal.IParseFieldOperation>,System.Collections.Generic.Dictionary`2<System.String,System.Object>>::<>2__current
 	Dictionary_2_t122 * ___U3CU3E2__current;

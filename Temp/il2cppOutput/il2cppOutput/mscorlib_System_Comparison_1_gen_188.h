@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Comparison`1<ExitGames.Client.Photon.NCommand>
-struct Comparison_1_t11383  : public MulticastDelegate_t38
+struct Comparison_1_t11384  : public MulticastDelegate_t38
 {
 };

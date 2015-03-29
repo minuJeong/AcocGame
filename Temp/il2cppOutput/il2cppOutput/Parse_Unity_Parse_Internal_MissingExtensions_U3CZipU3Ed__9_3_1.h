@@ -11,7 +11,7 @@ struct IEnumerator_1_t88;
 // System.Object
 #include "mscorlib_System_Object.h"
 // Parse.Internal.MissingExtensions/<Zip>d__9`3<System.Object,System.Object,System.Object>
-struct U3CZipU3Ed__9_3_t6722  : public Object_t
+struct U3CZipU3Ed__9_3_t6723  : public Object_t
 {
 	// TResult Parse.Internal.MissingExtensions/<Zip>d__9`3<System.Object,System.Object,System.Object>::<>2__current
 	Object_t * ___U3CU3E2__current;

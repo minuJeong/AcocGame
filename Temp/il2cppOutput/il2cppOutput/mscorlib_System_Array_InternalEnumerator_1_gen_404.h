@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<Facebook.MiniJSON.Json/Parser/TOKEN>
-struct InternalEnumerator_1_t5801 
+struct InternalEnumerator_1_t5802 
 {
 	// System.Array System.Array/InternalEnumerator`1<Facebook.MiniJSON.Json/Parser/TOKEN>::array
 	Array_t * ___array;

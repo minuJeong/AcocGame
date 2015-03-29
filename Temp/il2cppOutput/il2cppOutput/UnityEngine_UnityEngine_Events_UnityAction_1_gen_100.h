@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<ServerTime>
-struct UnityAction_1_t5044  : public MulticastDelegate_t38
+struct UnityAction_1_t5045  : public MulticastDelegate_t38
 {
 };

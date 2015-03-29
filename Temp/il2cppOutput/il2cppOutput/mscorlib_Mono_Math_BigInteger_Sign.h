@@ -5,7 +5,7 @@
 // Mono.Math.BigInteger/Sign
 #include "mscorlib_Mono_Math_BigInteger_Sign.h"
 // Mono.Math.BigInteger/Sign
-struct Sign_t3228 
+struct Sign_t3229 
 {
 	// System.Int32 Mono.Math.BigInteger/Sign::value__
 	int32_t ___value__;

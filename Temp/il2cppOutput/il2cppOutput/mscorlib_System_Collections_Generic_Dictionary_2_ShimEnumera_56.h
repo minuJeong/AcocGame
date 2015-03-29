@@ -5,8 +5,8 @@
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,Parse.ParseACL>
 #include "mscorlib_System_Collections_Generic_Dictionary_2_Enumerator__55.h"
 // System.Collections.Generic.Dictionary`2/ShimEnumerator<System.String,Parse.ParseACL>
-struct ShimEnumerator_t8904  : public Object_t
+struct ShimEnumerator_t8905  : public Object_t
 {
 	// System.Collections.Generic.Dictionary`2/Enumerator<TKey,TValue> System.Collections.Generic.Dictionary`2/ShimEnumerator<System.String,Parse.ParseACL>::host_enumerator
-	Enumerator_t8898  ___host_enumerator;
+	Enumerator_t8899  ___host_enumerator;
 };

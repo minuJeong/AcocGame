@@ -9,17 +9,17 @@ struct NumberFormatInfo_t870;
 // System.Globalization.DateTimeFormatInfo modreq(System.Runtime.CompilerServices.IsVolatile)
 struct DateTimeFormatInfo_t954;
 // System.Globalization.TextInfo modreq(System.Runtime.CompilerServices.IsVolatile)
-struct TextInfo_t3219;
+struct TextInfo_t3220;
 // System.String
 struct String_t;
 // System.Globalization.CompareInfo modreq(System.Runtime.CompilerServices.IsVolatile)
-struct CompareInfo_t3286;
+struct CompareInfo_t3287;
 // System.Globalization.Calendar[]
-struct CalendarU5BU5D_t3318;
+struct CalendarU5BU5D_t3319;
 // System.Globalization.CultureInfo
 struct CultureInfo_t872;
 // System.Globalization.Calendar
-struct Calendar_t3313;
+struct Calendar_t3314;
 // System.Byte[]
 struct ByteU5BU5D_t21;
 // System.Collections.Hashtable
@@ -52,7 +52,7 @@ struct CultureInfo_t872  : public Object_t
 	// System.Globalization.DateTimeFormatInfo modreq(System.Runtime.CompilerServices.IsVolatile) System.Globalization.CultureInfo::dateTimeInfo
 	DateTimeFormatInfo_t954 * ___dateTimeInfo;
 	// System.Globalization.TextInfo modreq(System.Runtime.CompilerServices.IsVolatile) System.Globalization.CultureInfo::textInfo
-	TextInfo_t3219 * ___textInfo;
+	TextInfo_t3220 * ___textInfo;
 	// System.String System.Globalization.CultureInfo::m_name
 	String_t* ___m_name;
 	// System.String System.Globalization.CultureInfo::displayname
@@ -72,19 +72,19 @@ struct CultureInfo_t872  : public Object_t
 	// System.String System.Globalization.CultureInfo::territory
 	String_t* ___territory;
 	// System.Globalization.CompareInfo modreq(System.Runtime.CompilerServices.IsVolatile) System.Globalization.CultureInfo::compareInfo
-	CompareInfo_t3286 * ___compareInfo;
+	CompareInfo_t3287 * ___compareInfo;
 	// System.Int32* System.Globalization.CultureInfo::calendar_data
 	int32_t* ___calendar_data;
 	// System.Void* System.Globalization.CultureInfo::textinfo_data
 	void* ___textinfo_data;
 	// System.Globalization.Calendar[] System.Globalization.CultureInfo::optional_calendars
-	CalendarU5BU5D_t3318* ___optional_calendars;
+	CalendarU5BU5D_t3319* ___optional_calendars;
 	// System.Globalization.CultureInfo System.Globalization.CultureInfo::parent_culture
 	CultureInfo_t872 * ___parent_culture;
 	// System.Int32 System.Globalization.CultureInfo::m_dataItem
 	int32_t ___m_dataItem;
 	// System.Globalization.Calendar System.Globalization.CultureInfo::calendar
-	Calendar_t3313 * ___calendar;
+	Calendar_t3314 * ___calendar;
 	// System.Boolean System.Globalization.CultureInfo::constructed
 	bool ___constructed;
 	// System.Byte[] System.Globalization.CultureInfo::cached_serialized_form

@@ -5,7 +5,7 @@
 // System.Globalization.CompareOptions
 #include "mscorlib_System_Globalization_CompareOptions.h"
 // System.Globalization.CompareOptions
-struct CompareOptions_t3317 
+struct CompareOptions_t3318 
 {
 	// System.Int32 System.Globalization.CompareOptions::value__
 	int32_t ___value__;

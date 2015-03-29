@@ -7,7 +7,7 @@ struct MethodInfo_t292;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<System.Reflection.MethodInfo>
-struct Enumerator_t4697 
+struct Enumerator_t4698 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Reflection.MethodInfo>::l
 	List_1_t483 * ___l;

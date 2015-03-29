@@ -3,6 +3,6 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.ComponentModel.TypeConverter
-struct TypeConverter_t2749  : public Object_t
+struct TypeConverter_t2751  : public Object_t
 {
 };

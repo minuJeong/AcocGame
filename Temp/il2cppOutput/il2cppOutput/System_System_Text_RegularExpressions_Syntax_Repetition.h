@@ -3,7 +3,7 @@
 // System.Text.RegularExpressions.Syntax.CompositeExpression
 #include "System_System_Text_RegularExpressions_Syntax_CompositeExpres.h"
 // System.Text.RegularExpressions.Syntax.Repetition
-struct Repetition_t2816  : public CompositeExpression_t2812
+struct Repetition_t2818  : public CompositeExpression_t2814
 {
 	// System.Int32 System.Text.RegularExpressions.Syntax.Repetition::min
 	int32_t ___min;

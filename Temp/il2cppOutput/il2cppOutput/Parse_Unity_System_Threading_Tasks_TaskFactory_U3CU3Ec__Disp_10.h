@@ -9,7 +9,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Threading.Tasks.TaskFactory/<>c__DisplayClass4`3<System.Byte[],System.Int32,System.Int32>
-struct U3CU3Ec__DisplayClass4_3_t6103  : public Object_t
+struct U3CU3Ec__DisplayClass4_3_t6104  : public Object_t
 {
 	// System.Func`6<TArg1,TArg2,TArg3,System.AsyncCallback,System.Object,System.IAsyncResult> System.Threading.Tasks.TaskFactory/<>c__DisplayClass4`3<System.Byte[],System.Int32,System.Int32>::beginMethod
 	Func_6_t1310 * ___beginMethod;

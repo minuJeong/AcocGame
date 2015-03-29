@@ -7,7 +7,7 @@ struct JsonData_t537;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<LitJson.JsonData>
-struct Enumerator_t5814 
+struct Enumerator_t5815 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<LitJson.JsonData>::l
 	List_1_t932 * ___l;

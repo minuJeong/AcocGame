@@ -5,7 +5,7 @@
 // System.Globalization.DateTimeStyles
 #include "mscorlib_System_Globalization_DateTimeStyles.h"
 // System.Globalization.DateTimeStyles
-struct DateTimeStyles_t3320 
+struct DateTimeStyles_t3321 
 {
 	// System.Int32 System.Globalization.DateTimeStyles::value__
 	int32_t ___value__;

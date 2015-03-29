@@ -12,6 +12,6 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Byte_t68_il2cpp_TypeInfo;
 // System.Func`2<System.Byte,System.Object>
-struct Func_2_t7054  : public MulticastDelegate_t38
+struct Func_2_t7055  : public MulticastDelegate_t38
 {
 };

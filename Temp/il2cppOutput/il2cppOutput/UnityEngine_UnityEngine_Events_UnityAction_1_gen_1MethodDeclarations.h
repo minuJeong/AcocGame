@@ -20,10 +20,10 @@ struct AsyncCallback_t35;
 // System.Void UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.UIVertex>>::.ctor(System.Object,System.IntPtr)
 // UnityEngine.Events.UnityAction`1<System.Object>
 #include "UnityEngine_UnityEngine_Events_UnityAction_1_gen_6MethodDeclarations.h"
-#define UnityAction_1__ctor_m4201(__this, ___object, ___method, method) (void)UnityAction_1__ctor_m16522_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
+#define UnityAction_1__ctor_m4203(__this, ___object, ___method, method) (void)UnityAction_1__ctor_m16525_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___object, (IntPtr_t39)___method, method)
 // System.Void UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.UIVertex>>::Invoke(T0)
-#define UnityAction_1_Invoke_m25319(__this, ___arg0, method) (void)UnityAction_1_Invoke_m16523_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___arg0, method)
+#define UnityAction_1_Invoke_m25322(__this, ___arg0, method) (void)UnityAction_1_Invoke_m16526_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___arg0, method)
 // System.IAsyncResult UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.UIVertex>>::BeginInvoke(T0,System.AsyncCallback,System.Object)
-#define UnityAction_1_BeginInvoke_m25320(__this, ___arg0, ___callback, ___object, method) (Object_t *)UnityAction_1_BeginInvoke_m16524_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___arg0, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
+#define UnityAction_1_BeginInvoke_m25323(__this, ___arg0, ___callback, ___object, method) (Object_t *)UnityAction_1_BeginInvoke_m16527_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___arg0, (AsyncCallback_t35 *)___callback, (Object_t *)___object, method)
 // System.Void UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.UIVertex>>::EndInvoke(System.IAsyncResult)
-#define UnityAction_1_EndInvoke_m25321(__this, ___result, method) (void)UnityAction_1_EndInvoke_m16525_gshared((UnityAction_1_t4182 *)__this, (Object_t *)___result, method)
+#define UnityAction_1_EndInvoke_m25324(__this, ___result, method) (void)UnityAction_1_EndInvoke_m16528_gshared((UnityAction_1_t4183 *)__this, (Object_t *)___result, method)

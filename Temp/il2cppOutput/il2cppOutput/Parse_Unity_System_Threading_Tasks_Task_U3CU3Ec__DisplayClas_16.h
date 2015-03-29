@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Threading.Tasks.TaskCompletionSource`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>
-struct TaskCompletionSource_1_t6410;
+struct TaskCompletionSource_1_t6411;
 // System.Func`2<System.Threading.Tasks.Task,System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>
 struct Func_2_t1434;
 // System.Object
@@ -9,10 +9,10 @@ struct Func_2_t1434;
 // System.Threading.CancellationTokenRegistration
 #include "Parse_Unity_System_Threading_CancellationTokenRegistration.h"
 // System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>
-struct U3CU3Ec__DisplayClass3_1_t6411  : public Object_t
+struct U3CU3Ec__DisplayClass3_1_t6412  : public Object_t
 {
 	// System.Threading.Tasks.TaskCompletionSource`1<T> System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::tcs
-	TaskCompletionSource_1_t6410 * ___tcs;
+	TaskCompletionSource_1_t6411 * ___tcs;
 	// System.Threading.CancellationTokenRegistration System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::cancellation
 	CancellationTokenRegistration_t1227  ___cancellation;
 	// System.Func`2<System.Threading.Tasks.Task,T> System.Threading.Tasks.Task/<>c__DisplayClass3`1<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>>::continuation

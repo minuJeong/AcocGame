@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Queue
-struct Queue_t2758;
+struct Queue_t2760;
 // System.Threading.Thread
 struct Thread_t1419;
 // System.Object
@@ -15,12 +15,12 @@ struct Thread_t1419;
 // System.Net.Sockets.ProtocolType
 #include "System_System_Net_Sockets_ProtocolType.h"
 // System.Net.Sockets.Socket
-struct Socket_t2759  : public Object_t
+struct Socket_t2761  : public Object_t
 {
 	// System.Collections.Queue System.Net.Sockets.Socket::readQ
-	Queue_t2758 * ___readQ;
+	Queue_t2760 * ___readQ;
 	// System.Collections.Queue System.Net.Sockets.Socket::writeQ
-	Queue_t2758 * ___writeQ;
+	Queue_t2760 * ___writeQ;
 	// System.Int32 System.Net.Sockets.Socket::MinListenPort
 	int32_t ___MinListenPort;
 	// System.Int32 System.Net.Sockets.Socket::MaxListenPort
@@ -48,7 +48,7 @@ struct Socket_t2759  : public Object_t
 	// System.Boolean System.Net.Sockets.Socket::disposed
 	bool ___disposed;
 };
-struct Socket_t2759_StaticFields{
+struct Socket_t2761_StaticFields{
 	// System.Int32 System.Net.Sockets.Socket::ipv4Supported
 	int32_t ___ipv4Supported;
 	// System.Int32 System.Net.Sockets.Socket::ipv6Supported

@@ -3,7 +3,7 @@
 // System.Void
 struct Void_t40;
 // UnityEngine.RenderTexture
-struct RenderTexture_t2488;
+struct RenderTexture_t2489;
 // System.IAsyncResult
 struct IAsyncResult_t34;
 // System.AsyncCallback
@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<UnityEngine.RenderTexture>
-struct UnityAction_1_t11492  : public MulticastDelegate_t38
+struct UnityAction_1_t11493  : public MulticastDelegate_t38
 {
 };

@@ -7,7 +7,7 @@ struct ParseUser_t391;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<Parse.ParseUser>
-struct Enumerator_t6872 
+struct Enumerator_t6873 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<Parse.ParseUser>::l
 	List_1_t2212 * ___l;

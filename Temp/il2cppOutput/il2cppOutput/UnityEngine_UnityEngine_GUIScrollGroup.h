@@ -5,7 +5,7 @@ struct GUIStyle_t138;
 // UnityEngine.GUILayoutGroup
 #include "UnityEngine_UnityEngine_GUILayoutGroup.h"
 // UnityEngine.GUIScrollGroup
-struct GUIScrollGroup_t2505  : public GUILayoutGroup_t2500
+struct GUIScrollGroup_t2506  : public GUILayoutGroup_t2501
 {
 	// System.Single UnityEngine.GUIScrollGroup::calcMinWidth
 	float ___calcMinWidth;

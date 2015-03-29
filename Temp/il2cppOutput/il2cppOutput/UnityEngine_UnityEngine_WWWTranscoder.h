@@ -5,10 +5,10 @@ struct ByteU5BU5D_t21;
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.WWWTranscoder
-struct WWWTranscoder_t2534  : public Object_t
+struct WWWTranscoder_t2535  : public Object_t
 {
 };
-struct WWWTranscoder_t2534_StaticFields{
+struct WWWTranscoder_t2535_StaticFields{
 	// System.Byte[] UnityEngine.WWWTranscoder::ucHexChars
 	ByteU5BU5D_t21* ___ucHexChars;
 	// System.Byte[] UnityEngine.WWWTranscoder::lcHexChars

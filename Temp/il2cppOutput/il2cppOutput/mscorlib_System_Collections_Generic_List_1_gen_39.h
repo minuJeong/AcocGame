@@ -5,7 +5,7 @@ struct AggregateExceptionU5BU5D_t2241;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.List`1<System.AggregateException>
-struct List_1_t11315  : public Object_t
+struct List_1_t11316  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1<System.AggregateException>::_items
 	AggregateExceptionU5BU5D_t2241* ____items;
@@ -14,7 +14,7 @@ struct List_1_t11315  : public Object_t
 	// System.Int32 System.Collections.Generic.List`1<System.AggregateException>::_version
 	int32_t ____version;
 };
-struct List_1_t11315_StaticFields{
+struct List_1_t11316_StaticFields{
 	// System.Int32 System.Collections.Generic.List`1<System.AggregateException>::DefaultCapacity
 	int32_t ___DefaultCapacity;
 	// T[] System.Collections.Generic.List`1<System.AggregateException>::EmptyArray

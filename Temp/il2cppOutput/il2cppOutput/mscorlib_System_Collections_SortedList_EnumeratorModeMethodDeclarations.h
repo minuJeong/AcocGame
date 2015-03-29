@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.SortedList/EnumeratorMode
-struct EnumeratorMode_t3298;
+struct EnumeratorMode_t3299;
 

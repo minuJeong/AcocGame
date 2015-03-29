@@ -9,7 +9,7 @@ struct Hashtable_t48;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Text.RegularExpressions.QuickSearch
-struct QuickSearch_t2795  : public Object_t
+struct QuickSearch_t2797  : public Object_t
 {
 	// System.String System.Text.RegularExpressions.QuickSearch::str
 	String_t* ___str;
@@ -24,7 +24,7 @@ struct QuickSearch_t2795  : public Object_t
 	// System.Collections.Hashtable System.Text.RegularExpressions.QuickSearch::shiftExtended
 	Hashtable_t48 * ___shiftExtended;
 };
-struct QuickSearch_t2795_StaticFields{
+struct QuickSearch_t2797_StaticFields{
 	// System.Int32 System.Text.RegularExpressions.QuickSearch::THRESHOLD
 	int32_t ___THRESHOLD;
 };

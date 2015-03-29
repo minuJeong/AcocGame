@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.ImagePosition
-struct ImagePosition_t2517;
+struct ImagePosition_t2518;
 

@@ -13,7 +13,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.String,System.Object>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6296  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6297  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.String,System.Object>::source
 	Object_t* ___source;

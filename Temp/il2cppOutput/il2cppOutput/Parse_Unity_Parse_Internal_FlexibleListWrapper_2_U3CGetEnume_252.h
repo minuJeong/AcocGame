@@ -13,7 +13,7 @@ struct IDisposable_t89;
 // System.Object
 #include "mscorlib_System_Object.h"
 // Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseObject>,System.Object>
-struct U3CGetEnumeratorU3Ed__2_t8495  : public Object_t
+struct U3CGetEnumeratorU3Ed__2_t8496  : public Object_t
 {
 	// TOut Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Collections.Generic.IDictionary`2<System.String,Parse.ParseObject>,System.Object>::<>2__current
 	Object_t* ___U3CU3E2__current;

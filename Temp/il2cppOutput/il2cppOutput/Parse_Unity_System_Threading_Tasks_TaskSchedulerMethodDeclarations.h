@@ -12,10 +12,10 @@ struct SynchronizationContext_t1275;
 struct Action_t1220;
 
 // System.Void System.Threading.Tasks.TaskScheduler::.ctor(System.Threading.SynchronizationContext)
- void TaskScheduler__ctor_m6088 (TaskScheduler_t1271 * __this, SynchronizationContext_t1275 * ___context, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void TaskScheduler__ctor_m6090 (TaskScheduler_t1271 * __this, SynchronizationContext_t1275 * ___context, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Threading.Tasks.TaskScheduler::Post(System.Action)
- void TaskScheduler_Post_m6089 (TaskScheduler_t1271 * __this, Action_t1220 * ___action, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void TaskScheduler_Post_m6091 (TaskScheduler_t1271 * __this, Action_t1220 * ___action, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Threading.Tasks.TaskScheduler System.Threading.Tasks.TaskScheduler::FromCurrentSynchronizationContext()
- TaskScheduler_t1271 * TaskScheduler_FromCurrentSynchronizationContext_m6090 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ TaskScheduler_t1271 * TaskScheduler_FromCurrentSynchronizationContext_m6092 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Threading.Tasks.TaskScheduler::.cctor()
- void TaskScheduler__cctor_m6091 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void TaskScheduler__cctor_m6093 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;

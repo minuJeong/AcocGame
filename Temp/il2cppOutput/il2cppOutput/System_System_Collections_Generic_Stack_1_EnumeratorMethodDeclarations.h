@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Stack`1/Enumerator
-struct Enumerator_t2746;
+struct Enumerator_t2748;
 // System.Object
 struct Object_t;
 

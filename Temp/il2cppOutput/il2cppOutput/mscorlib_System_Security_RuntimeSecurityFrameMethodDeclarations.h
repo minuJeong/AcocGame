@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Security.RuntimeSecurityFrame
-struct RuntimeSecurityFrame_t3630;
+struct RuntimeSecurityFrame_t3631;
 

@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Func`2<System.Int32,System.Boolean>
-struct Func_2_t7131;
+struct Func_2_t7132;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -16,10 +16,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.Func`2<System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
- void Func_2__ctor_m38597 (Func_2_t7131 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Func_2__ctor_m38600 (Func_2_t7132 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TResult System.Func`2<System.Int32,System.Boolean>::Invoke(T)
- bool Func_2_Invoke_m38598 (Func_2_t7131 * __this, int32_t ___arg1, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Func_2_Invoke_m38601 (Func_2_t7132 * __this, int32_t ___arg1, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Func`2<System.Int32,System.Boolean>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Func_2_BeginInvoke_m38599 (Func_2_t7131 * __this, int32_t ___arg1, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Func_2_BeginInvoke_m38602 (Func_2_t7132 * __this, int32_t ___arg1, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TResult System.Func`2<System.Int32,System.Boolean>::EndInvoke(System.IAsyncResult)
- bool Func_2_EndInvoke_m38600 (Func_2_t7131 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Func_2_EndInvoke_m38603 (Func_2_t7132 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

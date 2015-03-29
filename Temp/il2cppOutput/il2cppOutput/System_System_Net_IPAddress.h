@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.UInt16[]
-struct UInt16U5BU5D_t2765;
+struct UInt16U5BU5D_t2767;
 // System.Net.IPAddress
 struct IPAddress_t519;
 // System.Object
@@ -16,7 +16,7 @@ struct IPAddress_t519  : public Object_t
 	// System.Net.Sockets.AddressFamily System.Net.IPAddress::m_Family
 	int32_t ___m_Family;
 	// System.UInt16[] System.Net.IPAddress::m_Numbers
-	UInt16U5BU5D_t2765* ___m_Numbers;
+	UInt16U5BU5D_t2767* ___m_Numbers;
 	// System.Int64 System.Net.IPAddress::m_ScopeId
 	int64_t ___m_ScopeId;
 };

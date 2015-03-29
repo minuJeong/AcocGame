@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<System.Runtime.CompilerServices.ConditionalWeakTable`2/Reference<System.Object,System.IComparable>>
-struct InternalEnumerator_1_t6208 
+struct InternalEnumerator_1_t6209 
 {
 	// System.Array System.Array/InternalEnumerator`1<System.Runtime.CompilerServices.ConditionalWeakTable`2/Reference<System.Object,System.IComparable>>::array
 	Array_t * ___array;

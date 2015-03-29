@@ -7,7 +7,7 @@ struct RoomItemButton_t387;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<gamecontext.uicontrol.RoomItemButton>
-struct CastHelper_1_t5105 
+struct CastHelper_1_t5106 
 {
 	// T UnityEngine.CastHelper`1<gamecontext.uicontrol.RoomItemButton>::t
 	RoomItemButton_t387 * ___t;

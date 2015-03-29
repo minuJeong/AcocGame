@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<UnityEngine.GUILayer>
-struct CastHelper_1_t11802;
+struct CastHelper_1_t11803;
 

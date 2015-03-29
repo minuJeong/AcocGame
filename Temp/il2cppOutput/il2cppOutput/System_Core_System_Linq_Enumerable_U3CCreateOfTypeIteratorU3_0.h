@@ -9,7 +9,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateOfTypeIterator>c__IteratorC`1<System.Object>
-struct U3CCreateOfTypeIteratorU3Ec__IteratorC_1_t6550  : public Object_t
+struct U3CCreateOfTypeIteratorU3Ec__IteratorC_1_t6551  : public Object_t
 {
 	// System.Collections.IEnumerable System.Linq.Enumerable/<CreateOfTypeIterator>c__IteratorC`1<System.Object>::source
 	Object_t * ___source;

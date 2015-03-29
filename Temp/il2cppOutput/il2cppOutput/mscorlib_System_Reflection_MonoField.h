@@ -13,12 +13,12 @@ struct Type_t;
 // System.Reflection.FieldAttributes
 #include "mscorlib_System_Reflection_FieldAttributes.h"
 // System.Reflection.MonoField
-struct MonoField_t3400  : public FieldInfo_t961
+struct MonoField_t3401  : public FieldInfo_t961
 {
 	// System.IntPtr System.Reflection.MonoField::klass
 	IntPtr_t39 ___klass;
 	// System.RuntimeFieldHandle System.Reflection.MonoField::fhandle
-	RuntimeFieldHandle_t3181  ___fhandle;
+	RuntimeFieldHandle_t3182  ___fhandle;
 	// System.String System.Reflection.MonoField::name
 	String_t* ___name;
 	// System.Type System.Reflection.MonoField::type

@@ -5,7 +5,7 @@
 // System.StringComparison
 #include "mscorlib_System_StringComparison.h"
 // System.StringComparison
-struct StringComparison_t3736 
+struct StringComparison_t3737 
 {
 	// System.Int32 System.StringComparison::value__
 	int32_t ___value__;

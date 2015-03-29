@@ -3,13 +3,13 @@
 // System.Int32[]
 struct Int32U5BU5D_t257;
 // System.Collections.Generic.Link[]
-struct LinkU5BU5D_t3908;
+struct LinkU5BU5D_t3909;
 // System.Object[]
 struct ObjectU5BU5D_t5;
 // System.Collections.Generic.IEqualityComparer`1<System.Object>
 struct IEqualityComparer_1_t1041;
 // System.Runtime.Serialization.SerializationInfo
-struct SerializationInfo_t2614;
+struct SerializationInfo_t2615;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Object,System.Object,System.Collections.DictionaryEntry>
 struct Transform_1_t2416;
 // System.Object
@@ -20,7 +20,7 @@ struct Dictionary_2_t473  : public Object_t
 	// System.Int32[] System.Collections.Generic.Dictionary`2<System.Object,System.Object>::table
 	Int32U5BU5D_t257* ___table;
 	// System.Collections.Generic.Link[] System.Collections.Generic.Dictionary`2<System.Object,System.Object>::linkSlots
-	LinkU5BU5D_t3908* ___linkSlots;
+	LinkU5BU5D_t3909* ___linkSlots;
 	// TKey[] System.Collections.Generic.Dictionary`2<System.Object,System.Object>::keySlots
 	ObjectU5BU5D_t5* ___keySlots;
 	// TValue[] System.Collections.Generic.Dictionary`2<System.Object,System.Object>::valueSlots
@@ -36,7 +36,7 @@ struct Dictionary_2_t473  : public Object_t
 	// System.Collections.Generic.IEqualityComparer`1<TKey> System.Collections.Generic.Dictionary`2<System.Object,System.Object>::hcp
 	Object_t* ___hcp;
 	// System.Runtime.Serialization.SerializationInfo System.Collections.Generic.Dictionary`2<System.Object,System.Object>::serialization_info
-	SerializationInfo_t2614 * ___serialization_info;
+	SerializationInfo_t2615 * ___serialization_info;
 	// System.Int32 System.Collections.Generic.Dictionary`2<System.Object,System.Object>::generation
 	int32_t ___generation;
 };

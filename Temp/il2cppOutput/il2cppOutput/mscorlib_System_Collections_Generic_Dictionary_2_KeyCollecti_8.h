@@ -8,5 +8,5 @@
 struct Enumerator_t2433 
 {
 	// System.Collections.Generic.Dictionary`2/Enumerator<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<System.Int32,ExitGames.Client.Photon.NCommand>::host_enumerator
-	Enumerator_t11339  ___host_enumerator;
+	Enumerator_t11340  ___host_enumerator;
 };

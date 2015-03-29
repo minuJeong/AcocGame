@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.ComponentModel.PropertyChangedEventHandler::.ctor(System.Object,System.IntPtr)
- void PropertyChangedEventHandler__ctor_m9762 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PropertyChangedEventHandler__ctor_m9766 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.ComponentModel.PropertyChangedEventHandler::Invoke(System.Object,System.ComponentModel.PropertyChangedEventArgs)
- void PropertyChangedEventHandler_Invoke_m9763 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___sender, PropertyChangedEventArgs_t1519 * ___e, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PropertyChangedEventHandler_Invoke_m9767 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___sender, PropertyChangedEventArgs_t1519 * ___e, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.ComponentModel.PropertyChangedEventHandler::BeginInvoke(System.Object,System.ComponentModel.PropertyChangedEventArgs,System.AsyncCallback,System.Object)
- Object_t * PropertyChangedEventHandler_BeginInvoke_m9764 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___sender, PropertyChangedEventArgs_t1519 * ___e, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * PropertyChangedEventHandler_BeginInvoke_m9768 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___sender, PropertyChangedEventArgs_t1519 * ___e, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.ComponentModel.PropertyChangedEventHandler::EndInvoke(System.IAsyncResult)
- void PropertyChangedEventHandler_EndInvoke_m9765 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PropertyChangedEventHandler_EndInvoke_m9769 (PropertyChangedEventHandler_t1175 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

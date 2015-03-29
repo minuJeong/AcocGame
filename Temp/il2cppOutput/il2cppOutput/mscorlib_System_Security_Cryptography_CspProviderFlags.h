@@ -5,7 +5,7 @@
 // System.Security.Cryptography.CspProviderFlags
 #include "mscorlib_System_Security_Cryptography_CspProviderFlags.h"
 // System.Security.Cryptography.CspProviderFlags
-struct CspProviderFlags_t3567 
+struct CspProviderFlags_t3568 
 {
 	// System.Int32 System.Security.Cryptography.CspProviderFlags::value__
 	int32_t ___value__;

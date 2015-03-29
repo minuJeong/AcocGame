@@ -5,7 +5,7 @@
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // System.Security.RuntimeDeclSecurityEntry
-struct RuntimeDeclSecurityEntry_t3629 
+struct RuntimeDeclSecurityEntry_t3630 
 {
 	// System.IntPtr System.Security.RuntimeDeclSecurityEntry::blob
 	IntPtr_t39 ___blob;

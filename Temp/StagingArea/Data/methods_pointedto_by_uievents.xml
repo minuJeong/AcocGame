@@ -1,8 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="gamecontext.connection.Login">
-			<method name="GuestLogin"/>
-			<method name="FacebookLogin"/>
-		</type>
-	</assembly>
-</linker>

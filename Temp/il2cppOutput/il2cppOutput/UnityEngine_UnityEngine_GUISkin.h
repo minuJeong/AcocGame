@@ -7,11 +7,11 @@ struct GUIStyle_t138;
 // UnityEngine.GUIStyle[]
 struct GUIStyleU5BU5D_t456;
 // UnityEngine.GUISettings
-struct GUISettings_t2512;
+struct GUISettings_t2513;
 // System.Collections.Generic.Dictionary`2<System.String,UnityEngine.GUIStyle>
-struct Dictionary_2_t2514;
+struct Dictionary_2_t2515;
 // UnityEngine.GUISkin/SkinChangedDelegate
-struct SkinChangedDelegate_t2513;
+struct SkinChangedDelegate_t2514;
 // UnityEngine.GUISkin
 struct GUISkin_t137;
 // UnityEngine.ScriptableObject
@@ -64,15 +64,15 @@ struct GUISkin_t137  : public ScriptableObject_t151
 	// UnityEngine.GUIStyle[] UnityEngine.GUISkin::m_CustomStyles
 	GUIStyleU5BU5D_t456* ___m_CustomStyles;
 	// UnityEngine.GUISettings UnityEngine.GUISkin::m_Settings
-	GUISettings_t2512 * ___m_Settings;
+	GUISettings_t2513 * ___m_Settings;
 	// System.Collections.Generic.Dictionary`2<System.String,UnityEngine.GUIStyle> UnityEngine.GUISkin::styles
-	Dictionary_2_t2514 * ___styles;
+	Dictionary_2_t2515 * ___styles;
 };
 struct GUISkin_t137_StaticFields{
 	// UnityEngine.GUIStyle UnityEngine.GUISkin::ms_Error
 	GUIStyle_t138 * ___ms_Error;
 	// UnityEngine.GUISkin/SkinChangedDelegate UnityEngine.GUISkin::m_SkinChanged
-	SkinChangedDelegate_t2513 * ___m_SkinChanged;
+	SkinChangedDelegate_t2514 * ___m_SkinChanged;
 	// UnityEngine.GUISkin UnityEngine.GUISkin::current
 	GUISkin_t137 * ___current;
 };

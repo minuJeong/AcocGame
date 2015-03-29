@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.FocusType
-struct FocusType_t2509;
+struct FocusType_t2510;
 

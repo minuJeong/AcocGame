@@ -5,7 +5,7 @@
 // System.Text.RegularExpressions.Interpreter/Mode
 #include "System_System_Text_RegularExpressions_Interpreter_Mode.h"
 // System.Text.RegularExpressions.Interpreter/Mode
-struct Mode_t2794 
+struct Mode_t2796 
 {
 	// System.Int32 System.Text.RegularExpressions.Interpreter/Mode::value__
 	int32_t ___value__;

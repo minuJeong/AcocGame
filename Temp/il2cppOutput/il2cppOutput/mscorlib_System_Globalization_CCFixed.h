@@ -3,6 +3,6 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Globalization.CCFixed
-struct CCFixed_t3315  : public Object_t
+struct CCFixed_t3316  : public Object_t
 {
 };

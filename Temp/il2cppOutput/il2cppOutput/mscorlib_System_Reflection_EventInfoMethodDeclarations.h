@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Reflection.EventInfo
-struct EventInfo_t3180;
+struct EventInfo_t3181;
 // System.Type
 struct Type_t;
 // System.Reflection.MethodInfo
@@ -16,10 +16,10 @@ struct MethodInfo_t292;
 #include "mscorlib_System_Reflection_MemberTypes.h"
 
 // System.Void System.Reflection.EventInfo::.ctor()
- void EventInfo__ctor_m12589 (EventInfo_t3180 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void EventInfo__ctor_m12592 (EventInfo_t3181 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Reflection.EventAttributes System.Reflection.EventInfo::get_Attributes()
 // System.Type System.Reflection.EventInfo::get_EventHandlerType()
- Type_t * EventInfo_get_EventHandlerType_m12590 (EventInfo_t3180 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Type_t * EventInfo_get_EventHandlerType_m12593 (EventInfo_t3181 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Reflection.MemberTypes System.Reflection.EventInfo::get_MemberType()
- int32_t EventInfo_get_MemberType_m12591 (EventInfo_t3180 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t EventInfo_get_MemberType_m12594 (EventInfo_t3181 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Reflection.MethodInfo System.Reflection.EventInfo::GetAddMethod(System.Boolean)

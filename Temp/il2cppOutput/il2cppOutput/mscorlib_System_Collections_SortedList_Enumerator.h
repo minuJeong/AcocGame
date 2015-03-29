@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.SortedList
-struct SortedList_t3299;
+struct SortedList_t3300;
 // System.Object
 struct Object_t;
 // System.String
@@ -11,10 +11,10 @@ struct String_t;
 // System.Collections.SortedList/EnumeratorMode
 #include "mscorlib_System_Collections_SortedList_EnumeratorMode.h"
 // System.Collections.SortedList/Enumerator
-struct Enumerator_t3300  : public Object_t
+struct Enumerator_t3301  : public Object_t
 {
 	// System.Collections.SortedList System.Collections.SortedList/Enumerator::host
-	SortedList_t3299 * ___host;
+	SortedList_t3300 * ___host;
 	// System.Int32 System.Collections.SortedList/Enumerator::stamp
 	int32_t ___stamp;
 	// System.Int32 System.Collections.SortedList/Enumerator::pos
@@ -30,7 +30,7 @@ struct Enumerator_t3300  : public Object_t
 	// System.Boolean System.Collections.SortedList/Enumerator::invalid
 	bool ___invalid;
 };
-struct Enumerator_t3300_StaticFields{
+struct Enumerator_t3301_StaticFields{
 	// System.String System.Collections.SortedList/Enumerator::xstr
 	String_t* ___xstr;
 };

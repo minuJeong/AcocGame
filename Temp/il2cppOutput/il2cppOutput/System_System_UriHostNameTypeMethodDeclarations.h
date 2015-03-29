@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.UriHostNameType
-struct UriHostNameType_t2831;
+struct UriHostNameType_t2833;
 

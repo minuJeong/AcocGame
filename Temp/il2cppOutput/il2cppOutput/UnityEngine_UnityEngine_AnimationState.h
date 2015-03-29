@@ -3,6 +3,6 @@
 // UnityEngine.TrackedReference
 #include "UnityEngine_UnityEngine_TrackedReference.h"
 // UnityEngine.AnimationState
-struct AnimationState_t459  : public TrackedReference_t2570
+struct AnimationState_t459  : public TrackedReference_t2571
 {
 };

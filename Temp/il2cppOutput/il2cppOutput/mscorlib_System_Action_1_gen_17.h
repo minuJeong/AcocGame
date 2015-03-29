@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Boolean_t64_il2cpp_TypeInfo;
 // System.Action`1<System.Boolean>
-struct Action_1_t2462  : public MulticastDelegate_t38
+struct Action_1_t2463  : public MulticastDelegate_t38
 {
 };

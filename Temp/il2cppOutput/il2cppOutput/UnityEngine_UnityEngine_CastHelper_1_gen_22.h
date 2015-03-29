@@ -7,7 +7,7 @@ struct myThirdPersonController_t235;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<myThirdPersonController>
-struct CastHelper_1_t4625 
+struct CastHelper_1_t4626 
 {
 	// T UnityEngine.CastHelper`1<myThirdPersonController>::t
 	myThirdPersonController_t235 * ___t;

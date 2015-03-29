@@ -5,7 +5,7 @@ struct TextReader_t877;
 // System.IO.TextReader
 #include "mscorlib_System_IO_TextReader.h"
 // System.IO.SynchronizedReader
-struct SynchronizedReader_t3355  : public TextReader_t877
+struct SynchronizedReader_t3356  : public TextReader_t877
 {
 	// System.IO.TextReader System.IO.SynchronizedReader::reader
 	TextReader_t877 * ___reader;

@@ -13,7 +13,7 @@ struct String_t;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Object>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_0.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>,System.String>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6370  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6371  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Object>,System.String>::source
 	Object_t* ___source;

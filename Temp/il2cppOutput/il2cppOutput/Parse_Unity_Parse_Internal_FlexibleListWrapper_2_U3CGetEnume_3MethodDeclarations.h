@@ -5,21 +5,21 @@
 #include "codegen/il2cpp-codegen.h"
 
 // Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>
-struct U3CGetEnumeratorU3Ed__2_t7062;
+struct U3CGetEnumeratorU3Ed__2_t7063;
 // System.Object
 struct Object_t;
 
 // System.Boolean Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::MoveNext()
- bool U3CGetEnumeratorU3Ed__2_MoveNext_m37908 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool U3CGetEnumeratorU3Ed__2_MoveNext_m37911 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TOut Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::System.Collections.Generic.IEnumerator<TOut>.get_Current()
- Object_t * U3CGetEnumeratorU3Ed__2_System_Collections_Generic_IEnumeratorU3CTOutU3E_get_Current_m37909 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * U3CGetEnumeratorU3Ed__2_System_Collections_Generic_IEnumeratorU3CTOutU3E_get_Current_m37912 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::System.Collections.IEnumerator.Reset()
- void U3CGetEnumeratorU3Ed__2_System_Collections_IEnumerator_Reset_m37910 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CGetEnumeratorU3Ed__2_System_Collections_IEnumerator_Reset_m37913 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::System.IDisposable.Dispose()
- void U3CGetEnumeratorU3Ed__2_System_IDisposable_Dispose_m37911 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CGetEnumeratorU3Ed__2_System_IDisposable_Dispose_m37914 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::System.Collections.IEnumerator.get_Current()
- Object_t * U3CGetEnumeratorU3Ed__2_System_Collections_IEnumerator_get_Current_m37912 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * U3CGetEnumeratorU3Ed__2_System_Collections_IEnumerator_get_Current_m37915 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::.ctor(System.Int32)
- void U3CGetEnumeratorU3Ed__2__ctor_m37913 (U3CGetEnumeratorU3Ed__2_t7062 * __this, int32_t ___U3CU3E1__state, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CGetEnumeratorU3Ed__2__ctor_m37916 (U3CGetEnumeratorU3Ed__2_t7063 * __this, int32_t ___U3CU3E1__state, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Parse.Internal.FlexibleListWrapper`2/<GetEnumerator>d__2<System.Object,System.SByte>::<>m__Finally6()
- void U3CGetEnumeratorU3Ed__2_U3CU3Em__Finally6_m37914 (U3CGetEnumeratorU3Ed__2_t7062 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CGetEnumeratorU3Ed__2_U3CU3Em__Finally6_m37917 (U3CGetEnumeratorU3Ed__2_t7063 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

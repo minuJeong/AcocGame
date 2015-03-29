@@ -7,7 +7,7 @@ struct Dictionary_2_t2396;
 // System.Collections.Generic.KeyValuePair`2<System.Byte,ExitGames.Client.Photon.CustomType>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_122.h"
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Byte,ExitGames.Client.Photon.CustomType>
-struct Enumerator_t11429 
+struct Enumerator_t11430 
 {
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator<System.Byte,ExitGames.Client.Photon.CustomType>::dictionary
 	Dictionary_2_t2396 * ___dictionary;
@@ -16,5 +16,5 @@ struct Enumerator_t11429
 	// System.Int32 System.Collections.Generic.Dictionary`2/Enumerator<System.Byte,ExitGames.Client.Photon.CustomType>::stamp
 	int32_t ___stamp;
 	// System.Collections.Generic.KeyValuePair`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator<System.Byte,ExitGames.Client.Photon.CustomType>::current
-	KeyValuePair_2_t11427  ___current;
+	KeyValuePair_2_t11428  ___current;
 };

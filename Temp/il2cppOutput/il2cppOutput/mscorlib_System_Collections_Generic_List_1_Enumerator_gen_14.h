@@ -5,7 +5,7 @@ struct List_1_t487;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<System.Byte>
-struct Enumerator_t4842 
+struct Enumerator_t4843 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Byte>::l
 	List_1_t487 * ___l;

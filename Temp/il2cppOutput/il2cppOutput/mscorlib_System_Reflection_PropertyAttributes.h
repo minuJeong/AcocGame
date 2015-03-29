@@ -5,7 +5,7 @@
 // System.Reflection.PropertyAttributes
 #include "mscorlib_System_Reflection_PropertyAttributes.h"
 // System.Reflection.PropertyAttributes
-struct PropertyAttributes_t3413 
+struct PropertyAttributes_t3414 
 {
 	// System.Int32 System.Reflection.PropertyAttributes::value__
 	int32_t ___value__;

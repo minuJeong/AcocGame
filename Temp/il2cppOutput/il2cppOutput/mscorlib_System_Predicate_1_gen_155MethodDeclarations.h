@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseGeoPoint>>>
-struct Predicate_1_t10362;
+struct Predicate_1_t10363;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_88.h"
 
 // System.Void System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseGeoPoint>>>::.ctor(System.Object,System.IntPtr)
- void Predicate_1__ctor_m74765 (Predicate_1_t10362 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Predicate_1__ctor_m74768 (Predicate_1_t10363 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseGeoPoint>>>::Invoke(T)
- bool Predicate_1_Invoke_m74766 (Predicate_1_t10362 * __this, KeyValuePair_2_t10350  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_Invoke_m74769 (Predicate_1_t10363 * __this, KeyValuePair_2_t10351  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseGeoPoint>>>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Predicate_1_BeginInvoke_m74767 (Predicate_1_t10362 * __this, KeyValuePair_2_t10350  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Predicate_1_BeginInvoke_m74770 (Predicate_1_t10363 * __this, KeyValuePair_2_t10351  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<Parse.ParseGeoPoint>>>::EndInvoke(System.IAsyncResult)
- bool Predicate_1_EndInvoke_m74768 (Predicate_1_t10362 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_EndInvoke_m74771 (Predicate_1_t10363 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

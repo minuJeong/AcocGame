@@ -5,7 +5,7 @@
 // UnityEngine.SocialPlatforms.UserState
 #include "UnityEngine_UnityEngine_SocialPlatforms_UserState.h"
 // UnityEngine.SocialPlatforms.UserState
-struct UserState_t2606 
+struct UserState_t2607 
 {
 	// System.Int32 UnityEngine.SocialPlatforms.UserState::value__
 	int32_t ___value__;

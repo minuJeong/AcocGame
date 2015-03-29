@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.HashSet`1/Enumerator
-struct Enumerator_t2884;
+struct Enumerator_t2885;
 // System.Object
 struct Object_t;
 

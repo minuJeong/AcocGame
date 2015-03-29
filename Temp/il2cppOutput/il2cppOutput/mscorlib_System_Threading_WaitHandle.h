@@ -1,16 +1,16 @@
 ﻿#pragma once
 #include <stdint.h>
 // Microsoft.Win32.SafeHandles.SafeWaitHandle
-struct SafeWaitHandle_t3200;
+struct SafeWaitHandle_t3201;
 // System.MarshalByRefObject
 #include "mscorlib_System_MarshalByRefObject.h"
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // System.Threading.WaitHandle
-struct WaitHandle_t2430  : public MarshalByRefObject_t3194
+struct WaitHandle_t2430  : public MarshalByRefObject_t3195
 {
 	// Microsoft.Win32.SafeHandles.SafeWaitHandle System.Threading.WaitHandle::safe_wait_handle
-	SafeWaitHandle_t3200 * ___safe_wait_handle;
+	SafeWaitHandle_t3201 * ___safe_wait_handle;
 	// System.Boolean System.Threading.WaitHandle::disposed
 	bool ___disposed;
 };

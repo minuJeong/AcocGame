@@ -3,7 +3,7 @@
 // System.Void
 struct Void_t40;
 // UnityEngine.UserAuthorizationDialog
-struct UserAuthorizationDialog_t2642;
+struct UserAuthorizationDialog_t2643;
 // System.IAsyncResult
 struct IAsyncResult_t34;
 // System.AsyncCallback
@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<UnityEngine.UserAuthorizationDialog>
-struct UnityAction_1_t11881  : public MulticastDelegate_t38
+struct UnityAction_1_t11882  : public MulticastDelegate_t38
 {
 };

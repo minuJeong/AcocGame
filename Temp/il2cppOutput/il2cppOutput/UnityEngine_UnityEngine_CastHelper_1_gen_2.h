@@ -7,7 +7,7 @@ struct Renderer_t102;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.Renderer>
-struct CastHelper_1_t4226 
+struct CastHelper_1_t4227 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.Renderer>::t
 	Renderer_t102 * ___t;

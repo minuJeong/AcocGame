@@ -5,7 +5,7 @@
 // System.Diagnostics.DebuggableAttribute/DebuggingModes
 #include "mscorlib_System_Diagnostics_DebuggableAttribute_DebuggingMod.h"
 // System.Diagnostics.DebuggableAttribute/DebuggingModes
-struct DebuggingModes_t3307 
+struct DebuggingModes_t3308 
 {
 	// System.Int32 System.Diagnostics.DebuggableAttribute/DebuggingModes::value__
 	int32_t ___value__;

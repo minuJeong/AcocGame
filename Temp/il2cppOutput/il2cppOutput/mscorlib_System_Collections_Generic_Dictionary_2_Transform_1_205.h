@@ -16,6 +16,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Single_t36_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.String,System.Single,System.Collections.Generic.KeyValuePair`2<System.String,System.Single>>
-struct Transform_1_t8672  : public MulticastDelegate_t38
+struct Transform_1_t8673  : public MulticastDelegate_t38
 {
 };

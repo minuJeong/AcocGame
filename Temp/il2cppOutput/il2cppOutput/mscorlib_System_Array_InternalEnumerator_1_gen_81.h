@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<Facebook.EditorFacebookLoader>
-struct InternalEnumerator_1_t4298 
+struct InternalEnumerator_1_t4299 
 {
 	// System.Array System.Array/InternalEnumerator`1<Facebook.EditorFacebookLoader>::array
 	Array_t * ___array;

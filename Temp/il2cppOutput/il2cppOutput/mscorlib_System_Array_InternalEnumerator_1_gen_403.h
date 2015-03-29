@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<Facebook.IntegratedPluginCanvasLocation>
-struct InternalEnumerator_1_t5797 
+struct InternalEnumerator_1_t5798 
 {
 	// System.Array System.Array/InternalEnumerator`1<Facebook.IntegratedPluginCanvasLocation>::array
 	Array_t * ___array;

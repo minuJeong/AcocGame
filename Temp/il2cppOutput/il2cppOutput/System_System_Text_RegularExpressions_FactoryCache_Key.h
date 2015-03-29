@@ -7,7 +7,7 @@ struct String_t;
 // System.Text.RegularExpressions.RegexOptions
 #include "System_System_Text_RegularExpressions_RegexOptions.h"
 // System.Text.RegularExpressions.FactoryCache/Key
-struct Key_t2779  : public Object_t
+struct Key_t2781  : public Object_t
 {
 	// System.String System.Text.RegularExpressions.FactoryCache/Key::pattern
 	String_t* ___pattern;

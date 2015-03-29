@@ -12,8 +12,8 @@ struct Object_t;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
-extern TypeInfo StreamingContext_t2615_il2cpp_TypeInfo;
+extern TypeInfo StreamingContext_t2616_il2cpp_TypeInfo;
 // System.Runtime.Serialization.SerializationCallbacks/CallbackHandler
-struct CallbackHandler_t3550  : public MulticastDelegate_t38
+struct CallbackHandler_t3551  : public MulticastDelegate_t38
 {
 };

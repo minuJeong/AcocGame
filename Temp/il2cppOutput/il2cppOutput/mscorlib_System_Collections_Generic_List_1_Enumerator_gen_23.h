@@ -7,7 +7,7 @@ struct Entry_t554;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.EventSystems.EventTrigger/Entry>
-struct Enumerator_t5245 
+struct Enumerator_t5246 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<UnityEngine.EventSystems.EventTrigger/Entry>::l
 	List_1_t555 * ___l;

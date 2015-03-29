@@ -10,4 +10,4 @@ struct PropertyChangedEventArgs_t1519;
 struct String_t;
 
 // System.Void System.ComponentModel.PropertyChangedEventArgs::.ctor(System.String)
- void PropertyChangedEventArgs__ctor_m6721 (PropertyChangedEventArgs_t1519 * __this, String_t* ___name, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PropertyChangedEventArgs__ctor_m6723 (PropertyChangedEventArgs_t1519 * __this, String_t* ___name, MethodInfo* method) IL2CPP_METHOD_ATTR;

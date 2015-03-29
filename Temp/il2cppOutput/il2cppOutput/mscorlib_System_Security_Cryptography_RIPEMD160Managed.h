@@ -7,7 +7,7 @@ struct UInt32U5BU5D_t2344;
 // System.Security.Cryptography.RIPEMD160
 #include "mscorlib_System_Security_Cryptography_RIPEMD160.h"
 // System.Security.Cryptography.RIPEMD160Managed
-struct RIPEMD160Managed_t3592  : public RIPEMD160_t3591
+struct RIPEMD160Managed_t3593  : public RIPEMD160_t3592
 {
 	// System.Byte[] System.Security.Cryptography.RIPEMD160Managed::_ProcessingBuffer
 	ByteU5BU5D_t21* ____ProcessingBuffer;

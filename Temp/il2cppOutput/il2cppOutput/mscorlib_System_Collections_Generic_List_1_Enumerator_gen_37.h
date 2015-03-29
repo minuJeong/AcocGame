@@ -7,7 +7,7 @@ struct List_1_t937;
 // System.Collections.Generic.KeyValuePair`2<System.String,LitJson.JsonData>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_5.h"
 // System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.String,LitJson.JsonData>>
-struct Enumerator_t5835 
+struct Enumerator_t5836 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Collections.Generic.KeyValuePair`2<System.String,LitJson.JsonData>>::l
 	List_1_t937 * ___l;

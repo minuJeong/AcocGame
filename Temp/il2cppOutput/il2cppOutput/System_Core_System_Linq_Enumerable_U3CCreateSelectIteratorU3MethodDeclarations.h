@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t2920;
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t2921;
 // System.Object
 struct Object_t;
 // System.Collections.IEnumerator

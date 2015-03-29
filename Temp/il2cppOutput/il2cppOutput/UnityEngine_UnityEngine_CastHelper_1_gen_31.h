@@ -7,7 +7,7 @@ struct EventSystem_t547;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.EventSystems.EventSystem>
-struct CastHelper_1_t5276 
+struct CastHelper_1_t5277 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.EventSystems.EventSystem>::t
 	EventSystem_t547 * ___t;

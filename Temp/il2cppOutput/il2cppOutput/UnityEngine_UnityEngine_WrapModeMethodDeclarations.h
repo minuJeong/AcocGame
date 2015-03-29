@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.WrapMode
-struct WrapMode_t2564;
+struct WrapMode_t2565;
 

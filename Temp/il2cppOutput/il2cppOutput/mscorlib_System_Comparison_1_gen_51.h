@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo SByte_t65_il2cpp_TypeInfo;
 // System.Comparison`1<System.SByte>
-struct Comparison_1_t7197  : public MulticastDelegate_t38
+struct Comparison_1_t7198  : public MulticastDelegate_t38
 {
 };

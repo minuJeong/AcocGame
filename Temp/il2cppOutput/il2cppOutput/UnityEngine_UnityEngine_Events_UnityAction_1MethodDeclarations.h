@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.Events.UnityAction`1
-struct UnityAction_1_t2648;
+struct UnityAction_1_t2649;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo KeyValuePair_2_t930_il2cpp_TypeInfo;
 // System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,LitJson.JsonData>>
-struct Predicate_1_t5833  : public MulticastDelegate_t38
+struct Predicate_1_t5834  : public MulticastDelegate_t38
 {
 };

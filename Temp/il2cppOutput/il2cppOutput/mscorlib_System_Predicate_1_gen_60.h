@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo ParseGeoPoint_t1117_il2cpp_TypeInfo;
 // System.Predicate`1<Parse.ParseGeoPoint>
-struct Predicate_1_t7709  : public MulticastDelegate_t38
+struct Predicate_1_t7710  : public MulticastDelegate_t38
 {
 };

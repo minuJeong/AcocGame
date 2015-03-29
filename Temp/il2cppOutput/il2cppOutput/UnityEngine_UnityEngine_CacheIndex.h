@@ -5,7 +5,7 @@ struct String_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // UnityEngine.CacheIndex
-struct CacheIndex_t2535 
+struct CacheIndex_t2536 
 {
 	// System.String UnityEngine.CacheIndex::name
 	String_t* ___name;
@@ -15,7 +15,7 @@ struct CacheIndex_t2535
 	int32_t ___expires;
 };
 // Native definition for marshalling of: UnityEngine.CacheIndex
-struct CacheIndex_t2535_marshaled
+struct CacheIndex_t2536_marshaled
 {
 	char* ___name;
 	int32_t ___bytesUsed;

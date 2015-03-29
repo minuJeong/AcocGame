@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<Facebook.AndroidFacebook>
-struct CastHelper_1_t4281;
+struct CastHelper_1_t4282;
 

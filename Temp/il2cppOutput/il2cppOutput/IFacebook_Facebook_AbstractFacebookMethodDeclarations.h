@@ -42,7 +42,7 @@ struct FBResult_t134;
 // System.Void Facebook.AbstractFacebook::.ctor()
  void AbstractFacebook__ctor_m1968 (AbstractFacebook_t118 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Facebook.AbstractFacebook::Awake()
- void AbstractFacebook_Awake_m4608 (AbstractFacebook_t118 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void AbstractFacebook_Awake_m4610 (AbstractFacebook_t118 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Facebook.AbstractFacebook::OnAwake()
 // System.Boolean Facebook.AbstractFacebook::get_IsInitialized()
  bool AbstractFacebook_get_IsInitialized_m2024 (AbstractFacebook_t118 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
@@ -92,6 +92,6 @@ struct FBResult_t134;
 // System.Void Facebook.AbstractFacebook::OnFacebookResponse(System.String,FBResult)
  void AbstractFacebook_OnFacebookResponse_m1984 (AbstractFacebook_t118 * __this, String_t* ___uniqueId, FBResult_t134 * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Collections.Generic.Dictionary`2<System.String,System.String> Facebook.AbstractFacebook::CopyByValue(System.Collections.Generic.Dictionary`2<System.String,System.String>)
- Dictionary_2_t123 * AbstractFacebook_CopyByValue_m4609 (AbstractFacebook_t118 * __this, Dictionary_2_t123 * ___data, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Dictionary_2_t123 * AbstractFacebook_CopyByValue_m4611 (AbstractFacebook_t118 * __this, Dictionary_2_t123 * ___data, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String Facebook.AbstractFacebook::GetGraphUrl(System.String)
- String_t* AbstractFacebook_GetGraphUrl_m4610 (AbstractFacebook_t118 * __this, String_t* ___query, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ String_t* AbstractFacebook_GetGraphUrl_m4612 (AbstractFacebook_t118 * __this, String_t* ___query, MethodInfo* method) IL2CPP_METHOD_ATTR;

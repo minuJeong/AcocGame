@@ -3,7 +3,7 @@
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Text.RegularExpressions.Interval
-struct Interval_t2798 
+struct Interval_t2800 
 {
 	// System.Int32 System.Text.RegularExpressions.Interval::low
 	int32_t ___low;
@@ -13,7 +13,7 @@ struct Interval_t2798
 	bool ___contiguous;
 };
 // Native definition for marshalling of: System.Text.RegularExpressions.Interval
-struct Interval_t2798_marshaled
+struct Interval_t2800_marshaled
 {
 	int32_t ___low;
 	int32_t ___high;

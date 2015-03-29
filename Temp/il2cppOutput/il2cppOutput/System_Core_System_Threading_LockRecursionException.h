@@ -3,6 +3,6 @@
 // System.Exception
 #include "mscorlib_System_Exception.h"
 // System.Threading.LockRecursionException
-struct LockRecursionException_t2933  : public Exception_t107
+struct LockRecursionException_t2934  : public Exception_t107
 {
 };

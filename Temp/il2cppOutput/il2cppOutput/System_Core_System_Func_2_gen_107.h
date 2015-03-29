@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<Parse.ParseRole>
-struct IEnumerable_1_t6886;
+struct IEnumerable_1_t6887;
 // System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>
 struct Task_1_t1099;
 // System.IAsyncResult
@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Func`2<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>,System.Collections.Generic.IEnumerable`1<Parse.ParseRole>>
-struct Func_2_t6891  : public MulticastDelegate_t38
+struct Func_2_t6892  : public MulticastDelegate_t38
 {
 };

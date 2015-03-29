@@ -8,5 +8,5 @@
 struct Enumerator_t480 
 {
 	// System.Collections.Generic.Dictionary`2/Enumerator<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<System.Int32,PhotonPlayer>::host_enumerator
-	Enumerator_t4644  ___host_enumerator;
+	Enumerator_t4645  ___host_enumerator;
 };

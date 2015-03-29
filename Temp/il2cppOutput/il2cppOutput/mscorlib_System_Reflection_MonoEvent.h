@@ -5,7 +5,7 @@
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // System.Reflection.MonoEvent
-struct MonoEvent_t3399  : public EventInfo_t3180
+struct MonoEvent_t3400  : public EventInfo_t3181
 {
 	// System.IntPtr System.Reflection.MonoEvent::klass
 	IntPtr_t39 ___klass;

@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Func`2<Parse.ParseSession,System.Boolean>
-struct Func_2_t6988  : public MulticastDelegate_t38
+struct Func_2_t6989  : public MulticastDelegate_t38
 {
 };

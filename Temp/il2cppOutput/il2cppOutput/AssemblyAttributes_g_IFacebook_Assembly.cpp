@@ -6,7 +6,7 @@ extern TypeInfo FBBuildVersionAttribute_t426_il2cpp_TypeInfo;
 #include "IFacebook_Facebook_FBBuildVersionAttribute.h"
 // Facebook.FBBuildVersionAttribute
 #include "IFacebook_Facebook_FBBuildVersionAttributeMethodDeclarations.h"
-extern MethodInfo FBBuildVersionAttribute__ctor_m4630_MethodInfo;
+extern MethodInfo FBBuildVersionAttribute__ctor_m4632_MethodInfo;
 extern TypeInfo RuntimeCompatibilityAttribute_t113_il2cpp_TypeInfo;
 // System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
 #include "mscorlib_System_Runtime_CompilerServices_RuntimeCompatibilit.h"
@@ -19,7 +19,7 @@ void g_IFacebook_Assembly_CustomAttributesCacheGenerator(CustomAttributesCache* 
 	{
 		FBBuildVersionAttribute_t426 * tmp;
 		tmp = (FBBuildVersionAttribute_t426 *)il2cpp_codegen_object_new (&FBBuildVersionAttribute_t426_il2cpp_TypeInfo);
-		FBBuildVersionAttribute__ctor_m4630(tmp, il2cpp_codegen_string_new_wrapper("6.0.0"), il2cpp_codegen_string_new_wrapper("140805.da738911cf62c00"), &FBBuildVersionAttribute__ctor_m4630_MethodInfo);
+		FBBuildVersionAttribute__ctor_m4632(tmp, il2cpp_codegen_string_new_wrapper("6.0.0"), il2cpp_codegen_string_new_wrapper("140805.da738911cf62c00"), &FBBuildVersionAttribute__ctor_m4632_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 	{

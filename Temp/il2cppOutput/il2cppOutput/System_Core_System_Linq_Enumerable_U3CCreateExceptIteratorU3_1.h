@@ -13,7 +13,7 @@ struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateExceptIterator>c__Iterator4`1<System.String>
-struct U3CCreateExceptIteratorU3Ec__Iterator4_1_t6298  : public Object_t
+struct U3CCreateExceptIteratorU3Ec__Iterator4_1_t6299  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateExceptIterator>c__Iterator4`1<System.String>::second
 	Object_t* ___second;

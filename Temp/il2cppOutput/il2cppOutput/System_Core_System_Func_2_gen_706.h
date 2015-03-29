@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Func`2<System.Threading.Tasks.Task,System.Int64>
-struct Func_2_t11179  : public MulticastDelegate_t38
+struct Func_2_t11180  : public MulticastDelegate_t38
 {
 };

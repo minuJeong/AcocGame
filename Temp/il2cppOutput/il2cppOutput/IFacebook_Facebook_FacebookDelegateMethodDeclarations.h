@@ -22,6 +22,6 @@ struct AsyncCallback_t35;
 // System.Void Facebook.FacebookDelegate::Invoke(FBResult)
  void FacebookDelegate_Invoke_m2008 (FacebookDelegate_t115 * __this, FBResult_t134 * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult Facebook.FacebookDelegate::BeginInvoke(FBResult,System.AsyncCallback,System.Object)
- Object_t * FacebookDelegate_BeginInvoke_m4680 (FacebookDelegate_t115 * __this, FBResult_t134 * ___result, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * FacebookDelegate_BeginInvoke_m4682 (FacebookDelegate_t115 * __this, FBResult_t134 * ___result, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Facebook.FacebookDelegate::EndInvoke(System.IAsyncResult)
- void FacebookDelegate_EndInvoke_m4681 (FacebookDelegate_t115 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FacebookDelegate_EndInvoke_m4683 (FacebookDelegate_t115 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

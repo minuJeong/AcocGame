@@ -8,4 +8,4 @@
 struct WriterContext_t918;
 
 // System.Void LitJson.WriterContext::.ctor()
- void WriterContext__ctor_m5006 (WriterContext_t918 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void WriterContext__ctor_m5008 (WriterContext_t918 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

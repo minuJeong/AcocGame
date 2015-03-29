@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.AttributeTargets
-struct AttributeTargets_t3684;
+struct AttributeTargets_t3685;
 

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Net.Sockets.SelectMode
-struct SelectMode_t2757;
+struct SelectMode_t2759;
 

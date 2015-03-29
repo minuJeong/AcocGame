@@ -7,7 +7,7 @@ struct EditorFacebookAccessToken_t139;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<EditorFacebookAccessToken>
-struct CastHelper_1_t4291 
+struct CastHelper_1_t4292 
 {
 	// T UnityEngine.CastHelper`1<EditorFacebookAccessToken>::t
 	EditorFacebookAccessToken_t139 * ___t;

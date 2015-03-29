@@ -12,7 +12,7 @@ struct Object_t;
 struct String_t;
 
 // System.Void Facebook.MiniJSON.Json::.cctor()
- void Json__cctor_m4675 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Json__cctor_m4677 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object Facebook.MiniJSON.Json::Deserialize(System.String)
  Object_t * Json_Deserialize_m1977 (Object_t * __this/* static, unused */, String_t* ___json, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String Facebook.MiniJSON.Json::Serialize(System.Object)

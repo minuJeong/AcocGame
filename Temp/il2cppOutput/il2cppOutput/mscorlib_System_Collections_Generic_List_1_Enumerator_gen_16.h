@@ -7,7 +7,7 @@ struct SynchronizedLayer_t322;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<PhotonAnimatorView/SynchronizedLayer>
-struct Enumerator_t4917 
+struct Enumerator_t4918 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<PhotonAnimatorView/SynchronizedLayer>::l
 	List_1_t330 * ___l;

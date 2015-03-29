@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Predicate`1<System.WeakReference>
-struct Predicate_1_t6135  : public MulticastDelegate_t38
+struct Predicate_1_t6136  : public MulticastDelegate_t38
 {
 };

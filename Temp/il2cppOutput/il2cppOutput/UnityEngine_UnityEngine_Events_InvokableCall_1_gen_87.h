@@ -1,12 +1,12 @@
 ﻿#pragma once
 #include <stdint.h>
 // UnityEngine.Events.UnityAction`1<PickupItemSimple>
-struct UnityAction_1_t5007;
+struct UnityAction_1_t5008;
 // UnityEngine.Events.BaseInvokableCall
 #include "UnityEngine_UnityEngine_Events_BaseInvokableCall.h"
 // UnityEngine.Events.InvokableCall`1<PickupItemSimple>
-struct InvokableCall_1_t5006  : public BaseInvokableCall_t2624
+struct InvokableCall_1_t5007  : public BaseInvokableCall_t2625
 {
 	// UnityEngine.Events.UnityAction`1<T1> UnityEngine.Events.InvokableCall`1<PickupItemSimple>::Delegate
-	UnityAction_1_t5007 * ___Delegate;
+	UnityAction_1_t5008 * ___Delegate;
 };

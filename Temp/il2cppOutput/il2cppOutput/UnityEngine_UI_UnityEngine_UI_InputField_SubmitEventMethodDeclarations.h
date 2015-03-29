@@ -8,4 +8,4 @@
 struct SubmitEvent_t673;
 
 // System.Void UnityEngine.UI.InputField/SubmitEvent::.ctor()
- void SubmitEvent__ctor_m3282 (SubmitEvent_t673 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void SubmitEvent__ctor_m3284 (SubmitEvent_t673 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

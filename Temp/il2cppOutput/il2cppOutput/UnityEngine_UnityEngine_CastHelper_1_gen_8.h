@@ -7,7 +7,7 @@ struct PhotonView_t170;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<PhotonView>
-struct CastHelper_1_t4340 
+struct CastHelper_1_t4341 
 {
 	// T UnityEngine.CastHelper`1<PhotonView>::t
 	PhotonView_t170 * ___t;

@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo PropertyMetadata_t894_il2cpp_TypeInfo;
 // System.Comparison`1<LitJson.PropertyMetadata>
-struct Comparison_1_t5990  : public MulticastDelegate_t38
+struct Comparison_1_t5991  : public MulticastDelegate_t38
 {
 };

@@ -7,7 +7,7 @@ struct Action_1_t1021;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<System.Action`1<System.Threading.Tasks.Task>>
-struct Enumerator_t11300 
+struct Enumerator_t11301 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.Action`1<System.Threading.Tasks.Task>>::l
 	List_1_t2247 * ___l;

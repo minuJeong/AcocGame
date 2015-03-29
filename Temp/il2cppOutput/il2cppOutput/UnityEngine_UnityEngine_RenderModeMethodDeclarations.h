@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.RenderMode
-struct RenderMode_t2582;
+struct RenderMode_t2583;
 

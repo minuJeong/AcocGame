@@ -8,4 +8,4 @@
 struct PhotonCodes_t2389;
 
 // System.Void ExitGames.Client.Photon.PhotonCodes::.cctor()
- void PhotonCodes__cctor_m7445 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PhotonCodes__cctor_m7447 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;

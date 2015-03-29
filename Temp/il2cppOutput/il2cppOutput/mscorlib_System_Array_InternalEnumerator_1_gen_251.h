@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<gamecontext.Pawn>
-struct InternalEnumerator_1_t5071 
+struct InternalEnumerator_1_t5072 
 {
 	// System.Array System.Array/InternalEnumerator`1<gamecontext.Pawn>::array
 	Array_t * ___array;

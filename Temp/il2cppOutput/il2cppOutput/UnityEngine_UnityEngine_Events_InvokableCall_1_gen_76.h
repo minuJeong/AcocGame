@@ -1,12 +1,12 @@
 ﻿#pragma once
 #include <stdint.h>
 // UnityEngine.Events.UnityAction`1<InRoomRoundTimer>
-struct UnityAction_1_t4961;
+struct UnityAction_1_t4962;
 // UnityEngine.Events.BaseInvokableCall
 #include "UnityEngine_UnityEngine_Events_BaseInvokableCall.h"
 // UnityEngine.Events.InvokableCall`1<InRoomRoundTimer>
-struct InvokableCall_1_t4960  : public BaseInvokableCall_t2624
+struct InvokableCall_1_t4961  : public BaseInvokableCall_t2625
 {
 	// UnityEngine.Events.UnityAction`1<T1> UnityEngine.Events.InvokableCall`1<InRoomRoundTimer>::Delegate
-	UnityAction_1_t4961 * ___Delegate;
+	UnityAction_1_t4962 * ___Delegate;
 };

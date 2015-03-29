@@ -7,7 +7,7 @@
 // UnityEngine.FontStyle
 #include "UnityEngine_UnityEngine_FontStyle.h"
 // UnityEngine.CharacterInfo
-struct CharacterInfo_t2576 
+struct CharacterInfo_t2577 
 {
 	// System.Int32 UnityEngine.CharacterInfo::index
 	int32_t ___index;
@@ -27,7 +27,7 @@ struct CharacterInfo_t2576
 	int32_t ___ascent;
 };
 // Native definition for marshalling of: UnityEngine.CharacterInfo
-struct CharacterInfo_t2576_marshaled
+struct CharacterInfo_t2577_marshaled
 {
 	int32_t ___index;
 	Rect_t55  ___uv;

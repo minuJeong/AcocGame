@@ -9,7 +9,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateConcatIterator>c__Iterator1`1<System.Object>
-struct U3CCreateConcatIteratorU3Ec__Iterator1_1_t6252  : public Object_t
+struct U3CCreateConcatIteratorU3Ec__Iterator1_1_t6253  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateConcatIterator>c__Iterator1`1<System.Object>::first
 	Object_t* ___first;

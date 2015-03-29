@@ -3,9 +3,9 @@
 // System.Collections.ArrayList
 struct ArrayList_t94;
 // System.Collections.Queue
-struct Queue_t2758;
+struct Queue_t2760;
 // System.Runtime.Remoting.Lifetime.Lease/RenewalDelegate
-struct RenewalDelegate_t3467;
+struct RenewalDelegate_t3468;
 // System.MarshalByRefObject
 #include "mscorlib_System_MarshalByRefObject.h"
 // System.DateTime
@@ -15,7 +15,7 @@ struct RenewalDelegate_t3467;
 // System.TimeSpan
 #include "mscorlib_System_TimeSpan.h"
 // System.Runtime.Remoting.Lifetime.Lease
-struct Lease_t3468  : public MarshalByRefObject_t3194
+struct Lease_t3469  : public MarshalByRefObject_t3195
 {
 	// System.DateTime System.Runtime.Remoting.Lifetime.Lease::_leaseExpireTime
 	DateTime_t126  ____leaseExpireTime;
@@ -30,7 +30,7 @@ struct Lease_t3468  : public MarshalByRefObject_t3194
 	// System.Collections.ArrayList System.Runtime.Remoting.Lifetime.Lease::_sponsors
 	ArrayList_t94 * ____sponsors;
 	// System.Collections.Queue System.Runtime.Remoting.Lifetime.Lease::_renewingSponsors
-	Queue_t2758 * ____renewingSponsors;
+	Queue_t2760 * ____renewingSponsors;
 	// System.Runtime.Remoting.Lifetime.Lease/RenewalDelegate System.Runtime.Remoting.Lifetime.Lease::_renewalDelegate
-	RenewalDelegate_t3467 * ____renewalDelegate;
+	RenewalDelegate_t3468 * ____renewalDelegate;
 };

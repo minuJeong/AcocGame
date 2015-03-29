@@ -5,13 +5,13 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Threading.Tasks.Task`1/<>c__DisplayClass1<System.Threading.Tasks.Task`1<System.Byte>>
-struct U3CU3Ec__DisplayClass1_t11110;
+struct U3CU3Ec__DisplayClass1_t11111;
 // System.Threading.Tasks.Task
 struct Task_t390;
 
 // System.Void System.Threading.Tasks.Task`1/<>c__DisplayClass1<System.Threading.Tasks.Task`1<System.Byte>>::.ctor()
 // System.Threading.Tasks.Task`1/<>c__DisplayClass1<System.Object>
 #include "Parse_Unity_System_Threading_Tasks_Task_1_U3CU3Ec__DisplayCl_5MethodDeclarations.h"
-#define U3CU3Ec__DisplayClass1__ctor_m82181(__this, method) (void)U3CU3Ec__DisplayClass1__ctor_m22395_gshared((U3CU3Ec__DisplayClass1_t5112 *)__this, method)
+#define U3CU3Ec__DisplayClass1__ctor_m82184(__this, method) (void)U3CU3Ec__DisplayClass1__ctor_m22398_gshared((U3CU3Ec__DisplayClass1_t5113 *)__this, method)
 // System.Void System.Threading.Tasks.Task`1/<>c__DisplayClass1<System.Threading.Tasks.Task`1<System.Byte>>::<ContinueWith>b__0(System.Threading.Tasks.Task)
-#define U3CU3Ec__DisplayClass1_U3CContinueWithU3Eb__0_m82182(__this, ___t, method) (void)U3CU3Ec__DisplayClass1_U3CContinueWithU3Eb__0_m22396_gshared((U3CU3Ec__DisplayClass1_t5112 *)__this, (Task_t390 *)___t, method)
+#define U3CU3Ec__DisplayClass1_U3CContinueWithU3Eb__0_m82185(__this, ___t, method) (void)U3CU3Ec__DisplayClass1_U3CContinueWithU3Eb__0_m22399_gshared((U3CU3Ec__DisplayClass1_t5113 *)__this, (Task_t390 *)___t, method)

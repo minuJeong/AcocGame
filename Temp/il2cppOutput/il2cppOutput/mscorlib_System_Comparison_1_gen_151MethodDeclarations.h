@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<System.String>>>
-struct Comparison_1_t10267;
+struct Comparison_1_t10268;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_84.h"
 
 // System.Void System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<System.String>>>::.ctor(System.Object,System.IntPtr)
- void Comparison_1__ctor_m73803 (Comparison_1_t10267 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Comparison_1__ctor_m73806 (Comparison_1_t10268 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<System.String>>>::Invoke(T,T)
- int32_t Comparison_1_Invoke_m73804 (Comparison_1_t10267 * __this, KeyValuePair_2_t10254  ___x, KeyValuePair_2_t10254  ___y, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Comparison_1_Invoke_m73807 (Comparison_1_t10268 * __this, KeyValuePair_2_t10255  ___x, KeyValuePair_2_t10255  ___y, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<System.String>>>::BeginInvoke(T,T,System.AsyncCallback,System.Object)
- Object_t * Comparison_1_BeginInvoke_m73805 (Comparison_1_t10267 * __this, KeyValuePair_2_t10254  ___x, KeyValuePair_2_t10254  ___y, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Comparison_1_BeginInvoke_m73808 (Comparison_1_t10268 * __this, KeyValuePair_2_t10255  ___x, KeyValuePair_2_t10255  ___y, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.List`1<System.String>>>::EndInvoke(System.IAsyncResult)
- int32_t Comparison_1_EndInvoke_m73806 (Comparison_1_t10267 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Comparison_1_EndInvoke_m73809 (Comparison_1_t10268 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

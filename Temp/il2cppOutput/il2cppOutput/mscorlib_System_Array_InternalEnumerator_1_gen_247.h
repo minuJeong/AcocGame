@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<SupportLogger>
-struct InternalEnumerator_1_t5058 
+struct InternalEnumerator_1_t5059 
 {
 	// System.Array System.Array/InternalEnumerator`1<SupportLogger>::array
 	Array_t * ___array;

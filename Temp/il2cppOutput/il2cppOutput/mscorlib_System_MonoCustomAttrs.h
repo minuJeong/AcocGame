@@ -9,10 +9,10 @@ struct AttributeUsageAttribute_t874;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.MonoCustomAttrs
-struct MonoCustomAttrs_t3720  : public Object_t
+struct MonoCustomAttrs_t3721  : public Object_t
 {
 };
-struct MonoCustomAttrs_t3720_StaticFields{
+struct MonoCustomAttrs_t3721_StaticFields{
 	// System.Reflection.Assembly System.MonoCustomAttrs::corlib
 	Assembly_t147 * ___corlib;
 	// System.Type System.MonoCustomAttrs::AttributeUsageType

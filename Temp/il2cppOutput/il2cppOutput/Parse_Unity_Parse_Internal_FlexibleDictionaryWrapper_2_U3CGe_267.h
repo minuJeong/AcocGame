@@ -3,7 +3,7 @@
 // Parse.Internal.FlexibleDictionaryWrapper`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>
 struct FlexibleDictionaryWrapper_2_t2156;
 // System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,System.Single>>>
-struct IEnumerator_1_t10827;
+struct IEnumerator_1_t10828;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Object>
@@ -11,7 +11,7 @@ struct IEnumerator_1_t10827;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.Dictionary`2<System.String,System.Single>>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_107.h"
 // Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>
-struct U3CGetEnumeratorU3Ed__4_t10829  : public Object_t
+struct U3CGetEnumeratorU3Ed__4_t10830  : public Object_t
 {
 	// System.Collections.Generic.KeyValuePair`2<System.String,TOut> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<>2__current
 	KeyValuePair_2_t410  ___U3CU3E2__current;
@@ -20,7 +20,7 @@ struct U3CGetEnumeratorU3Ed__4_t10829  : public Object_t
 	// Parse.Internal.FlexibleDictionaryWrapper`2<TOut,TIn> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<>4__this
 	FlexibleDictionaryWrapper_2_t2156 * ___U3CU3E4__this;
 	// System.Collections.Generic.KeyValuePair`2<System.String,TIn> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<pair>5__5
-	KeyValuePair_2_t10824  ___U3CpairU3E5__5;
+	KeyValuePair_2_t10825  ___U3CpairU3E5__5;
 	// System.Collections.Generic.IEnumerator`1<System.Collections.Generic.KeyValuePair`2<System.String,TIn>> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<>7__wrap6
 	Object_t* ___U3CU3E7__wrap6;
 };

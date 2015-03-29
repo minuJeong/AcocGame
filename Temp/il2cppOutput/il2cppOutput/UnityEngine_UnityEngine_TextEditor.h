@@ -9,7 +9,7 @@ struct GUIStyle_t138;
 // System.String
 struct String_t;
 // System.Collections.Generic.Dictionary`2<UnityEngine.Event,UnityEngine.TextEditor/TextEditOp>
-struct Dictionary_2_t2621;
+struct Dictionary_2_t2622;
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.Rect
@@ -70,5 +70,5 @@ struct TextEditor_t804  : public Object_t
 };
 struct TextEditor_t804_StaticFields{
 	// System.Collections.Generic.Dictionary`2<UnityEngine.Event,UnityEngine.TextEditor/TextEditOp> UnityEngine.TextEditor::s_Keyactions
-	Dictionary_2_t2621 * ___s_Keyactions;
+	Dictionary_2_t2622 * ___s_Keyactions;
 };

@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // UnityEngine.GUILayoutUtility/LayoutCache
-struct LayoutCache_t2501;
+struct LayoutCache_t2502;
 // System.IAsyncResult
 struct IAsyncResult_t34;
 // System.AsyncCallback
@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Int32_t63_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,UnityEngine.GUILayoutUtility/LayoutCache,System.Int32>
-struct Transform_1_t11523  : public MulticastDelegate_t38
+struct Transform_1_t11524  : public MulticastDelegate_t38
 {
 };

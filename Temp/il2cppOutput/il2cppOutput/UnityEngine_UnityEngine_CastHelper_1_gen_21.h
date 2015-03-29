@@ -7,7 +7,7 @@ struct InRoomChat_t347;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<InRoomChat>
-struct CastHelper_1_t4599 
+struct CastHelper_1_t4600 
 {
 	// T UnityEngine.CastHelper`1<InRoomChat>::t
 	InRoomChat_t347 * ___t;

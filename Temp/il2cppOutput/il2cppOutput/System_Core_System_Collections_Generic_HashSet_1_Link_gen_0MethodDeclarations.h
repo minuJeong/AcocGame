@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.HashSet`1/Link<PickupItem>
-struct Link_t4497;
+struct Link_t4498;
 

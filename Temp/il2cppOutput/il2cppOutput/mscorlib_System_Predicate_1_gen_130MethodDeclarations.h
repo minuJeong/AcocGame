@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseFile>>
-struct Predicate_1_t9777;
+struct Predicate_1_t9778;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_55.h"
 
 // System.Void System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseFile>>::.ctor(System.Object,System.IntPtr)
- void Predicate_1__ctor_m68726 (Predicate_1_t9777 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Predicate_1__ctor_m68729 (Predicate_1_t9778 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseFile>>::Invoke(T)
- bool Predicate_1_Invoke_m68727 (Predicate_1_t9777 * __this, KeyValuePair_2_t8522  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_Invoke_m68730 (Predicate_1_t9778 * __this, KeyValuePair_2_t8523  ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseFile>>::BeginInvoke(T,System.AsyncCallback,System.Object)
- Object_t * Predicate_1_BeginInvoke_m68728 (Predicate_1_t9777 * __this, KeyValuePair_2_t8522  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Predicate_1_BeginInvoke_m68731 (Predicate_1_t9778 * __this, KeyValuePair_2_t8523  ___obj, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Predicate`1<System.Collections.Generic.KeyValuePair`2<System.String,Parse.ParseFile>>::EndInvoke(System.IAsyncResult)
- bool Predicate_1_EndInvoke_m68729 (Predicate_1_t9777 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Predicate_1_EndInvoke_m68732 (Predicate_1_t9778 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

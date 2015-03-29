@@ -7,7 +7,7 @@ struct Light_t103;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.Light>
-struct CastHelper_1_t4227 
+struct CastHelper_1_t4228 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.Light>::t
 	Light_t103 * ___t;

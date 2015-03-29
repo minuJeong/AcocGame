@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.Font/FontTextureRebuildCallback
-struct FontTextureRebuildCallback_t2577;
+struct FontTextureRebuildCallback_t2578;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -16,10 +16,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void UnityEngine.Font/FontTextureRebuildCallback::.ctor(System.Object,System.IntPtr)
- void FontTextureRebuildCallback__ctor_m8791 (FontTextureRebuildCallback_t2577 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FontTextureRebuildCallback__ctor_m8794 (FontTextureRebuildCallback_t2578 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Font/FontTextureRebuildCallback::Invoke()
- void FontTextureRebuildCallback_Invoke_m8792 (FontTextureRebuildCallback_t2577 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FontTextureRebuildCallback_Invoke_m8795 (FontTextureRebuildCallback_t2578 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult UnityEngine.Font/FontTextureRebuildCallback::BeginInvoke(System.AsyncCallback,System.Object)
- Object_t * FontTextureRebuildCallback_BeginInvoke_m8793 (FontTextureRebuildCallback_t2577 * __this, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * FontTextureRebuildCallback_BeginInvoke_m8796 (FontTextureRebuildCallback_t2578 * __this, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Font/FontTextureRebuildCallback::EndInvoke(System.IAsyncResult)
- void FontTextureRebuildCallback_EndInvoke_m8794 (FontTextureRebuildCallback_t2577 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FontTextureRebuildCallback_EndInvoke_m8797 (FontTextureRebuildCallback_t2578 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;

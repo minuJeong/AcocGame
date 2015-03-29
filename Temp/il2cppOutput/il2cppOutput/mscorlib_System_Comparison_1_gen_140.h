@@ -10,8 +10,8 @@ struct Object_t;
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_73.h"
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
-extern TypeInfo KeyValuePair_2_t9990_il2cpp_TypeInfo;
+extern TypeInfo KeyValuePair_2_t9991_il2cpp_TypeInfo;
 // System.Comparison`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Collections.Generic.IList`1<System.DateTime>>>
-struct Comparison_1_t10003  : public MulticastDelegate_t38
+struct Comparison_1_t10004  : public MulticastDelegate_t38
 {
 };

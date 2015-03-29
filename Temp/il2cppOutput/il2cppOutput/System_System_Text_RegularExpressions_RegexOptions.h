@@ -5,7 +5,7 @@
 // System.Text.RegularExpressions.RegexOptions
 #include "System_System_Text_RegularExpressions_RegexOptions.h"
 // System.Text.RegularExpressions.RegexOptions
-struct RegexOptions_t2775 
+struct RegexOptions_t2777 
 {
 	// System.Int32 System.Text.RegularExpressions.RegexOptions::value__
 	int32_t ___value__;

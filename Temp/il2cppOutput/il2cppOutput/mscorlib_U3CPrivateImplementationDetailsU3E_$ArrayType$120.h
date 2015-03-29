@@ -4,7 +4,7 @@
 #include "mscorlib_System_ValueType.h"
 // <PrivateImplementationDetails>/$ArrayType$120
 #pragma pack(push, tp, 1)
-struct $ArrayType$120_t3753 
+struct $ArrayType$120_t3754 
 {
 	union
 	{

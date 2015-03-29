@@ -3,7 +3,7 @@
 // System.Object[]
 struct ObjectU5BU5D_t5;
 // System.Runtime.Remoting.Messaging.LogicalCallContext
-struct LogicalCallContext_t3483;
+struct LogicalCallContext_t3484;
 // System.Object
 struct Object_t;
 // System.String
@@ -15,13 +15,13 @@ struct MethodBase_t424;
 // System.Type[]
 struct TypeU5BU5D_t291;
 // System.Runtime.Remoting.Messaging.MethodReturnDictionary
-struct MethodReturnDictionary_t3488;
+struct MethodReturnDictionary_t3489;
 // System.Runtime.Remoting.Messaging.ArgInfo
-struct ArgInfo_t3471;
+struct ArgInfo_t3472;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Runtime.Remoting.Messaging.ReturnMessage
-struct ReturnMessage_t3495  : public Object_t
+struct ReturnMessage_t3496  : public Object_t
 {
 	// System.Object[] System.Runtime.Remoting.Messaging.ReturnMessage::_outArgs
 	ObjectU5BU5D_t5* ____outArgs;
@@ -30,7 +30,7 @@ struct ReturnMessage_t3495  : public Object_t
 	// System.Int32 System.Runtime.Remoting.Messaging.ReturnMessage::_outArgsCount
 	int32_t ____outArgsCount;
 	// System.Runtime.Remoting.Messaging.LogicalCallContext System.Runtime.Remoting.Messaging.ReturnMessage::_callCtx
-	LogicalCallContext_t3483 * ____callCtx;
+	LogicalCallContext_t3484 * ____callCtx;
 	// System.Object System.Runtime.Remoting.Messaging.ReturnMessage::_returnValue
 	Object_t * ____returnValue;
 	// System.String System.Runtime.Remoting.Messaging.ReturnMessage::_uri
@@ -46,7 +46,7 @@ struct ReturnMessage_t3495  : public Object_t
 	// System.String System.Runtime.Remoting.Messaging.ReturnMessage::_typeName
 	String_t* ____typeName;
 	// System.Runtime.Remoting.Messaging.MethodReturnDictionary System.Runtime.Remoting.Messaging.ReturnMessage::_properties
-	MethodReturnDictionary_t3488 * ____properties;
+	MethodReturnDictionary_t3489 * ____properties;
 	// System.Runtime.Remoting.Messaging.ArgInfo System.Runtime.Remoting.Messaging.ReturnMessage::_inArgInfo
-	ArgInfo_t3471 * ____inArgInfo;
+	ArgInfo_t3472 * ____inArgInfo;
 };

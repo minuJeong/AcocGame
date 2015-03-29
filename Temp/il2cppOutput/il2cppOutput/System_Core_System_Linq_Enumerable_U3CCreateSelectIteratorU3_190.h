@@ -7,13 +7,13 @@ struct IEnumerator_1_t88;
 // System.Object
 struct Object_t;
 // System.Func`2<System.Object,System.String>
-struct Func_2_t7673;
+struct Func_2_t7674;
 // System.String
 struct String_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7674  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7675  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::source
 	Object_t* ___source;
@@ -22,7 +22,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7674  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::<element>__1
 	Object_t * ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::selector
-	Func_2_t7673 * ___selector;
+	Func_2_t7674 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t7674  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.String>::<$>selector
-	Func_2_t7673 * ___U3C$U3Eselector;
+	Func_2_t7674 * ___U3C$U3Eselector;
 };

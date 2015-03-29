@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include <stdint.h>
 // UnityEngine.GUIStyleState
-struct GUIStyleState_t2515;
+struct GUIStyleState_t2516;
 // UnityEngine.RectOffset
 struct RectOffset_t422;
 // UnityEngine.Font
@@ -18,21 +18,21 @@ struct GUIStyle_t138  : public Object_t
 	// System.IntPtr UnityEngine.GUIStyle::m_Ptr
 	IntPtr_t39 ___m_Ptr;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Normal
-	GUIStyleState_t2515 * ___m_Normal;
+	GUIStyleState_t2516 * ___m_Normal;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Hover
-	GUIStyleState_t2515 * ___m_Hover;
+	GUIStyleState_t2516 * ___m_Hover;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Active
-	GUIStyleState_t2515 * ___m_Active;
+	GUIStyleState_t2516 * ___m_Active;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Focused
-	GUIStyleState_t2515 * ___m_Focused;
+	GUIStyleState_t2516 * ___m_Focused;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnNormal
-	GUIStyleState_t2515 * ___m_OnNormal;
+	GUIStyleState_t2516 * ___m_OnNormal;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnHover
-	GUIStyleState_t2515 * ___m_OnHover;
+	GUIStyleState_t2516 * ___m_OnHover;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnActive
-	GUIStyleState_t2515 * ___m_OnActive;
+	GUIStyleState_t2516 * ___m_OnActive;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnFocused
-	GUIStyleState_t2515 * ___m_OnFocused;
+	GUIStyleState_t2516 * ___m_OnFocused;
 	// UnityEngine.RectOffset UnityEngine.GUIStyle::m_Border
 	RectOffset_t422 * ___m_Border;
 	// UnityEngine.RectOffset UnityEngine.GUIStyle::m_Padding

@@ -5,7 +5,7 @@
 // System.Globalization.CompareOptions
 #include "mscorlib_System_Globalization_CompareOptions.h"
 // Mono.Globalization.Unicode.SimpleCollator/Context
-struct Context_t3214 
+struct Context_t3215 
 {
 	// System.Globalization.CompareOptions Mono.Globalization.Unicode.SimpleCollator/Context::Option
 	int32_t ___Option;
@@ -25,7 +25,7 @@ struct Context_t3214
 	bool ___QuickCheckPossible;
 };
 // Native definition for marshalling of: Mono.Globalization.Unicode.SimpleCollator/Context
-struct Context_t3214_marshaled
+struct Context_t3215_marshaled
 {
 	int32_t ___Option;
 	uint8_t* ___NeverMatchFlags;

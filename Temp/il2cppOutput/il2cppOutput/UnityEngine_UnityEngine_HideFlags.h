@@ -5,7 +5,7 @@
 // UnityEngine.HideFlags
 #include "UnityEngine_UnityEngine_HideFlags.h"
 // UnityEngine.HideFlags
-struct HideFlags_t2549 
+struct HideFlags_t2550 
 {
 	// System.Int32 UnityEngine.HideFlags::value__
 	int32_t ___value__;

@@ -20,6 +20,6 @@ struct MaterialU5BU5D_t109;
 // UnityEngine.Material[] UnityEngine.Renderer::get_materials()
  MaterialU5BU5D_t109* Renderer_get_materials_m543 (Renderer_t102 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.Renderer::get_sortingLayerID()
- int32_t Renderer_get_sortingLayerID_m4126 (Renderer_t102 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Renderer_get_sortingLayerID_m4128 (Renderer_t102 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.Renderer::get_sortingOrder()
- int32_t Renderer_get_sortingOrder_m4127 (Renderer_t102 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Renderer_get_sortingOrder_m4129 (Renderer_t102 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

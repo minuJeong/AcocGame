@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<LitJson.ImporterFunc>
-struct InternalEnumerator_1_t5850 
+struct InternalEnumerator_1_t5851 
 {
 	// System.Array System.Array/InternalEnumerator`1<LitJson.ImporterFunc>::array
 	Array_t * ___array;

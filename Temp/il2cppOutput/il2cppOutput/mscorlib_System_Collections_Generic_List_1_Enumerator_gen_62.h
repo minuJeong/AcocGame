@@ -7,7 +7,7 @@ struct List_1_t2208;
 // System.DateTime
 #include "mscorlib_System_DateTime.h"
 // System.Collections.Generic.List`1/Enumerator<System.DateTime>
-struct Enumerator_t7690 
+struct Enumerator_t7691 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<System.DateTime>::l
 	List_1_t2208 * ___l;

@@ -15,6 +15,6 @@ struct Object_t;
 extern TypeInfo Int64_t513_il2cpp_TypeInfo;
 extern TypeInfo Boolean_t64_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Int64,System.Boolean,System.Boolean>
-struct Transform_1_t6487  : public MulticastDelegate_t38
+struct Transform_1_t6488  : public MulticastDelegate_t38
 {
 };

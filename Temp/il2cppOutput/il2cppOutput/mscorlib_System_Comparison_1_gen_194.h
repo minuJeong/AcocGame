@@ -12,6 +12,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo UILineInfo_t806_il2cpp_TypeInfo;
 // System.Comparison`1<UnityEngine.UILineInfo>
-struct Comparison_1_t11748  : public MulticastDelegate_t38
+struct Comparison_1_t11749  : public MulticastDelegate_t38
 {
 };

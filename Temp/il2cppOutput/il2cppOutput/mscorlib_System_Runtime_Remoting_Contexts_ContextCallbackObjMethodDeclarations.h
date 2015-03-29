@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.Remoting.Contexts.ContextCallbackObject
-struct ContextCallbackObject_t3461;
+struct ContextCallbackObject_t3462;
 

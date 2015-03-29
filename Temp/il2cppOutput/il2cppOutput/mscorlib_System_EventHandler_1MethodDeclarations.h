@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.EventHandler`1
-struct EventHandler_1_t3748;
+struct EventHandler_1_t3749;
 // System.Object
 struct Object_t;
 // System.IAsyncResult

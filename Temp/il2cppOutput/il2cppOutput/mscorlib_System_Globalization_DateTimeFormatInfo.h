@@ -7,7 +7,7 @@ struct StringU5BU5D_t4;
 // System.Globalization.DateTimeFormatInfo
 struct DateTimeFormatInfo_t954;
 // System.Globalization.Calendar
-struct Calendar_t3313;
+struct Calendar_t3314;
 // System.Int32[]
 struct Int32U5BU5D_t257;
 // System.String[] modreq(System.Runtime.CompilerServices.IsVolatile)
@@ -52,7 +52,7 @@ struct DateTimeFormatInfo_t954  : public Object_t
 	// System.Int32 System.Globalization.DateTimeFormatInfo::firstDayOfWeek
 	int32_t ___firstDayOfWeek;
 	// System.Globalization.Calendar System.Globalization.DateTimeFormatInfo::calendar
-	Calendar_t3313 * ___calendar;
+	Calendar_t3314 * ___calendar;
 	// System.Int32 System.Globalization.DateTimeFormatInfo::calendarWeekRule
 	int32_t ___calendarWeekRule;
 	// System.String[] System.Globalization.DateTimeFormatInfo::abbreviatedDayNames

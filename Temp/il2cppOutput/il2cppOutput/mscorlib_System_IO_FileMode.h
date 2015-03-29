@@ -5,7 +5,7 @@
 // System.IO.FileMode
 #include "mscorlib_System_IO_FileMode.h"
 // System.IO.FileMode
-struct FileMode_t3339 
+struct FileMode_t3340 
 {
 	// System.Int32 System.IO.FileMode::value__
 	int32_t ___value__;

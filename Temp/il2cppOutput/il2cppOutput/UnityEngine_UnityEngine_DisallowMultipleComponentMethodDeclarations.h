@@ -8,4 +8,4 @@
 struct DisallowMultipleComponent_t794;
 
 // System.Void UnityEngine.DisallowMultipleComponent::.ctor()
- void DisallowMultipleComponent__ctor_m4236 (DisallowMultipleComponent_t794 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void DisallowMultipleComponent__ctor_m4238 (DisallowMultipleComponent_t794 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

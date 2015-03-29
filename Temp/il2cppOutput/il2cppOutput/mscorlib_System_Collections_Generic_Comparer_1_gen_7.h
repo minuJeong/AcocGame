@@ -1,14 +1,14 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.Comparer`1<System.Int32>
-struct Comparer_1_t4825;
+struct Comparer_1_t4826;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.Generic.Comparer`1<System.Int32>
-struct Comparer_1_t4825  : public Object_t
+struct Comparer_1_t4826  : public Object_t
 {
 };
-struct Comparer_1_t4825_StaticFields{
+struct Comparer_1_t4826_StaticFields{
 	// System.Collections.Generic.Comparer`1<T> System.Collections.Generic.Comparer`1<System.Int32>::_default
-	Comparer_1_t4825 * ____default;
+	Comparer_1_t4826 * ____default;
 };

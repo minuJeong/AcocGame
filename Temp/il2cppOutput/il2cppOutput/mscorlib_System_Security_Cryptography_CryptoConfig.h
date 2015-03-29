@@ -7,10 +7,10 @@ struct Hashtable_t48;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Security.Cryptography.CryptoConfig
-struct CryptoConfig_t3564  : public Object_t
+struct CryptoConfig_t3565  : public Object_t
 {
 };
-struct CryptoConfig_t3564_StaticFields{
+struct CryptoConfig_t3565_StaticFields{
 	// System.Object System.Security.Cryptography.CryptoConfig::lockObject
 	Object_t * ___lockObject;
 	// System.Collections.Hashtable System.Security.Cryptography.CryptoConfig::algorithms

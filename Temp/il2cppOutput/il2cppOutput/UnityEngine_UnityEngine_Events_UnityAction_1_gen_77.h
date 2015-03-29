@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<PhotonRigidbody2DView>
-struct UnityAction_1_t4930  : public MulticastDelegate_t38
+struct UnityAction_1_t4931  : public MulticastDelegate_t38
 {
 };

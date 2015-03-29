@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<gamecontext.uicontrol.RoomItemButton>
-struct InternalEnumerator_1_t5089 
+struct InternalEnumerator_1_t5090 
 {
 	// System.Array System.Array/InternalEnumerator`1<gamecontext.uicontrol.RoomItemButton>::array
 	Array_t * ___array;

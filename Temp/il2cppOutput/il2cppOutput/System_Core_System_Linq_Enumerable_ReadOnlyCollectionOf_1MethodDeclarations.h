@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Linq.Enumerable/ReadOnlyCollectionOf`1
-struct ReadOnlyCollectionOf_1_t2911;
+struct ReadOnlyCollectionOf_1_t2912;
 

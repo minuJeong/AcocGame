@@ -11,6 +11,6 @@ struct AsyncCallback_t35;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<System.Object>
-struct UnityAction_1_t4182  : public MulticastDelegate_t38
+struct UnityAction_1_t4183  : public MulticastDelegate_t38
 {
 };

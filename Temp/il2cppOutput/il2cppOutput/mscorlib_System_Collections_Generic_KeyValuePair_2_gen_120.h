@@ -5,7 +5,7 @@ struct EnetChannel_t2352;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.KeyValuePair`2<System.Byte,ExitGames.Client.Photon.EnetChannel>
-struct KeyValuePair_2_t11367 
+struct KeyValuePair_2_t11368 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.Byte,ExitGames.Client.Photon.EnetChannel>::key
 	uint8_t ___key;

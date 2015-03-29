@@ -3,7 +3,7 @@
 // System.Collections.Generic.IEnumerable`1<System.Reflection.ConstructorInfo>
 struct IEnumerable_1_t1068;
 // System.Collections.Generic.IEnumerator`1<System.Reflection.ConstructorInfo>
-struct IEnumerator_1_t6319;
+struct IEnumerator_1_t6320;
 // System.Reflection.ConstructorInfo
 struct ConstructorInfo_t1069;
 // System.Func`2<System.Reflection.ConstructorInfo,<>f__AnonymousType0`2<System.Reflection.ConstructorInfo,System.Reflection.ParameterInfo[]>>
@@ -13,7 +13,7 @@ struct U3CU3Ef__AnonymousType0_2_t1070;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Reflection.ConstructorInfo,<>f__AnonymousType0`2<System.Reflection.ConstructorInfo,System.Reflection.ParameterInfo[]>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6320  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t6321  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Reflection.ConstructorInfo,<>f__AnonymousType0`2<System.Reflection.ConstructorInfo,System.Reflection.ParameterInfo[]>>::source
 	Object_t* ___source;

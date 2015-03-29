@@ -5,7 +5,7 @@
 // System.Text.RegularExpressions.OpFlags
 #include "System_System_Text_RegularExpressions_OpFlags.h"
 // System.Text.RegularExpressions.OpFlags
-struct OpFlags_t2777 
+struct OpFlags_t2779 
 {
 	// System.UInt16 System.Text.RegularExpressions.OpFlags::value__
 	uint16_t ___value__;

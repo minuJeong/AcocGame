@@ -3,6 +3,6 @@
 // System.SystemException
 #include "mscorlib_System_SystemException.h"
 // System.Runtime.Remoting.RemotingException
-struct RemotingException_t3513  : public SystemException_t2864
+struct RemotingException_t3514  : public SystemException_t2865
 {
 };

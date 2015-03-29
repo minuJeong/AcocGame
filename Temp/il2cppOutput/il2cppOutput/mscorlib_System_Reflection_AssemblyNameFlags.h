@@ -5,7 +5,7 @@
 // System.Reflection.AssemblyNameFlags
 #include "mscorlib_System_Reflection_AssemblyNameFlags.h"
 // System.Reflection.AssemblyNameFlags
-struct AssemblyNameFlags_t3385 
+struct AssemblyNameFlags_t3386 
 {
 	// System.Int32 System.Reflection.AssemblyNameFlags::value__
 	int32_t ___value__;

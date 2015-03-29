@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>
-struct EqualityComparer_1_t6546;
+struct EqualityComparer_1_t6547;
 // System.Object
 struct Object_t;
 // Parse.Internal.IParseFieldOperation
@@ -14,14 +14,14 @@ struct IParseFieldOperation_t1040;
 // System.Void System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::.ctor()
 // System.Collections.Generic.EqualityComparer`1<System.Object>
 #include "mscorlib_System_Collections_Generic_EqualityComparer_1_genMethodDeclarations.h"
-#define EqualityComparer_1__ctor_m33828(__this, method) (void)EqualityComparer_1__ctor_m15569_gshared((EqualityComparer_1_t4055 *)__this, method)
+#define EqualityComparer_1__ctor_m33831(__this, method) (void)EqualityComparer_1__ctor_m15572_gshared((EqualityComparer_1_t4056 *)__this, method)
 // System.Void System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::.cctor()
-#define EqualityComparer_1__cctor_m33829(__this/* static, unused */, method) (void)EqualityComparer_1__cctor_m15570_gshared((Object_t *)__this/* static, unused */, method)
+#define EqualityComparer_1__cctor_m33832(__this/* static, unused */, method) (void)EqualityComparer_1__cctor_m15573_gshared((Object_t *)__this/* static, unused */, method)
 // System.Int32 System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::System.Collections.IEqualityComparer.GetHashCode(System.Object)
-#define EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m33830(__this, ___obj, method) (int32_t)EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m15571_gshared((EqualityComparer_1_t4055 *)__this, (Object_t *)___obj, method)
+#define EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m33833(__this, ___obj, method) (int32_t)EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m15574_gshared((EqualityComparer_1_t4056 *)__this, (Object_t *)___obj, method)
 // System.Boolean System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::System.Collections.IEqualityComparer.Equals(System.Object,System.Object)
-#define EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m33831(__this, ___x, ___y, method) (bool)EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m15572_gshared((EqualityComparer_1_t4055 *)__this, (Object_t *)___x, (Object_t *)___y, method)
+#define EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m33834(__this, ___x, ___y, method) (bool)EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m15575_gshared((EqualityComparer_1_t4056 *)__this, (Object_t *)___x, (Object_t *)___y, method)
 // System.Int32 System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::GetHashCode(T)
 // System.Boolean System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::Equals(T,T)
 // System.Collections.Generic.EqualityComparer`1<T> System.Collections.Generic.EqualityComparer`1<Parse.Internal.IParseFieldOperation>::get_Default()
-#define EqualityComparer_1_get_Default_m33832(__this/* static, unused */, method) (EqualityComparer_1_t6546 *)EqualityComparer_1_get_Default_m2177_gshared((Object_t *)__this/* static, unused */, method)
+#define EqualityComparer_1_get_Default_m33835(__this/* static, unused */, method) (EqualityComparer_1_t6547 *)EqualityComparer_1_get_Default_m2177_gshared((Object_t *)__this/* static, unused */, method)

@@ -14,14 +14,14 @@
 #include <assert.h>
 #include "stringLiterals.h"
 
-extern TypeInfo U3CModuleU3E_t3163_il2cpp_TypeInfo;
+extern TypeInfo U3CModuleU3E_t3164_il2cpp_TypeInfo;
 #include "utils/RegisterRuntimeInitializeAndCleanup.h"
 #include <map>
 struct TypeInfo;
 struct MethodInfo;
 TypeInfo* g_Mono_Security_Assembly_Types[2] = 
 {
-	&U3CModuleU3E_t3163_il2cpp_TypeInfo,
+	&U3CModuleU3E_t3164_il2cpp_TypeInfo,
 	NULL,
 };
 extern Il2CppImage g_Mono_Security_dll_Image;

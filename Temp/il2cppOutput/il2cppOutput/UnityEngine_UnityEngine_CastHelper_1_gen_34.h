@@ -7,7 +7,7 @@ struct Canvas_t644;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.Canvas>
-struct CastHelper_1_t5479 
+struct CastHelper_1_t5480 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.Canvas>::t
 	Canvas_t644 * ___t;

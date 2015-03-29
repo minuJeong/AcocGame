@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<System.Security.UnverifiableCodeAttribute>
-struct InternalEnumerator_1_t12155 
+struct InternalEnumerator_1_t12156 
 {
 	// System.Array System.Array/InternalEnumerator`1<System.Security.UnverifiableCodeAttribute>::array
 	Array_t * ___array;

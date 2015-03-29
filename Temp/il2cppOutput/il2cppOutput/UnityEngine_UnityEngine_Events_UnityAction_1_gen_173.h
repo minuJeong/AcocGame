@@ -3,7 +3,7 @@
 // System.Void
 struct Void_t40;
 // UnityEngine.GUIElement
-struct GUIElement_t2490;
+struct GUIElement_t2491;
 // System.IAsyncResult
 struct IAsyncResult_t34;
 // System.AsyncCallback
@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<UnityEngine.GUIElement>
-struct UnityAction_1_t11500  : public MulticastDelegate_t38
+struct UnityAction_1_t11501  : public MulticastDelegate_t38
 {
 };

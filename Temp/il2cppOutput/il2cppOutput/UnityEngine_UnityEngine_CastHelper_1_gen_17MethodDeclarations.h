@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<PickupItem>
-struct CastHelper_1_t4549;
+struct CastHelper_1_t4550;
 

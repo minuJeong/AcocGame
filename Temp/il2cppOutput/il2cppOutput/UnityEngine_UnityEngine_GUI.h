@@ -3,7 +3,7 @@
 // UnityEngine.GUISkin
 struct GUISkin_t137;
 // UnityEngineInternal.GenericStack
-struct GenericStack_t2496;
+struct GenericStack_t2497;
 // System.Object
 #include "mscorlib_System_Object.h"
 // UnityEngine.Rect
@@ -40,7 +40,7 @@ struct GUI_t415_StaticFields{
 	// System.Int32 UnityEngine.GUI::scrollviewHash
 	int32_t ___scrollviewHash;
 	// UnityEngineInternal.GenericStack UnityEngine.GUI::s_ScrollViewStates
-	GenericStack_t2496 * ___s_ScrollViewStates;
+	GenericStack_t2497 * ___s_ScrollViewStates;
 	// System.DateTime UnityEngine.GUI::<nextScrollStepTime>k__BackingField
 	DateTime_t126  ___U3CnextScrollStepTimeU3Ek__BackingField;
 	// System.Int32 UnityEngine.GUI::<scrollTroughSide>k__BackingField

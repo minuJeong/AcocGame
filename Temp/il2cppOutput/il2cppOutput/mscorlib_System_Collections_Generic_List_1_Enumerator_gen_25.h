@@ -7,7 +7,7 @@ struct ButtonState_t607;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.EventSystems.PointerInputModule/ButtonState>
-struct Enumerator_t5306 
+struct Enumerator_t5307 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<UnityEngine.EventSystems.PointerInputModule/ButtonState>::l
 	List_1_t608 * ___l;

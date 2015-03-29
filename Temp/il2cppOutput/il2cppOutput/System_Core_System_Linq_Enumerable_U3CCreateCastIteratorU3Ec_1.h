@@ -9,7 +9,7 @@ struct Task_t390;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateCastIterator>c__Iterator0`1<System.Threading.Tasks.Task>
-struct U3CCreateCastIteratorU3Ec__Iterator0_1_t6772  : public Object_t
+struct U3CCreateCastIteratorU3Ec__Iterator0_1_t6773  : public Object_t
 {
 	// System.Collections.IEnumerable System.Linq.Enumerable/<CreateCastIterator>c__Iterator0`1<System.Threading.Tasks.Task>::source
 	Object_t * ___source;

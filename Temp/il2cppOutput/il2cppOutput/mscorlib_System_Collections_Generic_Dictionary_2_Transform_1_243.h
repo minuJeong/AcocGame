@@ -14,6 +14,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 extern TypeInfo Byte_t68_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Byte,ExitGames.Client.Photon.EnetChannel,ExitGames.Client.Photon.EnetChannel>
-struct Transform_1_t11375  : public MulticastDelegate_t38
+struct Transform_1_t11376  : public MulticastDelegate_t38
 {
 };

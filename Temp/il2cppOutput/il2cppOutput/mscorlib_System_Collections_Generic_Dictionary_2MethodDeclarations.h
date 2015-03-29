@@ -11,7 +11,7 @@ struct ICollection_t429;
 // System.Object
 struct Object_t;
 // System.Runtime.Serialization.SerializationInfo
-struct SerializationInfo_t2614;
+struct SerializationInfo_t2615;
 // System.Array
 struct Array_t;
 // System.Collections.IEnumerator

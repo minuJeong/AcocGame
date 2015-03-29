@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<ChatGui>
-struct CastHelper_1_t4393;
+struct CastHelper_1_t4394;
 

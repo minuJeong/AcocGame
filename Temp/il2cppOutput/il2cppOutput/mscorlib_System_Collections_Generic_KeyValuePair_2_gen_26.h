@@ -7,7 +7,7 @@ struct String_t;
 // LitJson.PropertyMetadata
 #include "LitJson_LitJson_PropertyMetadata.h"
 // System.Collections.Generic.KeyValuePair`2<System.String,LitJson.PropertyMetadata>
-struct KeyValuePair_2_t5841 
+struct KeyValuePair_2_t5842 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<System.String,LitJson.PropertyMetadata>::key
 	String_t* ___key;

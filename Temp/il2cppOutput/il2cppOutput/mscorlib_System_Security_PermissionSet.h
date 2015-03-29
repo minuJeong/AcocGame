@@ -3,7 +3,7 @@
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Security.PermissionSet
-struct PermissionSet_t3383  : public Object_t
+struct PermissionSet_t3384  : public Object_t
 {
 	// System.Boolean System.Security.PermissionSet::<DeclarativeSecurity>k__BackingField
 	bool ___U3CDeclarativeSecurityU3Ek__BackingField;

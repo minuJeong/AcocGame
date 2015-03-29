@@ -7,7 +7,7 @@ struct Dictionary_2_t1505;
 // System.Collections.Generic.KeyValuePair`2<System.String,Parse.Internal.IParseFieldOperation>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_6.h"
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,Parse.Internal.IParseFieldOperation>
-struct Enumerator_t6538 
+struct Enumerator_t6539 
 {
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator<System.String,Parse.Internal.IParseFieldOperation>::dictionary
 	Dictionary_2_t1505 * ___dictionary;

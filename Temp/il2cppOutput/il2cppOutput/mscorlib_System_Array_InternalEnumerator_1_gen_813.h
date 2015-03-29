@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<System.Linq.Expressions.MemberBinding>
-struct InternalEnumerator_1_t11927 
+struct InternalEnumerator_1_t11928 
 {
 	// System.Array System.Array/InternalEnumerator`1<System.Linq.Expressions.MemberBinding>::array
 	Array_t * ___array;

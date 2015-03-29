@@ -1,9 +1,9 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IEnumerable`1<System.Linq.IGrouping`2<System.String,System.String>>
-struct IEnumerable_1_t6730;
+struct IEnumerable_1_t6731;
 // System.Collections.Generic.IEnumerator`1<System.Linq.IGrouping`2<System.String,System.String>>
-struct IEnumerator_1_t6731;
+struct IEnumerator_1_t6732;
 // System.Linq.IGrouping`2<System.String,System.String>
 struct IGrouping_2_t1151;
 // System.Func`2<System.Linq.IGrouping`2<System.String,System.String>,System.Boolean>
@@ -11,7 +11,7 @@ struct Func_2_t1500;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateWhereIterator>c__Iterator1D`1<System.Linq.IGrouping`2<System.String,System.String>>
-struct U3CCreateWhereIteratorU3Ec__Iterator1D_1_t6732  : public Object_t
+struct U3CCreateWhereIteratorU3Ec__Iterator1D_1_t6733  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateWhereIterator>c__Iterator1D`1<System.Linq.IGrouping`2<System.String,System.String>>::source
 	Object_t* ___source;

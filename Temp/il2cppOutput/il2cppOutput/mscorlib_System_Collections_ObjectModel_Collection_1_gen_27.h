@@ -1,13 +1,13 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Collections.Generic.IList`1<UnityEngine.UI.StencilMaterial/MatEntry>
-struct IList_1_t5628;
+struct IList_1_t5629;
 // System.Object
 struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.Collection`1<UnityEngine.UI.StencilMaterial/MatEntry>
-struct Collection_1_t5629  : public Object_t
+struct Collection_1_t5630  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.Collection`1<UnityEngine.UI.StencilMaterial/MatEntry>::list
 	Object_t* ___list;

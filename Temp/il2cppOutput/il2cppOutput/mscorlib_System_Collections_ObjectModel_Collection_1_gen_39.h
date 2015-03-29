@@ -7,7 +7,7 @@ struct Object_t;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.Collection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.String>>
-struct Collection_1_t6399  : public Object_t
+struct Collection_1_t6400  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.Collection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.String>>::list
 	Object_t* ___list;

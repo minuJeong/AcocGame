@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.CastHelper`1<EditorFacebookAccessToken>
-struct CastHelper_1_t4291;
+struct CastHelper_1_t4292;
 

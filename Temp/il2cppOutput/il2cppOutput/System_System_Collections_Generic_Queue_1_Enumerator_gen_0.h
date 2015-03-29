@@ -5,7 +5,7 @@ struct Queue_1_t1219;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.Queue`1/Enumerator<System.Action>
-struct Enumerator_t7046 
+struct Enumerator_t7047 
 {
 	// System.Collections.Generic.Queue`1<T> System.Collections.Generic.Queue`1/Enumerator<System.Action>::q
 	Queue_1_t1219 * ___q;

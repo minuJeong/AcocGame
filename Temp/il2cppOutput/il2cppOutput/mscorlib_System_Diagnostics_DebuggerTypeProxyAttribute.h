@@ -5,7 +5,7 @@ struct String_t;
 // System.Attribute
 #include "mscorlib_System_Attribute.h"
 // System.Diagnostics.DebuggerTypeProxyAttribute
-struct DebuggerTypeProxyAttribute_t3311  : public Attribute_t862
+struct DebuggerTypeProxyAttribute_t3312  : public Attribute_t862
 {
 	// System.String System.Diagnostics.DebuggerTypeProxyAttribute::proxy_type_name
 	String_t* ___proxy_type_name;

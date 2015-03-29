@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<ShowStatusWhenConnecting>
-struct InternalEnumerator_1_t5050 
+struct InternalEnumerator_1_t5051 
 {
 	// System.Array System.Array/InternalEnumerator`1<ShowStatusWhenConnecting>::array
 	Array_t * ___array;

@@ -5,7 +5,7 @@
 // UnityEngine.EventType
 #include "UnityEngine_UnityEngine_EventType.h"
 // UnityEngine.EventType
-struct EventType_t2520 
+struct EventType_t2521 
 {
 	// System.Int32 UnityEngine.EventType::value__
 	int32_t ___value__;

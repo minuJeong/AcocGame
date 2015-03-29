@@ -10,4 +10,4 @@ struct DebuggableAttribute_t2341;
 #include "mscorlib_System_Diagnostics_DebuggableAttribute_DebuggingMod.h"
 
 // System.Void System.Diagnostics.DebuggableAttribute::.ctor(System.Diagnostics.DebuggableAttribute/DebuggingModes)
- void DebuggableAttribute__ctor_m7156 (DebuggableAttribute_t2341 * __this, int32_t ___modes, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void DebuggableAttribute__ctor_m7158 (DebuggableAttribute_t2341 * __this, int32_t ___modes, MethodInfo* method) IL2CPP_METHOD_ATTR;

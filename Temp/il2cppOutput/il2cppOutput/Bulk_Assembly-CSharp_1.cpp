@@ -31807,7 +31807,7 @@ IL_0030:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral627, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral629, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_026c;
 	}
 
@@ -31816,8 +31816,8 @@ IL_0057:
 		ObjectU5BU5D_t5* L_3 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 6));
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 0);
-		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral628);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 0)) = (Object_t *)(String_t*) &_stringLiteral628;
+		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral630);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 0)) = (Object_t *)(String_t*) &_stringLiteral630;
 		ObjectU5BU5D_t5* L_4 = L_3;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_5 = PhotonNetwork_get_connectionStateDetailed_m1469(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo);
@@ -31843,8 +31843,8 @@ IL_0057:
 		ObjectU5BU5D_t5* L_13 = L_9;
 		NullCheck(L_13);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_13, 4);
-		ArrayElementTypeCheck (L_13, (String_t*) &_stringLiteral629);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_13, 4)) = (Object_t *)(String_t*) &_stringLiteral629;
+		ArrayElementTypeCheck (L_13, (String_t*) &_stringLiteral631);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_13, 4)) = (Object_t *)(String_t*) &_stringLiteral631;
 		ObjectU5BU5D_t5* L_14 = L_13;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		List_1_t287 * L_15 = NetworkingPeer_get_AvailableRegions_m1259((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_AvailableRegions_m1259_MethodInfo);
@@ -31897,7 +31897,7 @@ IL_00cd:
 
 IL_00ff:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral630, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral632, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_026c;
 	}
 
@@ -32029,8 +32029,8 @@ IL_01a7:
 		ObjectU5BU5D_t5* L_46 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 6));
 		NullCheck(L_46);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_46, 0);
-		ArrayElementTypeCheck (L_46, (String_t*) &_stringLiteral631);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_46, 0)) = (Object_t *)(String_t*) &_stringLiteral631;
+		ArrayElementTypeCheck (L_46, (String_t*) &_stringLiteral633);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_46, 0)) = (Object_t *)(String_t*) &_stringLiteral633;
 		ObjectU5BU5D_t5* L_47 = L_46;
 		Region_t296 * L_48 = (__this->___U3CbestU3E__3);
 		NullCheck(L_48);
@@ -32044,8 +32044,8 @@ IL_01a7:
 		ObjectU5BU5D_t5* L_52 = L_47;
 		NullCheck(L_52);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_52, 2);
-		ArrayElementTypeCheck (L_52, (String_t*) &_stringLiteral632);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_52, 2)) = (Object_t *)(String_t*) &_stringLiteral632;
+		ArrayElementTypeCheck (L_52, (String_t*) &_stringLiteral634);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_52, 2)) = (Object_t *)(String_t*) &_stringLiteral634;
 		ObjectU5BU5D_t5* L_53 = L_52;
 		Region_t296 * L_54 = (__this->___U3CbestU3E__3);
 		NullCheck(L_54);
@@ -32059,8 +32059,8 @@ IL_01a7:
 		ObjectU5BU5D_t5* L_58 = L_53;
 		NullCheck(L_58);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_58, 4);
-		ArrayElementTypeCheck (L_58, (String_t*) &_stringLiteral633);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_58, 4)) = (Object_t *)(String_t*) &_stringLiteral633;
+		ArrayElementTypeCheck (L_58, (String_t*) &_stringLiteral635);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_58, 4)) = (Object_t *)(String_t*) &_stringLiteral635;
 		ObjectU5BU5D_t5* L_59 = L_58;
 		bool L_60 = (__this->___connectToBest);
 		bool L_61 = L_60;
@@ -32621,6 +32621,8 @@ extern TypeInfo SupportClass_t471_il2cpp_TypeInfo;
 extern TypeInfo U3CPingAvailableRegionsCoroutineU3Ec__Iterator4_t297_il2cpp_TypeInfo;
 // UnityEngine.PlayerPrefs
 #include "UnityEngine_UnityEngine_PlayerPrefsMethodDeclarations.h"
+// UnityEngine.Profiler
+#include "UnityEngine_UnityEngine_ProfilerMethodDeclarations.h"
 // UnityEngine.Time
 #include "UnityEngine_UnityEngine_TimeMethodDeclarations.h"
 // System.Func`1<System.Boolean>
@@ -32645,7 +32647,9 @@ extern MethodInfo Debug_LogError_m486_MethodInfo;
 extern MethodInfo PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo;
 extern MethodInfo PhotonNetwork_get_offlineMode_m1483_MethodInfo;
 extern MethodInfo PhotonNetwork_get_isMessageQueueRunning_m1502_MethodInfo;
+extern MethodInfo Profiler_BeginSample_m2591_MethodInfo;
 extern MethodInfo PhotonPeer_DispatchIncomingCommands_m453_MethodInfo;
+extern MethodInfo Profiler_EndSample_m2592_MethodInfo;
 extern MethodInfo Time_get_realtimeSinceStartup_m618_MethodInfo;
 extern MethodInfo NetworkingPeer_RunViewUpdate_m1337_MethodInfo;
 extern MethodInfo PhotonPeer_SendOutgoingCommands_m452_MethodInfo;
@@ -32654,8 +32658,8 @@ extern MethodInfo Application_get_loadedLevelName_m2554_MethodInfo;
 extern MethodInfo NetworkingPeer_SetLevelInPropsIfSynced_m1346_MethodInfo;
 extern MethodInfo NetworkingPeer_LoadLevelIfSynced_m1345_MethodInfo;
 extern MethodInfo PhotonHandler_FallbackSendAckThread_m1441_MethodInfo;
-extern MethodInfo Func_1__ctor_m2591_MethodInfo;
-extern MethodInfo SupportClass_CallInBackground_m2592_MethodInfo;
+extern MethodInfo Func_1__ctor_m2593_MethodInfo;
+extern MethodInfo SupportClass_CallInBackground_m2594_MethodInfo;
 extern MethodInfo PhotonPeer_SendAcksOnly_m405_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
@@ -32808,24 +32812,26 @@ IL_0037:
 IL_0042:
 	{
 		V_0 = 1;
-		goto IL_0054;
+		goto IL_0063;
 	}
 
 IL_0049:
 	{
+		Profiler_BeginSample_m2591(NULL /*static, unused*/, (String_t*) &_stringLiteral627, /*hidden argument*/&Profiler_BeginSample_m2591_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		bool L_4 = (bool)VirtFuncInvoker0< bool >::Invoke(&PhotonPeer_DispatchIncomingCommands_m453_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		V_0 = L_4;
+		Profiler_EndSample_m2592(NULL /*static, unused*/, /*hidden argument*/&Profiler_EndSample_m2592_MethodInfo);
 	}
 
-IL_0054:
+IL_0063:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		bool L_5 = PhotonNetwork_get_isMessageQueueRunning_m1502(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_isMessageQueueRunning_m1502_MethodInfo);
 		if (!L_5)
 		{
-			goto IL_0064;
+			goto IL_0073;
 		}
 	}
 	{
@@ -32835,7 +32841,7 @@ IL_0054:
 		}
 	}
 
-IL_0064:
+IL_0073:
 	{
 		float L_6 = Time_get_realtimeSinceStartup_m618(NULL /*static, unused*/, /*hidden argument*/&Time_get_realtimeSinceStartup_m618_MethodInfo);
 		V_1 = (((int32_t)((float)(L_6*(1000.0f)))));
@@ -32843,14 +32849,14 @@ IL_0064:
 		bool L_7 = PhotonNetwork_get_isMessageQueueRunning_m1502(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_isMessageQueueRunning_m1502_MethodInfo);
 		if (!L_7)
 		{
-			goto IL_00a6;
+			goto IL_00b5;
 		}
 	}
 	{
 		int32_t L_8 = (__this->___nextSendTickCountOnSerialize);
 		if ((((int32_t)V_1) <= ((int32_t)L_8)))
 		{
-			goto IL_00a6;
+			goto IL_00b5;
 		}
 	}
 	{
@@ -32862,52 +32868,54 @@ IL_0064:
 		__this->___nextSendTickCount = 0;
 	}
 
-IL_00a6:
+IL_00b5:
 	{
 		float L_10 = Time_get_realtimeSinceStartup_m618(NULL /*static, unused*/, /*hidden argument*/&Time_get_realtimeSinceStartup_m618_MethodInfo);
 		V_1 = (((int32_t)((float)(L_10*(1000.0f)))));
 		int32_t L_11 = (__this->___nextSendTickCount);
 		if ((((int32_t)V_1) <= ((int32_t)L_11)))
 		{
-			goto IL_00ef;
+			goto IL_010d;
 		}
 	}
 	{
 		V_2 = 1;
-		goto IL_00d1;
+		goto IL_00ef;
 	}
 
-IL_00c6:
+IL_00d5:
 	{
+		Profiler_BeginSample_m2591(NULL /*static, unused*/, (String_t*) &_stringLiteral628, /*hidden argument*/&Profiler_BeginSample_m2591_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		bool L_12 = (bool)VirtFuncInvoker0< bool >::Invoke(&PhotonPeer_SendOutgoingCommands_m452_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		V_2 = L_12;
+		Profiler_EndSample_m2592(NULL /*static, unused*/, /*hidden argument*/&Profiler_EndSample_m2592_MethodInfo);
 	}
 
-IL_00d1:
+IL_00ef:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		bool L_13 = PhotonNetwork_get_isMessageQueueRunning_m1502(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_isMessageQueueRunning_m1502_MethodInfo);
 		if (!L_13)
 		{
-			goto IL_00e1;
+			goto IL_00ff;
 		}
 	}
 	{
 		if (V_2)
 		{
-			goto IL_00c6;
+			goto IL_00d5;
 		}
 	}
 
-IL_00e1:
+IL_00ff:
 	{
 		int32_t L_14 = (__this->___updateInterval);
 		__this->___nextSendTickCount = ((int32_t)(V_1+L_14));
 	}
 
-IL_00ef:
+IL_010d:
 	{
 		return;
 	}
@@ -32966,9 +32974,9 @@ IL_000b:
 		((PhotonHandler_t299_StaticFields*)InitializedTypeInfo(&PhotonHandler_t299_il2cpp_TypeInfo)->static_fields)->___sendThreadShouldRun = 1;
 		IntPtr_t39 L_0 = { &PhotonHandler_FallbackSendAckThread_m1441_MethodInfo };
 		Func_1_t508 * L_1 = (Func_1_t508 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Func_1_t508_il2cpp_TypeInfo));
-		Func_1__ctor_m2591(L_1, NULL, L_0, /*hidden argument*/&Func_1__ctor_m2591_MethodInfo);
+		Func_1__ctor_m2593(L_1, NULL, L_0, /*hidden argument*/&Func_1__ctor_m2593_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&SupportClass_t471_il2cpp_TypeInfo));
-		SupportClass_CallInBackground_m2592(NULL /*static, unused*/, L_1, /*hidden argument*/&SupportClass_CallInBackground_m2592_MethodInfo);
+		SupportClass_CallInBackground_m2594(NULL /*static, unused*/, L_1, /*hidden argument*/&SupportClass_CallInBackground_m2594_MethodInfo);
 		return;
 	}
 }
@@ -34008,30 +34016,30 @@ extern MethodInfo PhotonLagSimulationGui_set_Peer_m1452_MethodInfo;
 extern MethodInfo PhotonLagSimulationGui_get_Peer_m1451_MethodInfo;
 extern MethodInfo PhotonLagSimulationGui_NetSimHasNoPeerWindow_m1455_MethodInfo;
 extern MethodInfo WindowFunction__ctor_m2057_MethodInfo;
-extern MethodInfo GUILayout_Window_m2593_MethodInfo;
+extern MethodInfo GUILayout_Window_m2595_MethodInfo;
 extern MethodInfo PhotonLagSimulationGui_NetSimWindow_m1456_MethodInfo;
 extern MethodInfo GUILayout_Label_m2063_MethodInfo;
-extern MethodInfo PhotonPeer_get_RoundTripTime_m2594_MethodInfo;
-extern MethodInfo PhotonPeer_get_RoundTripTimeVariance_m2595_MethodInfo;
+extern MethodInfo PhotonPeer_get_RoundTripTime_m2596_MethodInfo;
+extern MethodInfo PhotonPeer_get_RoundTripTimeVariance_m2597_MethodInfo;
 extern MethodInfo String_Format_m392_MethodInfo;
 extern MethodInfo PhotonPeer_get_IsSimulationEnabled_m449_MethodInfo;
-extern MethodInfo GUILayout_Toggle_m2596_MethodInfo;
+extern MethodInfo GUILayout_Toggle_m2598_MethodInfo;
 extern MethodInfo PhotonPeer_set_IsSimulationEnabled_m450_MethodInfo;
-extern MethodInfo PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo;
-extern MethodInfo NetworkSimulationSet_get_IncomingLag_m2598_MethodInfo;
+extern MethodInfo PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo;
+extern MethodInfo NetworkSimulationSet_get_IncomingLag_m2600_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
-extern MethodInfo GUILayout_HorizontalSlider_m2599_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_IncomingLag_m2600_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_OutgoingLag_m2601_MethodInfo;
-extern MethodInfo NetworkSimulationSet_get_IncomingJitter_m2602_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_IncomingJitter_m2603_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_OutgoingJitter_m2604_MethodInfo;
-extern MethodInfo NetworkSimulationSet_get_IncomingLossPercentage_m2605_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_IncomingLossPercentage_m2606_MethodInfo;
-extern MethodInfo NetworkSimulationSet_set_OutgoingLossPercentage_m2607_MethodInfo;
+extern MethodInfo GUILayout_HorizontalSlider_m2601_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_IncomingLag_m2602_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_OutgoingLag_m2603_MethodInfo;
+extern MethodInfo NetworkSimulationSet_get_IncomingJitter_m2604_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_IncomingJitter_m2605_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_OutgoingJitter_m2606_MethodInfo;
+extern MethodInfo NetworkSimulationSet_get_IncomingLossPercentage_m2607_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_IncomingLossPercentage_m2608_MethodInfo;
+extern MethodInfo NetworkSimulationSet_set_OutgoingLossPercentage_m2609_MethodInfo;
 extern MethodInfo GUI_get_changed_m2372_MethodInfo;
 extern MethodInfo Rect_set_height_m566_MethodInfo;
-extern MethodInfo GUI_DragWindow_m2608_MethodInfo;
+extern MethodInfo GUI_DragWindow_m2610_MethodInfo;
 
 
 // System.Void PhotonLagSimulationGui::.ctor()
@@ -34100,7 +34108,7 @@ IL_000c:
 		IntPtr_t39 L_4 = { &PhotonLagSimulationGui_NetSimHasNoPeerWindow_m1455_MethodInfo };
 		WindowFunction_t416 * L_5 = (WindowFunction_t416 *)il2cpp_codegen_object_new (InitializedTypeInfo(&WindowFunction_t416_il2cpp_TypeInfo));
 		WindowFunction__ctor_m2057(L_5, __this, L_4, /*hidden argument*/&WindowFunction__ctor_m2057_MethodInfo);
-		Rect_t55  L_6 = GUILayout_Window_m2593(NULL /*static, unused*/, L_2, L_3, L_5, (String_t*) &_stringLiteral634, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2593_MethodInfo);
+		Rect_t55  L_6 = GUILayout_Window_m2595(NULL /*static, unused*/, L_2, L_3, L_5, (String_t*) &_stringLiteral636, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2595_MethodInfo);
 		__this->___WindowRect = L_6;
 		goto IL_0078;
 	}
@@ -34112,7 +34120,7 @@ IL_004a:
 		IntPtr_t39 L_9 = { &PhotonLagSimulationGui_NetSimWindow_m1456_MethodInfo };
 		WindowFunction_t416 * L_10 = (WindowFunction_t416 *)il2cpp_codegen_object_new (InitializedTypeInfo(&WindowFunction_t416_il2cpp_TypeInfo));
 		WindowFunction__ctor_m2057(L_10, __this, L_9, /*hidden argument*/&WindowFunction__ctor_m2057_MethodInfo);
-		Rect_t55  L_11 = GUILayout_Window_m2593(NULL /*static, unused*/, L_7, L_8, L_10, (String_t*) &_stringLiteral634, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2593_MethodInfo);
+		Rect_t55  L_11 = GUILayout_Window_m2595(NULL /*static, unused*/, L_7, L_8, L_10, (String_t*) &_stringLiteral636, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2595_MethodInfo);
 		__this->___WindowRect = L_11;
 	}
 
@@ -34125,7 +34133,7 @@ IL_0078:
 extern MethodInfo PhotonLagSimulationGui_NetSimHasNoPeerWindow_m1455_MethodInfo;
  void PhotonLagSimulationGui_NetSimHasNoPeerWindow_m1455 (PhotonLagSimulationGui_t300 * __this, int32_t ___windowId, MethodInfo* method){
 	{
-		GUILayout_Label_m2063(NULL /*static, unused*/, (String_t*) &_stringLiteral635, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
+		GUILayout_Label_m2063(NULL /*static, unused*/, (String_t*) &_stringLiteral637, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		return;
 	}
 }
@@ -34140,22 +34148,22 @@ extern MethodInfo PhotonLagSimulationGui_NetSimWindow_m1456_MethodInfo;
 	{
 		PhotonPeer_t18 * L_0 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_0);
-		int32_t L_1 = PhotonPeer_get_RoundTripTime_m2594(L_0, /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2594_MethodInfo);
+		int32_t L_1 = PhotonPeer_get_RoundTripTime_m2596(L_0, /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2596_MethodInfo);
 		int32_t L_2 = L_1;
 		Object_t * L_3 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_2);
 		PhotonPeer_t18 * L_4 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_4);
-		int32_t L_5 = PhotonPeer_get_RoundTripTimeVariance_m2595(L_4, /*hidden argument*/&PhotonPeer_get_RoundTripTimeVariance_m2595_MethodInfo);
+		int32_t L_5 = PhotonPeer_get_RoundTripTimeVariance_m2597(L_4, /*hidden argument*/&PhotonPeer_get_RoundTripTimeVariance_m2597_MethodInfo);
 		int32_t L_6 = L_5;
 		Object_t * L_7 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_6);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Format_m392(NULL /*static, unused*/, (String_t*) &_stringLiteral636, L_3, L_7, /*hidden argument*/&String_Format_m392_MethodInfo);
+		String_t* L_8 = String_Format_m392(NULL /*static, unused*/, (String_t*) &_stringLiteral638, L_3, L_7, /*hidden argument*/&String_Format_m392_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_8, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		PhotonPeer_t18 * L_9 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_9);
 		bool L_10 = (bool)VirtFuncInvoker0< bool >::Invoke(&PhotonPeer_get_IsSimulationEnabled_m449_MethodInfo, L_9);
 		V_0 = L_10;
-		bool L_11 = GUILayout_Toggle_m2596(NULL /*static, unused*/, V_0, (String_t*) &_stringLiteral637, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2596_MethodInfo);
+		bool L_11 = GUILayout_Toggle_m2598(NULL /*static, unused*/, V_0, (String_t*) &_stringLiteral639, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2598_MethodInfo);
 		V_1 = L_11;
 		if ((((int32_t)V_1) == ((int32_t)V_0)))
 		{
@@ -34172,71 +34180,71 @@ IL_0066:
 	{
 		PhotonPeer_t18 * L_13 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_13);
-		NetworkSimulationSet_t509 * L_14 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_13, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_14 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_13, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_14);
-		int32_t L_15 = NetworkSimulationSet_get_IncomingLag_m2598(L_14, /*hidden argument*/&NetworkSimulationSet_get_IncomingLag_m2598_MethodInfo);
+		int32_t L_15 = NetworkSimulationSet_get_IncomingLag_m2600(L_14, /*hidden argument*/&NetworkSimulationSet_get_IncomingLag_m2600_MethodInfo);
 		V_2 = (((float)L_15));
 		float L_16 = V_2;
 		Object_t * L_17 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_16);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_18 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral638, L_17, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_18 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral640, L_17, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_18, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
-		float L_19 = GUILayout_HorizontalSlider_m2599(NULL /*static, unused*/, V_2, (0.0f), (500.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2599_MethodInfo);
+		float L_19 = GUILayout_HorizontalSlider_m2601(NULL /*static, unused*/, V_2, (0.0f), (500.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2601_MethodInfo);
 		V_2 = L_19;
 		PhotonPeer_t18 * L_20 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_20);
-		NetworkSimulationSet_t509 * L_21 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_20, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_21 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_20, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_21);
-		NetworkSimulationSet_set_IncomingLag_m2600(L_21, (((int32_t)V_2)), /*hidden argument*/&NetworkSimulationSet_set_IncomingLag_m2600_MethodInfo);
+		NetworkSimulationSet_set_IncomingLag_m2602(L_21, (((int32_t)V_2)), /*hidden argument*/&NetworkSimulationSet_set_IncomingLag_m2602_MethodInfo);
 		PhotonPeer_t18 * L_22 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_22);
-		NetworkSimulationSet_t509 * L_23 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_22, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_23 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_22, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_23);
-		NetworkSimulationSet_set_OutgoingLag_m2601(L_23, (((int32_t)V_2)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingLag_m2601_MethodInfo);
+		NetworkSimulationSet_set_OutgoingLag_m2603(L_23, (((int32_t)V_2)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingLag_m2603_MethodInfo);
 		PhotonPeer_t18 * L_24 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_24);
-		NetworkSimulationSet_t509 * L_25 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_24, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_25 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_24, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_25);
-		int32_t L_26 = NetworkSimulationSet_get_IncomingJitter_m2602(L_25, /*hidden argument*/&NetworkSimulationSet_get_IncomingJitter_m2602_MethodInfo);
+		int32_t L_26 = NetworkSimulationSet_get_IncomingJitter_m2604(L_25, /*hidden argument*/&NetworkSimulationSet_get_IncomingJitter_m2604_MethodInfo);
 		V_3 = (((float)L_26));
 		float L_27 = V_3;
 		Object_t * L_28 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_27);
-		String_t* L_29 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral639, L_28, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_29 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral641, L_28, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_29, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
-		float L_30 = GUILayout_HorizontalSlider_m2599(NULL /*static, unused*/, V_3, (0.0f), (100.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2599_MethodInfo);
+		float L_30 = GUILayout_HorizontalSlider_m2601(NULL /*static, unused*/, V_3, (0.0f), (100.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2601_MethodInfo);
 		V_3 = L_30;
 		PhotonPeer_t18 * L_31 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_31);
-		NetworkSimulationSet_t509 * L_32 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_31, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_32 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_31, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_32);
-		NetworkSimulationSet_set_IncomingJitter_m2603(L_32, (((int32_t)V_3)), /*hidden argument*/&NetworkSimulationSet_set_IncomingJitter_m2603_MethodInfo);
+		NetworkSimulationSet_set_IncomingJitter_m2605(L_32, (((int32_t)V_3)), /*hidden argument*/&NetworkSimulationSet_set_IncomingJitter_m2605_MethodInfo);
 		PhotonPeer_t18 * L_33 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_33);
-		NetworkSimulationSet_t509 * L_34 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_33, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_34 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_33, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_34);
-		NetworkSimulationSet_set_OutgoingJitter_m2604(L_34, (((int32_t)V_3)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingJitter_m2604_MethodInfo);
+		NetworkSimulationSet_set_OutgoingJitter_m2606(L_34, (((int32_t)V_3)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingJitter_m2606_MethodInfo);
 		PhotonPeer_t18 * L_35 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_35);
-		NetworkSimulationSet_t509 * L_36 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_35, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_36 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_35, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_36);
-		int32_t L_37 = NetworkSimulationSet_get_IncomingLossPercentage_m2605(L_36, /*hidden argument*/&NetworkSimulationSet_get_IncomingLossPercentage_m2605_MethodInfo);
+		int32_t L_37 = NetworkSimulationSet_get_IncomingLossPercentage_m2607(L_36, /*hidden argument*/&NetworkSimulationSet_get_IncomingLossPercentage_m2607_MethodInfo);
 		V_4 = (((float)L_37));
 		float L_38 = V_4;
 		Object_t * L_39 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_38);
-		String_t* L_40 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral640, L_39, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_40 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral642, L_39, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_40, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
-		float L_41 = GUILayout_HorizontalSlider_m2599(NULL /*static, unused*/, V_4, (0.0f), (10.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2599_MethodInfo);
+		float L_41 = GUILayout_HorizontalSlider_m2601(NULL /*static, unused*/, V_4, (0.0f), (10.0f), ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_HorizontalSlider_m2601_MethodInfo);
 		V_4 = L_41;
 		PhotonPeer_t18 * L_42 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_42);
-		NetworkSimulationSet_t509 * L_43 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_42, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_43 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_42, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_43);
-		NetworkSimulationSet_set_IncomingLossPercentage_m2606(L_43, (((int32_t)V_4)), /*hidden argument*/&NetworkSimulationSet_set_IncomingLossPercentage_m2606_MethodInfo);
+		NetworkSimulationSet_set_IncomingLossPercentage_m2608(L_43, (((int32_t)V_4)), /*hidden argument*/&NetworkSimulationSet_set_IncomingLossPercentage_m2608_MethodInfo);
 		PhotonPeer_t18 * L_44 = PhotonLagSimulationGui_get_Peer_m1451(__this, /*hidden argument*/&PhotonLagSimulationGui_get_Peer_m1451_MethodInfo);
 		NullCheck(L_44);
-		NetworkSimulationSet_t509 * L_45 = PhotonPeer_get_NetworkSimulationSettings_m2597(L_44, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2597_MethodInfo);
+		NetworkSimulationSet_t509 * L_45 = PhotonPeer_get_NetworkSimulationSettings_m2599(L_44, /*hidden argument*/&PhotonPeer_get_NetworkSimulationSettings_m2599_MethodInfo);
 		NullCheck(L_45);
-		NetworkSimulationSet_set_OutgoingLossPercentage_m2607(L_45, (((int32_t)V_4)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingLossPercentage_m2607_MethodInfo);
+		NetworkSimulationSet_set_OutgoingLossPercentage_m2609(L_45, (((int32_t)V_4)), /*hidden argument*/&NetworkSimulationSet_set_OutgoingLossPercentage_m2609_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&GUI_t415_il2cpp_TypeInfo));
 		bool L_46 = GUI_get_changed_m2372(NULL /*static, unused*/, /*hidden argument*/&GUI_get_changed_m2372_MethodInfo);
 		if (!L_46)
@@ -34252,7 +34260,7 @@ IL_0066:
 IL_01be:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&GUI_t415_il2cpp_TypeInfo));
-		GUI_DragWindow_m2608(NULL /*static, unused*/, /*hidden argument*/&GUI_DragWindow_m2608_MethodInfo);
+		GUI_DragWindow_m2610(NULL /*static, unused*/, /*hidden argument*/&GUI_DragWindow_m2610_MethodInfo);
 		return;
 	}
 }
@@ -35054,8 +35062,8 @@ extern MethodInfo PhotonNetwork_get_sendRateOnSerialize_m1500_MethodInfo;
 extern MethodInfo PhotonNetwork_set_sendRateOnSerialize_m1501_MethodInfo;
 extern MethodInfo PhotonNetwork_get_sendRate_m1498_MethodInfo;
 extern MethodInfo PhotonHandler_StartFallbackSendAckThread_m1439_MethodInfo;
-extern MethodInfo PhotonPeer_set_IsSendingOnlyAcks_m2609_MethodInfo;
-extern MethodInfo PhotonPeer_get_LimitOfUnreliableCommands_m2610_MethodInfo;
+extern MethodInfo PhotonPeer_set_IsSendingOnlyAcks_m2611_MethodInfo;
+extern MethodInfo PhotonPeer_get_LimitOfUnreliableCommands_m2612_MethodInfo;
 extern MethodInfo PhotonPeer_set_LimitOfUnreliableCommands_m2443_MethodInfo;
 extern MethodInfo Time_get_time_m477_MethodInfo;
 extern MethodInfo PhotonPeer_get_ServerTimeInMilliSeconds_m2515_MethodInfo;
@@ -35063,27 +35071,27 @@ extern MethodInfo PhotonNetwork_get_isMasterClient_m1507_MethodInfo;
 extern MethodInfo NetworkingPeer_get_mPlayersOnMasterCount_m1249_MethodInfo;
 extern MethodInfo NetworkingPeer_get_mPlayersInRoomsCount_m1253_MethodInfo;
 extern MethodInfo NetworkingPeer_get_mGameCount_m1251_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsEnabled_m2611_MethodInfo;
-extern MethodInfo PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo;
-extern MethodInfo PhotonPeer_get_ResentReliableCommands_m2613_MethodInfo;
-extern MethodInfo PhotonPeer_get_CrcEnabled_m2614_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsEnabled_m2613_MethodInfo;
+extern MethodInfo PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo;
+extern MethodInfo PhotonPeer_get_ResentReliableCommands_m2615_MethodInfo;
+extern MethodInfo PhotonPeer_get_CrcEnabled_m2616_MethodInfo;
 extern MethodInfo PhotonNetwork_get_connecting_m1466_MethodInfo;
-extern MethodInfo PhotonPeer_set_CrcEnabled_m2615_MethodInfo;
+extern MethodInfo PhotonPeer_set_CrcEnabled_m2617_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
-extern MethodInfo PhotonPeer_get_PacketLossByCrc_m2616_MethodInfo;
-extern MethodInfo PhotonPeer_get_SentCountAllowance_m2617_MethodInfo;
-extern MethodInfo PhotonPeer_set_SentCountAllowance_m2618_MethodInfo;
+extern MethodInfo PhotonPeer_get_PacketLossByCrc_m2618_MethodInfo;
+extern MethodInfo PhotonPeer_get_SentCountAllowance_m2619_MethodInfo;
+extern MethodInfo PhotonPeer_set_SentCountAllowance_m2620_MethodInfo;
 extern MethodInfo NetworkingPeer_get_server_m1255_MethodInfo;
 extern MethodInfo Type_GetTypeFromHandle_m385_MethodInfo;
 extern MethodInfo Resources_Load_m2517_MethodInfo;
 extern MethodInfo Dictionary_2__ctor_m2445_MethodInfo;
 extern MethodInfo List_1__ctor_m2446_MethodInfo;
 extern MethodInfo Application_set_runInBackground_m2231_MethodInfo;
-extern MethodInfo GameObject__ctor_m2619_MethodInfo;
-extern MethodInfo GameObject_AddComponent_TisPhotonHandler_t299_m2620_MethodInfo;
+extern MethodInfo GameObject__ctor_m2621_MethodInfo;
+extern MethodInfo GameObject_AddComponent_TisPhotonHandler_t299_m2622_MethodInfo;
 extern MethodInfo Object_set_name_m2367_MethodInfo;
-extern MethodInfo Object_set_hideFlags_m2621_MethodInfo;
+extern MethodInfo Object_set_hideFlags_m2623_MethodInfo;
 extern MethodInfo NetworkingPeer__ctor_m1225_MethodInfo;
 extern MethodInfo CustomTypes_Register_m1163_MethodInfo;
 extern MethodInfo PhotonNetwork_VerifyCanUseNetwork_m1579_MethodInfo;
@@ -35094,13 +35102,13 @@ extern MethodInfo HashSet_1__ctor_m2448_MethodInfo;
 extern MethodInfo Object_FindObjectsOfType_m2525_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
 extern MethodInfo HashSet_1_Add_m2452_MethodInfo;
-extern MethodInfo PhotonPeer_TrafficStatsReset_m2622_MethodInfo;
-extern MethodInfo PhotonPeer_VitalStatsToString_m2623_MethodInfo;
+extern MethodInfo PhotonPeer_TrafficStatsReset_m2624_MethodInfo;
+extern MethodInfo PhotonPeer_VitalStatsToString_m2625_MethodInfo;
 extern MethodInfo PhotonPeer_get_UsedProtocol_m383_MethodInfo;
 extern MethodInfo PhotonPeer_StopThread_m397_MethodInfo;
 extern MethodInfo NetworkingPeer_set_mLocalActor_m1244_MethodInfo;
 extern MethodInfo PhotonPeer_get_DebugOut_m446_MethodInfo;
-extern MethodInfo PhotonPeer_set_DebugOut_m2624_MethodInfo;
+extern MethodInfo PhotonPeer_set_DebugOut_m2626_MethodInfo;
 extern MethodInfo String_Concat_m2471_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo Object_get_name_m2225_MethodInfo;
@@ -35122,7 +35130,7 @@ extern MethodInfo PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo;
 extern MethodInfo PhotonHandler_get_BestRegionCodeInPreferences_m1446_MethodInfo;
 extern MethodInfo NetworkingPeer_ConnectToNameServer_m1266_MethodInfo;
 extern MethodInfo PhotonHandler_set_BestRegionCodeInPreferences_m1447_MethodInfo;
-extern MethodInfo NotImplementedException__ctor_m2625_MethodInfo;
+extern MethodInfo NotImplementedException__ctor_m2627_MethodInfo;
 extern MethodInfo NetworkingPeer_set_State_m1235_MethodInfo;
 extern MethodInfo NetworkingPeer_OnStatusChanged_m1298_MethodInfo;
 extern MethodInfo NetworkingPeer_OpFindFriends_m1297_MethodInfo;
@@ -35157,13 +35165,13 @@ extern MethodInfo PhotonNetwork_get_inRoom_m1508_MethodInfo;
 extern MethodInfo NetworkingPeer_OpRaiseEvent_m1293_MethodInfo;
 extern MethodInfo PhotonNetwork_AllocateViewID_m1555_MethodInfo;
 extern MethodInfo List_1_Add_m2495_MethodInfo;
-extern MethodInfo List_1_Remove_m2626_MethodInfo;
+extern MethodInfo List_1_Remove_m2628_MethodInfo;
 extern MethodInfo Dictionary_2_ContainsKey_m2527_MethodInfo;
 extern MethodInfo Dictionary_2_get_Item_m2528_MethodInfo;
 extern MethodInfo String_Format_m392_MethodInfo;
 extern MethodInfo String_Format_m2070_MethodInfo;
 extern MethodInfo Exception__ctor_m2519_MethodInfo;
-extern MethodInfo List_1_Contains_m2627_MethodInfo;
+extern MethodInfo List_1_Contains_m2629_MethodInfo;
 extern MethodInfo PhotonNetwork_Instantiate_m1558_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo Dictionary_2_TryGetValue_m2516_MethodInfo;
@@ -35174,7 +35182,7 @@ extern MethodInfo Extensions_GetPhotonViewsInChildren_m1172_MethodInfo;
 extern MethodInfo NetworkingPeer_SendInstantiate_m1304_MethodInfo;
 extern MethodInfo NetworkingPeer_DoInstantiate_m1305_MethodInfo;
 extern MethodInfo PhotonNetwork_AllocateSceneViewIDs_m1556_MethodInfo;
-extern MethodInfo PhotonPeer_get_RoundTripTime_m2594_MethodInfo;
+extern MethodInfo PhotonPeer_get_RoundTripTime_m2596_MethodInfo;
 extern MethodInfo PhotonPeer_FetchServerTimestamp_m451_MethodInfo;
 extern MethodInfo PhotonPeer_SendOutgoingCommands_m452_MethodInfo;
 extern MethodInfo PhotonPlayer_get_isMasterClient_m1588_MethodInfo;
@@ -35200,8 +35208,8 @@ extern MethodInfo NetworkingPeer_WebRpc_m1348_MethodInfo;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::AddComponent<PhotonHandler>()
 // !!0 UnityEngine.GameObject::AddComponent<PhotonHandler>()
- PhotonHandler_t299 * GameObject_AddComponent_TisPhotonHandler_t299_m2620 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo GameObject_AddComponent_TisPhotonHandler_t299_m2620_MethodInfo;
+ PhotonHandler_t299 * GameObject_AddComponent_TisPhotonHandler_t299_m2622 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo GameObject_AddComponent_TisPhotonHandler_t299_m2622_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<PhotonView>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_8.h"
@@ -35226,7 +35234,7 @@ extern MethodInfo PhotonNetwork__cctor_m1461_MethodInfo;
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___MAX_VIEW_IDS = ((int32_t)1000);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_0 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&ServerSettings_t302_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
-		Object_t111 * L_1 = Resources_Load_m2517(NULL /*static, unused*/, (String_t*) &_stringLiteral646, L_0, /*hidden argument*/&Resources_Load_m2517_MethodInfo);
+		Object_t111 * L_1 = Resources_Load_m2517(NULL /*static, unused*/, (String_t*) &_stringLiteral648, L_0, /*hidden argument*/&Resources_Load_m2517_MethodInfo);
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___PhotonServerSettings = ((ServerSettings_t302 *)Castclass(L_1, InitializedTypeInfo(&ServerSettings_t302_il2cpp_TypeInfo)));
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___precisionForVectorSynchronization = (9.9E-05f);
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___precisionForQuaternionSynchronization = (1.0f);
@@ -35256,15 +35264,15 @@ extern MethodInfo PhotonNetwork__cctor_m1461_MethodInfo;
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds = L_4;
 		Application_set_runInBackground_m2231(NULL /*static, unused*/, 1, /*hidden argument*/&Application_set_runInBackground_m2231_MethodInfo);
 		GameObject_t47 * L_5 = (GameObject_t47 *)il2cpp_codegen_object_new (InitializedTypeInfo(&GameObject_t47_il2cpp_TypeInfo));
-		GameObject__ctor_m2619(L_5, /*hidden argument*/&GameObject__ctor_m2619_MethodInfo);
+		GameObject__ctor_m2621(L_5, /*hidden argument*/&GameObject__ctor_m2621_MethodInfo);
 		V_0 = L_5;
 		NullCheck(V_0);
-		PhotonHandler_t299 * L_6 = GameObject_AddComponent_TisPhotonHandler_t299_m2620(V_0, /*hidden argument*/&GameObject_AddComponent_TisPhotonHandler_t299_m2620_MethodInfo);
+		PhotonHandler_t299 * L_6 = GameObject_AddComponent_TisPhotonHandler_t299_m2622(V_0, /*hidden argument*/&GameObject_AddComponent_TisPhotonHandler_t299_m2622_MethodInfo);
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___photonMono = L_6;
 		NullCheck(V_0);
-		Object_set_name_m2367(V_0, (String_t*) &_stringLiteral647, /*hidden argument*/&Object_set_name_m2367_MethodInfo);
+		Object_set_name_m2367(V_0, (String_t*) &_stringLiteral649, /*hidden argument*/&Object_set_name_m2367_MethodInfo);
 		NullCheck(V_0);
-		Object_set_hideFlags_m2621(V_0, 1, /*hidden argument*/&Object_set_hideFlags_m2621_MethodInfo);
+		Object_set_hideFlags_m2623(V_0, 1, /*hidden argument*/&Object_set_hideFlags_m2623_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___PhotonServerSettings));
 		uint8_t L_7 = ((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___PhotonServerSettings)->___Protocol);
@@ -35318,7 +35326,7 @@ extern MethodInfo PhotonNetwork_get_ServerAddress_m1464_MethodInfo;
 
 IL_0019:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral641;
+		G_B3_0 = (String_t*) &_stringLiteral643;
 	}
 
 IL_001e:
@@ -36007,7 +36015,7 @@ IL_000c:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral642, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral644, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_009c;
 	}
 
@@ -36217,7 +36225,7 @@ extern MethodInfo PhotonNetwork_set_autoCleanUpPlayerObjects_m1492_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral643, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral645, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_001f;
 	}
 
@@ -36344,7 +36352,7 @@ extern MethodInfo PhotonNetwork_set_sendRateOnSerialize_m1501_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral644, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral646, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_1 = PhotonNetwork_get_sendRate_m1498(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_sendRate_m1498_MethodInfo);
 		___value = L_1;
@@ -36397,7 +36405,7 @@ IL_000b:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_IsSendingOnlyAcks_m2609((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ((((int32_t)___value) == ((int32_t)0))? 1 : 0), /*hidden argument*/&PhotonPeer_set_IsSendingOnlyAcks_m2609_MethodInfo);
+		PhotonPeer_set_IsSendingOnlyAcks_m2611((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ((((int32_t)___value) == ((int32_t)0))? 1 : 0), /*hidden argument*/&PhotonPeer_set_IsSendingOnlyAcks_m2611_MethodInfo);
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___m_isMessageQueueRunning = ___value;
 		return;
 	}
@@ -36408,7 +36416,7 @@ extern MethodInfo PhotonNetwork_get_unreliableCommandsLimit_m1504_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_0 = PhotonPeer_get_LimitOfUnreliableCommands_m2610((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_LimitOfUnreliableCommands_m2610_MethodInfo);
+		int32_t L_0 = PhotonPeer_get_LimitOfUnreliableCommands_m2612((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_LimitOfUnreliableCommands_m2612_MethodInfo);
 		return L_0;
 	}
 }
@@ -36557,7 +36565,7 @@ extern MethodInfo PhotonNetwork_get_NetworkStatisticsEnabled_m1514_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_0 = PhotonPeer_get_TrafficStatsEnabled_m2611((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2611_MethodInfo);
+		bool L_0 = PhotonPeer_get_TrafficStatsEnabled_m2613((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2613_MethodInfo);
 		return L_0;
 	}
 }
@@ -36567,7 +36575,7 @@ extern MethodInfo PhotonNetwork_set_NetworkStatisticsEnabled_m1515_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_TrafficStatsEnabled_m2612((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo);
+		PhotonPeer_set_TrafficStatsEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo);
 		return;
 	}
 }
@@ -36577,7 +36585,7 @@ extern MethodInfo PhotonNetwork_get_ResentReliableCommands_m1516_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_0 = PhotonPeer_get_ResentReliableCommands_m2613((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_ResentReliableCommands_m2613_MethodInfo);
+		int32_t L_0 = PhotonPeer_get_ResentReliableCommands_m2615((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_ResentReliableCommands_m2615_MethodInfo);
 		return L_0;
 	}
 }
@@ -36587,7 +36595,7 @@ extern MethodInfo PhotonNetwork_get_CrcCheckEnabled_m1517_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_0 = PhotonPeer_get_CrcEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2614_MethodInfo);
+		bool L_0 = PhotonPeer_get_CrcEnabled_m2616((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2616_MethodInfo);
 		return L_0;
 	}
 }
@@ -36613,7 +36621,7 @@ extern MethodInfo PhotonNetwork_set_CrcCheckEnabled_m1518_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_CrcEnabled_m2615((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_CrcEnabled_m2615_MethodInfo);
+		PhotonPeer_set_CrcEnabled_m2617((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_CrcEnabled_m2617_MethodInfo);
 		goto IL_0042;
 	}
 
@@ -36621,11 +36629,11 @@ IL_0024:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_2 = PhotonPeer_get_CrcEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2614_MethodInfo);
+		bool L_2 = PhotonPeer_get_CrcEnabled_m2616((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2616_MethodInfo);
 		bool L_3 = L_2;
 		Object_t * L_4 = Box(InitializedTypeInfo(&Boolean_t64_il2cpp_TypeInfo), &L_3);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral645, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral647, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_5, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 	}
 
@@ -36640,7 +36648,7 @@ extern MethodInfo PhotonNetwork_get_PacketLossByCrcCheck_m1519_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_0 = PhotonPeer_get_PacketLossByCrc_m2616((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_PacketLossByCrc_m2616_MethodInfo);
+		int32_t L_0 = PhotonPeer_get_PacketLossByCrc_m2618((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_PacketLossByCrc_m2618_MethodInfo);
 		return L_0;
 	}
 }
@@ -36650,7 +36658,7 @@ extern MethodInfo PhotonNetwork_get_MaxResendsBeforeDisconnect_m1520_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_0 = PhotonPeer_get_SentCountAllowance_m2617((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_SentCountAllowance_m2617_MethodInfo);
+		int32_t L_0 = PhotonPeer_get_SentCountAllowance_m2619((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_SentCountAllowance_m2619_MethodInfo);
 		return L_0;
 	}
 }
@@ -36682,7 +36690,7 @@ IL_0016:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_SentCountAllowance_m2618((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_SentCountAllowance_m2618_MethodInfo);
+		PhotonPeer_set_SentCountAllowance_m2620((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), ___value, /*hidden argument*/&PhotonPeer_set_SentCountAllowance_m2620_MethodInfo);
 		return;
 	}
 }
@@ -36702,7 +36710,7 @@ extern MethodInfo PhotonNetwork_NetworkStatisticsReset_m1523_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_TrafficStatsReset_m2622((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_TrafficStatsReset_m2622_MethodInfo);
+		PhotonPeer_TrafficStatsReset_m2624((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_TrafficStatsReset_m2624_MethodInfo);
 		return;
 	}
 }
@@ -36727,14 +36735,14 @@ extern MethodInfo PhotonNetwork_NetworkStatisticsToString_m1524_MethodInfo;
 
 IL_0014:
 	{
-		return (String_t*) &_stringLiteral648;
+		return (String_t*) &_stringLiteral650;
 	}
 
 IL_001a:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		String_t* L_1 = PhotonPeer_VitalStatsToString_m2623((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), 0, /*hidden argument*/&PhotonPeer_VitalStatsToString_m2623_MethodInfo);
+		String_t* L_1 = PhotonPeer_VitalStatsToString_m2625((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), 0, /*hidden argument*/&PhotonPeer_VitalStatsToString_m2625_MethodInfo);
 		return L_1;
 	}
 }
@@ -36811,31 +36819,31 @@ IL_0030:
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		uint8_t L_6 = PhotonPeer_get_DebugOut_m446((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_DebugOut_m446_MethodInfo);
 		NullCheck(V_0);
-		PhotonPeer_set_DebugOut_m2624(V_0, L_6, /*hidden argument*/&PhotonPeer_set_DebugOut_m2624_MethodInfo);
+		PhotonPeer_set_DebugOut_m2626(V_0, L_6, /*hidden argument*/&PhotonPeer_set_DebugOut_m2626_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_7 = PhotonPeer_get_CrcEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2614_MethodInfo);
+		bool L_7 = PhotonPeer_get_CrcEnabled_m2616((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_CrcEnabled_m2616_MethodInfo);
 		NullCheck(V_0);
-		PhotonPeer_set_CrcEnabled_m2615(V_0, L_7, /*hidden argument*/&PhotonPeer_set_CrcEnabled_m2615_MethodInfo);
+		PhotonPeer_set_CrcEnabled_m2617(V_0, L_7, /*hidden argument*/&PhotonPeer_set_CrcEnabled_m2617_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		TypedLobby_t263 * L_8 = NetworkingPeer_get_lobby_m1247((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_lobby_m1247_MethodInfo);
 		NullCheck(V_0);
 		NetworkingPeer_set_lobby_m1248(V_0, L_8, /*hidden argument*/&NetworkingPeer_set_lobby_m1248_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_9 = PhotonPeer_get_LimitOfUnreliableCommands_m2610((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_LimitOfUnreliableCommands_m2610_MethodInfo);
+		int32_t L_9 = PhotonPeer_get_LimitOfUnreliableCommands_m2612((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_LimitOfUnreliableCommands_m2612_MethodInfo);
 		NullCheck(V_0);
 		PhotonPeer_set_LimitOfUnreliableCommands_m2443(V_0, L_9, /*hidden argument*/&PhotonPeer_set_LimitOfUnreliableCommands_m2443_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_10 = PhotonPeer_get_SentCountAllowance_m2617((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_SentCountAllowance_m2617_MethodInfo);
+		int32_t L_10 = PhotonPeer_get_SentCountAllowance_m2619((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_SentCountAllowance_m2619_MethodInfo);
 		NullCheck(V_0);
-		PhotonPeer_set_SentCountAllowance_m2618(V_0, L_10, /*hidden argument*/&PhotonPeer_set_SentCountAllowance_m2618_MethodInfo);
+		PhotonPeer_set_SentCountAllowance_m2620(V_0, L_10, /*hidden argument*/&PhotonPeer_set_SentCountAllowance_m2620_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_11 = PhotonPeer_get_TrafficStatsEnabled_m2611((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2611_MethodInfo);
+		bool L_11 = PhotonPeer_get_TrafficStatsEnabled_m2613((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2613_MethodInfo);
 		NullCheck(V_0);
-		PhotonPeer_set_TrafficStatsEnabled_m2612(V_0, L_11, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo);
+		PhotonPeer_set_TrafficStatsEnabled_m2614(V_0, L_11, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo);
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer = V_0;
 		uint8_t L_12 = ___cp;
 		Object_t * L_13 = Box(InitializedTypeInfo(&ConnectionProtocol_t67_il2cpp_TypeInfo), &L_12);
-		String_t* L_14 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral649, L_13, (String_t*) &_stringLiteral226, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_14 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral651, L_13, (String_t*) &_stringLiteral226, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_14, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return;
 	}
@@ -36865,7 +36873,7 @@ extern MethodInfo PhotonNetwork_InternalCleanPhotonMonoFromSceneIfStuck_m1526_Me
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral650, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral652, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		V_2 = V_0;
 		V_3 = 0;
 		goto IL_0087;
@@ -36879,7 +36887,7 @@ IL_0037:
 		NullCheck(V_1);
 		GameObject_t47 * L_2 = Component_get_gameObject_m496(V_1, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		NullCheck(L_2);
-		Object_set_hideFlags_m2621(L_2, 0, /*hidden argument*/&Object_set_hideFlags_m2621_MethodInfo);
+		Object_set_hideFlags_m2623(L_2, 0, /*hidden argument*/&Object_set_hideFlags_m2623_MethodInfo);
 		NullCheck(V_1);
 		GameObject_t47 * L_3 = Component_get_gameObject_m496(V_1, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		bool L_4 = Object_op_Inequality_m590(NULL /*static, unused*/, L_3, (Object_t111 *)NULL, /*hidden argument*/&Object_op_Inequality_m590_MethodInfo);
@@ -36894,7 +36902,7 @@ IL_0037:
 		NullCheck(L_5);
 		String_t* L_6 = Object_get_name_m2225(L_5, /*hidden argument*/&Object_get_name_m2225_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		bool L_7 = String_op_Equality_m580(NULL /*static, unused*/, L_6, (String_t*) &_stringLiteral647, /*hidden argument*/&String_op_Equality_m580_MethodInfo);
+		bool L_7 = String_op_Equality_m580(NULL /*static, unused*/, L_6, (String_t*) &_stringLiteral649, /*hidden argument*/&String_op_Equality_m580_MethodInfo);
 		if (!L_7)
 		{
 			goto IL_007d;
@@ -36942,7 +36950,7 @@ extern MethodInfo PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral651, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral653, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -36979,7 +36987,7 @@ IL_0058:
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral652, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral654, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_006c:
@@ -37094,7 +37102,7 @@ extern MethodInfo PhotonNetwork_ConnectToMaster_m1528_MethodInfo;
 		uint8_t L_2 = L_1;
 		Object_t * L_3 = Box(InitializedTypeInfo(&PeerStateValue_t511_il2cpp_TypeInfo), &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_4 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral653, L_3, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_4 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral655, L_3, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_4, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return 0;
 	}
@@ -37111,7 +37119,7 @@ IL_002f:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		PhotonNetwork_set_offlineMode_m1484(NULL /*static, unused*/, 0, /*hidden argument*/&PhotonNetwork_set_offlineMode_m1484_MethodInfo);
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral654, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral656, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_0049:
@@ -37126,7 +37134,7 @@ IL_0049:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		PhotonNetwork_set_isMessageQueueRunning_m1503(NULL /*static, unused*/, 1, /*hidden argument*/&PhotonNetwork_set_isMessageQueueRunning_m1503_MethodInfo);
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral655, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral657, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_0063:
@@ -37187,7 +37195,7 @@ extern MethodInfo PhotonNetwork_ConnectToBestCloudServer_m1529_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral651, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral653, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37228,7 +37236,7 @@ IL_0033:
 		int32_t L_5 = V_0;
 		Object_t * L_6 = Box(InitializedTypeInfo(&CloudRegionCode_t247_il2cpp_TypeInfo), &L_5);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_7 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral656, L_6, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_7 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral658, L_6, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_7, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
@@ -37259,7 +37267,7 @@ extern MethodInfo PhotonNetwork_RefreshCloudServerRating_m1531_MethodInfo;
  void PhotonNetwork_RefreshCloudServerRating_m1531 (Object_t * __this/* static, unused */, MethodInfo* method){
 	{
 		NotImplementedException_t512 * L_0 = (NotImplementedException_t512 *)il2cpp_codegen_object_new (InitializedTypeInfo(&NotImplementedException_t512_il2cpp_TypeInfo));
-		NotImplementedException__ctor_m2625(L_0, (String_t*) &_stringLiteral657, /*hidden argument*/&NotImplementedException__ctor_m2625_MethodInfo);
+		NotImplementedException__ctor_m2627(L_0, (String_t*) &_stringLiteral659, /*hidden argument*/&NotImplementedException__ctor_m2627_MethodInfo);
 		il2cpp_codegen_raise_exception (L_0);
 	}
 }
@@ -37413,7 +37421,7 @@ extern MethodInfo PhotonNetwork_CreateRoom_m1538_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral658, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral660, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37450,7 +37458,7 @@ IL_0047:
 
 IL_0060:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral659, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral661, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37492,7 +37500,7 @@ extern MethodInfo PhotonNetwork_JoinRoom_m1539_MethodInfo;
 
 IL_0022:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral660, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral662, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_009d;
 	}
 
@@ -37506,7 +37514,7 @@ IL_0031:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral661, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral663, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_009d;
 	}
 
@@ -37520,7 +37528,7 @@ IL_004a:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral662, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral664, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		goto IL_009d;
 	}
 
@@ -37575,7 +37583,7 @@ extern MethodInfo PhotonNetwork_JoinRoom_m1540_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral663, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral665, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37611,7 +37619,7 @@ IL_003b:
 
 IL_0054:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral664, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral666, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37625,7 +37633,7 @@ IL_0060:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral665, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral667, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37656,7 +37664,7 @@ extern MethodInfo PhotonNetwork_JoinOrCreateRoom_m1541_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral666, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral668, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37693,7 +37701,7 @@ IL_0047:
 
 IL_0060:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral667, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral669, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37707,7 +37715,7 @@ IL_006c:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral668, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral670, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37756,14 +37764,14 @@ extern MethodInfo PhotonNetwork_JoinRandomRoom_m1544_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral669, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral671, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
 IL_0020:
 	{
 		Room_t286 * L_1 = (Room_t286 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Room_t286_il2cpp_TypeInfo));
-		Room__ctor_m1662(L_1, (String_t*) &_stringLiteral670, (RoomOptions_t264 *)NULL, /*hidden argument*/&Room__ctor_m1662_MethodInfo);
+		Room__ctor_m1662(L_1, (String_t*) &_stringLiteral672, (RoomOptions_t264 *)NULL, /*hidden argument*/&Room__ctor_m1662_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___offlineModeRoom = L_1;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&NetworkingPeer_t288_il2cpp_TypeInfo));
@@ -37792,7 +37800,7 @@ IL_003f:
 
 IL_0058:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral671, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral673, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -37936,7 +37944,7 @@ IL_0021:
 		int32_t L_3 = L_2;
 		Object_t * L_4 = Box(InitializedTypeInfo(&PeerState_t250_il2cpp_TypeInfo), &L_3);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral672, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral674, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_5, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -38141,7 +38149,7 @@ extern MethodInfo PhotonNetwork_RaiseEvent_m1551_MethodInfo;
 
 IL_0015:
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral673, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral675, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return 0;
 	}
 
@@ -38182,7 +38190,7 @@ extern MethodInfo PhotonNetwork_AllocateSceneViewID_m1553_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral674, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral676, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (-1);
 	}
 
@@ -38202,7 +38210,7 @@ extern MethodInfo PhotonNetwork_UnAllocateViewID_m1554_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds));
-		VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Remove_m2626_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), ___viewID);
+		VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Remove_m2628_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), ___viewID);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		Dictionary_2_t283 * L_0 = ((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer)->___photonViewList);
 		NullCheck(L_0);
@@ -38221,7 +38229,7 @@ extern MethodInfo PhotonNetwork_UnAllocateViewID_m1554_MethodInfo;
 		NullCheck(L_4);
 		PhotonView_t170 * L_5 = (PhotonView_t170 *)VirtFuncInvoker1< PhotonView_t170 *, int32_t >::Invoke(&Dictionary_2_get_Item_m2528_MethodInfo, L_4, ___viewID);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_6 = String_Format_m392(NULL /*static, unused*/, (String_t*) &_stringLiteral675, L_3, L_5, /*hidden argument*/&String_Format_m392_MethodInfo);
+		String_t* L_6 = String_Format_m392(NULL /*static, unused*/, (String_t*) &_stringLiteral677, L_3, L_5, /*hidden argument*/&String_Format_m392_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_6, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -38304,7 +38312,7 @@ IL_0055:
 		int32_t L_2 = ___ownerId;
 		Object_t * L_3 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_4 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral676, L_3, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_4 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral678, L_3, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		Exception_t107 * L_5 = (Exception_t107 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Exception_t107_il2cpp_TypeInfo));
 		Exception__ctor_m2519(L_5, L_4, /*hidden argument*/&Exception__ctor_m2519_MethodInfo);
 		il2cpp_codegen_raise_exception (L_5);
@@ -38348,7 +38356,7 @@ IL_00a6:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds));
-		bool L_8 = (bool)VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Contains_m2627_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), V_5);
+		bool L_8 = (bool)VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Contains_m2629_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), V_5);
 		if (L_8)
 		{
 			goto IL_00de;
@@ -38377,7 +38385,7 @@ IL_00e4:
 		int32_t L_9 = ___ownerId;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_9);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_11 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral677, L_10, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_11 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral679, L_10, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		Exception_t107 * L_12 = (Exception_t107 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Exception_t107_il2cpp_TypeInfo));
 		Exception__ctor_m2519(L_12, L_11, /*hidden argument*/&Exception__ctor_m2519_MethodInfo);
 		il2cpp_codegen_raise_exception (L_12);
@@ -38461,8 +38469,8 @@ IL_001e:
 		ObjectU5BU5D_t5* L_2 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, 0);
-		ArrayElementTypeCheck (L_2, (String_t*) &_stringLiteral678);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_2, 0)) = (Object_t *)(String_t*) &_stringLiteral678;
+		ArrayElementTypeCheck (L_2, (String_t*) &_stringLiteral680);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_2, 0)) = (Object_t *)(String_t*) &_stringLiteral680;
 		ObjectU5BU5D_t5* L_3 = L_2;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 1);
@@ -38471,8 +38479,8 @@ IL_001e:
 		ObjectU5BU5D_t5* L_4 = L_3;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 2);
-		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral679);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral679;
+		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral681);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral681;
 		ObjectU5BU5D_t5* L_5 = L_4;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_6 = PhotonNetwork_get_connectionStateDetailed_m1469(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo);
@@ -38534,7 +38542,7 @@ IL_0099:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_14 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral678, ___prefabName, (String_t*) &_stringLiteral680, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_14 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral680, ___prefabName, (String_t*) &_stringLiteral682, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_14, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (GameObject_t47 *)NULL;
 	}
@@ -38551,7 +38559,7 @@ IL_00bc:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_17 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral681, ___prefabName, (String_t*) &_stringLiteral682, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_17 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral683, ___prefabName, (String_t*) &_stringLiteral684, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_17, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (GameObject_t47 *)NULL;
 	}
@@ -38635,8 +38643,8 @@ IL_001e:
 		ObjectU5BU5D_t5* L_2 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, 0);
-		ArrayElementTypeCheck (L_2, (String_t*) &_stringLiteral683);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_2, 0)) = (Object_t *)(String_t*) &_stringLiteral683;
+		ArrayElementTypeCheck (L_2, (String_t*) &_stringLiteral685);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_2, 0)) = (Object_t *)(String_t*) &_stringLiteral685;
 		ObjectU5BU5D_t5* L_3 = L_2;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 1);
@@ -38645,8 +38653,8 @@ IL_001e:
 		ObjectU5BU5D_t5* L_4 = L_3;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 2);
-		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral679);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral679;
+		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral681);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral681;
 		ObjectU5BU5D_t5* L_5 = L_4;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_6 = PhotonNetwork_get_connectionStateDetailed_m1469(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo);
@@ -38673,7 +38681,7 @@ IL_0051:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_11 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral683, ___prefabName, (String_t*) &_stringLiteral684, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_11 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral685, ___prefabName, (String_t*) &_stringLiteral686, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_11, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (GameObject_t47 *)NULL;
 	}
@@ -38724,7 +38732,7 @@ IL_00ba:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_16 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral683, ___prefabName, (String_t*) &_stringLiteral680, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_16 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral685, ___prefabName, (String_t*) &_stringLiteral682, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_16, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (GameObject_t47 *)NULL;
 	}
@@ -38741,7 +38749,7 @@ IL_00dd:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_19 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral685, ___prefabName, (String_t*) &_stringLiteral682, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_19 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral687, ___prefabName, (String_t*) &_stringLiteral684, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_19, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return (GameObject_t47 *)NULL;
 	}
@@ -38763,8 +38771,8 @@ IL_0105:
 		ObjectU5BU5D_t5* L_22 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_22);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_22, 0);
-		ArrayElementTypeCheck (L_22, (String_t*) &_stringLiteral683);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_22, 0)) = (Object_t *)(String_t*) &_stringLiteral683;
+		ArrayElementTypeCheck (L_22, (String_t*) &_stringLiteral685);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_22, 0)) = (Object_t *)(String_t*) &_stringLiteral685;
 		ObjectU5BU5D_t5* L_23 = L_22;
 		NullCheck(L_23);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_23, 1);
@@ -38773,8 +38781,8 @@ IL_0105:
 		ObjectU5BU5D_t5* L_24 = L_23;
 		NullCheck(L_24);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_24, 2);
-		ArrayElementTypeCheck (L_24, (String_t*) &_stringLiteral686);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_24, 2)) = (Object_t *)(String_t*) &_stringLiteral686;
+		ArrayElementTypeCheck (L_24, (String_t*) &_stringLiteral688);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_24, 2)) = (Object_t *)(String_t*) &_stringLiteral688;
 		ObjectU5BU5D_t5* L_25 = L_24;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_26 = (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___MAX_VIEW_IDS);
@@ -38808,7 +38816,7 @@ extern MethodInfo PhotonNetwork_GetPing_m1560_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_0 = PhotonPeer_get_RoundTripTime_m2594((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2594_MethodInfo);
+		int32_t L_0 = PhotonPeer_get_RoundTripTime_m2596((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2596_MethodInfo);
 		return L_0;
 	}
 }
@@ -38896,7 +38904,7 @@ IL_000c:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral687, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral689, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -38908,7 +38916,7 @@ IL_0027:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral688, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral690, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 
@@ -38955,7 +38963,7 @@ extern MethodInfo PhotonNetwork_Destroy_m1564_MethodInfo;
 
 IL_0029:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral689, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral691, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
 IL_0033:
@@ -38986,7 +38994,7 @@ extern MethodInfo PhotonNetwork_DestroyPlayerObjects_m1566_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral690, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral692, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
 IL_0014:
@@ -39050,7 +39058,7 @@ IL_003b:
 		bool L_6 = L_5;
 		Object_t * L_7 = Box(InitializedTypeInfo(&Boolean_t64_il2cpp_TypeInfo), &L_6);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral691, L_7, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_8 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral693, L_7, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_8, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
@@ -39079,7 +39087,7 @@ extern MethodInfo PhotonNetwork_DestroyAll_m1568_MethodInfo;
 
 IL_001a:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral692, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral694, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
 IL_0024:
@@ -39120,7 +39128,7 @@ IL_000b:
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral693, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral695, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
 
@@ -39205,7 +39213,7 @@ IL_000b:
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral694, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral696, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return;
 	}
 
@@ -39227,7 +39235,7 @@ IL_0020:
 IL_003f:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_2 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral695, ___methodName, (String_t*) &_stringLiteral696, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_2 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral697, ___methodName, (String_t*) &_stringLiteral698, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_2, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -39261,7 +39269,7 @@ IL_000b:
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral697, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral699, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return;
 	}
 
@@ -39276,7 +39284,7 @@ IL_0020:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_3 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral698, ___methodName, (String_t*) &_stringLiteral699, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_3 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral700, ___methodName, (String_t*) &_stringLiteral701, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_3, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
@@ -39298,7 +39306,7 @@ IL_003f:
 IL_005e:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_4 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral695, ___methodName, (String_t*) &_stringLiteral696, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_4 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral697, ___methodName, (String_t*) &_stringLiteral698, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_4, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -39439,7 +39447,7 @@ extern MethodInfo PhotonNetwork_VerifyCanUseNetwork_m1579_MethodInfo;
 
 IL_000c:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral700, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral702, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return 0;
 	}
 }
@@ -44214,7 +44222,7 @@ extern MethodInfo PhotonPlayer_set_name_m1587_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral701, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral703, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
 
@@ -44317,7 +44325,7 @@ extern MethodInfo PhotonPlayer_InternalChangeLocalID_m1594_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral702, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral704, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
 
@@ -44805,11 +44813,11 @@ extern MethodInfo PhotonPlayer_ToString_m1603_MethodInfo;
 		Object_t * L_4 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_3);
 		bool L_5 = PhotonPlayer_get_isMasterClient_m1588(__this, /*hidden argument*/&PhotonPlayer_get_isMasterClient_m1588_MethodInfo);
 		G_B2_0 = L_4;
-		G_B2_1 = (String_t*) &_stringLiteral703;
+		G_B2_1 = (String_t*) &_stringLiteral705;
 		if (!L_5)
 		{
 			G_B3_0 = L_4;
-			G_B3_1 = (String_t*) &_stringLiteral703;
+			G_B3_1 = (String_t*) &_stringLiteral705;
 			goto IL_0035;
 		}
 	}
@@ -44840,11 +44848,11 @@ IL_0040:
 		String_t* L_7 = PhotonPlayer_get_name_m1586(__this, /*hidden argument*/&PhotonPlayer_get_name_m1586_MethodInfo);
 		bool L_8 = PhotonPlayer_get_isMasterClient_m1588(__this, /*hidden argument*/&PhotonPlayer_get_isMasterClient_m1588_MethodInfo);
 		G_B6_0 = L_7;
-		G_B6_1 = (String_t*) &_stringLiteral704;
+		G_B6_1 = (String_t*) &_stringLiteral706;
 		if (!L_8)
 		{
 			G_B7_0 = L_7;
-			G_B7_1 = (String_t*) &_stringLiteral704;
+			G_B7_1 = (String_t*) &_stringLiteral706;
 			goto IL_0060;
 		}
 	}
@@ -44881,7 +44889,7 @@ extern MethodInfo PhotonPlayer_ToStringFull_m1604_MethodInfo;
 		Hashtable_t256 * L_4 = PhotonPlayer_get_customProperties_m1589(__this, /*hidden argument*/&PhotonPlayer_get_customProperties_m1589_MethodInfo);
 		String_t* L_5 = Extensions_ToStringFull_m1180(NULL /*static, unused*/, L_4, /*hidden argument*/&Extensions_ToStringFull_m1180_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_6 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral705, L_2, L_3, L_5, /*hidden argument*/&String_Format_m376_MethodInfo);
+		String_t* L_6 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral707, L_2, L_3, L_5, /*hidden argument*/&String_Format_m376_MethodInfo);
 		return L_6;
 	}
 }
@@ -45820,43 +45828,43 @@ extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Screen_get_width_m591_MethodInfo;
 extern MethodInfo Rect_get_width_m563_MethodInfo;
 extern MethodInfo Rect_set_x_m560_MethodInfo;
-extern MethodInfo Input_GetKeyDown_m2628_MethodInfo;
+extern MethodInfo Input_GetKeyDown_m2630_MethodInfo;
 extern MethodInfo Input_GetKey_m2204_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsEnabled_m2611_MethodInfo;
-extern MethodInfo PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsEnabled_m2613_MethodInfo;
+extern MethodInfo PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo;
 extern MethodInfo PhotonStatsGui_TrafficStatsWindow_m1609_MethodInfo;
 extern MethodInfo WindowFunction__ctor_m2057_MethodInfo;
-extern MethodInfo GUILayout_Window_m2593_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsGameLevel_m2629_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsElapsedMs_m2630_MethodInfo;
+extern MethodInfo GUILayout_Window_m2595_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsGameLevel_m2631_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsElapsedMs_m2632_MethodInfo;
 extern MethodInfo GUILayout_BeginHorizontal_m2061_MethodInfo;
-extern MethodInfo GUILayout_Toggle_m2596_MethodInfo;
+extern MethodInfo GUILayout_Toggle_m2598_MethodInfo;
 extern MethodInfo GUILayout_EndHorizontal_m2068_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2631_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2632_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_TotalMessageCount_m2633_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2633_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2634_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_TotalMessageCount_m2635_MethodInfo;
 extern MethodInfo String_Format_m376_MethodInfo;
 extern MethodInfo String_Format_m2070_MethodInfo;
 extern MethodInfo GUILayout_Label_m2063_MethodInfo;
 extern MethodInfo GUILayout_Button_m2069_MethodInfo;
-extern MethodInfo PhotonPeer_TrafficStatsReset_m2622_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsIncoming_m2634_MethodInfo;
-extern MethodInfo TrafficStats_ToString_m2635_MethodInfo;
+extern MethodInfo PhotonPeer_TrafficStatsReset_m2624_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsIncoming_m2636_MethodInfo;
+extern MethodInfo TrafficStats_ToString_m2637_MethodInfo;
 extern MethodInfo String_Concat_m604_MethodInfo;
-extern MethodInfo PhotonPeer_get_TrafficStatsOutgoing_m2636_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2637_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2638_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestEventCallback_m2639_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestEventCallbackCode_m2640_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestOpResponseCallback_m2641_MethodInfo;
-extern MethodInfo TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2642_MethodInfo;
-extern MethodInfo PhotonPeer_get_RoundTripTime_m2594_MethodInfo;
-extern MethodInfo PhotonPeer_get_RoundTripTimeVariance_m2595_MethodInfo;
+extern MethodInfo PhotonPeer_get_TrafficStatsOutgoing_m2638_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2639_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2640_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestEventCallback_m2641_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestEventCallbackCode_m2642_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestOpResponseCallback_m2643_MethodInfo;
+extern MethodInfo TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2644_MethodInfo;
+extern MethodInfo PhotonPeer_get_RoundTripTime_m2596_MethodInfo;
+extern MethodInfo PhotonPeer_get_RoundTripTimeVariance_m2597_MethodInfo;
 extern MethodInfo String_Format_m2370_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
 extern MethodInfo GUI_get_changed_m2372_MethodInfo;
 extern MethodInfo Rect_set_height_m566_MethodInfo;
-extern MethodInfo GUI_DragWindow_m2608_MethodInfo;
+extern MethodInfo GUI_DragWindow_m2610_MethodInfo;
 
 
 // System.Void PhotonStatsGui::.ctor()
@@ -45890,7 +45898,7 @@ extern MethodInfo PhotonStatsGui_Update_m1607_MethodInfo;
  void PhotonStatsGui_Update_m1607 (PhotonStatsGui_t307 * __this, MethodInfo* method){
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_0 = Input_GetKeyDown_m2628(NULL /*static, unused*/, ((int32_t)9), /*hidden argument*/&Input_GetKeyDown_m2628_MethodInfo);
+		bool L_0 = Input_GetKeyDown_m2630(NULL /*static, unused*/, ((int32_t)9), /*hidden argument*/&Input_GetKeyDown_m2630_MethodInfo);
 		if (!L_0)
 		{
 			goto IL_0031;
@@ -45921,7 +45929,7 @@ extern MethodInfo PhotonStatsGui_OnGUI_m1608_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		bool L_0 = PhotonPeer_get_TrafficStatsEnabled_m2611((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2611_MethodInfo);
+		bool L_0 = PhotonPeer_get_TrafficStatsEnabled_m2613((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsEnabled_m2613_MethodInfo);
 		bool L_1 = (__this->___statsOn);
 		if ((((int32_t)L_0) == ((int32_t)L_1)))
 		{
@@ -45932,7 +45940,7 @@ extern MethodInfo PhotonStatsGui_OnGUI_m1608_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		bool L_2 = (__this->___statsOn);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_TrafficStatsEnabled_m2612((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), L_2, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo);
+		PhotonPeer_set_TrafficStatsEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), L_2, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo);
 	}
 
 IL_0025:
@@ -45954,7 +45962,7 @@ IL_0031:
 		IntPtr_t39 L_6 = { &PhotonStatsGui_TrafficStatsWindow_m1609_MethodInfo };
 		WindowFunction_t416 * L_7 = (WindowFunction_t416 *)il2cpp_codegen_object_new (InitializedTypeInfo(&WindowFunction_t416_il2cpp_TypeInfo));
 		WindowFunction__ctor_m2057(L_7, __this, L_6, /*hidden argument*/&WindowFunction__ctor_m2057_MethodInfo);
-		Rect_t55  L_8 = GUILayout_Window_m2593(NULL /*static, unused*/, L_4, L_5, L_7, (String_t*) &_stringLiteral706, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2593_MethodInfo);
+		Rect_t55  L_8 = GUILayout_Window_m2595(NULL /*static, unused*/, L_4, L_5, L_7, (String_t*) &_stringLiteral708, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Window_m2595_MethodInfo);
 		__this->___statsRect = L_8;
 		return;
 	}
@@ -45976,10 +45984,10 @@ extern MethodInfo PhotonStatsGui_TrafficStatsWindow_m1609_MethodInfo;
 		V_0 = 0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		TrafficStatsGameLevel_t515 * L_0 = PhotonPeer_get_TrafficStatsGameLevel_m2629((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsGameLevel_m2629_MethodInfo);
+		TrafficStatsGameLevel_t515 * L_0 = PhotonPeer_get_TrafficStatsGameLevel_m2631((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsGameLevel_m2631_MethodInfo);
 		V_1 = L_0;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int64_t L_1 = PhotonPeer_get_TrafficStatsElapsedMs_m2630((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsElapsedMs_m2630_MethodInfo);
+		int64_t L_1 = PhotonPeer_get_TrafficStatsElapsedMs_m2632((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsElapsedMs_m2632_MethodInfo);
 		V_2 = ((int64_t)(L_1/(((int64_t)((int32_t)1000)))));
 		if (V_2)
 		{
@@ -45994,47 +46002,47 @@ IL_0028:
 	{
 		GUILayout_BeginHorizontal_m2061(NULL /*static, unused*/, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_BeginHorizontal_m2061_MethodInfo);
 		bool L_2 = (__this->___buttonsOn);
-		bool L_3 = GUILayout_Toggle_m2596(NULL /*static, unused*/, L_2, (String_t*) &_stringLiteral707, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2596_MethodInfo);
+		bool L_3 = GUILayout_Toggle_m2598(NULL /*static, unused*/, L_2, (String_t*) &_stringLiteral709, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2598_MethodInfo);
 		__this->___buttonsOn = L_3;
 		bool L_4 = (__this->___healthStatsVisible);
-		bool L_5 = GUILayout_Toggle_m2596(NULL /*static, unused*/, L_4, (String_t*) &_stringLiteral708, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2596_MethodInfo);
+		bool L_5 = GUILayout_Toggle_m2598(NULL /*static, unused*/, L_4, (String_t*) &_stringLiteral710, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2598_MethodInfo);
 		__this->___healthStatsVisible = L_5;
 		bool L_6 = (__this->___trafficStatsOn);
-		bool L_7 = GUILayout_Toggle_m2596(NULL /*static, unused*/, L_6, (String_t*) &_stringLiteral709, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2596_MethodInfo);
+		bool L_7 = GUILayout_Toggle_m2598(NULL /*static, unused*/, L_6, (String_t*) &_stringLiteral711, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2598_MethodInfo);
 		__this->___trafficStatsOn = L_7;
 		GUILayout_EndHorizontal_m2068(NULL /*static, unused*/, /*hidden argument*/&GUILayout_EndHorizontal_m2068_MethodInfo);
 		NullCheck(V_1);
-		int32_t L_8 = TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2631(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2631_MethodInfo);
+		int32_t L_8 = TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2633(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2633_MethodInfo);
 		int32_t L_9 = L_8;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_9);
 		NullCheck(V_1);
-		int32_t L_11 = TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2632(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2632_MethodInfo);
+		int32_t L_11 = TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2634(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2634_MethodInfo);
 		int32_t L_12 = L_11;
 		Object_t * L_13 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_12);
 		NullCheck(V_1);
-		int32_t L_14 = TrafficStatsGameLevel_get_TotalMessageCount_m2633(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalMessageCount_m2633_MethodInfo);
+		int32_t L_14 = TrafficStatsGameLevel_get_TotalMessageCount_m2635(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalMessageCount_m2635_MethodInfo);
 		int32_t L_15 = L_14;
 		Object_t * L_16 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_15);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_17 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral710, L_10, L_13, L_16, /*hidden argument*/&String_Format_m376_MethodInfo);
+		String_t* L_17 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral712, L_10, L_13, L_16, /*hidden argument*/&String_Format_m376_MethodInfo);
 		V_3 = L_17;
 		int64_t L_18 = V_2;
 		Object_t * L_19 = Box(InitializedTypeInfo(&Int64_t513_il2cpp_TypeInfo), &L_18);
-		String_t* L_20 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral711, L_19, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_20 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral713, L_19, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		V_4 = L_20;
 		NullCheck(V_1);
-		int32_t L_21 = TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2631(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2631_MethodInfo);
+		int32_t L_21 = TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2633(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalOutgoingMessageCount_m2633_MethodInfo);
 		int64_t L_22 = ((int64_t)((((int64_t)L_21))/V_2));
 		Object_t * L_23 = Box(InitializedTypeInfo(&Int64_t513_il2cpp_TypeInfo), &L_22);
 		NullCheck(V_1);
-		int32_t L_24 = TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2632(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2632_MethodInfo);
+		int32_t L_24 = TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2634(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalIncomingMessageCount_m2634_MethodInfo);
 		int64_t L_25 = ((int64_t)((((int64_t)L_24))/V_2));
 		Object_t * L_26 = Box(InitializedTypeInfo(&Int64_t513_il2cpp_TypeInfo), &L_25);
 		NullCheck(V_1);
-		int32_t L_27 = TrafficStatsGameLevel_get_TotalMessageCount_m2633(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalMessageCount_m2633_MethodInfo);
+		int32_t L_27 = TrafficStatsGameLevel_get_TotalMessageCount_m2635(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_TotalMessageCount_m2635_MethodInfo);
 		int64_t L_28 = ((int64_t)((((int64_t)L_27))/V_2));
 		Object_t * L_29 = Box(InitializedTypeInfo(&Int64_t513_il2cpp_TypeInfo), &L_28);
-		String_t* L_30 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral710, L_23, L_26, L_29, /*hidden argument*/&String_Format_m376_MethodInfo);
+		String_t* L_30 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral712, L_23, L_26, L_29, /*hidden argument*/&String_Format_m376_MethodInfo);
 		V_5 = L_30;
 		GUILayout_Label_m2063(NULL /*static, unused*/, V_3, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, V_4, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
@@ -46048,9 +46056,9 @@ IL_0028:
 	{
 		GUILayout_BeginHorizontal_m2061(NULL /*static, unused*/, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_BeginHorizontal_m2061_MethodInfo);
 		bool L_32 = (__this->___statsOn);
-		bool L_33 = GUILayout_Toggle_m2596(NULL /*static, unused*/, L_32, (String_t*) &_stringLiteral712, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2596_MethodInfo);
+		bool L_33 = GUILayout_Toggle_m2598(NULL /*static, unused*/, L_32, (String_t*) &_stringLiteral714, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Toggle_m2598_MethodInfo);
 		__this->___statsOn = L_33;
-		bool L_34 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral713, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
+		bool L_34 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral715, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
 		if (!L_34)
 		{
 			goto IL_0182;
@@ -46059,14 +46067,14 @@ IL_0028:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_TrafficStatsReset_m2622((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_TrafficStatsReset_m2622_MethodInfo);
+		PhotonPeer_TrafficStatsReset_m2624((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_TrafficStatsReset_m2624_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		PhotonPeer_set_TrafficStatsEnabled_m2612((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), 1, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2612_MethodInfo);
+		PhotonPeer_set_TrafficStatsEnabled_m2614((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), 1, /*hidden argument*/&PhotonPeer_set_TrafficStatsEnabled_m2614_MethodInfo);
 	}
 
 IL_0182:
 	{
-		bool L_35 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral714, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
+		bool L_35 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral716, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
 		V_0 = L_35;
 		GUILayout_EndHorizontal_m2068(NULL /*static, unused*/, /*hidden argument*/&GUILayout_EndHorizontal_m2068_MethodInfo);
 	}
@@ -46085,17 +46093,17 @@ IL_0198:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		TrafficStats_t514 * L_37 = PhotonPeer_get_TrafficStatsIncoming_m2634((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsIncoming_m2634_MethodInfo);
+		TrafficStats_t514 * L_37 = PhotonPeer_get_TrafficStatsIncoming_m2636((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsIncoming_m2636_MethodInfo);
 		NullCheck(L_37);
-		String_t* L_38 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&TrafficStats_ToString_m2635_MethodInfo, L_37);
+		String_t* L_38 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&TrafficStats_ToString_m2637_MethodInfo, L_37);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_39 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral715, L_38, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_39 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral717, L_38, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		V_6 = L_39;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		TrafficStats_t514 * L_40 = PhotonPeer_get_TrafficStatsOutgoing_m2636((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsOutgoing_m2636_MethodInfo);
+		TrafficStats_t514 * L_40 = PhotonPeer_get_TrafficStatsOutgoing_m2638((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_TrafficStatsOutgoing_m2638_MethodInfo);
 		NullCheck(L_40);
-		String_t* L_41 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&TrafficStats_ToString_m2635_MethodInfo, L_40);
-		String_t* L_42 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral716, L_41, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_41 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&TrafficStats_ToString_m2637_MethodInfo, L_40);
+		String_t* L_42 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral718, L_41, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		V_7 = L_42;
 		GUILayout_Label_m2063(NULL /*static, unused*/, V_6, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, V_7, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
@@ -46114,7 +46122,7 @@ IL_0201:
 	{
 		ObjectU5BU5D_t5* L_44 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 8));
 		NullCheck(V_1);
-		int32_t L_45 = TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2637(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2637_MethodInfo);
+		int32_t L_45 = TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2639(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestDeltaBetweenSending_m2639_MethodInfo);
 		int32_t L_46 = L_45;
 		Object_t * L_47 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_46);
 		NullCheck(L_44);
@@ -46123,7 +46131,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_44, 0)) = (Object_t *)L_47;
 		ObjectU5BU5D_t5* L_48 = L_44;
 		NullCheck(V_1);
-		int32_t L_49 = TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2638(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2638_MethodInfo);
+		int32_t L_49 = TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2640(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestDeltaBetweenDispatching_m2640_MethodInfo);
 		int32_t L_50 = L_49;
 		Object_t * L_51 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_50);
 		NullCheck(L_48);
@@ -46132,7 +46140,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_48, 1)) = (Object_t *)L_51;
 		ObjectU5BU5D_t5* L_52 = L_48;
 		NullCheck(V_1);
-		int32_t L_53 = TrafficStatsGameLevel_get_LongestEventCallback_m2639(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestEventCallback_m2639_MethodInfo);
+		int32_t L_53 = TrafficStatsGameLevel_get_LongestEventCallback_m2641(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestEventCallback_m2641_MethodInfo);
 		int32_t L_54 = L_53;
 		Object_t * L_55 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_54);
 		NullCheck(L_52);
@@ -46141,7 +46149,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_52, 2)) = (Object_t *)L_55;
 		ObjectU5BU5D_t5* L_56 = L_52;
 		NullCheck(V_1);
-		uint8_t L_57 = TrafficStatsGameLevel_get_LongestEventCallbackCode_m2640(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestEventCallbackCode_m2640_MethodInfo);
+		uint8_t L_57 = TrafficStatsGameLevel_get_LongestEventCallbackCode_m2642(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestEventCallbackCode_m2642_MethodInfo);
 		uint8_t L_58 = L_57;
 		Object_t * L_59 = Box(InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo), &L_58);
 		NullCheck(L_56);
@@ -46150,7 +46158,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_56, 3)) = (Object_t *)L_59;
 		ObjectU5BU5D_t5* L_60 = L_56;
 		NullCheck(V_1);
-		int32_t L_61 = TrafficStatsGameLevel_get_LongestOpResponseCallback_m2641(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestOpResponseCallback_m2641_MethodInfo);
+		int32_t L_61 = TrafficStatsGameLevel_get_LongestOpResponseCallback_m2643(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestOpResponseCallback_m2643_MethodInfo);
 		int32_t L_62 = L_61;
 		Object_t * L_63 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_62);
 		NullCheck(L_60);
@@ -46159,7 +46167,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_60, 4)) = (Object_t *)L_63;
 		ObjectU5BU5D_t5* L_64 = L_60;
 		NullCheck(V_1);
-		uint8_t L_65 = TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2642(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2642_MethodInfo);
+		uint8_t L_65 = TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2644(V_1, /*hidden argument*/&TrafficStatsGameLevel_get_LongestOpResponseCallbackOpCode_m2644_MethodInfo);
 		uint8_t L_66 = L_65;
 		Object_t * L_67 = Box(InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo), &L_66);
 		NullCheck(L_64);
@@ -46169,7 +46177,7 @@ IL_0201:
 		ObjectU5BU5D_t5* L_68 = L_64;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_69 = PhotonPeer_get_RoundTripTime_m2594((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2594_MethodInfo);
+		int32_t L_69 = PhotonPeer_get_RoundTripTime_m2596((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTime_m2596_MethodInfo);
 		int32_t L_70 = L_69;
 		Object_t * L_71 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_70);
 		NullCheck(L_68);
@@ -46178,7 +46186,7 @@ IL_0201:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_68, 6)) = (Object_t *)L_71;
 		ObjectU5BU5D_t5* L_72 = L_68;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
-		int32_t L_73 = PhotonPeer_get_RoundTripTimeVariance_m2595((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTimeVariance_m2595_MethodInfo);
+		int32_t L_73 = PhotonPeer_get_RoundTripTimeVariance_m2597((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&PhotonPeer_get_RoundTripTimeVariance_m2597_MethodInfo);
 		int32_t L_74 = L_73;
 		Object_t * L_75 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_74);
 		NullCheck(L_72);
@@ -46186,7 +46194,7 @@ IL_0201:
 		ArrayElementTypeCheck (L_72, L_75);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_72, 7)) = (Object_t *)L_75;
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_76 = String_Format_m2370(NULL /*static, unused*/, (String_t*) &_stringLiteral717, L_72, /*hidden argument*/&String_Format_m2370_MethodInfo);
+		String_t* L_76 = String_Format_m2370(NULL /*static, unused*/, (String_t*) &_stringLiteral719, L_72, /*hidden argument*/&String_Format_m2370_MethodInfo);
 		V_8 = L_76;
 		GUILayout_Label_m2063(NULL /*static, unused*/, V_8, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 	}
@@ -46230,7 +46238,7 @@ IL_02aa:
 		ArrayElementTypeCheck (L_82, V_8);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_82, 5)) = (Object_t *)V_8;
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_83 = String_Format_m2370(NULL /*static, unused*/, (String_t*) &_stringLiteral718, L_82, /*hidden argument*/&String_Format_m2370_MethodInfo);
+		String_t* L_83 = String_Format_m2370(NULL /*static, unused*/, (String_t*) &_stringLiteral720, L_82, /*hidden argument*/&String_Format_m2370_MethodInfo);
 		V_9 = L_83;
 		Debug_Log_m384(NULL /*static, unused*/, V_9, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 	}
@@ -46252,7 +46260,7 @@ IL_02e6:
 IL_0300:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&GUI_t415_il2cpp_TypeInfo));
-		GUI_DragWindow_m2608(NULL /*static, unused*/, /*hidden argument*/&GUI_DragWindow_m2608_MethodInfo);
+		GUI_DragWindow_m2610(NULL /*static, unused*/, /*hidden argument*/&GUI_DragWindow_m2610_MethodInfo);
 		return;
 	}
 }
@@ -46573,7 +46581,7 @@ extern MethodInfo List_1_get_Count_m358_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo List_1_Clear_m367_MethodInfo;
-extern MethodInfo Time_get_frameCount_m2643_MethodInfo;
+extern MethodInfo Time_get_frameCount_m2645_MethodInfo;
 extern MethodInfo PhotonStreamQueue_BeginWritePackage_m1611_MethodInfo;
 extern MethodInfo List_1_Add_m363_MethodInfo;
 extern MethodInfo List_1_get_Item_m1990_MethodInfo;
@@ -46651,12 +46659,12 @@ IL_0048:
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral719, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral721, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		ObjectU5BU5D_t5* L_11 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 8));
 		NullCheck(L_11);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_11, 0);
-		ArrayElementTypeCheck (L_11, (String_t*) &_stringLiteral720);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_11, 0)) = (Object_t *)(String_t*) &_stringLiteral720;
+		ArrayElementTypeCheck (L_11, (String_t*) &_stringLiteral722);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_11, 0)) = (Object_t *)(String_t*) &_stringLiteral722;
 		ObjectU5BU5D_t5* L_12 = L_11;
 		List_1_t2 * L_13 = (__this->___m_Objects);
 		NullCheck(L_13);
@@ -46670,8 +46678,8 @@ IL_0048:
 		ObjectU5BU5D_t5* L_17 = L_12;
 		NullCheck(L_17);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_17, 2);
-		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral721);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 2)) = (Object_t *)(String_t*) &_stringLiteral721;
+		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral723);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 2)) = (Object_t *)(String_t*) &_stringLiteral723;
 		ObjectU5BU5D_t5* L_18 = L_17;
 		int32_t L_19 = (__this->___m_SampleCount);
 		int32_t L_20 = L_19;
@@ -46683,8 +46691,8 @@ IL_0048:
 		ObjectU5BU5D_t5* L_22 = L_18;
 		NullCheck(L_22);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_22, 4);
-		ArrayElementTypeCheck (L_22, (String_t*) &_stringLiteral722);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_22, 4)) = (Object_t *)(String_t*) &_stringLiteral722;
+		ArrayElementTypeCheck (L_22, (String_t*) &_stringLiteral724);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_22, 4)) = (Object_t *)(String_t*) &_stringLiteral724;
 		ObjectU5BU5D_t5* L_23 = L_22;
 		List_1_t2 * L_24 = (__this->___m_Objects);
 		NullCheck(L_24);
@@ -46699,8 +46707,8 @@ IL_0048:
 		ObjectU5BU5D_t5* L_29 = L_23;
 		NullCheck(L_29);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_29, 6);
-		ArrayElementTypeCheck (L_29, (String_t*) &_stringLiteral723);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_29, 6)) = (Object_t *)(String_t*) &_stringLiteral723;
+		ArrayElementTypeCheck (L_29, (String_t*) &_stringLiteral725);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_29, 6)) = (Object_t *)(String_t*) &_stringLiteral725;
 		ObjectU5BU5D_t5* L_30 = L_29;
 		int32_t L_31 = (__this->___m_ObjectsPerSample);
 		int32_t L_32 = L_31;
@@ -46742,7 +46750,7 @@ extern MethodInfo PhotonStreamQueue_Reset_m1612_MethodInfo;
 extern MethodInfo PhotonStreamQueue_SendNext_m1613_MethodInfo;
  void PhotonStreamQueue_SendNext_m1613 (PhotonStreamQueue_t308 * __this, Object_t * ___obj, MethodInfo* method){
 	{
-		int32_t L_0 = Time_get_frameCount_m2643(NULL /*static, unused*/, /*hidden argument*/&Time_get_frameCount_m2643_MethodInfo);
+		int32_t L_0 = Time_get_frameCount_m2645(NULL /*static, unused*/, /*hidden argument*/&Time_get_frameCount_m2645_MethodInfo);
 		int32_t L_1 = (__this->___m_LastFrameCount);
 		if ((((int32_t)L_0) == ((int32_t)L_1)))
 		{
@@ -46755,7 +46763,7 @@ extern MethodInfo PhotonStreamQueue_SendNext_m1613_MethodInfo;
 
 IL_0016:
 	{
-		int32_t L_2 = Time_get_frameCount_m2643(NULL /*static, unused*/, /*hidden argument*/&Time_get_frameCount_m2643_MethodInfo);
+		int32_t L_2 = Time_get_frameCount_m2645(NULL /*static, unused*/, /*hidden argument*/&Time_get_frameCount_m2645_MethodInfo);
 		__this->___m_LastFrameCount = L_2;
 		bool L_3 = (__this->___m_IsWriting);
 		if (L_3)
@@ -48326,24 +48334,24 @@ extern MethodInfo PhotonNetwork_get_player_m1473_MethodInfo;
 extern MethodInfo PhotonPlayer_get_ID_m1585_MethodInfo;
 extern MethodInfo PhotonView_get_isOwnerActive_m1628_MethodInfo;
 extern MethodInfo PhotonNetwork_get_isMasterClient_m1507_MethodInfo;
-extern MethodInfo Dictionary_2__ctor_m2644_MethodInfo;
+extern MethodInfo Dictionary_2__ctor_m2646_MethodInfo;
 extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
 extern MethodInfo PhotonView_get_viewID_m1623_MethodInfo;
 extern MethodInfo NetworkingPeer_RequestOwnership_m1317_MethodInfo;
 extern MethodInfo PhotonView_TransferOwnership_m1634_MethodInfo;
 extern MethodInfo NetworkingPeer_TransferOwnership_m1318_MethodInfo;
 extern MethodInfo NetworkingPeer_LocalCleanPhotonView_m1319_MethodInfo;
-extern MethodInfo Application_get_isLoadingLevel_m2645_MethodInfo;
+extern MethodInfo Application_get_isLoadingLevel_m2647_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo Debug_LogError_m486_MethodInfo;
 extern MethodInfo String_Format_m2070_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
-extern MethodInfo List_1_Contains_m2627_MethodInfo;
+extern MethodInfo List_1_Contains_m2629_MethodInfo;
 extern MethodInfo PhotonView_SerializeComponent_m1640_MethodInfo;
-extern MethodInfo List_1_get_Item_m2646_MethodInfo;
-extern MethodInfo List_1_get_Count_m2647_MethodInfo;
+extern MethodInfo List_1_get_Item_m2648_MethodInfo;
+extern MethodInfo List_1_get_Count_m2649_MethodInfo;
 extern MethodInfo PhotonView_DeserializeComponent_m1639_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
 extern MethodInfo PhotonView_ExecuteComponentOnSerialize_m1641_MethodInfo;
@@ -48351,28 +48359,28 @@ extern MethodInfo PhotonStream_ReceiveNext_m1401_MethodInfo;
 extern MethodInfo Transform_set_localPosition_m531_MethodInfo;
 extern MethodInfo Transform_set_localRotation_m574_MethodInfo;
 extern MethodInfo Transform_set_localScale_m533_MethodInfo;
-extern MethodInfo Rigidbody_set_velocity_m2648_MethodInfo;
-extern MethodInfo Rigidbody_set_angularVelocity_m2649_MethodInfo;
+extern MethodInfo Rigidbody_set_velocity_m2650_MethodInfo;
+extern MethodInfo Rigidbody_set_angularVelocity_m2651_MethodInfo;
 extern MethodInfo Rigidbody2D_set_velocity_m2209_MethodInfo;
-extern MethodInfo Rigidbody2D_set_angularVelocity_m2650_MethodInfo;
+extern MethodInfo Rigidbody2D_set_angularVelocity_m2652_MethodInfo;
 extern MethodInfo Transform_get_localPosition_m530_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
 extern MethodInfo Transform_get_localRotation_m2360_MethodInfo;
 extern MethodInfo Transform_get_localScale_m528_MethodInfo;
-extern MethodInfo Rigidbody_get_velocity_m2651_MethodInfo;
-extern MethodInfo Rigidbody_get_angularVelocity_m2652_MethodInfo;
+extern MethodInfo Rigidbody_get_velocity_m2653_MethodInfo;
+extern MethodInfo Rigidbody_get_angularVelocity_m2654_MethodInfo;
 extern MethodInfo Rigidbody2D_get_velocity_m2203_MethodInfo;
-extern MethodInfo Rigidbody2D_get_angularVelocity_m2653_MethodInfo;
+extern MethodInfo Rigidbody2D_get_angularVelocity_m2655_MethodInfo;
 extern MethodInfo Object_GetType_m490_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
 extern MethodInfo Object_op_Inequality_m590_MethodInfo;
-extern MethodInfo Dictionary_2_ContainsKey_m2654_MethodInfo;
+extern MethodInfo Dictionary_2_ContainsKey_m2656_MethodInfo;
 extern MethodInfo Enum_ToString_m425_MethodInfo;
 extern MethodInfo NetworkingPeer_GetMethod_m1344_MethodInfo;
 extern MethodInfo Object_get_name_m2225_MethodInfo;
 extern MethodInfo String_Concat_m417_MethodInfo;
-extern MethodInfo Dictionary_2_Add_m2655_MethodInfo;
-extern MethodInfo Dictionary_2_get_Item_m2656_MethodInfo;
+extern MethodInfo Dictionary_2_Add_m2657_MethodInfo;
+extern MethodInfo Dictionary_2_get_Item_m2658_MethodInfo;
 extern MethodInfo MethodBase_Invoke_m2099_MethodInfo;
 extern MethodInfo PhotonView_RpcSecure_m1643_MethodInfo;
 extern MethodInfo PhotonNetwork_get_masterClient_m1474_MethodInfo;
@@ -48405,7 +48413,7 @@ extern MethodInfo PhotonView__ctor_m1618_MethodInfo;
 		__this->___onSerializeTransformOption = 3;
 		__this->___onSerializeRigidBodyOption = 2;
 		Dictionary_2_t314 * L_0 = (Dictionary_2_t314 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Dictionary_2_t314_il2cpp_TypeInfo));
-		Dictionary_2__ctor_m2644(L_0, /*hidden argument*/&Dictionary_2__ctor_m2644_MethodInfo);
+		Dictionary_2__ctor_m2646(L_0, /*hidden argument*/&Dictionary_2__ctor_m2646_MethodInfo);
 		__this->___m_OnSerializeMethodInfos = L_0;
 		__this->___ObservedComponentsFoldoutOpen = 1;
 		MonoBehaviour__ctor_m1349(__this, /*hidden argument*/&MonoBehaviour__ctor_m1349_MethodInfo);
@@ -48745,7 +48753,7 @@ IL_0016:
 		}
 	}
 	{
-		bool L_2 = Application_get_isLoadingLevel_m2645(NULL /*static, unused*/, /*hidden argument*/&Application_get_isLoadingLevel_m2645_MethodInfo);
+		bool L_2 = Application_get_isLoadingLevel_m2647(NULL /*static, unused*/, /*hidden argument*/&Application_get_isLoadingLevel_m2647_MethodInfo);
 		if (L_2)
 		{
 			goto IL_00c3;
@@ -48762,8 +48770,8 @@ IL_0016:
 		ObjectU5BU5D_t5* L_4 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 0);
-		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral724);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 0)) = (Object_t *)(String_t*) &_stringLiteral724;
+		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral726);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 0)) = (Object_t *)(String_t*) &_stringLiteral726;
 		ObjectU5BU5D_t5* L_5 = L_4;
 		GameObject_t47 * L_6 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		NullCheck(L_5);
@@ -48773,10 +48781,10 @@ IL_0016:
 		ObjectU5BU5D_t5* L_7 = L_5;
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, 2);
-		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral725);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral725;
+		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral727);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral727;
 		ObjectU5BU5D_t5* L_8 = L_7;
-		bool L_9 = Application_get_isLoadingLevel_m2645(NULL /*static, unused*/, /*hidden argument*/&Application_get_isLoadingLevel_m2645_MethodInfo);
+		bool L_9 = Application_get_isLoadingLevel_m2647(NULL /*static, unused*/, /*hidden argument*/&Application_get_isLoadingLevel_m2647_MethodInfo);
 		bool L_10 = L_9;
 		Object_t * L_11 = Box(InitializedTypeInfo(&Boolean_t64_il2cpp_TypeInfo), &L_10);
 		NullCheck(L_8);
@@ -48799,7 +48807,7 @@ IL_0072:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_14 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral726, __this, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_14 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral728, __this, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_14, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		goto IL_00c3;
 	}
@@ -48816,7 +48824,7 @@ IL_0093:
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		int32_t L_16 = PhotonView_get_viewID_m1623(__this, /*hidden argument*/&PhotonView_get_viewID_m1623_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds));
-		bool L_17 = (bool)VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Contains_m2627_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), L_16);
+		bool L_17 = (bool)VirtFuncInvoker1< bool, int32_t >::Invoke(&List_1_Contains_m2629_MethodInfo, (((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___manuallyAllocatedViewIds), L_16);
 		if (L_17)
 		{
 			goto IL_00c3;
@@ -48824,7 +48832,7 @@ IL_0093:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_18 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral727, __this, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_18 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral729, __this, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_18, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -48848,7 +48856,7 @@ IL_0015:
 	{
 		List_1_t313 * L_1 = (__this->___ObservedComponents);
 		NullCheck(L_1);
-		Component_t105 * L_2 = (Component_t105 *)VirtFuncInvoker1< Component_t105 *, int32_t >::Invoke(&List_1_get_Item_m2646_MethodInfo, L_1, V_0);
+		Component_t105 * L_2 = (Component_t105 *)VirtFuncInvoker1< Component_t105 *, int32_t >::Invoke(&List_1_get_Item_m2648_MethodInfo, L_1, V_0);
 		PhotonView_SerializeComponent_m1640(__this, L_2, ___stream, ___info, /*hidden argument*/&PhotonView_SerializeComponent_m1640_MethodInfo);
 		V_0 = ((int32_t)(V_0+1));
 	}
@@ -48857,7 +48865,7 @@ IL_002d:
 	{
 		List_1_t313 * L_3 = (__this->___ObservedComponents);
 		NullCheck(L_3);
-		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2647_MethodInfo, L_3);
+		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2649_MethodInfo, L_3);
 		if ((((int32_t)V_0) < ((int32_t)L_4)))
 		{
 			goto IL_0015;
@@ -48882,7 +48890,7 @@ IL_0015:
 	{
 		List_1_t313 * L_1 = (__this->___ObservedComponents);
 		NullCheck(L_1);
-		Component_t105 * L_2 = (Component_t105 *)VirtFuncInvoker1< Component_t105 *, int32_t >::Invoke(&List_1_get_Item_m2646_MethodInfo, L_1, V_0);
+		Component_t105 * L_2 = (Component_t105 *)VirtFuncInvoker1< Component_t105 *, int32_t >::Invoke(&List_1_get_Item_m2648_MethodInfo, L_1, V_0);
 		PhotonView_DeserializeComponent_m1639(__this, L_2, ___stream, ___info, /*hidden argument*/&PhotonView_DeserializeComponent_m1639_MethodInfo);
 		V_0 = ((int32_t)(V_0+1));
 	}
@@ -48891,7 +48899,7 @@ IL_002d:
 	{
 		List_1_t313 * L_3 = (__this->___ObservedComponents);
 		NullCheck(L_3);
-		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2647_MethodInfo, L_3);
+		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2649_MethodInfo, L_3);
 		if ((((int32_t)V_0) < ((int32_t)L_4)))
 		{
 			goto IL_0015;
@@ -49063,11 +49071,11 @@ IL_0136:
 		NullCheck(___stream);
 		Object_t * L_11 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_1);
-		Rigidbody_set_velocity_m2648(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_11, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2648_MethodInfo);
+		Rigidbody_set_velocity_m2650(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_11, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2650_MethodInfo);
 		NullCheck(___stream);
 		Object_t * L_12 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_1);
-		Rigidbody_set_angularVelocity_m2649(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_12, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2649_MethodInfo);
+		Rigidbody_set_angularVelocity_m2651(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_12, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2651_MethodInfo);
 		goto IL_0189;
 	}
 
@@ -49076,7 +49084,7 @@ IL_015d:
 		NullCheck(___stream);
 		Object_t * L_13 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_1);
-		Rigidbody_set_angularVelocity_m2649(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_13, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2649_MethodInfo);
+		Rigidbody_set_angularVelocity_m2651(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_13, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2651_MethodInfo);
 		goto IL_0189;
 	}
 
@@ -49085,7 +49093,7 @@ IL_0173:
 		NullCheck(___stream);
 		Object_t * L_14 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_1);
-		Rigidbody_set_velocity_m2648(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_14, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2648_MethodInfo);
+		Rigidbody_set_velocity_m2650(V_1, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_14, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2650_MethodInfo);
 		goto IL_0189;
 	}
 
@@ -49131,7 +49139,7 @@ IL_01c0:
 		NullCheck(___stream);
 		Object_t * L_17 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_2);
-		Rigidbody2D_set_angularVelocity_m2650(V_2, ((*(float*)((float*)UnBox (L_17, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2650_MethodInfo);
+		Rigidbody2D_set_angularVelocity_m2652(V_2, ((*(float*)((float*)UnBox (L_17, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2652_MethodInfo);
 		goto IL_0213;
 	}
 
@@ -49140,7 +49148,7 @@ IL_01e7:
 		NullCheck(___stream);
 		Object_t * L_18 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(V_2);
-		Rigidbody2D_set_angularVelocity_m2650(V_2, ((*(float*)((float*)UnBox (L_18, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2650_MethodInfo);
+		Rigidbody2D_set_angularVelocity_m2652(V_2, ((*(float*)((float*)UnBox (L_18, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2652_MethodInfo);
 		goto IL_0213;
 	}
 
@@ -49160,7 +49168,7 @@ IL_0213:
 
 IL_0218:
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral728, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral730, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
 IL_0222:
@@ -49344,13 +49352,13 @@ IL_0104:
 IL_0136:
 	{
 		NullCheck(V_1);
-		Vector3_t31  L_27 = Rigidbody_get_velocity_m2651(V_1, /*hidden argument*/&Rigidbody_get_velocity_m2651_MethodInfo);
+		Vector3_t31  L_27 = Rigidbody_get_velocity_m2653(V_1, /*hidden argument*/&Rigidbody_get_velocity_m2653_MethodInfo);
 		Vector3_t31  L_28 = L_27;
 		Object_t * L_29 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_28);
 		NullCheck(___stream);
 		PhotonStream_SendNext_m1403(___stream, L_29, /*hidden argument*/&PhotonStream_SendNext_m1403_MethodInfo);
 		NullCheck(V_1);
-		Vector3_t31  L_30 = Rigidbody_get_angularVelocity_m2652(V_1, /*hidden argument*/&Rigidbody_get_angularVelocity_m2652_MethodInfo);
+		Vector3_t31  L_30 = Rigidbody_get_angularVelocity_m2654(V_1, /*hidden argument*/&Rigidbody_get_angularVelocity_m2654_MethodInfo);
 		Vector3_t31  L_31 = L_30;
 		Object_t * L_32 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_31);
 		NullCheck(___stream);
@@ -49361,7 +49369,7 @@ IL_0136:
 IL_015d:
 	{
 		NullCheck(V_1);
-		Vector3_t31  L_33 = Rigidbody_get_angularVelocity_m2652(V_1, /*hidden argument*/&Rigidbody_get_angularVelocity_m2652_MethodInfo);
+		Vector3_t31  L_33 = Rigidbody_get_angularVelocity_m2654(V_1, /*hidden argument*/&Rigidbody_get_angularVelocity_m2654_MethodInfo);
 		Vector3_t31  L_34 = L_33;
 		Object_t * L_35 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_34);
 		NullCheck(___stream);
@@ -49372,7 +49380,7 @@ IL_015d:
 IL_0173:
 	{
 		NullCheck(V_1);
-		Vector3_t31  L_36 = Rigidbody_get_velocity_m2651(V_1, /*hidden argument*/&Rigidbody_get_velocity_m2651_MethodInfo);
+		Vector3_t31  L_36 = Rigidbody_get_velocity_m2653(V_1, /*hidden argument*/&Rigidbody_get_velocity_m2653_MethodInfo);
 		Vector3_t31  L_37 = L_36;
 		Object_t * L_38 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_37);
 		NullCheck(___stream);
@@ -49422,7 +49430,7 @@ IL_01c0:
 		NullCheck(___stream);
 		PhotonStream_SendNext_m1403(___stream, L_42, /*hidden argument*/&PhotonStream_SendNext_m1403_MethodInfo);
 		NullCheck(V_2);
-		float L_43 = Rigidbody2D_get_angularVelocity_m2653(V_2, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2653_MethodInfo);
+		float L_43 = Rigidbody2D_get_angularVelocity_m2655(V_2, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2655_MethodInfo);
 		float L_44 = L_43;
 		Object_t * L_45 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_44);
 		NullCheck(___stream);
@@ -49433,7 +49441,7 @@ IL_01c0:
 IL_01e7:
 	{
 		NullCheck(V_2);
-		float L_46 = Rigidbody2D_get_angularVelocity_m2653(V_2, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2653_MethodInfo);
+		float L_46 = Rigidbody2D_get_angularVelocity_m2655(V_2, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2655_MethodInfo);
 		float L_47 = L_46;
 		Object_t * L_48 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_47);
 		NullCheck(___stream);
@@ -49462,7 +49470,7 @@ IL_0218:
 		NullCheck(___component);
 		Type_t * L_52 = Object_GetType_m490(___component, /*hidden argument*/&Object_GetType_m490_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_53 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral729, L_52, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_53 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral731, L_52, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_53, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 	}
 
@@ -49486,7 +49494,7 @@ extern MethodInfo PhotonView_ExecuteComponentOnSerialize_m1641_MethodInfo;
 	{
 		Dictionary_2_t314 * L_1 = (__this->___m_OnSerializeMethodInfos);
 		NullCheck(L_1);
-		bool L_2 = (bool)VirtFuncInvoker1< bool, Component_t105 * >::Invoke(&Dictionary_2_ContainsKey_m2654_MethodInfo, L_1, ___component);
+		bool L_2 = (bool)VirtFuncInvoker1< bool, Component_t105 * >::Invoke(&Dictionary_2_ContainsKey_m2656_MethodInfo, L_1, ___component);
 		if (L_2)
 		{
 			goto IL_0068;
@@ -49510,7 +49518,7 @@ extern MethodInfo PhotonView_ExecuteComponentOnSerialize_m1641_MethodInfo;
 		NullCheck(___component);
 		String_t* L_7 = Object_get_name_m2225(___component, /*hidden argument*/&Object_get_name_m2225_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral730, L_7, (String_t*) &_stringLiteral731, /*hidden argument*/&String_Concat_m417_MethodInfo);
+		String_t* L_8 = String_Concat_m417(NULL /*static, unused*/, (String_t*) &_stringLiteral732, L_7, (String_t*) &_stringLiteral733, /*hidden argument*/&String_Concat_m417_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_8, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		V_0 = (MethodInfo_t292 *)NULL;
 	}
@@ -49519,14 +49527,14 @@ IL_005b:
 	{
 		Dictionary_2_t314 * L_9 = (__this->___m_OnSerializeMethodInfos);
 		NullCheck(L_9);
-		VirtActionInvoker2< Component_t105 *, MethodInfo_t292 * >::Invoke(&Dictionary_2_Add_m2655_MethodInfo, L_9, ___component, V_0);
+		VirtActionInvoker2< Component_t105 *, MethodInfo_t292 * >::Invoke(&Dictionary_2_Add_m2657_MethodInfo, L_9, ___component, V_0);
 	}
 
 IL_0068:
 	{
 		Dictionary_2_t314 * L_10 = (__this->___m_OnSerializeMethodInfos);
 		NullCheck(L_10);
-		MethodInfo_t292 * L_11 = (MethodInfo_t292 *)VirtFuncInvoker1< MethodInfo_t292 *, Component_t105 * >::Invoke(&Dictionary_2_get_Item_m2656_MethodInfo, L_10, ___component);
+		MethodInfo_t292 * L_11 = (MethodInfo_t292 *)VirtFuncInvoker1< MethodInfo_t292 *, Component_t105 * >::Invoke(&Dictionary_2_get_Item_m2658_MethodInfo, L_10, ___component);
 		if (!L_11)
 		{
 			goto IL_009a;
@@ -49535,7 +49543,7 @@ IL_0068:
 	{
 		Dictionary_2_t314 * L_12 = (__this->___m_OnSerializeMethodInfos);
 		NullCheck(L_12);
-		MethodInfo_t292 * L_13 = (MethodInfo_t292 *)VirtFuncInvoker1< MethodInfo_t292 *, Component_t105 * >::Invoke(&Dictionary_2_get_Item_m2656_MethodInfo, L_12, ___component);
+		MethodInfo_t292 * L_13 = (MethodInfo_t292 *)VirtFuncInvoker1< MethodInfo_t292 *, Component_t105 * >::Invoke(&Dictionary_2_get_Item_m2658_MethodInfo, L_12, ___component);
 		ObjectU5BU5D_t5* L_14 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 2));
 		NullCheck(L_14);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_14, 0);
@@ -49689,13 +49697,13 @@ extern MethodInfo PhotonView_ToString_m1649_MethodInfo;
 		G_B1_0 = 1;
 		G_B1_1 = L_4;
 		G_B1_2 = L_4;
-		G_B1_3 = (String_t*) &_stringLiteral732;
+		G_B1_3 = (String_t*) &_stringLiteral734;
 		if (!L_6)
 		{
 			G_B2_0 = 1;
 			G_B2_1 = L_4;
 			G_B2_2 = L_4;
-			G_B2_3 = (String_t*) &_stringLiteral732;
+			G_B2_3 = (String_t*) &_stringLiteral734;
 			goto IL_003c;
 		}
 	}
@@ -49713,7 +49721,7 @@ extern MethodInfo PhotonView_ToString_m1649_MethodInfo;
 
 IL_003c:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral733;
+		G_B3_0 = (String_t*) &_stringLiteral735;
 		G_B3_1 = G_B2_0;
 		G_B3_2 = G_B2_1;
 		G_B3_3 = G_B2_2;
@@ -49742,7 +49750,7 @@ IL_0041:
 		}
 	}
 	{
-		G_B6_0 = (String_t*) &_stringLiteral734;
+		G_B6_0 = (String_t*) &_stringLiteral736;
 		G_B6_1 = G_B4_0;
 		G_B6_2 = G_B4_1;
 		G_B6_3 = G_B4_2;
@@ -51089,14 +51097,14 @@ extern TypeInfo AddComponentMenu_t516_il2cpp_TypeInfo;
 #include "UnityEngine_UnityEngine_AddComponentMenu.h"
 // UnityEngine.AddComponentMenu
 #include "UnityEngine_UnityEngine_AddComponentMenuMethodDeclarations.h"
-extern MethodInfo AddComponentMenu__ctor_m2657_MethodInfo;
+extern MethodInfo AddComponentMenu__ctor_m2659_MethodInfo;
 void PhotonView_t170_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
 	{
 		AddComponentMenu_t516 * tmp;
 		tmp = (AddComponentMenu_t516 *)il2cpp_codegen_object_new (&AddComponentMenu_t516_il2cpp_TypeInfo);
-		AddComponentMenu__ctor_m2657(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon View &v"), &AddComponentMenu__ctor_m2657_MethodInfo);
+		AddComponentMenu__ctor_m2659(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon View &v"), &AddComponentMenu__ctor_m2659_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 }
@@ -51340,17 +51348,17 @@ extern Il2CppType PingNativeDynamic_t517_0_0_0;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo Type_GetTypeFromHandle_m385_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
-extern MethodInfo PingNativeDynamic__ctor_m2658_MethodInfo;
-extern MethodInfo Activator_CreateInstance_m2659_MethodInfo;
-extern MethodInfo String_LastIndexOf_m2660_MethodInfo;
+extern MethodInfo PingNativeDynamic__ctor_m2660_MethodInfo;
+extern MethodInfo Activator_CreateInstance_m2661_MethodInfo;
+extern MethodInfo String_LastIndexOf_m2662_MethodInfo;
 extern MethodInfo String_Substring_m606_MethodInfo;
 extern MethodInfo PhotonPingManager_ResolveHost_m1661_MethodInfo;
-extern MethodInfo Stopwatch__ctor_m2661_MethodInfo;
-extern MethodInfo Stopwatch_Start_m2662_MethodInfo;
-extern MethodInfo PhotonPing_StartPing_m2663_MethodInfo;
+extern MethodInfo Stopwatch__ctor_m2663_MethodInfo;
+extern MethodInfo Stopwatch_Start_m2664_MethodInfo;
+extern MethodInfo PhotonPing_StartPing_m2665_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
-extern MethodInfo Stopwatch_get_ElapsedMilliseconds_m2664_MethodInfo;
-extern MethodInfo PhotonPing_Done_m2665_MethodInfo;
+extern MethodInfo Stopwatch_get_ElapsedMilliseconds_m2666_MethodInfo;
+extern MethodInfo PhotonPing_Done_m2667_MethodInfo;
 extern MethodInfo WaitForSeconds__ctor_m478_MethodInfo;
 extern MethodInfo NotSupportedException__ctor_m479_MethodInfo;
 
@@ -51435,9 +51443,9 @@ IL_0029:
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral738, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral740, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		PingNativeDynamic_t517 * L_6 = (PingNativeDynamic_t517 *)il2cpp_codegen_object_new (InitializedTypeInfo(&PingNativeDynamic_t517_il2cpp_TypeInfo));
-		PingNativeDynamic__ctor_m2658(L_6, /*hidden argument*/&PingNativeDynamic__ctor_m2658_MethodInfo);
+		PingNativeDynamic__ctor_m2660(L_6, /*hidden argument*/&PingNativeDynamic__ctor_m2660_MethodInfo);
 		__this->___U3CpingU3E__0 = L_6;
 		goto IL_0095;
 	}
@@ -51445,7 +51453,7 @@ IL_0029:
 IL_0080:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonHandler_t299_il2cpp_TypeInfo));
-		Object_t * L_7 = Activator_CreateInstance_m2659(NULL /*static, unused*/, (((PhotonHandler_t299_StaticFields*)InitializedTypeInfo(&PhotonHandler_t299_il2cpp_TypeInfo)->static_fields)->___PingImplementation), /*hidden argument*/&Activator_CreateInstance_m2659_MethodInfo);
+		Object_t * L_7 = Activator_CreateInstance_m2661(NULL /*static, unused*/, (((PhotonHandler_t299_StaticFields*)InitializedTypeInfo(&PhotonHandler_t299_il2cpp_TypeInfo)->static_fields)->___PingImplementation), /*hidden argument*/&Activator_CreateInstance_m2661_MethodInfo);
 		__this->___U3CpingU3E__0 = ((PhotonPing_t315 *)Castclass(L_7, InitializedTypeInfo(&PhotonPing_t315_il2cpp_TypeInfo)));
 	}
 
@@ -51459,7 +51467,7 @@ IL_0095:
 		__this->___U3CcleanIpOfRegionU3E__3 = L_9;
 		String_t* L_10 = (__this->___U3CcleanIpOfRegionU3E__3);
 		NullCheck(L_10);
-		int32_t L_11 = String_LastIndexOf_m2660(L_10, ((int32_t)58), /*hidden argument*/&String_LastIndexOf_m2660_MethodInfo);
+		int32_t L_11 = String_LastIndexOf_m2662(L_10, ((int32_t)58), /*hidden argument*/&String_LastIndexOf_m2662_MethodInfo);
 		__this->___U3CindexOfColonU3E__4 = L_11;
 		int32_t L_12 = (__this->___U3CindexOfColonU3E__4);
 		if ((((int32_t)L_12) <= ((int32_t)1)))
@@ -51490,11 +51498,11 @@ IL_010c:
 		__this->___U3CovertimeU3E__6 = 0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Stopwatch_t316_il2cpp_TypeInfo));
 		Stopwatch_t316 * L_18 = (Stopwatch_t316 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Stopwatch_t316_il2cpp_TypeInfo));
-		Stopwatch__ctor_m2661(L_18, /*hidden argument*/&Stopwatch__ctor_m2661_MethodInfo);
+		Stopwatch__ctor_m2663(L_18, /*hidden argument*/&Stopwatch__ctor_m2663_MethodInfo);
 		__this->___U3CswU3E__7 = L_18;
 		Stopwatch_t316 * L_19 = (__this->___U3CswU3E__7);
 		NullCheck(L_19);
-		Stopwatch_Start_m2662(L_19, /*hidden argument*/&Stopwatch_Start_m2662_MethodInfo);
+		Stopwatch_Start_m2664(L_19, /*hidden argument*/&Stopwatch_Start_m2664_MethodInfo);
 	}
 
 IL_0129:
@@ -51503,7 +51511,7 @@ IL_0129:
 		PhotonPing_t315 * L_20 = (__this->___U3CpingU3E__0);
 		String_t* L_21 = (__this->___U3CcleanIpOfRegionU3E__3);
 		NullCheck(L_20);
-		VirtFuncInvoker1< bool, String_t* >::Invoke(&PhotonPing_StartPing_m2663_MethodInfo, L_20, L_21);
+		VirtFuncInvoker1< bool, String_t* >::Invoke(&PhotonPing_StartPing_m2665_MethodInfo, L_20, L_21);
 		// IL_013b: leave IL_017a
 		goto IL_017a;
 	} // end try (depth: 1)
@@ -51522,7 +51530,7 @@ IL_0140:
 			__this->___U3CeU3E__8 = V_1;
 			Exception_t107 * L_22 = (__this->___U3CeU3E__8);
 			IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-			String_t* L_23 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral739, L_22, /*hidden argument*/&String_Concat_m380_MethodInfo);
+			String_t* L_23 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral741, L_22, /*hidden argument*/&String_Concat_m380_MethodInfo);
 			Debug_Log_m384(NULL /*static, unused*/, L_23, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 			PhotonPingManager_t295 * L_24 = (__this->___U3CU3Ef__this);
 			PhotonPingManager_t295 * L_25 = L_24;
@@ -51549,7 +51557,7 @@ IL_017f:
 	{
 		Stopwatch_t316 * L_27 = (__this->___U3CswU3E__7);
 		NullCheck(L_27);
-		int64_t L_28 = Stopwatch_get_ElapsedMilliseconds_m2664(L_27, /*hidden argument*/&Stopwatch_get_ElapsedMilliseconds_m2664_MethodInfo);
+		int64_t L_28 = Stopwatch_get_ElapsedMilliseconds_m2666(L_27, /*hidden argument*/&Stopwatch_get_ElapsedMilliseconds_m2666_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonPingManager_t295_il2cpp_TypeInfo));
 		if ((((int64_t)L_28) < ((int64_t)(((int64_t)(((PhotonPingManager_t295_StaticFields*)InitializedTypeInfo(&PhotonPingManager_t295_il2cpp_TypeInfo)->static_fields)->___MaxMilliseconsPerPing))))))
 		{
@@ -51574,7 +51582,7 @@ IL_01b9:
 	{
 		PhotonPing_t315 * L_31 = (__this->___U3CpingU3E__0);
 		NullCheck(L_31);
-		bool L_32 = (bool)VirtFuncInvoker0< bool >::Invoke(&PhotonPing_Done_m2665_MethodInfo, L_31);
+		bool L_32 = (bool)VirtFuncInvoker0< bool >::Invoke(&PhotonPing_Done_m2667_MethodInfo, L_31);
 		if (!L_32)
 		{
 			goto IL_017f;
@@ -51585,7 +51593,7 @@ IL_01c9:
 	{
 		Stopwatch_t316 * L_33 = (__this->___U3CswU3E__7);
 		NullCheck(L_33);
-		int64_t L_34 = Stopwatch_get_ElapsedMilliseconds_m2664(L_33, /*hidden argument*/&Stopwatch_get_ElapsedMilliseconds_m2664_MethodInfo);
+		int64_t L_34 = Stopwatch_get_ElapsedMilliseconds_m2666(L_33, /*hidden argument*/&Stopwatch_get_ElapsedMilliseconds_m2666_MethodInfo);
 		__this->___U3CrttU3E__9 = (((int32_t)L_34));
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonPingManager_t295_il2cpp_TypeInfo));
 		if (!(((PhotonPingManager_t295_StaticFields*)InitializedTypeInfo(&PhotonPingManager_t295_il2cpp_TypeInfo)->static_fields)->___IgnoreInitialAttempt))
@@ -52291,10 +52299,10 @@ extern MethodInfo Enumerator_MoveNext_m2587_MethodInfo;
 extern MethodInfo IDisposable_Dispose_m498_MethodInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo U3CPingSocketU3Ec__Iterator5__ctor_m1650_MethodInfo;
-extern MethodInfo Dns_GetHostAddresses_m2666_MethodInfo;
-extern MethodInfo IPAddress_ToString_m2667_MethodInfo;
-extern MethodInfo String_IndexOf_m2668_MethodInfo;
-extern MethodInfo Exception_get_Source_m2669_MethodInfo;
+extern MethodInfo Dns_GetHostAddresses_m2668_MethodInfo;
+extern MethodInfo IPAddress_ToString_m2669_MethodInfo;
+extern MethodInfo String_IndexOf_m2670_MethodInfo;
+extern MethodInfo Exception_get_Source_m2671_MethodInfo;
 extern MethodInfo Exception_get_Message_m2046_MethodInfo;
 extern MethodInfo String_Concat_m457_MethodInfo;
 
@@ -52352,7 +52360,7 @@ IL_001d:
 			Region_t296 * L_2 = Enumerator_get_Current_m2586((&V_3), /*hidden argument*/&Enumerator_get_Current_m2586_MethodInfo);
 			V_2 = L_2;
 			IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-			String_t* L_3 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral735, V_2, /*hidden argument*/&String_Concat_m380_MethodInfo);
+			String_t* L_3 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral737, V_2, /*hidden argument*/&String_Concat_m380_MethodInfo);
 			Debug_Log_m384(NULL /*static, unused*/, L_3, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 			NullCheck(V_2);
 			int32_t L_4 = (V_2->___Ping);
@@ -52479,7 +52487,7 @@ IL_0000:
 	{ // begin try (depth: 1)
 		{
 			IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Dns_t518_il2cpp_TypeInfo));
-			IPAddressU5BU5D_t520* L_0 = Dns_GetHostAddresses_m2666(NULL /*static, unused*/, ___hostName, /*hidden argument*/&Dns_GetHostAddresses_m2666_MethodInfo);
+			IPAddressU5BU5D_t520* L_0 = Dns_GetHostAddresses_m2668(NULL /*static, unused*/, ___hostName, /*hidden argument*/&Dns_GetHostAddresses_m2668_MethodInfo);
 			V_0 = L_0;
 			NullCheck(V_0);
 			if ((((uint32_t)(((int32_t)(((Array_t *)V_0)->max_length)))) != ((uint32_t)1)))
@@ -52493,7 +52501,7 @@ IL_0010:
 			NullCheck(V_0);
 			IL2CPP_ARRAY_BOUNDS_CHECK(V_0, 0);
 			NullCheck((*(IPAddress_t519 **)(IPAddress_t519 **)SZArrayLdElema(V_0, 0)));
-			String_t* L_1 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&IPAddress_ToString_m2667_MethodInfo, (*(IPAddress_t519 **)(IPAddress_t519 **)SZArrayLdElema(V_0, 0)));
+			String_t* L_1 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&IPAddress_ToString_m2669_MethodInfo, (*(IPAddress_t519 **)(IPAddress_t519 **)SZArrayLdElema(V_0, 0)));
 			V_5 = L_1;
 			// IL_001a: leave IL_008e
 			goto IL_008e;
@@ -52519,10 +52527,10 @@ IL_0026:
 IL_0030:
 		{
 			NullCheck(V_2);
-			String_t* L_2 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&IPAddress_ToString_m2667_MethodInfo, V_2);
+			String_t* L_2 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&IPAddress_ToString_m2669_MethodInfo, V_2);
 			V_3 = L_2;
 			NullCheck(V_3);
-			int32_t L_3 = String_IndexOf_m2668(V_3, ((int32_t)46), /*hidden argument*/&String_IndexOf_m2668_MethodInfo);
+			int32_t L_3 = String_IndexOf_m2670(V_3, ((int32_t)46), /*hidden argument*/&String_IndexOf_m2670_MethodInfo);
 			if ((((int32_t)L_3) < ((int32_t)0)))
 			{
 				goto IL_004d;
@@ -52568,11 +52576,11 @@ IL_005f:
 	{ // begin catch(System.Exception)
 		V_4 = ((Exception_t107 *)__exception_local);
 		NullCheck(V_4);
-		String_t* L_4 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Exception_get_Source_m2669_MethodInfo, V_4);
+		String_t* L_4 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Exception_get_Source_m2671_MethodInfo, V_4);
 		NullCheck(V_4);
 		String_t* L_5 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&Exception_get_Message_m2046_MethodInfo, V_4);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_6 = String_Concat_m457(NULL /*static, unused*/, (String_t*) &_stringLiteral736, L_4, (String_t*) &_stringLiteral737, L_5, /*hidden argument*/&String_Concat_m457_MethodInfo);
+		String_t* L_6 = String_Concat_m457(NULL /*static, unused*/, (String_t*) &_stringLiteral738, L_4, (String_t*) &_stringLiteral739, L_5, /*hidden argument*/&String_Concat_m457_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_6, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		// IL_0083: leave IL_0088
 		goto IL_0088;
@@ -53088,7 +53096,7 @@ extern MethodInfo Room_set_maxPlayers_m1667_MethodInfo;
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral740, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral742, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_001a:
@@ -53102,7 +53110,7 @@ IL_001a:
 		int32_t L_2 = ___value;
 		Object_t * L_3 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_4 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral741, L_3, (String_t*) &_stringLiteral742, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_4 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral743, L_3, (String_t*) &_stringLiteral744, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_4, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		___value = ((int32_t)255);
 	}
@@ -53166,7 +53174,7 @@ extern MethodInfo Room_set_open_m1669_MethodInfo;
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral743, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral745, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_001a:
@@ -53228,7 +53236,7 @@ extern MethodInfo Room_set_visible_m1671_MethodInfo;
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral744, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral746, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
 IL_001a:
@@ -53445,18 +53453,18 @@ extern MethodInfo Room_ToString_m1678_MethodInfo;
 		G_B1_0 = 1;
 		G_B1_1 = L_2;
 		G_B1_2 = L_2;
-		G_B1_3 = (String_t*) &_stringLiteral745;
+		G_B1_3 = (String_t*) &_stringLiteral747;
 		if (!L_3)
 		{
 			G_B2_0 = 1;
 			G_B2_1 = L_2;
 			G_B2_2 = L_2;
-			G_B2_3 = (String_t*) &_stringLiteral745;
+			G_B2_3 = (String_t*) &_stringLiteral747;
 			goto IL_002b;
 		}
 	}
 	{
-		G_B3_0 = (String_t*) &_stringLiteral746;
+		G_B3_0 = (String_t*) &_stringLiteral748;
 		G_B3_1 = G_B1_0;
 		G_B3_2 = G_B1_1;
 		G_B3_3 = G_B1_2;
@@ -53466,7 +53474,7 @@ extern MethodInfo Room_ToString_m1678_MethodInfo;
 
 IL_002b:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral747;
+		G_B3_0 = (String_t*) &_stringLiteral749;
 		G_B3_1 = G_B2_0;
 		G_B3_2 = G_B2_1;
 		G_B3_3 = G_B2_2;
@@ -53495,7 +53503,7 @@ IL_0030:
 		}
 	}
 	{
-		G_B6_0 = (String_t*) &_stringLiteral748;
+		G_B6_0 = (String_t*) &_stringLiteral750;
 		G_B6_1 = G_B4_0;
 		G_B6_2 = G_B4_1;
 		G_B6_3 = G_B4_2;
@@ -53505,7 +53513,7 @@ IL_0030:
 
 IL_0048:
 	{
-		G_B6_0 = (String_t*) &_stringLiteral749;
+		G_B6_0 = (String_t*) &_stringLiteral751;
 		G_B6_1 = G_B5_0;
 		G_B6_2 = G_B5_1;
 		G_B6_3 = G_B5_2;
@@ -53580,18 +53588,18 @@ extern MethodInfo Room_ToStringFull_m1679_MethodInfo;
 		G_B1_0 = 1;
 		G_B1_1 = L_2;
 		G_B1_2 = L_2;
-		G_B1_3 = (String_t*) &_stringLiteral750;
+		G_B1_3 = (String_t*) &_stringLiteral752;
 		if (!L_3)
 		{
 			G_B2_0 = 1;
 			G_B2_1 = L_2;
 			G_B2_2 = L_2;
-			G_B2_3 = (String_t*) &_stringLiteral750;
+			G_B2_3 = (String_t*) &_stringLiteral752;
 			goto IL_002b;
 		}
 	}
 	{
-		G_B3_0 = (String_t*) &_stringLiteral746;
+		G_B3_0 = (String_t*) &_stringLiteral748;
 		G_B3_1 = G_B1_0;
 		G_B3_2 = G_B1_1;
 		G_B3_3 = G_B1_2;
@@ -53601,7 +53609,7 @@ extern MethodInfo Room_ToStringFull_m1679_MethodInfo;
 
 IL_002b:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral747;
+		G_B3_0 = (String_t*) &_stringLiteral749;
 		G_B3_1 = G_B2_0;
 		G_B3_2 = G_B2_1;
 		G_B3_3 = G_B2_2;
@@ -53630,7 +53638,7 @@ IL_0030:
 		}
 	}
 	{
-		G_B6_0 = (String_t*) &_stringLiteral748;
+		G_B6_0 = (String_t*) &_stringLiteral750;
 		G_B6_1 = G_B4_0;
 		G_B6_2 = G_B4_1;
 		G_B6_3 = G_B4_2;
@@ -53640,7 +53648,7 @@ IL_0030:
 
 IL_0048:
 	{
-		G_B6_0 = (String_t*) &_stringLiteral749;
+		G_B6_0 = (String_t*) &_stringLiteral751;
 		G_B6_1 = G_B5_0;
 		G_B6_2 = G_B5_1;
 		G_B6_3 = G_B5_2;
@@ -54449,7 +54457,7 @@ extern MethodInfo PhotonNetwork_get_autoCleanUpPlayerObjects_m1491_MethodInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo RoomInfo_CacheProperties_m1696_MethodInfo;
 extern MethodInfo String_Equals_m407_MethodInfo;
-extern MethodInfo String_GetHashCode_m2670_MethodInfo;
+extern MethodInfo String_GetHashCode_m2672_MethodInfo;
 extern MethodInfo RoomInfo_get_playerCount_m1685_MethodInfo;
 extern MethodInfo String_Format_m2370_MethodInfo;
 extern MethodInfo Extensions_ToStringFull_m1180_MethodInfo;
@@ -54607,7 +54615,7 @@ extern MethodInfo RoomInfo_GetHashCode_m1693_MethodInfo;
 	{
 		String_t* L_0 = (__this->___nameField);
 		NullCheck(L_0);
-		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&String_GetHashCode_m2670_MethodInfo, L_0);
+		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&String_GetHashCode_m2672_MethodInfo, L_0);
 		return L_1;
 	}
 }
@@ -54652,18 +54660,18 @@ extern MethodInfo RoomInfo_ToString_m1694_MethodInfo;
 		G_B1_0 = 1;
 		G_B1_1 = L_2;
 		G_B1_2 = L_2;
-		G_B1_3 = (String_t*) &_stringLiteral745;
+		G_B1_3 = (String_t*) &_stringLiteral747;
 		if (!L_3)
 		{
 			G_B2_0 = 1;
 			G_B2_1 = L_2;
 			G_B2_2 = L_2;
-			G_B2_3 = (String_t*) &_stringLiteral745;
+			G_B2_3 = (String_t*) &_stringLiteral747;
 			goto IL_002b;
 		}
 	}
 	{
-		G_B3_0 = (String_t*) &_stringLiteral746;
+		G_B3_0 = (String_t*) &_stringLiteral748;
 		G_B3_1 = G_B1_0;
 		G_B3_2 = G_B1_1;
 		G_B3_3 = G_B1_2;
@@ -54673,7 +54681,7 @@ extern MethodInfo RoomInfo_ToString_m1694_MethodInfo;
 
 IL_002b:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral747;
+		G_B3_0 = (String_t*) &_stringLiteral749;
 		G_B3_1 = G_B2_0;
 		G_B3_2 = G_B2_1;
 		G_B3_3 = G_B2_2;
@@ -54702,7 +54710,7 @@ IL_0030:
 		}
 	}
 	{
-		G_B6_0 = (String_t*) &_stringLiteral748;
+		G_B6_0 = (String_t*) &_stringLiteral750;
 		G_B6_1 = G_B4_0;
 		G_B6_2 = G_B4_1;
 		G_B6_3 = G_B4_2;
@@ -54712,7 +54720,7 @@ IL_0030:
 
 IL_0048:
 	{
-		G_B6_0 = (String_t*) &_stringLiteral749;
+		G_B6_0 = (String_t*) &_stringLiteral751;
 		G_B6_1 = G_B5_0;
 		G_B6_2 = G_B5_1;
 		G_B6_3 = G_B5_2;
@@ -54787,18 +54795,18 @@ extern MethodInfo RoomInfo_ToStringFull_m1695_MethodInfo;
 		G_B1_0 = 1;
 		G_B1_1 = L_2;
 		G_B1_2 = L_2;
-		G_B1_3 = (String_t*) &_stringLiteral750;
+		G_B1_3 = (String_t*) &_stringLiteral752;
 		if (!L_3)
 		{
 			G_B2_0 = 1;
 			G_B2_1 = L_2;
 			G_B2_2 = L_2;
-			G_B2_3 = (String_t*) &_stringLiteral750;
+			G_B2_3 = (String_t*) &_stringLiteral752;
 			goto IL_002b;
 		}
 	}
 	{
-		G_B3_0 = (String_t*) &_stringLiteral746;
+		G_B3_0 = (String_t*) &_stringLiteral748;
 		G_B3_1 = G_B1_0;
 		G_B3_2 = G_B1_1;
 		G_B3_3 = G_B1_2;
@@ -54808,7 +54816,7 @@ extern MethodInfo RoomInfo_ToStringFull_m1695_MethodInfo;
 
 IL_002b:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral747;
+		G_B3_0 = (String_t*) &_stringLiteral749;
 		G_B3_1 = G_B2_0;
 		G_B3_2 = G_B2_1;
 		G_B3_3 = G_B2_2;
@@ -54837,7 +54845,7 @@ IL_0030:
 		}
 	}
 	{
-		G_B6_0 = (String_t*) &_stringLiteral748;
+		G_B6_0 = (String_t*) &_stringLiteral750;
 		G_B6_1 = G_B4_0;
 		G_B6_2 = G_B4_1;
 		G_B6_3 = G_B4_2;
@@ -54847,7 +54855,7 @@ IL_0030:
 
 IL_0048:
 	{
-		G_B6_0 = (String_t*) &_stringLiteral749;
+		G_B6_0 = (String_t*) &_stringLiteral751;
 		G_B6_1 = G_B5_0;
 		G_B6_2 = G_B5_1;
 		G_B6_3 = G_B5_2;
@@ -55981,8 +55989,8 @@ extern Il2CppType CloudRegionCode_t247_0_0_0;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo String_ToLower_m607_MethodInfo;
 extern MethodInfo Type_GetTypeFromHandle_m385_MethodInfo;
-extern MethodInfo Enum_IsDefined_m2671_MethodInfo;
-extern MethodInfo Enum_Parse_m2672_MethodInfo;
+extern MethodInfo Enum_IsDefined_m2673_MethodInfo;
+extern MethodInfo Enum_Parse_m2674_MethodInfo;
 extern MethodInfo String_Format_m376_MethodInfo;
 
 
@@ -56006,7 +56014,7 @@ extern MethodInfo Region_Parse_m1698_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_1 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&CloudRegionCode_t247_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Enum_t79_il2cpp_TypeInfo));
-		bool L_2 = Enum_IsDefined_m2671(NULL /*static, unused*/, L_1, ___codeAsString, /*hidden argument*/&Enum_IsDefined_m2671_MethodInfo);
+		bool L_2 = Enum_IsDefined_m2673(NULL /*static, unused*/, L_1, ___codeAsString, /*hidden argument*/&Enum_IsDefined_m2673_MethodInfo);
 		if (!L_2)
 		{
 			goto IL_0035;
@@ -56016,7 +56024,7 @@ extern MethodInfo Region_Parse_m1698_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_3 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&CloudRegionCode_t247_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Enum_t79_il2cpp_TypeInfo));
-		Object_t * L_4 = Enum_Parse_m2672(NULL /*static, unused*/, L_3, ___codeAsString, /*hidden argument*/&Enum_Parse_m2672_MethodInfo);
+		Object_t * L_4 = Enum_Parse_m2674(NULL /*static, unused*/, L_3, ___codeAsString, /*hidden argument*/&Enum_Parse_m2674_MethodInfo);
 		V_0 = ((*(int32_t*)((int32_t*)UnBox (L_4, InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo)))));
 	}
 
@@ -56037,7 +56045,7 @@ extern MethodInfo Region_ToString_m1699_MethodInfo;
 		Object_t * L_5 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_4);
 		String_t* L_6 = (__this->___HostAndPort);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_7 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral751, L_2, L_5, L_6, /*hidden argument*/&String_Format_m376_MethodInfo);
+		String_t* L_7 = String_Format_m376(NULL /*static, unused*/, (String_t*) &_stringLiteral753, L_2, L_5, L_6, /*hidden argument*/&String_Format_m376_MethodInfo);
 		return L_7;
 	}
 }
@@ -56588,7 +56596,7 @@ extern MethodInfo ServerSettings_UseMyServer_m1704_MethodInfo;
 
 IL_0014:
 	{
-		G_B3_0 = (String_t*) &_stringLiteral752;
+		G_B3_0 = (String_t*) &_stringLiteral754;
 		G_B3_1 = G_B2_0;
 	}
 
@@ -56608,8 +56616,8 @@ extern MethodInfo ServerSettings_ToString_m1705_MethodInfo;
 		ObjectU5BU5D_t5* L_0 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral753);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral753;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral755);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral755;
 		ObjectU5BU5D_t5* L_1 = L_0;
 		int32_t L_2 = (__this->___HostType);
 		int32_t L_3 = L_2;
@@ -56941,14 +56949,14 @@ extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
 #include "UnityEngine_UnityEngine_HideInInspector.h"
 // UnityEngine.HideInInspector
 #include "UnityEngine_UnityEngine_HideInInspectorMethodDeclarations.h"
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 void ServerSettings_t302_CustomAttributesCacheGenerator_DisableAutoOpenWizard(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 }
@@ -59094,28 +59102,28 @@ extern TypeInfo Byte_t68_il2cpp_TypeInfo;
 #include "mscorlib_System_Predicate_1_genMethodDeclarations.h"
 // System.Predicate`1<PhotonAnimatorView/SynchronizedParameter>
 #include "mscorlib_System_Predicate_1_gen_0MethodDeclarations.h"
-extern MethodInfo List_1__ctor_m2674_MethodInfo;
-extern MethodInfo List_1__ctor_m2675_MethodInfo;
+extern MethodInfo List_1__ctor_m2676_MethodInfo;
+extern MethodInfo List_1__ctor_m2677_MethodInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_GetComponent_TisPhotonView_t170_m2202_MethodInfo;
 extern MethodInfo PhotonStreamQueue__ctor_m1610_MethodInfo;
 extern MethodInfo Component_GetComponent_TisAnimator_t168_m2200_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
 extern MethodInfo PhotonNetwork_get_connected_m1465_MethodInfo;
-extern MethodInfo Animator_set_applyRootMotion_m2676_MethodInfo;
+extern MethodInfo Animator_set_applyRootMotion_m2678_MethodInfo;
 extern MethodInfo PhotonAnimatorView_SerializeDataContinuously_m1731_MethodInfo;
 extern MethodInfo PhotonAnimatorView_DeserializeDataContinuously_m1732_MethodInfo;
 extern MethodInfo U3CDoesLayerSynchronizeTypeExistU3Ec__AnonStorey9__ctor_m1708_MethodInfo;
 extern MethodInfo U3CDoesLayerSynchronizeTypeExistU3Ec__AnonStorey9_U3CU3Em__0_m1709_MethodInfo;
-extern MethodInfo Predicate_1__ctor_m2677_MethodInfo;
-extern MethodInfo List_1_FindIndex_m2678_MethodInfo;
-extern MethodInfo U3CDoesParameterSynchronizeTypeExistU3Ec__AnonStoreyA__ctor_m1710_MethodInfo;
-extern MethodInfo U3CDoesParameterSynchronizeTypeExistU3Ec__AnonStoreyA_U3CU3Em__1_m1711_MethodInfo;
 extern MethodInfo Predicate_1__ctor_m2679_MethodInfo;
 extern MethodInfo List_1_FindIndex_m2680_MethodInfo;
+extern MethodInfo U3CDoesParameterSynchronizeTypeExistU3Ec__AnonStoreyA__ctor_m1710_MethodInfo;
+extern MethodInfo U3CDoesParameterSynchronizeTypeExistU3Ec__AnonStoreyA_U3CU3Em__1_m1711_MethodInfo;
+extern MethodInfo Predicate_1__ctor_m2681_MethodInfo;
+extern MethodInfo List_1_FindIndex_m2682_MethodInfo;
 extern MethodInfo U3CGetLayerSynchronizeTypeU3Ec__AnonStoreyB__ctor_m1712_MethodInfo;
 extern MethodInfo U3CGetLayerSynchronizeTypeU3Ec__AnonStoreyB_U3CU3Em__2_m1713_MethodInfo;
-extern MethodInfo List_1_get_Item_m2681_MethodInfo;
+extern MethodInfo List_1_get_Item_m2683_MethodInfo;
 extern MethodInfo U3CGetParameterSynchronizeTypeU3Ec__AnonStoreyC__ctor_m1714_MethodInfo;
 extern MethodInfo U3CGetParameterSynchronizeTypeU3Ec__AnonStoreyC_U3CU3Em__3_m1715_MethodInfo;
 extern MethodInfo List_1_get_Item_m2286_MethodInfo;
@@ -59123,15 +59131,15 @@ extern MethodInfo U3CSetLayerSynchronizedU3Ec__AnonStoreyD__ctor_m1716_MethodInf
 extern MethodInfo Application_get_isPlaying_m2526_MethodInfo;
 extern MethodInfo U3CSetLayerSynchronizedU3Ec__AnonStoreyD_U3CU3Em__4_m1717_MethodInfo;
 extern MethodInfo SynchronizedLayer__ctor_m1707_MethodInfo;
-extern MethodInfo List_1_Add_m2682_MethodInfo;
+extern MethodInfo List_1_Add_m2684_MethodInfo;
 extern MethodInfo U3CSetParameterSynchronizedU3Ec__AnonStoreyE__ctor_m1718_MethodInfo;
 extern MethodInfo U3CSetParameterSynchronizedU3Ec__AnonStoreyE_U3CU3Em__5_m1719_MethodInfo;
 extern MethodInfo SynchronizedParameter__ctor_m1706_MethodInfo;
-extern MethodInfo List_1_Add_m2683_MethodInfo;
+extern MethodInfo List_1_Add_m2685_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
-extern MethodInfo Animator_GetLayerWeight_m2684_MethodInfo;
+extern MethodInfo Animator_GetLayerWeight_m2686_MethodInfo;
 extern MethodInfo PhotonStreamQueue_SendNext_m1613_MethodInfo;
-extern MethodInfo List_1_get_Count_m2685_MethodInfo;
+extern MethodInfo List_1_get_Count_m2687_MethodInfo;
 extern MethodInfo Animator_GetBool_m2287_MethodInfo;
 extern MethodInfo Animator_GetFloat_m2290_MethodInfo;
 extern MethodInfo Animator_GetInteger_m2289_MethodInfo;
@@ -59141,7 +59149,7 @@ extern MethodInfo PhotonStreamQueue_ReceiveNext_m1615_MethodInfo;
 extern MethodInfo Animator_SetLayerWeight_m2386_MethodInfo;
 extern MethodInfo Animator_SetBool_m2210_MethodInfo;
 extern MethodInfo Animator_SetFloat_m2358_MethodInfo;
-extern MethodInfo Animator_SetInteger_m2686_MethodInfo;
+extern MethodInfo Animator_SetInteger_m2688_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
 extern MethodInfo PhotonStream_ReceiveNext_m1401_MethodInfo;
 extern MethodInfo PhotonStream_PeekNext_m1402_MethodInfo;
@@ -59171,11 +59179,11 @@ extern MethodInfo PhotonAnimatorView__ctor_m1720_MethodInfo;
 		__this->___ShowParameterInspector = 1;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&List_1_t329_il2cpp_TypeInfo));
 		List_1_t329 * L_0 = (List_1_t329 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t329_il2cpp_TypeInfo));
-		List_1__ctor_m2674(L_0, /*hidden argument*/&List_1__ctor_m2674_MethodInfo);
+		List_1__ctor_m2676(L_0, /*hidden argument*/&List_1__ctor_m2676_MethodInfo);
 		__this->___m_SynchronizeParameters = L_0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&List_1_t330_il2cpp_TypeInfo));
 		List_1_t330 * L_1 = (List_1_t330 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t330_il2cpp_TypeInfo));
-		List_1__ctor_m2675(L_1, /*hidden argument*/&List_1__ctor_m2675_MethodInfo);
+		List_1__ctor_m2677(L_1, /*hidden argument*/&List_1__ctor_m2677_MethodInfo);
 		__this->___m_SynchronizeLayers = L_1;
 		__this->___m_WasSynchronizeTypeChanged = 1;
 		MonoBehaviour__ctor_m482(__this, /*hidden argument*/&MonoBehaviour__ctor_m482_MethodInfo);
@@ -59219,7 +59227,7 @@ extern MethodInfo PhotonAnimatorView_Update_m1722_MethodInfo;
 	{
 		Animator_t168 * L_3 = (__this->___m_Animator);
 		NullCheck(L_3);
-		Animator_set_applyRootMotion_m2676(L_3, 0, /*hidden argument*/&Animator_set_applyRootMotion_m2676_MethodInfo);
+		Animator_set_applyRootMotion_m2678(L_3, 0, /*hidden argument*/&Animator_set_applyRootMotion_m2678_MethodInfo);
 	}
 
 IL_0026:
@@ -59260,9 +59268,9 @@ extern MethodInfo PhotonAnimatorView_DoesLayerSynchronizeTypeExist_m1723_MethodI
 		List_1_t330 * L_1 = (__this->___m_SynchronizeLayers);
 		IntPtr_t39 L_2 = { &U3CDoesLayerSynchronizeTypeExistU3Ec__AnonStorey9_U3CU3Em__0_m1709_MethodInfo };
 		Predicate_1_t522 * L_3 = (Predicate_1_t522 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t522_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2677(L_3, V_0, L_2, /*hidden argument*/&Predicate_1__ctor_m2677_MethodInfo);
+		Predicate_1__ctor_m2679(L_3, V_0, L_2, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
 		NullCheck(L_1);
-		int32_t L_4 = List_1_FindIndex_m2678(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2678_MethodInfo);
+		int32_t L_4 = List_1_FindIndex_m2680(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
 		return ((((int32_t)((((int32_t)L_4) == ((int32_t)(-1)))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 	}
 }
@@ -59279,9 +59287,9 @@ extern MethodInfo PhotonAnimatorView_DoesParameterSynchronizeTypeExist_m1724_Met
 		List_1_t329 * L_1 = (__this->___m_SynchronizeParameters);
 		IntPtr_t39 L_2 = { &U3CDoesParameterSynchronizeTypeExistU3Ec__AnonStoreyA_U3CU3Em__1_m1711_MethodInfo };
 		Predicate_1_t523 * L_3 = (Predicate_1_t523 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t523_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2679(L_3, V_0, L_2, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
+		Predicate_1__ctor_m2681(L_3, V_0, L_2, /*hidden argument*/&Predicate_1__ctor_m2681_MethodInfo);
 		NullCheck(L_1);
-		int32_t L_4 = List_1_FindIndex_m2680(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
+		int32_t L_4 = List_1_FindIndex_m2682(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2682_MethodInfo);
 		return ((((int32_t)((((int32_t)L_4) == ((int32_t)(-1)))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 	}
 }
@@ -59315,9 +59323,9 @@ extern MethodInfo PhotonAnimatorView_GetLayerSynchronizeType_m1727_MethodInfo;
 		List_1_t330 * L_1 = (__this->___m_SynchronizeLayers);
 		IntPtr_t39 L_2 = { &U3CGetLayerSynchronizeTypeU3Ec__AnonStoreyB_U3CU3Em__2_m1713_MethodInfo };
 		Predicate_1_t522 * L_3 = (Predicate_1_t522 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t522_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2677(L_3, V_1, L_2, /*hidden argument*/&Predicate_1__ctor_m2677_MethodInfo);
+		Predicate_1__ctor_m2679(L_3, V_1, L_2, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
 		NullCheck(L_1);
-		int32_t L_4 = List_1_FindIndex_m2678(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2678_MethodInfo);
+		int32_t L_4 = List_1_FindIndex_m2680(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
 		V_0 = L_4;
 		if ((((uint32_t)V_0) != ((uint32_t)(-1))))
 		{
@@ -59332,7 +59340,7 @@ IL_002e:
 	{
 		List_1_t330 * L_5 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_5);
-		SynchronizedLayer_t322 * L_6 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_5, V_0);
+		SynchronizedLayer_t322 * L_6 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_5, V_0);
 		NullCheck(L_6);
 		int32_t L_7 = (L_6->___SynchronizeType);
 		return L_7;
@@ -59352,9 +59360,9 @@ extern MethodInfo PhotonAnimatorView_GetParameterSynchronizeType_m1728_MethodInf
 		List_1_t329 * L_1 = (__this->___m_SynchronizeParameters);
 		IntPtr_t39 L_2 = { &U3CGetParameterSynchronizeTypeU3Ec__AnonStoreyC_U3CU3Em__3_m1715_MethodInfo };
 		Predicate_1_t523 * L_3 = (Predicate_1_t523 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t523_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2679(L_3, V_1, L_2, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
+		Predicate_1__ctor_m2681(L_3, V_1, L_2, /*hidden argument*/&Predicate_1__ctor_m2681_MethodInfo);
 		NullCheck(L_1);
-		int32_t L_4 = List_1_FindIndex_m2680(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
+		int32_t L_4 = List_1_FindIndex_m2682(L_1, L_3, /*hidden argument*/&List_1_FindIndex_m2682_MethodInfo);
 		V_0 = L_4;
 		if ((((uint32_t)V_0) != ((uint32_t)(-1))))
 		{
@@ -59402,9 +59410,9 @@ IL_001e:
 		List_1_t330 * L_2 = (__this->___m_SynchronizeLayers);
 		IntPtr_t39 L_3 = { &U3CSetLayerSynchronizedU3Ec__AnonStoreyD_U3CU3Em__4_m1717_MethodInfo };
 		Predicate_1_t522 * L_4 = (Predicate_1_t522 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t522_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2677(L_4, V_1, L_3, /*hidden argument*/&Predicate_1__ctor_m2677_MethodInfo);
+		Predicate_1__ctor_m2679(L_4, V_1, L_3, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
 		NullCheck(L_2);
-		int32_t L_5 = List_1_FindIndex_m2678(L_2, L_4, /*hidden argument*/&List_1_FindIndex_m2678_MethodInfo);
+		int32_t L_5 = List_1_FindIndex_m2680(L_2, L_4, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
 		V_0 = L_5;
 		if ((((uint32_t)V_0) != ((uint32_t)(-1))))
 		{
@@ -59423,7 +59431,7 @@ IL_001e:
 		NullCheck(V_2);
 		V_2->___SynchronizeType = ___synchronizeType;
 		NullCheck(L_6);
-		VirtActionInvoker1< SynchronizedLayer_t322 * >::Invoke(&List_1_Add_m2682_MethodInfo, L_6, V_2);
+		VirtActionInvoker1< SynchronizedLayer_t322 * >::Invoke(&List_1_Add_m2684_MethodInfo, L_6, V_2);
 		goto IL_0079;
 	}
 
@@ -59431,7 +59439,7 @@ IL_0067:
 	{
 		List_1_t330 * L_9 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_9);
-		SynchronizedLayer_t322 * L_10 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_9, V_0);
+		SynchronizedLayer_t322 * L_10 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_9, V_0);
 		NullCheck(L_10);
 		L_10->___SynchronizeType = ___synchronizeType;
 	}
@@ -59468,9 +59476,9 @@ IL_001e:
 		List_1_t329 * L_2 = (__this->___m_SynchronizeParameters);
 		IntPtr_t39 L_3 = { &U3CSetParameterSynchronizedU3Ec__AnonStoreyE_U3CU3Em__5_m1719_MethodInfo };
 		Predicate_1_t523 * L_4 = (Predicate_1_t523 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Predicate_1_t523_il2cpp_TypeInfo));
-		Predicate_1__ctor_m2679(L_4, V_1, L_3, /*hidden argument*/&Predicate_1__ctor_m2679_MethodInfo);
+		Predicate_1__ctor_m2681(L_4, V_1, L_3, /*hidden argument*/&Predicate_1__ctor_m2681_MethodInfo);
 		NullCheck(L_2);
-		int32_t L_5 = List_1_FindIndex_m2680(L_2, L_4, /*hidden argument*/&List_1_FindIndex_m2680_MethodInfo);
+		int32_t L_5 = List_1_FindIndex_m2682(L_2, L_4, /*hidden argument*/&List_1_FindIndex_m2682_MethodInfo);
 		V_0 = L_5;
 		if ((((uint32_t)V_0) != ((uint32_t)(-1))))
 		{
@@ -59491,7 +59499,7 @@ IL_001e:
 		NullCheck(V_2);
 		V_2->___SynchronizeType = ___synchronizeType;
 		NullCheck(L_6);
-		VirtActionInvoker1< SynchronizedParameter_t321 * >::Invoke(&List_1_Add_m2683_MethodInfo, L_6, V_2);
+		VirtActionInvoker1< SynchronizedParameter_t321 * >::Invoke(&List_1_Add_m2685_MethodInfo, L_6, V_2);
 		goto IL_0080;
 	}
 
@@ -59538,7 +59546,7 @@ IL_0019:
 	{
 		List_1_t330 * L_2 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_2);
-		SynchronizedLayer_t322 * L_3 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_2, V_0);
+		SynchronizedLayer_t322 * L_3 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_2, V_0);
 		NullCheck(L_3);
 		int32_t L_4 = (L_3->___SynchronizeType);
 		if ((((uint32_t)L_4) != ((uint32_t)2)))
@@ -59551,11 +59559,11 @@ IL_0019:
 		Animator_t168 * L_6 = (__this->___m_Animator);
 		List_1_t330 * L_7 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_7);
-		SynchronizedLayer_t322 * L_8 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_7, V_0);
+		SynchronizedLayer_t322 * L_8 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_7, V_0);
 		NullCheck(L_8);
 		int32_t L_9 = (L_8->___LayerIndex);
 		NullCheck(L_6);
-		float L_10 = Animator_GetLayerWeight_m2684(L_6, L_9, /*hidden argument*/&Animator_GetLayerWeight_m2684_MethodInfo);
+		float L_10 = Animator_GetLayerWeight_m2686(L_6, L_9, /*hidden argument*/&Animator_GetLayerWeight_m2686_MethodInfo);
 		float L_11 = L_10;
 		Object_t * L_12 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_11);
 		NullCheck(L_5);
@@ -59571,7 +59579,7 @@ IL_0060:
 	{
 		List_1_t330 * L_13 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_13);
-		int32_t L_14 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_13);
+		int32_t L_14 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_13);
 		if ((((int32_t)V_0) < ((int32_t)L_14)))
 		{
 			goto IL_0019;
@@ -59727,7 +59735,7 @@ IL_0018:
 	{
 		List_1_t330 * L_2 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_2);
-		SynchronizedLayer_t322 * L_3 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_2, V_0);
+		SynchronizedLayer_t322 * L_3 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_2, V_0);
 		NullCheck(L_3);
 		int32_t L_4 = (L_3->___SynchronizeType);
 		if ((((uint32_t)L_4) != ((uint32_t)2)))
@@ -59739,7 +59747,7 @@ IL_0018:
 		Animator_t168 * L_5 = (__this->___m_Animator);
 		List_1_t330 * L_6 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_6);
-		SynchronizedLayer_t322 * L_7 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_6, V_0);
+		SynchronizedLayer_t322 * L_7 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_6, V_0);
 		NullCheck(L_7);
 		int32_t L_8 = (L_7->___LayerIndex);
 		PhotonStreamQueue_t308 * L_9 = (__this->___m_StreamQueue);
@@ -59758,7 +59766,7 @@ IL_005f:
 	{
 		List_1_t330 * L_11 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_11);
-		int32_t L_12 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_11);
+		int32_t L_12 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_11);
 		if ((((int32_t)V_0) < ((int32_t)L_12)))
 		{
 			goto IL_0018;
@@ -59850,7 +59858,7 @@ IL_0108:
 		NullCheck(L_27);
 		Object_t * L_28 = PhotonStreamQueue_ReceiveNext_m1615(L_27, /*hidden argument*/&PhotonStreamQueue_ReceiveNext_m1615_MethodInfo);
 		NullCheck(L_25);
-		Animator_SetInteger_m2686(L_25, L_26, ((*(int32_t*)((int32_t*)UnBox (L_28, InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo))))), /*hidden argument*/&Animator_SetInteger_m2686_MethodInfo);
+		Animator_SetInteger_m2688(L_25, L_26, ((*(int32_t*)((int32_t*)UnBox (L_28, InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo))))), /*hidden argument*/&Animator_SetInteger_m2688_MethodInfo);
 		goto IL_0133;
 	}
 
@@ -59894,7 +59902,7 @@ IL_0007:
 	{
 		List_1_t330 * L_0 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_0);
-		SynchronizedLayer_t322 * L_1 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_0, V_0);
+		SynchronizedLayer_t322 * L_1 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_0, V_0);
 		NullCheck(L_1);
 		int32_t L_2 = (L_1->___SynchronizeType);
 		if ((((uint32_t)L_2) != ((uint32_t)1)))
@@ -59906,11 +59914,11 @@ IL_0007:
 		Animator_t168 * L_3 = (__this->___m_Animator);
 		List_1_t330 * L_4 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_4);
-		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_4, V_0);
+		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_4, V_0);
 		NullCheck(L_5);
 		int32_t L_6 = (L_5->___LayerIndex);
 		NullCheck(L_3);
-		float L_7 = Animator_GetLayerWeight_m2684(L_3, L_6, /*hidden argument*/&Animator_GetLayerWeight_m2684_MethodInfo);
+		float L_7 = Animator_GetLayerWeight_m2686(L_3, L_6, /*hidden argument*/&Animator_GetLayerWeight_m2686_MethodInfo);
 		float L_8 = L_7;
 		Object_t * L_9 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_8);
 		NullCheck(___stream);
@@ -59926,7 +59934,7 @@ IL_0049:
 	{
 		List_1_t330 * L_10 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_10);
-		int32_t L_11 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_10);
+		int32_t L_11 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_10);
 		if ((((int32_t)V_0) < ((int32_t)L_11)))
 		{
 			goto IL_0007;
@@ -60065,7 +60073,7 @@ IL_0007:
 	{
 		List_1_t330 * L_0 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_0);
-		SynchronizedLayer_t322 * L_1 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_0, V_0);
+		SynchronizedLayer_t322 * L_1 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_0, V_0);
 		NullCheck(L_1);
 		int32_t L_2 = (L_1->___SynchronizeType);
 		if ((((uint32_t)L_2) != ((uint32_t)1)))
@@ -60077,7 +60085,7 @@ IL_0007:
 		Animator_t168 * L_3 = (__this->___m_Animator);
 		List_1_t330 * L_4 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_4);
-		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_4, V_0);
+		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_4, V_0);
 		NullCheck(L_5);
 		int32_t L_6 = (L_5->___LayerIndex);
 		NullCheck(___stream);
@@ -60095,7 +60103,7 @@ IL_0049:
 	{
 		List_1_t330 * L_8 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_8);
-		int32_t L_9 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_8);
+		int32_t L_9 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_8);
 		if ((((int32_t)V_0) < ((int32_t)L_9)))
 		{
 			goto IL_0007;
@@ -60223,7 +60231,7 @@ IL_011b:
 		NullCheck(___stream);
 		Object_t * L_25 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(L_23);
-		Animator_SetInteger_m2686(L_23, L_24, ((*(int32_t*)((int32_t*)UnBox (L_25, InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo))))), /*hidden argument*/&Animator_SetInteger_m2686_MethodInfo);
+		Animator_SetInteger_m2688(L_23, L_24, ((*(int32_t*)((int32_t*)UnBox (L_25, InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo))))), /*hidden argument*/&Animator_SetInteger_m2688_MethodInfo);
 		goto IL_0141;
 	}
 
@@ -60260,7 +60268,7 @@ extern MethodInfo PhotonAnimatorView_SerializeSynchronizationTypeState_m1735_Met
 	{
 		List_1_t330 * L_0 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_0);
-		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_0);
+		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_0);
 		List_1_t329 * L_2 = (__this->___m_SynchronizeParameters);
 		NullCheck(L_2);
 		int32_t L_3 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2292_MethodInfo, L_2);
@@ -60273,7 +60281,7 @@ IL_0024:
 	{
 		List_1_t330 * L_4 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_4);
-		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_4, V_1);
+		SynchronizedLayer_t322 * L_5 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_4, V_1);
 		NullCheck(L_5);
 		int32_t L_6 = (L_5->___SynchronizeType);
 		NullCheck(V_0);
@@ -60286,7 +60294,7 @@ IL_003d:
 	{
 		List_1_t330 * L_7 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_7);
-		int32_t L_8 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_7);
+		int32_t L_8 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_7);
 		if ((((int32_t)V_1) < ((int32_t)L_8)))
 		{
 			goto IL_0024;
@@ -60301,7 +60309,7 @@ IL_0055:
 	{
 		List_1_t330 * L_9 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_9);
-		int32_t L_10 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_9);
+		int32_t L_10 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_9);
 		List_1_t329 * L_11 = (__this->___m_SynchronizeParameters);
 		NullCheck(L_11);
 		SynchronizedParameter_t321 * L_12 = (SynchronizedParameter_t321 *)VirtFuncInvoker1< SynchronizedParameter_t321 *, int32_t >::Invoke(&List_1_get_Item_m2286_MethodInfo, L_11, V_2);
@@ -60347,7 +60355,7 @@ IL_0013:
 	{
 		List_1_t330 * L_1 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_1);
-		SynchronizedLayer_t322 * L_2 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2681_MethodInfo, L_1, V_1);
+		SynchronizedLayer_t322 * L_2 = (SynchronizedLayer_t322 *)VirtFuncInvoker1< SynchronizedLayer_t322 *, int32_t >::Invoke(&List_1_get_Item_m2683_MethodInfo, L_1, V_1);
 		NullCheck(V_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(V_0, V_1);
 		NullCheck(L_2);
@@ -60359,7 +60367,7 @@ IL_002b:
 	{
 		List_1_t330 * L_3 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_3);
-		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_3);
+		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_3);
 		if ((((int32_t)V_1) < ((int32_t)L_4)))
 		{
 			goto IL_0013;
@@ -60377,7 +60385,7 @@ IL_0043:
 		SynchronizedParameter_t321 * L_6 = (SynchronizedParameter_t321 *)VirtFuncInvoker1< SynchronizedParameter_t321 *, int32_t >::Invoke(&List_1_get_Item_m2286_MethodInfo, L_5, V_2);
 		List_1_t330 * L_7 = (__this->___m_SynchronizeLayers);
 		NullCheck(L_7);
-		int32_t L_8 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2685_MethodInfo, L_7);
+		int32_t L_8 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2687_MethodInfo, L_7);
 		NullCheck(V_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(V_0, ((int32_t)(L_8+V_2)));
 		NullCheck(L_6);
@@ -61155,7 +61163,7 @@ extern TypeInfo RequireComponent_t449_il2cpp_TypeInfo;
 extern MethodInfo RequireComponent__ctor_m2218_MethodInfo;
 extern TypeInfo PhotonView_t170_il2cpp_TypeInfo;
 extern TypeInfo AddComponentMenu_t516_il2cpp_TypeInfo;
-extern MethodInfo AddComponentMenu__ctor_m2657_MethodInfo;
+extern MethodInfo AddComponentMenu__ctor_m2659_MethodInfo;
 void PhotonAnimatorView_t194_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
@@ -61174,12 +61182,12 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator(CustomAttributesCach
 	{
 		AddComponentMenu_t516 * tmp;
 		tmp = (AddComponentMenu_t516 *)il2cpp_codegen_object_new (&AddComponentMenu_t516_il2cpp_TypeInfo);
-		AddComponentMenu__ctor_m2657(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Animator View"), &AddComponentMenu__ctor_m2657_MethodInfo);
+		AddComponentMenu__ctor_m2659(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Animator View"), &AddComponentMenu__ctor_m2659_MethodInfo);
 		cache->attributes[2] = (Il2CppObject*)tmp;
 	}
 }
 extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 extern TypeInfo SerializeField_t440_il2cpp_TypeInfo;
 extern MethodInfo SerializeField__ctor_m2188_MethodInfo;
 void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_ShowLayerWeightsInspector(CustomAttributesCache* cache)
@@ -61188,7 +61196,7 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_ShowLayerWeightsInsp
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 	{
@@ -61201,7 +61209,7 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_ShowLayerWeightsInsp
 extern TypeInfo SerializeField_t440_il2cpp_TypeInfo;
 extern MethodInfo SerializeField__ctor_m2188_MethodInfo;
 extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_ShowParameterInspector(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
@@ -61214,14 +61222,14 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_ShowParameterInspect
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[1] = (Il2CppObject*)tmp;
 	}
 }
 extern TypeInfo SerializeField_t440_il2cpp_TypeInfo;
 extern MethodInfo SerializeField__ctor_m2188_MethodInfo;
 extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_m_SynchronizeParameters(CustomAttributesCache* cache)
 {
 	cache->attributes = (Il2CppObject**)il2cpp_gc_alloc_fixed(sizeof(Object_t *) * cache->count, 0);
@@ -61234,12 +61242,12 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_m_SynchronizeParamet
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[1] = (Il2CppObject*)tmp;
 	}
 }
 extern TypeInfo HideInInspector_t521_il2cpp_TypeInfo;
-extern MethodInfo HideInInspector__ctor_m2673_MethodInfo;
+extern MethodInfo HideInInspector__ctor_m2675_MethodInfo;
 extern TypeInfo SerializeField_t440_il2cpp_TypeInfo;
 extern MethodInfo SerializeField__ctor_m2188_MethodInfo;
 void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_m_SynchronizeLayers(CustomAttributesCache* cache)
@@ -61248,7 +61256,7 @@ void PhotonAnimatorView_t194_CustomAttributesCacheGenerator_m_SynchronizeLayers(
 	{
 		HideInInspector_t521 * tmp;
 		tmp = (HideInInspector_t521 *)il2cpp_codegen_object_new (&HideInInspector_t521_il2cpp_TypeInfo);
-		HideInInspector__ctor_m2673(tmp, &HideInInspector__ctor_m2673_MethodInfo);
+		HideInInspector__ctor_m2675(tmp, &HideInInspector__ctor_m2675_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 	{
@@ -61372,10 +61380,10 @@ extern MethodInfo Component_GetComponent_TisRigidbody2D_t169_m2201_MethodInfo;
 extern MethodInfo PhotonStream_get_isWriting_m1398_MethodInfo;
 extern MethodInfo Rigidbody2D_get_velocity_m2203_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
-extern MethodInfo Rigidbody2D_get_angularVelocity_m2653_MethodInfo;
+extern MethodInfo Rigidbody2D_get_angularVelocity_m2655_MethodInfo;
 extern MethodInfo PhotonStream_ReceiveNext_m1401_MethodInfo;
 extern MethodInfo Rigidbody2D_set_velocity_m2209_MethodInfo;
-extern MethodInfo Rigidbody2D_set_angularVelocity_m2650_MethodInfo;
+extern MethodInfo Rigidbody2D_set_angularVelocity_m2652_MethodInfo;
 struct Component_t105;
 // UnityEngine.CastHelper`1<UnityEngine.Rigidbody2D>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_7.h"
@@ -61443,7 +61451,7 @@ IL_002c:
 	{
 		Rigidbody2D_t169 * L_7 = (__this->___m_Body);
 		NullCheck(L_7);
-		float L_8 = Rigidbody2D_get_angularVelocity_m2653(L_7, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2653_MethodInfo);
+		float L_8 = Rigidbody2D_get_angularVelocity_m2655(L_7, /*hidden argument*/&Rigidbody2D_get_angularVelocity_m2655_MethodInfo);
 		float L_9 = L_8;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_9);
 		NullCheck(___stream);
@@ -61484,7 +61492,7 @@ IL_0073:
 		NullCheck(___stream);
 		Object_t * L_16 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(L_15);
-		Rigidbody2D_set_angularVelocity_m2650(L_15, ((*(float*)((float*)UnBox (L_16, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2650_MethodInfo);
+		Rigidbody2D_set_angularVelocity_m2652(L_15, ((*(float*)((float*)UnBox (L_16, InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody2D_set_angularVelocity_m2652_MethodInfo);
 	}
 
 IL_0094:
@@ -61633,7 +61641,7 @@ extern TypeInfo RequireComponent_t449_il2cpp_TypeInfo;
 extern MethodInfo RequireComponent__ctor_m2218_MethodInfo;
 extern TypeInfo Rigidbody2D_t169_il2cpp_TypeInfo;
 extern TypeInfo AddComponentMenu_t516_il2cpp_TypeInfo;
-extern MethodInfo AddComponentMenu__ctor_m2657_MethodInfo;
+extern MethodInfo AddComponentMenu__ctor_m2659_MethodInfo;
 extern TypeInfo RequireComponent_t449_il2cpp_TypeInfo;
 extern MethodInfo RequireComponent__ctor_m2218_MethodInfo;
 extern TypeInfo PhotonView_t170_il2cpp_TypeInfo;
@@ -61649,7 +61657,7 @@ void PhotonRigidbody2DView_t331_CustomAttributesCacheGenerator(CustomAttributesC
 	{
 		AddComponentMenu_t516 * tmp;
 		tmp = (AddComponentMenu_t516 *)il2cpp_codegen_object_new (&AddComponentMenu_t516_il2cpp_TypeInfo);
-		AddComponentMenu__ctor_m2657(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Rigidbody 2D View"), &AddComponentMenu__ctor_m2657_MethodInfo);
+		AddComponentMenu__ctor_m2659(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Rigidbody 2D View"), &AddComponentMenu__ctor_m2659_MethodInfo);
 		cache->attributes[1] = (Il2CppObject*)tmp;
 	}
 	{
@@ -61782,12 +61790,12 @@ extern TypeInfo Vector3_t31_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_GetComponent_TisRigidbody_t104_m571_MethodInfo;
 extern MethodInfo PhotonStream_get_isWriting_m1398_MethodInfo;
-extern MethodInfo Rigidbody_get_velocity_m2651_MethodInfo;
+extern MethodInfo Rigidbody_get_velocity_m2653_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
-extern MethodInfo Rigidbody_get_angularVelocity_m2652_MethodInfo;
+extern MethodInfo Rigidbody_get_angularVelocity_m2654_MethodInfo;
 extern MethodInfo PhotonStream_ReceiveNext_m1401_MethodInfo;
-extern MethodInfo Rigidbody_set_velocity_m2648_MethodInfo;
-extern MethodInfo Rigidbody_set_angularVelocity_m2649_MethodInfo;
+extern MethodInfo Rigidbody_set_velocity_m2650_MethodInfo;
+extern MethodInfo Rigidbody_set_angularVelocity_m2651_MethodInfo;
 struct Component_t105;
 // UnityEngine.CastHelper`1<UnityEngine.Rigidbody>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_5.h"
@@ -61837,7 +61845,7 @@ extern MethodInfo PhotonRigidbodyView_OnPhotonSerializeView_m1743_MethodInfo;
 	{
 		Rigidbody_t104 * L_2 = (__this->___m_Body);
 		NullCheck(L_2);
-		Vector3_t31  L_3 = Rigidbody_get_velocity_m2651(L_2, /*hidden argument*/&Rigidbody_get_velocity_m2651_MethodInfo);
+		Vector3_t31  L_3 = Rigidbody_get_velocity_m2653(L_2, /*hidden argument*/&Rigidbody_get_velocity_m2653_MethodInfo);
 		Vector3_t31  L_4 = L_3;
 		Object_t * L_5 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_4);
 		NullCheck(___stream);
@@ -61855,7 +61863,7 @@ IL_002c:
 	{
 		Rigidbody_t104 * L_7 = (__this->___m_Body);
 		NullCheck(L_7);
-		Vector3_t31  L_8 = Rigidbody_get_angularVelocity_m2652(L_7, /*hidden argument*/&Rigidbody_get_angularVelocity_m2652_MethodInfo);
+		Vector3_t31  L_8 = Rigidbody_get_angularVelocity_m2654(L_7, /*hidden argument*/&Rigidbody_get_angularVelocity_m2654_MethodInfo);
 		Vector3_t31  L_9 = L_8;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo), &L_9);
 		NullCheck(___stream);
@@ -61880,7 +61888,7 @@ IL_0052:
 		NullCheck(___stream);
 		Object_t * L_13 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(L_12);
-		Rigidbody_set_velocity_m2648(L_12, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_13, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2648_MethodInfo);
+		Rigidbody_set_velocity_m2650(L_12, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_13, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_velocity_m2650_MethodInfo);
 	}
 
 IL_0073:
@@ -61896,7 +61904,7 @@ IL_0073:
 		NullCheck(___stream);
 		Object_t * L_16 = PhotonStream_ReceiveNext_m1401(___stream, /*hidden argument*/&PhotonStream_ReceiveNext_m1401_MethodInfo);
 		NullCheck(L_15);
-		Rigidbody_set_angularVelocity_m2649(L_15, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_16, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2649_MethodInfo);
+		Rigidbody_set_angularVelocity_m2651(L_15, ((*(Vector3_t31 *)((Vector3_t31 *)UnBox (L_16, InitializedTypeInfo(&Vector3_t31_il2cpp_TypeInfo))))), /*hidden argument*/&Rigidbody_set_angularVelocity_m2651_MethodInfo);
 	}
 
 IL_0094:
@@ -62042,7 +62050,7 @@ static MethodInfo* PhotonRigidbodyView_t332_VTable[] =
 	&Object_ToString_m651_MethodInfo,
 };
 extern TypeInfo AddComponentMenu_t516_il2cpp_TypeInfo;
-extern MethodInfo AddComponentMenu__ctor_m2657_MethodInfo;
+extern MethodInfo AddComponentMenu__ctor_m2659_MethodInfo;
 extern TypeInfo RequireComponent_t449_il2cpp_TypeInfo;
 extern MethodInfo RequireComponent__ctor_m2218_MethodInfo;
 extern TypeInfo PhotonView_t170_il2cpp_TypeInfo;
@@ -62055,7 +62063,7 @@ void PhotonRigidbodyView_t332_CustomAttributesCacheGenerator(CustomAttributesCac
 	{
 		AddComponentMenu_t516 * tmp;
 		tmp = (AddComponentMenu_t516 *)il2cpp_codegen_object_new (&AddComponentMenu_t516_il2cpp_TypeInfo);
-		AddComponentMenu__ctor_m2657(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Rigidbody View"), &AddComponentMenu__ctor_m2657_MethodInfo);
+		AddComponentMenu__ctor_m2659(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Rigidbody View"), &AddComponentMenu__ctor_m2659_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 	{
@@ -62256,7 +62264,7 @@ extern MethodInfo PhotonStream_get_isReading_m1399_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_GetNetworkPosition_m1757_MethodInfo;
 extern MethodInfo Transform_get_position_m526_MethodInfo;
 extern MethodInfo Color_get_red_m2395_MethodInfo;
-extern MethodInfo Debug_DrawLine_m2687_MethodInfo;
+extern MethodInfo Debug_DrawLine_m2689_MethodInfo;
 extern MethodInfo Vector3_get_up_m459_MethodInfo;
 extern MethodInfo Vector3_op_Addition_m465_MethodInfo;
 extern MethodInfo Color_get_green_m2396_MethodInfo;
@@ -62544,7 +62552,7 @@ extern MethodInfo PhotonTransformView_DoDrawEstimatedPositionError_m1752_MethodI
 		NullCheck(L_2);
 		Vector3_t31  L_3 = Transform_get_position_m526(L_2, /*hidden argument*/&Transform_get_position_m526_MethodInfo);
 		Color_t30  L_4 = Color_get_red_m2395(NULL /*static, unused*/, /*hidden argument*/&Color_get_red_m2395_MethodInfo);
-		Debug_DrawLine_m2687(NULL /*static, unused*/, V_0, L_3, L_4, (2.0f), /*hidden argument*/&Debug_DrawLine_m2687_MethodInfo);
+		Debug_DrawLine_m2689(NULL /*static, unused*/, V_0, L_3, L_4, (2.0f), /*hidden argument*/&Debug_DrawLine_m2689_MethodInfo);
 		Transform_t56 * L_5 = Component_get_transform_m617(__this, /*hidden argument*/&Component_get_transform_m617_MethodInfo);
 		NullCheck(L_5);
 		Vector3_t31  L_6 = Transform_get_position_m526(L_5, /*hidden argument*/&Transform_get_position_m526_MethodInfo);
@@ -62554,11 +62562,11 @@ extern MethodInfo PhotonTransformView_DoDrawEstimatedPositionError_m1752_MethodI
 		Vector3_t31  L_9 = Vector3_get_up_m459(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_up_m459_MethodInfo);
 		Vector3_t31  L_10 = Vector3_op_Addition_m465(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/&Vector3_op_Addition_m465_MethodInfo);
 		Color_t30  L_11 = Color_get_green_m2396(NULL /*static, unused*/, /*hidden argument*/&Color_get_green_m2396_MethodInfo);
-		Debug_DrawLine_m2687(NULL /*static, unused*/, L_6, L_10, L_11, (2.0f), /*hidden argument*/&Debug_DrawLine_m2687_MethodInfo);
+		Debug_DrawLine_m2689(NULL /*static, unused*/, L_6, L_10, L_11, (2.0f), /*hidden argument*/&Debug_DrawLine_m2689_MethodInfo);
 		Vector3_t31  L_12 = Vector3_get_up_m459(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_up_m459_MethodInfo);
 		Vector3_t31  L_13 = Vector3_op_Addition_m465(NULL /*static, unused*/, V_0, L_12, /*hidden argument*/&Vector3_op_Addition_m465_MethodInfo);
 		Color_t30  L_14 = Color_get_red_m2395(NULL /*static, unused*/, /*hidden argument*/&Color_get_red_m2395_MethodInfo);
-		Debug_DrawLine_m2687(NULL /*static, unused*/, V_0, L_13, L_14, (2.0f), /*hidden argument*/&Debug_DrawLine_m2687_MethodInfo);
+		Debug_DrawLine_m2689(NULL /*static, unused*/, V_0, L_13, L_14, (2.0f), /*hidden argument*/&Debug_DrawLine_m2689_MethodInfo);
 		return;
 	}
 }
@@ -62913,7 +62921,7 @@ static MethodInfo* PhotonTransformView_t217_VTable[] =
 	&Object_ToString_m651_MethodInfo,
 };
 extern TypeInfo AddComponentMenu_t516_il2cpp_TypeInfo;
-extern MethodInfo AddComponentMenu__ctor_m2657_MethodInfo;
+extern MethodInfo AddComponentMenu__ctor_m2659_MethodInfo;
 extern TypeInfo RequireComponent_t449_il2cpp_TypeInfo;
 extern MethodInfo RequireComponent__ctor_m2218_MethodInfo;
 extern TypeInfo PhotonView_t170_il2cpp_TypeInfo;
@@ -62923,7 +62931,7 @@ void PhotonTransformView_t217_CustomAttributesCacheGenerator(CustomAttributesCac
 	{
 		AddComponentMenu_t516 * tmp;
 		tmp = (AddComponentMenu_t516 *)il2cpp_codegen_object_new (&AddComponentMenu_t516_il2cpp_TypeInfo);
-		AddComponentMenu__ctor_m2657(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Transform View"), &AddComponentMenu__ctor_m2657_MethodInfo);
+		AddComponentMenu__ctor_m2659(tmp, il2cpp_codegen_string_new_wrapper("Photon Networking/Photon Transform View"), &AddComponentMenu__ctor_m2659_MethodInfo);
 		cache->attributes[0] = (Il2CppObject*)tmp;
 	}
 	{
@@ -63084,15 +63092,15 @@ extern TypeInfo Single_t36_il2cpp_TypeInfo;
 // UnityEngine.Mathf
 #include "UnityEngine_UnityEngine_MathfMethodDeclarations.h"
 extern MethodInfo Vector3_get_zero_m484_MethodInfo;
-extern MethodInfo Queue_1__ctor_m2688_MethodInfo;
+extern MethodInfo Queue_1__ctor_m2690_MethodInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
-extern MethodInfo Queue_1_get_Count_m2689_MethodInfo;
-extern MethodInfo Queue_1_Peek_m2690_MethodInfo;
+extern MethodInfo Queue_1_get_Count_m2691_MethodInfo;
+extern MethodInfo Queue_1_Peek_m2692_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_GetNetworkPosition_m1757_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_GetExtrapolatedPositionOffset_m1758_MethodInfo;
 extern MethodInfo Vector3_op_Addition_m465_MethodInfo;
 extern MethodInfo Time_get_deltaTime_m583_MethodInfo;
-extern MethodInfo Vector3_MoveTowards_m2691_MethodInfo;
+extern MethodInfo Vector3_MoveTowards_m2693_MethodInfo;
 extern MethodInfo Mathf_Min_m462_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_GetOldestStoredNetworkPosition_m1754_MethodInfo;
 extern MethodInfo Vector3_Distance_m538_MethodInfo;
@@ -63110,8 +63118,8 @@ extern MethodInfo PhotonStream_get_isWriting_m1398_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_SerializeData_m1760_MethodInfo;
 extern MethodInfo PhotonTransformViewPositionControl_DeserializeData_m1761_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
-extern MethodInfo Queue_1_Enqueue_m2692_MethodInfo;
-extern MethodInfo Queue_1_Dequeue_m2693_MethodInfo;
+extern MethodInfo Queue_1_Enqueue_m2694_MethodInfo;
+extern MethodInfo Queue_1_Dequeue_m2695_MethodInfo;
 extern MethodInfo PhotonStream_ReceiveNext_m1401_MethodInfo;
 
 
@@ -63122,7 +63130,7 @@ extern MethodInfo PhotonTransformViewPositionControl__ctor_m1753_MethodInfo;
 		Vector3_t31  L_0 = Vector3_get_zero_m484(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_zero_m484_MethodInfo);
 		__this->___m_SynchronizedSpeed = L_0;
 		Queue_1_t339 * L_1 = (Queue_1_t339 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Queue_1_t339_il2cpp_TypeInfo));
-		Queue_1__ctor_m2688(L_1, /*hidden argument*/&Queue_1__ctor_m2688_MethodInfo);
+		Queue_1__ctor_m2690(L_1, /*hidden argument*/&Queue_1__ctor_m2690_MethodInfo);
 		__this->___m_OldNetworkPositions = L_1;
 		__this->___m_UpdatedPositionAfterOnSerialize = 1;
 		Object__ctor_m361(__this, /*hidden argument*/&Object__ctor_m361_MethodInfo);
@@ -63139,7 +63147,7 @@ extern MethodInfo PhotonTransformViewPositionControl_GetOldestStoredNetworkPosit
 		V_0 = L_0;
 		Queue_1_t339 * L_1 = (__this->___m_OldNetworkPositions);
 		NullCheck(L_1);
-		int32_t L_2 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2689_MethodInfo, L_1);
+		int32_t L_2 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2691_MethodInfo, L_1);
 		if ((((int32_t)L_2) <= ((int32_t)0)))
 		{
 			goto IL_0024;
@@ -63148,7 +63156,7 @@ extern MethodInfo PhotonTransformViewPositionControl_GetOldestStoredNetworkPosit
 	{
 		Queue_1_t339 * L_3 = (__this->___m_OldNetworkPositions);
 		NullCheck(L_3);
-		Vector3_t31  L_4 = Queue_1_Peek_m2690(L_3, /*hidden argument*/&Queue_1_Peek_m2690_MethodInfo);
+		Vector3_t31  L_4 = Queue_1_Peek_m2692(L_3, /*hidden argument*/&Queue_1_Peek_m2692_MethodInfo);
 		V_0 = L_4;
 	}
 
@@ -63231,7 +63239,7 @@ IL_0057:
 		PhotonTransformViewPositionModel_t333 * L_7 = (__this->___m_Model);
 		NullCheck(L_7);
 		float L_8 = (L_7->___InterpolateMoveTowardsSpeed);
-		Vector3_t31  L_9 = Vector3_MoveTowards_m2691(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_6*L_8)), /*hidden argument*/&Vector3_MoveTowards_m2691_MethodInfo);
+		Vector3_t31  L_9 = Vector3_MoveTowards_m2693(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_6*L_8)), /*hidden argument*/&Vector3_MoveTowards_m2693_MethodInfo);
 		___currentPosition = L_9;
 		goto IL_010d;
 	}
@@ -63240,7 +63248,7 @@ IL_0076:
 	{
 		Queue_1_t339 * L_10 = (__this->___m_OldNetworkPositions);
 		NullCheck(L_10);
-		int32_t L_11 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2689_MethodInfo, L_10);
+		int32_t L_11 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2691_MethodInfo, L_10);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Mathf_t82_il2cpp_TypeInfo));
 		int32_t L_12 = Mathf_Min_m462(NULL /*static, unused*/, 1, L_11, /*hidden argument*/&Mathf_Min_m462_MethodInfo);
 		V_1 = L_12;
@@ -63249,7 +63257,7 @@ IL_0076:
 		float L_15 = Vector3_Distance_m538(NULL /*static, unused*/, L_13, L_14, /*hidden argument*/&Vector3_Distance_m538_MethodInfo);
 		V_2 = ((float)(L_15/(((float)V_1))));
 		float L_16 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
-		Vector3_t31  L_17 = Vector3_MoveTowards_m2691(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_16*V_2)), /*hidden argument*/&Vector3_MoveTowards_m2691_MethodInfo);
+		Vector3_t31  L_17 = Vector3_MoveTowards_m2693(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_16*V_2)), /*hidden argument*/&Vector3_MoveTowards_m2693_MethodInfo);
 		___currentPosition = L_17;
 		goto IL_010d;
 	}
@@ -63273,7 +63281,7 @@ IL_00cf:
 		float L_20 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
 		Vector3_t31 * L_21 = &(__this->___m_SynchronizedSpeed);
 		float L_22 = Vector3_get_magnitude_m2327(L_21, /*hidden argument*/&Vector3_get_magnitude_m2327_MethodInfo);
-		Vector3_t31  L_23 = Vector3_MoveTowards_m2691(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_20*L_22)), /*hidden argument*/&Vector3_MoveTowards_m2691_MethodInfo);
+		Vector3_t31  L_23 = Vector3_MoveTowards_m2693(NULL /*static, unused*/, ___currentPosition, V_0, ((float)(L_20*L_22)), /*hidden argument*/&Vector3_MoveTowards_m2693_MethodInfo);
 		___currentPosition = L_23;
 	}
 
@@ -63530,7 +63538,7 @@ extern MethodInfo PhotonTransformViewPositionControl_DeserializeData_m1761_Metho
 		Queue_1_t339 * L_0 = (__this->___m_OldNetworkPositions);
 		Vector3_t31  L_1 = (__this->___m_NetworkPosition);
 		NullCheck(L_0);
-		Queue_1_Enqueue_m2692(L_0, L_1, /*hidden argument*/&Queue_1_Enqueue_m2692_MethodInfo);
+		Queue_1_Enqueue_m2694(L_0, L_1, /*hidden argument*/&Queue_1_Enqueue_m2694_MethodInfo);
 		goto IL_0022;
 	}
 
@@ -63538,14 +63546,14 @@ IL_0016:
 	{
 		Queue_1_t339 * L_2 = (__this->___m_OldNetworkPositions);
 		NullCheck(L_2);
-		Queue_1_Dequeue_m2693(L_2, /*hidden argument*/&Queue_1_Dequeue_m2693_MethodInfo);
+		Queue_1_Dequeue_m2695(L_2, /*hidden argument*/&Queue_1_Dequeue_m2695_MethodInfo);
 	}
 
 IL_0022:
 	{
 		Queue_1_t339 * L_3 = (__this->___m_OldNetworkPositions);
 		NullCheck(L_3);
-		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2689_MethodInfo, L_3);
+		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&Queue_1_get_Count_m2691_MethodInfo, L_3);
 		PhotonTransformViewPositionModel_t333 * L_5 = (__this->___m_Model);
 		NullCheck(L_5);
 		int32_t L_6 = (L_5->___ExtrapolateNumberOfStoredPositions);
@@ -64548,8 +64556,8 @@ extern TypeInfo AnimationCurve_t342_il2cpp_TypeInfo;
 #include "UnityEngine_UnityEngine_KeyframeMethodDeclarations.h"
 // UnityEngine.AnimationCurve
 #include "UnityEngine_UnityEngine_AnimationCurveMethodDeclarations.h"
-extern MethodInfo Keyframe__ctor_m2694_MethodInfo;
-extern MethodInfo AnimationCurve__ctor_m2695_MethodInfo;
+extern MethodInfo Keyframe__ctor_m2696_MethodInfo;
+extern MethodInfo AnimationCurve__ctor_m2697_MethodInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 
 
@@ -64568,28 +64576,28 @@ extern MethodInfo PhotonTransformViewPositionModel__ctor_m1762_MethodInfo;
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
 		Keyframe_t525  L_1 = {0};
-		Keyframe__ctor_m2694(&L_1, (-1.0f), (0.0f), (0.0f), (std::numeric_limits<float>::infinity()), /*hidden argument*/&Keyframe__ctor_m2694_MethodInfo);
+		Keyframe__ctor_m2696(&L_1, (-1.0f), (0.0f), (0.0f), (std::numeric_limits<float>::infinity()), /*hidden argument*/&Keyframe__ctor_m2696_MethodInfo);
 		*((Keyframe_t525 *)(Keyframe_t525 *)SZArrayLdElema(L_0, 0)) = L_1;
 		KeyframeU5BU5D_t524* L_2 = L_0;
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, 1);
 		Keyframe_t525  L_3 = {0};
-		Keyframe__ctor_m2694(&L_3, (0.0f), (1.0f), (0.0f), (0.0f), /*hidden argument*/&Keyframe__ctor_m2694_MethodInfo);
+		Keyframe__ctor_m2696(&L_3, (0.0f), (1.0f), (0.0f), (0.0f), /*hidden argument*/&Keyframe__ctor_m2696_MethodInfo);
 		*((Keyframe_t525 *)(Keyframe_t525 *)SZArrayLdElema(L_2, 1)) = L_3;
 		KeyframeU5BU5D_t524* L_4 = L_2;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 2);
 		Keyframe_t525  L_5 = {0};
-		Keyframe__ctor_m2694(&L_5, (1.0f), (1.0f), (0.0f), (1.0f), /*hidden argument*/&Keyframe__ctor_m2694_MethodInfo);
+		Keyframe__ctor_m2696(&L_5, (1.0f), (1.0f), (0.0f), (1.0f), /*hidden argument*/&Keyframe__ctor_m2696_MethodInfo);
 		*((Keyframe_t525 *)(Keyframe_t525 *)SZArrayLdElema(L_4, 2)) = L_5;
 		KeyframeU5BU5D_t524* L_6 = L_4;
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, 3);
 		Keyframe_t525  L_7 = {0};
-		Keyframe__ctor_m2694(&L_7, (4.0f), (4.0f), (1.0f), (0.0f), /*hidden argument*/&Keyframe__ctor_m2694_MethodInfo);
+		Keyframe__ctor_m2696(&L_7, (4.0f), (4.0f), (1.0f), (0.0f), /*hidden argument*/&Keyframe__ctor_m2696_MethodInfo);
 		*((Keyframe_t525 *)(Keyframe_t525 *)SZArrayLdElema(L_6, 3)) = L_7;
 		AnimationCurve_t342 * L_8 = (AnimationCurve_t342 *)il2cpp_codegen_object_new (InitializedTypeInfo(&AnimationCurve_t342_il2cpp_TypeInfo));
-		AnimationCurve__ctor_m2695(L_8, L_6, /*hidden argument*/&AnimationCurve__ctor_m2695_MethodInfo);
+		AnimationCurve__ctor_m2697(L_8, L_6, /*hidden argument*/&AnimationCurve__ctor_m2697_MethodInfo);
 		__this->___InterpolateSpeedCurve = L_8;
 		__this->___ExtrapolateSpeed = (1.0f);
 		__this->___ExtrapolateIncludingRoundTripTime = 1;
@@ -64885,7 +64893,7 @@ extern TypeInfo PhotonTransformViewRotationModel_t334_il2cpp_TypeInfo;
 extern TypeInfo Quaternion_t110_il2cpp_TypeInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo Time_get_deltaTime_m583_MethodInfo;
-extern MethodInfo Quaternion_RotateTowards_m2696_MethodInfo;
+extern MethodInfo Quaternion_RotateTowards_m2698_MethodInfo;
 extern MethodInfo Quaternion_Lerp_m2368_MethodInfo;
 extern MethodInfo PhotonStream_get_isWriting_m1398_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
@@ -64940,7 +64948,7 @@ IL_002a:
 		NullCheck(L_4);
 		float L_5 = (L_4->___InterpolateRotateTowardsSpeed);
 		float L_6 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
-		Quaternion_t110  L_7 = Quaternion_RotateTowards_m2696(NULL /*static, unused*/, ___currentRotation, L_3, ((float)(L_5*L_6)), /*hidden argument*/&Quaternion_RotateTowards_m2696_MethodInfo);
+		Quaternion_t110  L_7 = Quaternion_RotateTowards_m2698(NULL /*static, unused*/, ___currentRotation, L_3, ((float)(L_5*L_6)), /*hidden argument*/&Quaternion_RotateTowards_m2698_MethodInfo);
 		return L_7;
 	}
 
@@ -65617,7 +65625,7 @@ extern TypeInfo Vector3_t31_il2cpp_TypeInfo;
 extern MethodInfo Vector3_get_one_m2428_MethodInfo;
 extern MethodInfo Object__ctor_m361_MethodInfo;
 extern MethodInfo Time_get_deltaTime_m583_MethodInfo;
-extern MethodInfo Vector3_MoveTowards_m2691_MethodInfo;
+extern MethodInfo Vector3_MoveTowards_m2693_MethodInfo;
 extern MethodInfo Vector3_Lerp_m2221_MethodInfo;
 extern MethodInfo PhotonStream_get_isWriting_m1398_MethodInfo;
 extern MethodInfo PhotonStream_SendNext_m1403_MethodInfo;
@@ -65674,7 +65682,7 @@ IL_002a:
 		NullCheck(L_4);
 		float L_5 = (L_4->___InterpolateMoveTowardsSpeed);
 		float L_6 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
-		Vector3_t31  L_7 = Vector3_MoveTowards_m2691(NULL /*static, unused*/, ___currentScale, L_3, ((float)(L_5*L_6)), /*hidden argument*/&Vector3_MoveTowards_m2691_MethodInfo);
+		Vector3_t31  L_7 = Vector3_MoveTowards_m2693(NULL /*static, unused*/, ___currentScale, L_3, ((float)(L_5*L_6)), /*hidden argument*/&Vector3_MoveTowards_m2693_MethodInfo);
 		return L_7;
 	}
 
@@ -66366,7 +66374,7 @@ extern MethodInfo String_Concat_m2471_MethodInfo;
 extern MethodInfo PhotonNetwork_ConnectUsingSettings_m1527_MethodInfo;
 extern MethodInfo NetworkingPeer_get_AvailableRegions_m1259_MethodInfo;
 extern MethodInfo List_1_get_Count_m2584_MethodInfo;
-extern MethodInfo List_1_get_Item_m2697_MethodInfo;
+extern MethodInfo List_1_get_Item_m2699_MethodInfo;
 extern MethodInfo NetworkingPeer_get_CloudRegion_m1261_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
@@ -66423,7 +66431,7 @@ extern MethodInfo ConnectAndJoinRandom_Update_m1773_MethodInfo;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral754, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral756, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		__this->___ConnectInUpdate = 0;
 		uint8_t L_3 = (__this->___Version);
 		uint8_t L_4 = L_3;
@@ -66458,8 +66466,8 @@ extern MethodInfo ConnectAndJoinRandom_OnConnectedToMaster_m1774_MethodInfo;
 		ObjectU5BU5D_t5* L_1 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 6));
 		NullCheck(L_1);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_1, 0);
-		ArrayElementTypeCheck (L_1, (String_t*) &_stringLiteral755);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_1, 0)) = (Object_t *)(String_t*) &_stringLiteral755;
+		ArrayElementTypeCheck (L_1, (String_t*) &_stringLiteral757);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_1, 0)) = (Object_t *)(String_t*) &_stringLiteral757;
 		ObjectU5BU5D_t5* L_2 = L_1;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
@@ -66475,13 +66483,13 @@ extern MethodInfo ConnectAndJoinRandom_OnConnectedToMaster_m1774_MethodInfo;
 		ObjectU5BU5D_t5* L_7 = L_2;
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, 2);
-		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral756);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral756;
+		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral758);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral758;
 		ObjectU5BU5D_t5* L_8 = L_7;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		List_1_t287 * L_9 = NetworkingPeer_get_AvailableRegions_m1259((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_AvailableRegions_m1259_MethodInfo);
 		NullCheck(L_9);
-		Region_t296 * L_10 = (Region_t296 *)VirtFuncInvoker1< Region_t296 *, int32_t >::Invoke(&List_1_get_Item_m2697_MethodInfo, L_9, 0);
+		Region_t296 * L_10 = (Region_t296 *)VirtFuncInvoker1< Region_t296 *, int32_t >::Invoke(&List_1_get_Item_m2699_MethodInfo, L_9, 0);
 		NullCheck(L_8);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_8, 3);
 		ArrayElementTypeCheck (L_8, L_10);
@@ -66489,8 +66497,8 @@ extern MethodInfo ConnectAndJoinRandom_OnConnectedToMaster_m1774_MethodInfo;
 		ObjectU5BU5D_t5* L_11 = L_8;
 		NullCheck(L_11);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_11, 4);
-		ArrayElementTypeCheck (L_11, (String_t*) &_stringLiteral757);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_11, 4)) = (Object_t *)(String_t*) &_stringLiteral757;
+		ArrayElementTypeCheck (L_11, (String_t*) &_stringLiteral759);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_11, 4)) = (Object_t *)(String_t*) &_stringLiteral759;
 		ObjectU5BU5D_t5* L_12 = L_11;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		int32_t L_13 = NetworkingPeer_get_CloudRegion_m1261((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_CloudRegion_m1261_MethodInfo);
@@ -66507,7 +66515,7 @@ extern MethodInfo ConnectAndJoinRandom_OnConnectedToMaster_m1774_MethodInfo;
 
 IL_0073:
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral758, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral760, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		PhotonNetwork_JoinRandomRoom_m1542(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_JoinRandomRoom_m1542_MethodInfo);
 		return;
@@ -66518,7 +66526,7 @@ extern MethodInfo ConnectAndJoinRandom_OnPhotonRandomJoinFailed_m1775_MethodInfo
  void ConnectAndJoinRandom_OnPhotonRandomJoinFailed_m1775 (ConnectAndJoinRandom_t345 * __this, MethodInfo* method){
 	RoomOptions_t264 * V_0 = {0};
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral759, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral761, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		RoomOptions_t264 * L_0 = (RoomOptions_t264 *)il2cpp_codegen_object_new (InitializedTypeInfo(&RoomOptions_t264_il2cpp_TypeInfo));
 		RoomOptions__ctor_m1382(L_0, /*hidden argument*/&RoomOptions__ctor_m1382_MethodInfo);
 		V_0 = L_0;
@@ -66536,7 +66544,7 @@ extern MethodInfo ConnectAndJoinRandom_OnFailedToConnectToPhoton_m1776_MethodInf
 		int32_t L_0 = ___cause;
 		Object_t * L_1 = Box(InitializedTypeInfo(&DisconnectCause_t251_il2cpp_TypeInfo), &L_0);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_2 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral760, L_1, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_2 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral762, L_1, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogError_m486(NULL /*static, unused*/, L_2, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
@@ -66545,7 +66553,7 @@ extern MethodInfo ConnectAndJoinRandom_OnFailedToConnectToPhoton_m1776_MethodInf
 extern MethodInfo ConnectAndJoinRandom_OnJoinedRoom_m1777_MethodInfo;
  void ConnectAndJoinRandom_OnJoinedRoom_m1777 (ConnectAndJoinRandom_t345 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral761, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral763, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 }
@@ -66553,7 +66561,7 @@ extern MethodInfo ConnectAndJoinRandom_OnJoinedRoom_m1777_MethodInfo;
 extern MethodInfo ConnectAndJoinRandom_OnJoinedLobby_m1778_MethodInfo;
  void ConnectAndJoinRandom_OnJoinedLobby_m1778 (ConnectAndJoinRandom_t345 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral762, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral764, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 }
@@ -66907,10 +66915,10 @@ extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
 extern MethodInfo MonoBehaviour_get_photonView_m1350_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
-extern MethodInfo Object_Instantiate_TisGameObject_t47_m2698_MethodInfo;
+extern MethodInfo Object_Instantiate_TisGameObject_t47_m2700_MethodInfo;
 extern MethodInfo GameObject_get_transform_m492_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
-extern MethodInfo Transform_set_parent_m2699_MethodInfo;
+extern MethodInfo Transform_set_parent_m2701_MethodInfo;
 extern MethodInfo Transform_get_position_m526_MethodInfo;
 extern MethodInfo Vector3__ctor_m527_MethodInfo;
 extern MethodInfo Transform_set_position_m532_MethodInfo;
@@ -66921,8 +66929,8 @@ extern MethodInfo Object_Destroy_m596_MethodInfo;
 struct Object_t111;
 // Declaration !!0 UnityEngine.Object::Instantiate<UnityEngine.GameObject>(!!0)
 // !!0 UnityEngine.Object::Instantiate<UnityEngine.GameObject>(!!0)
- GameObject_t47 * Object_Instantiate_TisGameObject_t47_m2698 (Object_t * __this/* static, unused */, GameObject_t47 * p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo Object_Instantiate_TisGameObject_t47_m2698_MethodInfo;
+ GameObject_t47 * Object_Instantiate_TisGameObject_t47_m2700 (Object_t * __this/* static, unused */, GameObject_t47 * p0, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo Object_Instantiate_TisGameObject_t47_m2700_MethodInfo;
 
 
 // System.Void HighlightOwnedGameObj::.ctor()
@@ -66958,7 +66966,7 @@ extern MethodInfo HighlightOwnedGameObj_Update_m1780_MethodInfo;
 	}
 	{
 		GameObject_t47 * L_4 = (__this->___PointerPrefab);
-		GameObject_t47 * L_5 = Object_Instantiate_TisGameObject_t47_m2698(NULL /*static, unused*/, L_4, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2698_MethodInfo);
+		GameObject_t47 * L_5 = Object_Instantiate_TisGameObject_t47_m2700(NULL /*static, unused*/, L_4, /*hidden argument*/&Object_Instantiate_TisGameObject_t47_m2700_MethodInfo);
 		V_0 = L_5;
 		NullCheck(V_0);
 		Transform_t56 * L_6 = GameObject_get_transform_m492(V_0, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -66966,7 +66974,7 @@ extern MethodInfo HighlightOwnedGameObj_Update_m1780_MethodInfo;
 		NullCheck(L_7);
 		Transform_t56 * L_8 = GameObject_get_transform_m492(L_7, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_6);
-		Transform_set_parent_m2699(L_6, L_8, /*hidden argument*/&Transform_set_parent_m2699_MethodInfo);
+		Transform_set_parent_m2701(L_6, L_8, /*hidden argument*/&Transform_set_parent_m2701_MethodInfo);
 		NullCheck(V_0);
 		Transform_t56 * L_9 = GameObject_get_transform_m492(V_0, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		__this->___markerTransform = L_9;
@@ -67496,7 +67504,7 @@ extern MethodInfo InRoomChat_Chat_m1785_MethodInfo;
  void InRoomChat_Chat_m1785 (InRoomChat_t347 * __this, String_t* ___newLine, PhotonMessageInfo_t210 * ___mi, MethodInfo* method){
 	String_t* V_0 = {0};
 	{
-		V_0 = (String_t*) &_stringLiteral763;
+		V_0 = (String_t*) &_stringLiteral765;
 		if (!___mi)
 		{
 			goto IL_0058;
@@ -67540,7 +67548,7 @@ IL_003d:
 		int32_t L_8 = L_7;
 		Object_t * L_9 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_8);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_10 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral764, L_9, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_10 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral766, L_9, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		V_0 = L_10;
 	}
 
@@ -68012,7 +68020,7 @@ IL_001b:
 		double L_3 = L_2;
 		Object_t * L_4 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_3);
 		NullCheck(V_0);
-		Hashtable_set_Item_m2422(V_0, (String_t*) &_stringLiteral765, L_4, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
+		Hashtable_set_Item_m2422(V_0, (String_t*) &_stringLiteral767, L_4, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
 		Room_t286 * L_5 = PhotonNetwork_get_room_m1472(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_room_m1472_MethodInfo);
 		NullCheck(L_5);
 		Room_SetCustomProperties_m1675(L_5, V_0, /*hidden argument*/&Room_SetCustomProperties_m1675_MethodInfo);
@@ -68042,11 +68050,11 @@ IL_0015:
 		NullCheck(L_1);
 		Hashtable_t256 * L_2 = RoomInfo_get_customProperties_m1683(L_1, /*hidden argument*/&RoomInfo_get_customProperties_m1683_MethodInfo);
 		NullCheck(L_2);
-		bool L_3 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, L_2, (String_t*) &_stringLiteral765);
+		bool L_3 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, L_2, (String_t*) &_stringLiteral767);
 		bool L_4 = L_3;
 		Object_t * L_5 = Box(InitializedTypeInfo(&Boolean_t64_il2cpp_TypeInfo), &L_4);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_6 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral766, L_5, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_6 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral768, L_5, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_6, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 	}
 
@@ -68060,7 +68068,7 @@ extern MethodInfo InRoomRoundTimer_OnPhotonCustomRoomPropertiesChanged_m1790_Met
  void InRoomRoundTimer_OnPhotonCustomRoomPropertiesChanged_m1790 (InRoomRoundTimer_t348 * __this, Hashtable_t256 * ___propertiesThatChanged, MethodInfo* method){
 	{
 		NullCheck(___propertiesThatChanged);
-		bool L_0 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, ___propertiesThatChanged, (String_t*) &_stringLiteral765);
+		bool L_0 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, ___propertiesThatChanged, (String_t*) &_stringLiteral767);
 		if (!L_0)
 		{
 			goto IL_0026;
@@ -68068,7 +68076,7 @@ extern MethodInfo InRoomRoundTimer_OnPhotonCustomRoomPropertiesChanged_m1790_Met
 	}
 	{
 		NullCheck(___propertiesThatChanged);
-		Object_t * L_1 = Hashtable_get_Item_m2461(___propertiesThatChanged, (String_t*) &_stringLiteral765, /*hidden argument*/&Hashtable_get_Item_m2461_MethodInfo);
+		Object_t * L_1 = Hashtable_get_Item_m2461(___propertiesThatChanged, (String_t*) &_stringLiteral767, /*hidden argument*/&Hashtable_get_Item_m2461_MethodInfo);
 		__this->___StartTime = ((*(double*)((double*)UnBox (L_1, InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo)))));
 	}
 
@@ -68086,14 +68094,14 @@ extern MethodInfo InRoomRoundTimer_OnMasterClientSwitched_m1791_MethodInfo;
 		NullCheck(L_0);
 		Hashtable_t256 * L_1 = RoomInfo_get_customProperties_m1683(L_0, /*hidden argument*/&RoomInfo_get_customProperties_m1683_MethodInfo);
 		NullCheck(L_1);
-		bool L_2 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, L_1, (String_t*) &_stringLiteral765);
+		bool L_2 = (bool)VirtFuncInvoker1< bool, Object_t * >::Invoke(&Dictionary_2_ContainsKey_m2477_MethodInfo, L_1, (String_t*) &_stringLiteral767);
 		if (L_2)
 		{
 			goto IL_0029;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral767, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral769, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		InRoomRoundTimer_StartRoundNow_m1788(__this, /*hidden argument*/&InRoomRoundTimer_StartRoundNow_m1788_MethodInfo);
 	}
 
@@ -68142,17 +68150,17 @@ extern MethodInfo InRoomRoundTimer_OnGUI_m1793_MethodInfo;
 		double L_6 = V_0;
 		Object_t * L_7 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_6);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral768, L_7, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_8 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral770, L_7, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_8, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		double L_9 = V_1;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_9);
-		String_t* L_11 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral769, L_10, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_11 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral771, L_10, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_11, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		int32_t L_12 = V_2;
 		Object_t * L_13 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_12);
-		String_t* L_14 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral770, L_13, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_14 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral772, L_13, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_14, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
-		bool L_15 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral771, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
+		bool L_15 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral773, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
 		if (!L_15)
 		{
 			goto IL_00a1;
@@ -68547,21 +68555,21 @@ extern MethodInfo Input_get_mousePosition_m2375_MethodInfo;
 extern MethodInfo Vector2_op_Implicit_m2376_MethodInfo;
 extern MethodInfo InputToEvent_RaycastObject_m1802_MethodInfo;
 extern MethodInfo InputToEvent_set_goPointedAt_m1796_MethodInfo;
-extern MethodInfo Input_get_touchCount_m2700_MethodInfo;
-extern MethodInfo Input_GetTouch_m2701_MethodInfo;
-extern MethodInfo Touch_get_position_m2702_MethodInfo;
-extern MethodInfo Touch_get_phase_m2703_MethodInfo;
+extern MethodInfo Input_get_touchCount_m2702_MethodInfo;
+extern MethodInfo Input_GetTouch_m2703_MethodInfo;
+extern MethodInfo Touch_get_position_m2704_MethodInfo;
+extern MethodInfo Touch_get_phase_m2705_MethodInfo;
 extern MethodInfo InputToEvent_Press_m1800_MethodInfo;
 extern MethodInfo InputToEvent_Release_m1801_MethodInfo;
-extern MethodInfo Input_GetMouseButtonDown_m2704_MethodInfo;
-extern MethodInfo Input_GetMouseButtonUp_m2705_MethodInfo;
+extern MethodInfo Input_GetMouseButtonDown_m2706_MethodInfo;
+extern MethodInfo Input_GetMouseButtonUp_m2707_MethodInfo;
 extern MethodInfo Object_op_Inequality_m590_MethodInfo;
-extern MethodInfo GameObject_SendMessage_m2706_MethodInfo;
+extern MethodInfo GameObject_SendMessage_m2708_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
 extern MethodInfo Vector2_op_Implicit_m2379_MethodInfo;
 extern MethodInfo Camera_ScreenPointToRay_m2380_MethodInfo;
 extern MethodInfo Physics_Raycast_m2381_MethodInfo;
-extern MethodInfo RaycastHit_get_point_m2707_MethodInfo;
+extern MethodInfo RaycastHit_get_point_m2709_MethodInfo;
 extern MethodInfo RaycastHit_get_collider_m2382_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
 struct Component_t105;
@@ -68661,7 +68669,7 @@ extern MethodInfo InputToEvent_Update_m1799_MethodInfo;
 IL_0020:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		int32_t L_4 = Input_get_touchCount_m2700(NULL /*static, unused*/, /*hidden argument*/&Input_get_touchCount_m2700_MethodInfo);
+		int32_t L_4 = Input_get_touchCount_m2702(NULL /*static, unused*/, /*hidden argument*/&Input_get_touchCount_m2702_MethodInfo);
 		if ((((int32_t)L_4) <= ((int32_t)0)))
 		{
 			goto IL_0078;
@@ -68669,32 +68677,32 @@ IL_0020:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		Touch_t526  L_5 = Input_GetTouch_m2701(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetTouch_m2701_MethodInfo);
+		Touch_t526  L_5 = Input_GetTouch_m2703(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetTouch_m2703_MethodInfo);
 		V_0 = L_5;
-		Vector2_t51  L_6 = Touch_get_position_m2702((&V_0), /*hidden argument*/&Touch_get_position_m2702_MethodInfo);
+		Vector2_t51  L_6 = Touch_get_position_m2704((&V_0), /*hidden argument*/&Touch_get_position_m2704_MethodInfo);
 		__this->___currentPos = L_6;
-		int32_t L_7 = Touch_get_phase_m2703((&V_0), /*hidden argument*/&Touch_get_phase_m2703_MethodInfo);
+		int32_t L_7 = Touch_get_phase_m2705((&V_0), /*hidden argument*/&Touch_get_phase_m2705_MethodInfo);
 		if (L_7)
 		{
 			goto IL_005d;
 		}
 	}
 	{
-		Vector2_t51  L_8 = Touch_get_position_m2702((&V_0), /*hidden argument*/&Touch_get_position_m2702_MethodInfo);
+		Vector2_t51  L_8 = Touch_get_position_m2704((&V_0), /*hidden argument*/&Touch_get_position_m2704_MethodInfo);
 		InputToEvent_Press_m1800(__this, L_8, /*hidden argument*/&InputToEvent_Press_m1800_MethodInfo);
 		goto IL_0077;
 	}
 
 IL_005d:
 	{
-		int32_t L_9 = Touch_get_phase_m2703((&V_0), /*hidden argument*/&Touch_get_phase_m2703_MethodInfo);
+		int32_t L_9 = Touch_get_phase_m2705((&V_0), /*hidden argument*/&Touch_get_phase_m2705_MethodInfo);
 		if ((((uint32_t)L_9) != ((uint32_t)3)))
 		{
 			goto IL_0077;
 		}
 	}
 	{
-		Vector2_t51  L_10 = Touch_get_position_m2702((&V_0), /*hidden argument*/&Touch_get_position_m2702_MethodInfo);
+		Vector2_t51  L_10 = Touch_get_position_m2704((&V_0), /*hidden argument*/&Touch_get_position_m2704_MethodInfo);
 		InputToEvent_Release_m1801(__this, L_10, /*hidden argument*/&InputToEvent_Release_m1801_MethodInfo);
 	}
 
@@ -68709,7 +68717,7 @@ IL_0078:
 		Vector3_t31  L_11 = Input_get_mousePosition_m2375(NULL /*static, unused*/, /*hidden argument*/&Input_get_mousePosition_m2375_MethodInfo);
 		Vector2_t51  L_12 = Vector2_op_Implicit_m2376(NULL /*static, unused*/, L_11, /*hidden argument*/&Vector2_op_Implicit_m2376_MethodInfo);
 		__this->___currentPos = L_12;
-		bool L_13 = Input_GetMouseButtonDown_m2704(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonDown_m2704_MethodInfo);
+		bool L_13 = Input_GetMouseButtonDown_m2706(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonDown_m2706_MethodInfo);
 		if (!L_13)
 		{
 			goto IL_00a3;
@@ -68725,7 +68733,7 @@ IL_0078:
 IL_00a3:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_16 = Input_GetMouseButtonUp_m2705(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonUp_m2705_MethodInfo);
+		bool L_16 = Input_GetMouseButtonUp_m2707(NULL /*static, unused*/, 0, /*hidden argument*/&Input_GetMouseButtonUp_m2707_MethodInfo);
 		if (!L_16)
 		{
 			goto IL_00be;
@@ -68741,7 +68749,7 @@ IL_00a3:
 IL_00be:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_19 = Input_GetMouseButtonDown_m2704(NULL /*static, unused*/, 1, /*hidden argument*/&Input_GetMouseButtonDown_m2704_MethodInfo);
+		bool L_19 = Input_GetMouseButtonDown_m2706(NULL /*static, unused*/, 1, /*hidden argument*/&Input_GetMouseButtonDown_m2706_MethodInfo);
 		if (!L_19)
 		{
 			goto IL_010d;
@@ -68765,7 +68773,7 @@ IL_00be:
 	{
 		GameObject_t47 * L_26 = (__this->___lastGo);
 		NullCheck(L_26);
-		GameObject_SendMessage_m2706(L_26, (String_t*) &_stringLiteral772, 1, /*hidden argument*/&GameObject_SendMessage_m2706_MethodInfo);
+		GameObject_SendMessage_m2708(L_26, (String_t*) &_stringLiteral774, 1, /*hidden argument*/&GameObject_SendMessage_m2708_MethodInfo);
 	}
 
 IL_010d:
@@ -68791,7 +68799,7 @@ extern MethodInfo InputToEvent_Press_m1800_MethodInfo;
 	{
 		GameObject_t47 * L_3 = (__this->___lastGo);
 		NullCheck(L_3);
-		GameObject_SendMessage_m2706(L_3, (String_t*) &_stringLiteral773, 1, /*hidden argument*/&GameObject_SendMessage_m2706_MethodInfo);
+		GameObject_SendMessage_m2708(L_3, (String_t*) &_stringLiteral775, 1, /*hidden argument*/&GameObject_SendMessage_m2708_MethodInfo);
 	}
 
 IL_003d:
@@ -68824,14 +68832,14 @@ extern MethodInfo InputToEvent_Release_m1801_MethodInfo;
 	{
 		GameObject_t47 * L_5 = (__this->___lastGo);
 		NullCheck(L_5);
-		GameObject_SendMessage_m2706(L_5, (String_t*) &_stringLiteral774, 1, /*hidden argument*/&GameObject_SendMessage_m2706_MethodInfo);
+		GameObject_SendMessage_m2708(L_5, (String_t*) &_stringLiteral776, 1, /*hidden argument*/&GameObject_SendMessage_m2708_MethodInfo);
 	}
 
 IL_003b:
 	{
 		GameObject_t47 * L_6 = (__this->___lastGo);
 		NullCheck(L_6);
-		GameObject_SendMessage_m2706(L_6, (String_t*) &_stringLiteral775, 1, /*hidden argument*/&GameObject_SendMessage_m2706_MethodInfo);
+		GameObject_SendMessage_m2708(L_6, (String_t*) &_stringLiteral777, 1, /*hidden argument*/&GameObject_SendMessage_m2708_MethodInfo);
 		__this->___lastGo = (GameObject_t47 *)NULL;
 	}
 
@@ -68859,7 +68867,7 @@ extern MethodInfo InputToEvent_RaycastObject_m1802_MethodInfo;
 		}
 	}
 	{
-		Vector3_t31  L_4 = RaycastHit_get_point_m2707((&V_0), /*hidden argument*/&RaycastHit_get_point_m2707_MethodInfo);
+		Vector3_t31  L_4 = RaycastHit_get_point_m2709((&V_0), /*hidden argument*/&RaycastHit_get_point_m2709_MethodInfo);
 		((InputToEvent_t349_StaticFields*)InitializedTypeInfo(&InputToEvent_t349_il2cpp_TypeInfo)->static_fields)->___inputHitPos = L_4;
 		Collider_t200 * L_5 = RaycastHit_get_collider_m2382((&V_0), /*hidden argument*/&RaycastHit_get_collider_m2382_MethodInfo);
 		NullCheck(L_5);
@@ -69410,14 +69418,14 @@ extern MethodInfo Vector3_op_Addition_m465_MethodInfo;
 extern MethodInfo Quaternion_get_identity_m2199_MethodInfo;
 extern MethodInfo Object_Instantiate_m2520_MethodInfo;
 extern MethodInfo PhotonView_set_viewID_m1624_MethodInfo;
-extern MethodInfo GameObject_GetComponent_TisOnClickDestroy_t353_m2708_MethodInfo;
+extern MethodInfo GameObject_GetComponent_TisOnClickDestroy_t353_m2710_MethodInfo;
 struct GameObject_t47;
 // UnityEngine.CastHelper`1<OnClickDestroy>
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_23.h"
 // Declaration !!0 UnityEngine.GameObject::GetComponent<OnClickDestroy>()
 // !!0 UnityEngine.GameObject::GetComponent<OnClickDestroy>()
-#define GameObject_GetComponent_TisOnClickDestroy_t353_m2708(__this, method) (OnClickDestroy_t353 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
-extern MethodInfo GameObject_GetComponent_TisOnClickDestroy_t353_m2708_MethodInfo;
+#define GameObject_GetComponent_TisOnClickDestroy_t353_m2710(__this, method) (OnClickDestroy_t353 *)GameObject_GetComponent_TisObject_t_m645_gshared((GameObject_t47 *)__this, method)
+extern MethodInfo GameObject_GetComponent_TisOnClickDestroy_t353_m2710_MethodInfo;
 
 
 // System.Void ManualPhotonViewAllocator::.ctor()
@@ -69444,7 +69452,7 @@ extern MethodInfo ManualPhotonViewAllocator_AllocateManualPhotonView_m1804_Metho
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral776, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral778, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
 
@@ -69461,7 +69469,7 @@ IL_0023:
 		ArrayElementTypeCheck (L_4, L_6);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 0)) = (Object_t *)L_6;
 		NullCheck(V_0);
-		PhotonView_RPC_m1642(V_0, (String_t*) &_stringLiteral777, 3, L_4, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(V_0, (String_t*) &_stringLiteral779, 3, L_4, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 		return;
 	}
 }
@@ -69482,7 +69490,7 @@ extern MethodInfo ManualPhotonViewAllocator_InstantiateRpc_m1805_MethodInfo;
 		NullCheck(L_5);
 		PhotonView_set_viewID_m1624(L_5, ___viewID, /*hidden argument*/&PhotonView_set_viewID_m1624_MethodInfo);
 		NullCheck(V_0);
-		OnClickDestroy_t353 * L_6 = GameObject_GetComponent_TisOnClickDestroy_t353_m2708(V_0, /*hidden argument*/&GameObject_GetComponent_TisOnClickDestroy_t353_m2708_MethodInfo);
+		OnClickDestroy_t353 * L_6 = GameObject_GetComponent_TisOnClickDestroy_t353_m2710(V_0, /*hidden argument*/&GameObject_GetComponent_TisOnClickDestroy_t353_m2710_MethodInfo);
 		V_1 = L_6;
 		NullCheck(V_1);
 		V_1->___DestroyByRpc = 1;
@@ -69719,7 +69727,7 @@ extern TypeInfo MoveByKeys_t351_il2cpp_TypeInfo;
 extern TypeInfo MoveByKeys_t351_il2cpp_TypeInfo;
 extern TypeInfo Input_t444_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
-extern MethodInfo Component_GetComponent_TisSpriteRenderer_t527_m2709_MethodInfo;
+extern MethodInfo Component_GetComponent_TisSpriteRenderer_t527_m2711_MethodInfo;
 extern MethodInfo Object_op_Inequality_m590_MethodInfo;
 extern MethodInfo Component_GetComponent_TisRigidbody2D_t169_m2201_MethodInfo;
 extern MethodInfo Component_GetComponent_TisRigidbody_t104_m571_MethodInfo;
@@ -69728,17 +69736,17 @@ extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
 extern MethodInfo Input_GetKey_m2204_MethodInfo;
 extern MethodInfo Component_get_transform_m617_MethodInfo;
 extern MethodInfo Transform_get_position_m526_MethodInfo;
-extern MethodInfo Vector3_get_left_m2710_MethodInfo;
+extern MethodInfo Vector3_get_left_m2712_MethodInfo;
 extern MethodInfo Time_get_deltaTime_m583_MethodInfo;
 extern MethodInfo Vector3_op_Multiply_m467_MethodInfo;
 extern MethodInfo Vector3_op_Addition_m465_MethodInfo;
 extern MethodInfo Transform_set_position_m532_MethodInfo;
-extern MethodInfo Vector3_get_right_m2711_MethodInfo;
+extern MethodInfo Vector3_get_right_m2713_MethodInfo;
 extern MethodInfo Vector2_get_up_m2206_MethodInfo;
 extern MethodInfo Vector2_op_Multiply_m585_MethodInfo;
 extern MethodInfo Rigidbody2D_AddForce_m2207_MethodInfo;
 extern MethodInfo Vector2_op_Implicit_m2379_MethodInfo;
-extern MethodInfo Rigidbody_AddForce_m2712_MethodInfo;
+extern MethodInfo Rigidbody_AddForce_m2714_MethodInfo;
 extern MethodInfo Vector3_get_forward_m2310_MethodInfo;
 extern MethodInfo Vector3_op_Subtraction_m466_MethodInfo;
 struct Component_t105;
@@ -69746,8 +69754,8 @@ struct Component_t105;
 #include "UnityEngine_UnityEngine_CastHelper_1_gen_24.h"
 // Declaration !!0 UnityEngine.Component::GetComponent<UnityEngine.SpriteRenderer>()
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.SpriteRenderer>()
-#define Component_GetComponent_TisSpriteRenderer_t527_m2709(__this, method) (SpriteRenderer_t527 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
-extern MethodInfo Component_GetComponent_TisSpriteRenderer_t527_m2709_MethodInfo;
+#define Component_GetComponent_TisSpriteRenderer_t527_m2711(__this, method) (SpriteRenderer_t527 *)Component_GetComponent_TisObject_t_m646_gshared((Component_t105 *)__this, method)
+extern MethodInfo Component_GetComponent_TisSpriteRenderer_t527_m2711_MethodInfo;
 extern MethodInfo Component_GetComponent_TisRigidbody2D_t169_m2201_MethodInfo;
 extern MethodInfo Component_GetComponent_TisRigidbody_t104_m571_MethodInfo;
 
@@ -69767,7 +69775,7 @@ extern MethodInfo MoveByKeys__ctor_m1806_MethodInfo;
 extern MethodInfo MoveByKeys_Start_m1807_MethodInfo;
  void MoveByKeys_Start_m1807 (MoveByKeys_t351 * __this, MethodInfo* method){
 	{
-		SpriteRenderer_t527 * L_0 = Component_GetComponent_TisSpriteRenderer_t527_m2709(__this, /*hidden argument*/&Component_GetComponent_TisSpriteRenderer_t527_m2709_MethodInfo);
+		SpriteRenderer_t527 * L_0 = Component_GetComponent_TisSpriteRenderer_t527_m2711(__this, /*hidden argument*/&Component_GetComponent_TisSpriteRenderer_t527_m2711_MethodInfo);
 		bool L_1 = Object_op_Inequality_m590(NULL /*static, unused*/, L_0, (Object_t111 *)NULL, /*hidden argument*/&Object_op_Inequality_m590_MethodInfo);
 		__this->___isSprite = L_1;
 		Rigidbody2D_t169 * L_2 = Component_GetComponent_TisRigidbody2D_t169_m2201(__this, /*hidden argument*/&Component_GetComponent_TisRigidbody2D_t169_m2201_MethodInfo);
@@ -69808,7 +69816,7 @@ IL_0011:
 		Transform_t56 * L_4 = L_3;
 		NullCheck(L_4);
 		Vector3_t31  L_5 = Transform_get_position_m526(L_4, /*hidden argument*/&Transform_get_position_m526_MethodInfo);
-		Vector3_t31  L_6 = Vector3_get_left_m2710(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_left_m2710_MethodInfo);
+		Vector3_t31  L_6 = Vector3_get_left_m2712(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_left_m2712_MethodInfo);
 		float L_7 = (__this->___Speed);
 		float L_8 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
 		Vector3_t31  L_9 = Vector3_op_Multiply_m467(NULL /*static, unused*/, L_6, ((float)(L_7*L_8)), /*hidden argument*/&Vector3_op_Multiply_m467_MethodInfo);
@@ -69831,7 +69839,7 @@ IL_0049:
 		Transform_t56 * L_13 = L_12;
 		NullCheck(L_13);
 		Vector3_t31  L_14 = Transform_get_position_m526(L_13, /*hidden argument*/&Transform_get_position_m526_MethodInfo);
-		Vector3_t31  L_15 = Vector3_get_right_m2711(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_right_m2711_MethodInfo);
+		Vector3_t31  L_15 = Vector3_get_right_m2713(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_right_m2713_MethodInfo);
 		float L_16 = (__this->___Speed);
 		float L_17 = Time_get_deltaTime_m583(NULL /*static, unused*/, /*hidden argument*/&Time_get_deltaTime_m583_MethodInfo);
 		Vector3_t31  L_18 = Vector3_op_Multiply_m467(NULL /*static, unused*/, L_15, ((float)(L_16*L_17)), /*hidden argument*/&Vector3_op_Multiply_m467_MethodInfo);
@@ -69908,7 +69916,7 @@ IL_00fe:
 		Rigidbody_t104 * L_35 = (__this->___body);
 		Vector3_t31  L_36 = Vector2_op_Implicit_m2379(NULL /*static, unused*/, V_0, /*hidden argument*/&Vector2_op_Implicit_m2379_MethodInfo);
 		NullCheck(L_35);
-		Rigidbody_AddForce_m2712(L_35, L_36, /*hidden argument*/&Rigidbody_AddForce_m2712_MethodInfo);
+		Rigidbody_AddForce_m2714(L_35, L_36, /*hidden argument*/&Rigidbody_AddForce_m2714_MethodInfo);
 	}
 
 IL_0120:
@@ -70289,7 +70297,7 @@ IL_0011:
 	{
 		PhotonView_t170 * L_2 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_2);
-		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral778, 0, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral780, 0, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 		return;
 	}
 }
@@ -70320,7 +70328,7 @@ IL_0011:
 		ArrayElementTypeCheck (L_3, L_5);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 0)) = (Object_t *)L_5;
 		NullCheck(L_2);
-		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral778, 0, L_3, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral780, 0, L_3, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 		return;
 	}
 }
@@ -70330,7 +70338,7 @@ extern MethodInfo OnAwakeUsePhotonView_OnAwakeRPC_m1812_MethodInfo;
 	{
 		PhotonView_t170 * L_0 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_1 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral779, L_0, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_1 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral781, L_0, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_1, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
@@ -70342,8 +70350,8 @@ extern MethodInfo OnAwakeUsePhotonView_OnAwakeRPC_m1813_MethodInfo;
 		ObjectU5BU5D_t5* L_0 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral780);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral780;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral782);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral782;
 		ObjectU5BU5D_t5* L_1 = L_0;
 		uint8_t L_2 = ___myParameter;
 		Object_t * L_3 = Box(InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo), &L_2);
@@ -70354,8 +70362,8 @@ extern MethodInfo OnAwakeUsePhotonView_OnAwakeRPC_m1813_MethodInfo;
 		ObjectU5BU5D_t5* L_4 = L_1;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 2);
-		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral781);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral781;
+		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral783);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 2)) = (Object_t *)(String_t*) &_stringLiteral783;
 		ObjectU5BU5D_t5* L_5 = L_4;
 		PhotonView_t170 * L_6 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_5);
@@ -71229,7 +71237,7 @@ IL_001b:
 	{
 		PhotonView_t170 * L_2 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_2);
-		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral782, 3, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_2, (String_t*) &_stringLiteral784, 3, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 	}
 
 IL_0032:
@@ -71515,13 +71523,13 @@ extern MethodInfo OnClickInstantiate__ctor_m1823_MethodInfo;
 		StringU5BU5D_t4* L_0 = ((StringU5BU5D_t4*)SZArrayNew(InitializedTypeInfo(&StringU5BU5D_t4_il2cpp_TypeInfo), 2));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral783);
-		*((String_t**)(String_t**)SZArrayLdElema(L_0, 0)) = (String_t*)(String_t*) &_stringLiteral783;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral785);
+		*((String_t**)(String_t**)SZArrayLdElema(L_0, 0)) = (String_t*)(String_t*) &_stringLiteral785;
 		StringU5BU5D_t4* L_1 = L_0;
 		NullCheck(L_1);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_1, 1);
-		ArrayElementTypeCheck (L_1, (String_t*) &_stringLiteral784);
-		*((String_t**)(String_t**)SZArrayLdElema(L_1, 1)) = (String_t*)(String_t*) &_stringLiteral784;
+		ArrayElementTypeCheck (L_1, (String_t*) &_stringLiteral786);
+		*((String_t**)(String_t**)SZArrayLdElema(L_1, 1)) = (String_t*)(String_t*) &_stringLiteral786;
 		__this->___InstantiateTypeNames = L_1;
 		MonoBehaviour__ctor_m482(__this, /*hidden argument*/&MonoBehaviour__ctor_m482_MethodInfo);
 		return;
@@ -72328,7 +72336,7 @@ IL_0019:
 		NullCheck(V_0);
 		String_t* L_2 = Object_get_name_m2225(V_0, /*hidden argument*/&Object_get_name_m2225_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_3 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral785, L_2, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_3 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral787, L_2, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_3, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		Vector3_t31  L_4 = Vector3_get_up_m459(NULL /*static, unused*/, /*hidden argument*/&Vector3_get_up_m459_MethodInfo);
 		V_3 = L_4;
@@ -72561,7 +72569,7 @@ extern TypeInfo OnStartDelete_t359_il2cpp_TypeInfo;
 
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
-extern MethodInfo Object_DestroyObject_m2713_MethodInfo;
+extern MethodInfo Object_DestroyObject_m2715_MethodInfo;
 
 
 // System.Void OnStartDelete::.ctor()
@@ -72577,7 +72585,7 @@ extern MethodInfo OnStartDelete_Start_m1831_MethodInfo;
  void OnStartDelete_Start_m1831 (OnStartDelete_t359 * __this, MethodInfo* method){
 	{
 		GameObject_t47 * L_0 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
-		Object_DestroyObject_m2713(NULL /*static, unused*/, L_0, /*hidden argument*/&Object_DestroyObject_m2713_MethodInfo);
+		Object_DestroyObject_m2715(NULL /*static, unused*/, L_0, /*hidden argument*/&Object_DestroyObject_m2715_MethodInfo);
 		return;
 	}
 }
@@ -72744,7 +72752,7 @@ extern TypeInfo String_t_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour_get_photonView_m1350_MethodInfo;
 extern MethodInfo PhotonView_get_viewID_m1623_MethodInfo;
 extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
-extern MethodInfo HashSet_1__ctor_m2714_MethodInfo;
+extern MethodInfo HashSet_1__ctor_m2716_MethodInfo;
 extern MethodInfo Component_GetComponent_TisPhotonView_t170_m2202_MethodInfo;
 extern MethodInfo Object_op_Inequality_m590_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
@@ -72761,14 +72769,14 @@ extern MethodInfo GameObjectExtensions_GetActive_m1184_MethodInfo;
 extern MethodInfo PhotonNetwork_get_time_m1506_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
-extern MethodInfo Component_SendMessage_m2715_MethodInfo;
+extern MethodInfo Component_SendMessage_m2717_MethodInfo;
 extern MethodInfo PickupItem_PickedUp_m1841_MethodInfo;
 extern MethodInfo PhotonMessageInfo_get_timestamp_m1380_MethodInfo;
 extern MethodInfo GameObject_SetActive_m2227_MethodInfo;
-extern MethodInfo HashSet_1_Add_m2716_MethodInfo;
-extern MethodInfo MonoBehaviour_Invoke_m2717_MethodInfo;
+extern MethodInfo HashSet_1_Add_m2718_MethodInfo;
+extern MethodInfo MonoBehaviour_Invoke_m2719_MethodInfo;
 extern MethodInfo PickupItem_PunRespawn_m1843_MethodInfo;
-extern MethodInfo HashSet_1_Remove_m2718_MethodInfo;
+extern MethodInfo HashSet_1_Remove_m2720_MethodInfo;
 extern MethodInfo Component_GetComponent_TisPhotonView_t170_m2202_MethodInfo;
 
 
@@ -72786,7 +72794,7 @@ extern MethodInfo PickupItem__cctor_m1833_MethodInfo;
  void PickupItem__cctor_m1833 (Object_t * __this/* static, unused */, MethodInfo* method){
 	{
 		HashSet_1_t360 * L_0 = (HashSet_1_t360 *)il2cpp_codegen_object_new (InitializedTypeInfo(&HashSet_1_t360_il2cpp_TypeInfo));
-		HashSet_1__ctor_m2714(L_0, /*hidden argument*/&HashSet_1__ctor_m2714_MethodInfo);
+		HashSet_1__ctor_m2716(L_0, /*hidden argument*/&HashSet_1__ctor_m2716_MethodInfo);
 		((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems = L_0;
 		return;
 	}
@@ -72907,7 +72915,7 @@ IL_000c:
 		__this->___SentPickup = 1;
 		PhotonView_t170 * L_1 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_1);
-		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral786, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral788, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 		return;
 	}
 }
@@ -72924,7 +72932,7 @@ extern MethodInfo PickupItem_Drop_m1838_MethodInfo;
 	{
 		PhotonView_t170 * L_1 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_1);
-		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral787, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral789, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 	}
 
 IL_0022:
@@ -72952,7 +72960,7 @@ extern MethodInfo PickupItem_Drop_m1839_MethodInfo;
 		ArrayElementTypeCheck (L_2, L_4);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_2, 0)) = (Object_t *)L_4;
 		NullCheck(L_1);
-		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral787, 5, L_2, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral789, 5, L_2, /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 	}
 
 IL_002b:
@@ -72992,8 +73000,8 @@ IL_0017:
 		ObjectU5BU5D_t5* L_4 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 8));
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 0);
-		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral788);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 0)) = (Object_t *)(String_t*) &_stringLiteral788;
+		ArrayElementTypeCheck (L_4, (String_t*) &_stringLiteral790);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 0)) = (Object_t *)(String_t*) &_stringLiteral790;
 		ObjectU5BU5D_t5* L_5 = L_4;
 		GameObject_t47 * L_6 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		NullCheck(L_5);
@@ -73003,8 +73011,8 @@ IL_0017:
 		ObjectU5BU5D_t5* L_7 = L_5;
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, 2);
-		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral789);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral789;
+		ArrayElementTypeCheck (L_7, (String_t*) &_stringLiteral791);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_7, 2)) = (Object_t *)(String_t*) &_stringLiteral791;
 		ObjectU5BU5D_t5* L_8 = L_7;
 		float L_9 = (__this->___SecondsBeforeRespawn);
 		float L_10 = L_9;
@@ -73016,8 +73024,8 @@ IL_0017:
 		ObjectU5BU5D_t5* L_12 = L_8;
 		NullCheck(L_12);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 4);
-		ArrayElementTypeCheck (L_12, (String_t*) &_stringLiteral790);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 4)) = (Object_t *)(String_t*) &_stringLiteral790;
+		ArrayElementTypeCheck (L_12, (String_t*) &_stringLiteral792);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 4)) = (Object_t *)(String_t*) &_stringLiteral792;
 		ObjectU5BU5D_t5* L_13 = L_12;
 		double L_14 = (__this->___TimeOfRespawn);
 		double L_15 = L_14;
@@ -73029,8 +73037,8 @@ IL_0017:
 		ObjectU5BU5D_t5* L_17 = L_13;
 		NullCheck(L_17);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_17, 6);
-		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral791);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 6)) = (Object_t *)(String_t*) &_stringLiteral791;
+		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral793);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 6)) = (Object_t *)(String_t*) &_stringLiteral793;
 		ObjectU5BU5D_t5* L_18 = L_17;
 		double L_19 = (__this->___TimeOfRespawn);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
@@ -73064,7 +73072,7 @@ IL_0092:
 	{
 		MonoBehaviour_t58 * L_28 = (__this->___OnPickedUpCall);
 		NullCheck(L_28);
-		Component_SendMessage_m2715(L_28, (String_t*) &_stringLiteral792, __this, /*hidden argument*/&Component_SendMessage_m2715_MethodInfo);
+		Component_SendMessage_m2717(L_28, (String_t*) &_stringLiteral794, __this, /*hidden argument*/&Component_SendMessage_m2717_MethodInfo);
 	}
 
 IL_00c5:
@@ -73112,7 +73120,7 @@ extern MethodInfo PickupItem_PickedUp_m1841_MethodInfo;
 		GameObject_SetActive_m2227(L_0, 0, /*hidden argument*/&GameObject_SetActive_m2227_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo));
 		NullCheck((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
-		HashSet_1_Add_m2716((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), __this, /*hidden argument*/&HashSet_1_Add_m2716_MethodInfo);
+		HashSet_1_Add_m2718((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), __this, /*hidden argument*/&HashSet_1_Add_m2718_MethodInfo);
 		__this->___TimeOfRespawn = (0.0);
 		if ((((float)___timeUntilRespawn) <= ((float)(0.0f))))
 		{
@@ -73123,7 +73131,7 @@ extern MethodInfo PickupItem_PickedUp_m1841_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		double L_1 = PhotonNetwork_get_time_m1506(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_time_m1506_MethodInfo);
 		__this->___TimeOfRespawn = ((double)(L_1+(((double)___timeUntilRespawn))));
-		MonoBehaviour_Invoke_m2717(__this, (String_t*) &_stringLiteral787, ___timeUntilRespawn, /*hidden argument*/&MonoBehaviour_Invoke_m2717_MethodInfo);
+		MonoBehaviour_Invoke_m2719(__this, (String_t*) &_stringLiteral789, ___timeUntilRespawn, /*hidden argument*/&MonoBehaviour_Invoke_m2719_MethodInfo);
 	}
 
 IL_004c:
@@ -73135,7 +73143,7 @@ IL_004c:
 extern MethodInfo PickupItem_PunRespawn_m1842_MethodInfo;
  void PickupItem_PunRespawn_m1842 (PickupItem_t202 * __this, Vector3_t31  ___pos, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral793, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral795, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		PickupItem_PunRespawn_m1843(__this, /*hidden argument*/&PickupItem_PunRespawn_m1843_MethodInfo);
 		GameObject_t47 * L_0 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		NullCheck(L_0);
@@ -73151,7 +73159,7 @@ extern MethodInfo PickupItem_PunRespawn_m1843_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo));
 		NullCheck((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
-		VirtFuncInvoker1< bool, PickupItem_t202 * >::Invoke(&HashSet_1_Remove_m2718_MethodInfo, (((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), __this);
+		VirtFuncInvoker1< bool, PickupItem_t202 * >::Invoke(&HashSet_1_Remove_m2720_MethodInfo, (((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), __this);
 		__this->___TimeOfRespawn = (0.0);
 		__this->___PickupIsMine = 0;
 		GameObject_t47 * L_0 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
@@ -73802,7 +73810,7 @@ extern MethodInfo Debug_Log_m384_MethodInfo;
 extern MethodInfo PhotonNetwork_get_time_m1506_MethodInfo;
 extern MethodInfo PhotonMessageInfo_get_timestamp_m1380_MethodInfo;
 extern MethodInfo GameObject_SetActive_m2227_MethodInfo;
-extern MethodInfo MonoBehaviour_Invoke_m2717_MethodInfo;
+extern MethodInfo MonoBehaviour_Invoke_m2719_MethodInfo;
 extern MethodInfo Component_GetComponent_TisPhotonView_t170_m2202_MethodInfo;
 
 
@@ -73872,7 +73880,7 @@ IL_000c:
 		__this->___SentPickup = 1;
 		PhotonView_t170 * L_1 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_1);
-		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral794, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
+		PhotonView_RPC_m1642(L_1, (String_t*) &_stringLiteral796, 5, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1642_MethodInfo);
 		return;
 	}
 }
@@ -73923,7 +73931,7 @@ IL_0030:
 	{
 		GameObject_t47 * L_7 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral788, L_7, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_8 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral790, L_7, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_8, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
@@ -73946,7 +73954,7 @@ IL_005d:
 		GameObject_t47 * L_12 = Component_get_gameObject_m496(__this, /*hidden argument*/&Component_get_gameObject_m496_MethodInfo);
 		NullCheck(L_12);
 		GameObject_SetActive_m2227(L_12, 0, /*hidden argument*/&GameObject_SetActive_m2227_MethodInfo);
-		MonoBehaviour_Invoke_m2717(__this, (String_t*) &_stringLiteral795, V_1, /*hidden argument*/&MonoBehaviour_Invoke_m2717_MethodInfo);
+		MonoBehaviour_Invoke_m2719(__this, (String_t*) &_stringLiteral797, V_1, /*hidden argument*/&MonoBehaviour_Invoke_m2719_MethodInfo);
 	}
 
 IL_0097:
@@ -74306,7 +74314,7 @@ extern MethodInfo PhotonPlayer_get_ID_m1585_MethodInfo;
 extern MethodInfo String_Concat_m2222_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
 extern MethodInfo PhotonNetwork_get_playerList_m1478_MethodInfo;
-extern MethodInfo MonoBehaviour_Invoke_m2717_MethodInfo;
+extern MethodInfo MonoBehaviour_Invoke_m2719_MethodInfo;
 extern MethodInfo PhotonNetwork_get_masterClient_m1474_MethodInfo;
 extern MethodInfo PhotonPlayer_GetNext_m1600_MethodInfo;
 extern MethodInfo PhotonPlayer_Equals_m1592_MethodInfo;
@@ -74315,13 +74323,13 @@ extern MethodInfo PhotonView_RPC_m1644_MethodInfo;
 extern MethodInfo Debug_LogError_m486_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo PhotonNetwork_get_time_m1506_MethodInfo;
-extern MethodInfo HashSet_1_get_Count_m2719_MethodInfo;
-extern MethodInfo HashSet_1_CopyTo_m2720_MethodInfo;
-extern MethodInfo List_1__ctor_m2721_MethodInfo;
+extern MethodInfo HashSet_1_get_Count_m2721_MethodInfo;
+extern MethodInfo HashSet_1_CopyTo_m2722_MethodInfo;
+extern MethodInfo List_1__ctor_m2723_MethodInfo;
 extern MethodInfo PickupItem_get_ViewID_m1834_MethodInfo;
-extern MethodInfo List_1_Add_m2722_MethodInfo;
-extern MethodInfo List_1_get_Count_m2723_MethodInfo;
-extern MethodInfo List_1_ToArray_m2724_MethodInfo;
+extern MethodInfo List_1_Add_m2724_MethodInfo;
+extern MethodInfo List_1_get_Count_m2725_MethodInfo;
+extern MethodInfo List_1_ToArray_m2726_MethodInfo;
 extern MethodInfo PhotonView_Find_m1648_MethodInfo;
 extern MethodInfo Component_GetComponent_TisPickupItem_t202_m2347_MethodInfo;
 extern MethodInfo PickupItem_PickedUp_m1841_MethodInfo;
@@ -74370,8 +74378,8 @@ extern MethodInfo PickupItemSyncer_OnJoinedRoom_m1851_MethodInfo;
 		ObjectU5BU5D_t5* L_0 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral796);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral796;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral798);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral798;
 		ObjectU5BU5D_t5* L_1 = L_0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		bool L_2 = PhotonNetwork_get_isMasterClient_m1507(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_isMasterClient_m1507_MethodInfo);
@@ -74384,8 +74392,8 @@ extern MethodInfo PickupItemSyncer_OnJoinedRoom_m1851_MethodInfo;
 		ObjectU5BU5D_t5* L_5 = L_1;
 		NullCheck(L_5);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_5, 2);
-		ArrayElementTypeCheck (L_5, (String_t*) &_stringLiteral797);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_5, 2)) = (Object_t *)(String_t*) &_stringLiteral797;
+		ArrayElementTypeCheck (L_5, (String_t*) &_stringLiteral799);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_5, 2)) = (Object_t *)(String_t*) &_stringLiteral799;
 		ObjectU5BU5D_t5* L_6 = L_5;
 		PhotonPlayer_t230 * L_7 = PhotonNetwork_get_player_m1473(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_player_m1473_MethodInfo);
 		NullCheck(L_7);
@@ -74409,7 +74417,7 @@ extern MethodInfo PickupItemSyncer_OnJoinedRoom_m1851_MethodInfo;
 		}
 	}
 	{
-		MonoBehaviour_Invoke_m2717(__this, (String_t*) &_stringLiteral798, (2.0f), /*hidden argument*/&MonoBehaviour_Invoke_m2717_MethodInfo);
+		MonoBehaviour_Invoke_m2719(__this, (String_t*) &_stringLiteral800, (2.0f), /*hidden argument*/&MonoBehaviour_Invoke_m2719_MethodInfo);
 	}
 
 IL_006a:
@@ -74438,7 +74446,7 @@ extern MethodInfo PickupItemSyncer_AskForPickupItemSpawnTimes_m1852_MethodInfo;
 		}
 	}
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral799, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral801, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		__this->___IsWaitingForPickupInit = 0;
 		return;
 	}
@@ -74495,13 +74503,13 @@ IL_0056:
 	{
 		PhotonView_t170 * L_10 = MonoBehaviour_get_photonView_m1350(__this, /*hidden argument*/&MonoBehaviour_get_photonView_m1350_MethodInfo);
 		NullCheck(L_10);
-		PhotonView_RPC_m1644(L_10, (String_t*) &_stringLiteral800, V_0, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1644_MethodInfo);
+		PhotonView_RPC_m1644(L_10, (String_t*) &_stringLiteral802, V_0, ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 0)), /*hidden argument*/&PhotonView_RPC_m1644_MethodInfo);
 		goto IL_0099;
 	}
 
 IL_0088:
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral801, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral803, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		__this->___IsWaitingForPickupInit = 0;
 	}
 
@@ -74522,7 +74530,7 @@ extern MethodInfo PickupItemSyncer_RequestForPickupTimes_m1853_MethodInfo;
 		}
 	}
 	{
-		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral802, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
+		Debug_LogError_m486(NULL /*static, unused*/, (String_t*) &_stringLiteral804, /*hidden argument*/&Debug_LogError_m486_MethodInfo);
 		return;
 	}
 
@@ -74551,7 +74559,7 @@ extern MethodInfo PickupItemSyncer_SendPickedUpItems_m1854_MethodInfo;
 		}
 	}
 	{
-		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral803, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
+		Debug_LogWarning_m422(NULL /*static, unused*/, (String_t*) &_stringLiteral805, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 		return;
 	}
 
@@ -74563,14 +74571,14 @@ IL_0011:
 		V_1 = ((double)(V_0+(0.20000000298023224)));
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo));
 		NullCheck((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
-		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&HashSet_1_get_Count_m2719_MethodInfo, (((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
+		int32_t L_1 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&HashSet_1_get_Count_m2721_MethodInfo, (((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
 		V_2 = ((PickupItemU5BU5D_t528*)SZArrayNew(InitializedTypeInfo(&PickupItemU5BU5D_t528_il2cpp_TypeInfo), L_1));
 		NullCheck((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems));
-		HashSet_1_CopyTo_m2720((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), V_2, /*hidden argument*/&HashSet_1_CopyTo_m2720_MethodInfo);
+		HashSet_1_CopyTo_m2722((((PickupItem_t202_StaticFields*)InitializedTypeInfo(&PickupItem_t202_il2cpp_TypeInfo)->static_fields)->___DisabledPickupItems), V_2, /*hidden argument*/&HashSet_1_CopyTo_m2722_MethodInfo);
 		NullCheck(V_2);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&List_1_t529_il2cpp_TypeInfo));
 		List_1_t529 * L_2 = (List_1_t529 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t529_il2cpp_TypeInfo));
-		List_1__ctor_m2721(L_2, ((int32_t)((((int32_t)(((Array_t *)V_2)->max_length)))*2)), /*hidden argument*/&List_1__ctor_m2721_MethodInfo);
+		List_1__ctor_m2723(L_2, ((int32_t)((((int32_t)(((Array_t *)V_2)->max_length)))*2)), /*hidden argument*/&List_1__ctor_m2723_MethodInfo);
 		V_3 = L_2;
 		V_4 = 0;
 		goto IL_0124;
@@ -74592,9 +74600,9 @@ IL_0051:
 		NullCheck(V_5);
 		int32_t L_4 = PickupItem_get_ViewID_m1834(V_5, /*hidden argument*/&PickupItem_get_ViewID_m1834_MethodInfo);
 		NullCheck(V_3);
-		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2722_MethodInfo, V_3, (((float)L_4)));
+		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2724_MethodInfo, V_3, (((float)L_4)));
 		NullCheck(V_3);
-		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2722_MethodInfo, V_3, (0.0f));
+		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2724_MethodInfo, V_3, (0.0f));
 		goto IL_011e;
 	}
 
@@ -74625,8 +74633,8 @@ IL_0086:
 		ObjectU5BU5D_t5* L_12 = L_8;
 		NullCheck(L_12);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 1);
-		ArrayElementTypeCheck (L_12, (String_t*) &_stringLiteral804);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 1)) = (Object_t *)(String_t*) &_stringLiteral804;
+		ArrayElementTypeCheck (L_12, (String_t*) &_stringLiteral806);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 1)) = (Object_t *)(String_t*) &_stringLiteral806;
 		ObjectU5BU5D_t5* L_13 = L_12;
 		NullCheck(V_5);
 		double L_14 = (V_5->___TimeOfRespawn);
@@ -74639,8 +74647,8 @@ IL_0086:
 		ObjectU5BU5D_t5* L_17 = L_13;
 		NullCheck(L_17);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_17, 3);
-		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral805);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 3)) = (Object_t *)(String_t*) &_stringLiteral805;
+		ArrayElementTypeCheck (L_17, (String_t*) &_stringLiteral807);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_17, 3)) = (Object_t *)(String_t*) &_stringLiteral807;
 		ObjectU5BU5D_t5* L_18 = L_17;
 		double L_19 = V_6;
 		Object_t * L_20 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_19);
@@ -74651,8 +74659,8 @@ IL_0086:
 		ObjectU5BU5D_t5* L_21 = L_18;
 		NullCheck(L_21);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_21, 5);
-		ArrayElementTypeCheck (L_21, (String_t*) &_stringLiteral806);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_21, 5)) = (Object_t *)(String_t*) &_stringLiteral806;
+		ArrayElementTypeCheck (L_21, (String_t*) &_stringLiteral808);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_21, 5)) = (Object_t *)(String_t*) &_stringLiteral808;
 		ObjectU5BU5D_t5* L_22 = L_21;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		double L_23 = PhotonNetwork_get_time_m1506(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_time_m1506_MethodInfo);
@@ -74665,17 +74673,17 @@ IL_0086:
 		ObjectU5BU5D_t5* L_26 = L_22;
 		NullCheck(L_26);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_26, 7);
-		ArrayElementTypeCheck (L_26, (String_t*) &_stringLiteral807);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_26, 7)) = (Object_t *)(String_t*) &_stringLiteral807;
+		ArrayElementTypeCheck (L_26, (String_t*) &_stringLiteral809);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_26, 7)) = (Object_t *)(String_t*) &_stringLiteral809;
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
 		String_t* L_27 = String_Concat_m2222(NULL /*static, unused*/, L_26, /*hidden argument*/&String_Concat_m2222_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_27, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		NullCheck(V_5);
 		int32_t L_28 = PickupItem_get_ViewID_m1834(V_5, /*hidden argument*/&PickupItem_get_ViewID_m1834_MethodInfo);
 		NullCheck(V_3);
-		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2722_MethodInfo, V_3, (((float)L_28)));
+		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2724_MethodInfo, V_3, (((float)L_28)));
 		NullCheck(V_3);
-		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2722_MethodInfo, V_3, (((float)V_6)));
+		VirtActionInvoker1< float >::Invoke(&List_1_Add_m2724_MethodInfo, V_3, (((float)V_6)));
 	}
 
 IL_011e:
@@ -74695,11 +74703,11 @@ IL_0124:
 		ObjectU5BU5D_t5* L_29 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 4));
 		NullCheck(L_29);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_29, 0);
-		ArrayElementTypeCheck (L_29, (String_t*) &_stringLiteral808);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_29, 0)) = (Object_t *)(String_t*) &_stringLiteral808;
+		ArrayElementTypeCheck (L_29, (String_t*) &_stringLiteral810);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_29, 0)) = (Object_t *)(String_t*) &_stringLiteral810;
 		ObjectU5BU5D_t5* L_30 = L_29;
 		NullCheck(V_3);
-		int32_t L_31 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2723_MethodInfo, V_3);
+		int32_t L_31 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(&List_1_get_Count_m2725_MethodInfo, V_3);
 		int32_t L_32 = L_31;
 		Object_t * L_33 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_32);
 		NullCheck(L_30);
@@ -74709,8 +74717,8 @@ IL_0124:
 		ObjectU5BU5D_t5* L_34 = L_30;
 		NullCheck(L_34);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_34, 2);
-		ArrayElementTypeCheck (L_34, (String_t*) &_stringLiteral809);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_34, 2)) = (Object_t *)(String_t*) &_stringLiteral809;
+		ArrayElementTypeCheck (L_34, (String_t*) &_stringLiteral811);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_34, 2)) = (Object_t *)(String_t*) &_stringLiteral811;
 		ObjectU5BU5D_t5* L_35 = L_34;
 		double L_36 = V_0;
 		Object_t * L_37 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_36);
@@ -74733,13 +74741,13 @@ IL_0124:
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_40, 0)) = (Object_t *)L_43;
 		ObjectU5BU5D_t5* L_44 = L_40;
 		NullCheck(V_3);
-		SingleU5BU5D_t53* L_45 = List_1_ToArray_m2724(V_3, /*hidden argument*/&List_1_ToArray_m2724_MethodInfo);
+		SingleU5BU5D_t53* L_45 = List_1_ToArray_m2726(V_3, /*hidden argument*/&List_1_ToArray_m2726_MethodInfo);
 		NullCheck(L_44);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_44, 1);
 		ArrayElementTypeCheck (L_44, L_45);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_44, 1)) = (Object_t *)L_45;
 		NullCheck(L_39);
-		PhotonView_RPC_m1644(L_39, (String_t*) &_stringLiteral810, ___targtePlayer, L_44, /*hidden argument*/&PhotonView_RPC_m1644_MethodInfo);
+		PhotonView_RPC_m1644(L_39, (String_t*) &_stringLiteral812, ___targtePlayer, L_44, /*hidden argument*/&PhotonView_RPC_m1644_MethodInfo);
 		return;
 	}
 }
@@ -74800,8 +74808,8 @@ IL_004a:
 		ObjectU5BU5D_t5* L_6 = L_2;
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, 1);
-		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral804);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 1)) = (Object_t *)(String_t*) &_stringLiteral804;
+		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral806);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 1)) = (Object_t *)(String_t*) &_stringLiteral806;
 		ObjectU5BU5D_t5* L_7 = L_6;
 		double L_8 = V_6;
 		Object_t * L_9 = Box(InitializedTypeInfo(&Double_t97_il2cpp_TypeInfo), &L_8);
@@ -74812,8 +74820,8 @@ IL_004a:
 		ObjectU5BU5D_t5* L_10 = L_7;
 		NullCheck(L_10);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_10, 3);
-		ArrayElementTypeCheck (L_10, (String_t*) &_stringLiteral811);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_10, 3)) = (Object_t *)(String_t*) &_stringLiteral811;
+		ArrayElementTypeCheck (L_10, (String_t*) &_stringLiteral813);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_10, 3)) = (Object_t *)(String_t*) &_stringLiteral813;
 		ObjectU5BU5D_t5* L_11 = L_10;
 		float L_12 = V_3;
 		Object_t * L_13 = Box(InitializedTypeInfo(&Single_t36_il2cpp_TypeInfo), &L_12);
@@ -74824,8 +74832,8 @@ IL_004a:
 		ObjectU5BU5D_t5* L_14 = L_11;
 		NullCheck(L_14);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_14, 5);
-		ArrayElementTypeCheck (L_14, (String_t*) &_stringLiteral789);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_14, 5)) = (Object_t *)(String_t*) &_stringLiteral789;
+		ArrayElementTypeCheck (L_14, (String_t*) &_stringLiteral791);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_14, 5)) = (Object_t *)(String_t*) &_stringLiteral791;
 		ObjectU5BU5D_t5* L_15 = L_14;
 		NullCheck(V_5);
 		float L_16 = (V_5->___SecondsBeforeRespawn);
@@ -75280,7 +75288,7 @@ extern MethodInfo PhotonView_get_isSceneView_m1625_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
 extern MethodInfo String_Format_m2370_MethodInfo;
-extern MethodInfo GUI_Label_m2725_MethodInfo;
+extern MethodInfo GUI_Label_m2727_MethodInfo;
 
 
 // System.Void PointedAtGameObjectInfo::.ctor()
@@ -75387,20 +75395,20 @@ extern MethodInfo PointedAtGameObjectInfo_OnGUI_m1857_MethodInfo;
 		G_B3_0 = 3;
 		G_B3_1 = L_23;
 		G_B3_2 = L_23;
-		G_B3_3 = (String_t*) &_stringLiteral812;
+		G_B3_3 = (String_t*) &_stringLiteral814;
 		G_B3_4 = L_10;
 		if (!L_24)
 		{
 			G_B4_0 = 3;
 			G_B4_1 = L_23;
 			G_B4_2 = L_23;
-			G_B4_3 = (String_t*) &_stringLiteral812;
+			G_B4_3 = (String_t*) &_stringLiteral814;
 			G_B4_4 = L_10;
 			goto IL_00af;
 		}
 	}
 	{
-		G_B7_0 = (String_t*) &_stringLiteral813;
+		G_B7_0 = (String_t*) &_stringLiteral815;
 		G_B7_1 = G_B3_0;
 		G_B7_2 = G_B3_1;
 		G_B7_3 = G_B3_2;
@@ -75429,7 +75437,7 @@ IL_00af:
 		}
 	}
 	{
-		G_B7_0 = (String_t*) &_stringLiteral814;
+		G_B7_0 = (String_t*) &_stringLiteral816;
 		G_B7_1 = G_B5_0;
 		G_B7_2 = G_B5_1;
 		G_B7_3 = G_B5_2;
@@ -75445,7 +75453,7 @@ IL_00c4:
 		int32_t L_27 = L_26;
 		Object_t * L_28 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_27);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_29 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral815, L_28, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_29 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral817, L_28, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		G_B7_0 = L_29;
 		G_B7_1 = G_B6_0;
 		G_B7_2 = G_B6_1;
@@ -75463,7 +75471,7 @@ IL_00d9:
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
 		String_t* L_30 = String_Format_m2370(NULL /*static, unused*/, G_B7_4, G_B7_3, /*hidden argument*/&String_Format_m2370_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&GUI_t415_il2cpp_TypeInfo));
-		GUI_Label_m2725(NULL /*static, unused*/, G_B7_5, L_30, /*hidden argument*/&GUI_Label_m2725_MethodInfo);
+		GUI_Label_m2727(NULL /*static, unused*/, G_B7_5, L_30, /*hidden argument*/&GUI_Label_m2727_MethodInfo);
 	}
 
 IL_00e4:
@@ -75798,7 +75806,7 @@ extern MethodInfo Hashtable_set_Item_m2422_MethodInfo;
 extern MethodInfo PhotonPlayer_SetCustomProperties_m1596_MethodInfo;
 extern MethodInfo ScoreExtensions_GetScore_m1861_MethodInfo;
 extern MethodInfo PhotonPlayer_get_customProperties_m1589_MethodInfo;
-extern MethodInfo Dictionary_2_TryGetValue_m2726_MethodInfo;
+extern MethodInfo Dictionary_2_TryGetValue_m2728_MethodInfo;
 
 
 // System.Void ScoreExtensions::SetScore(PhotonPlayer,System.Int32)
@@ -75812,7 +75820,7 @@ extern MethodInfo ScoreExtensions_SetScore_m1859_MethodInfo;
 		int32_t L_1 = ___newScore;
 		Object_t * L_2 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_1);
 		NullCheck(V_0);
-		Hashtable_set_Item_m2422(V_0, (String_t*) &_stringLiteral816, L_2, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
+		Hashtable_set_Item_m2422(V_0, (String_t*) &_stringLiteral818, L_2, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
 		NullCheck(___player);
 		PhotonPlayer_SetCustomProperties_m1596(___player, V_0, /*hidden argument*/&PhotonPlayer_SetCustomProperties_m1596_MethodInfo);
 		return;
@@ -75833,7 +75841,7 @@ extern MethodInfo ScoreExtensions_AddScore_m1860_MethodInfo;
 		int32_t L_2 = V_0;
 		Object_t * L_3 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_2);
 		NullCheck(V_1);
-		Hashtable_set_Item_m2422(V_1, (String_t*) &_stringLiteral816, L_3, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
+		Hashtable_set_Item_m2422(V_1, (String_t*) &_stringLiteral818, L_3, /*hidden argument*/&Hashtable_set_Item_m2422_MethodInfo);
 		NullCheck(___player);
 		PhotonPlayer_SetCustomProperties_m1596(___player, V_1, /*hidden argument*/&PhotonPlayer_SetCustomProperties_m1596_MethodInfo);
 		return;
@@ -75847,7 +75855,7 @@ extern MethodInfo ScoreExtensions_GetScore_m1861_MethodInfo;
 		NullCheck(___player);
 		Hashtable_t256 * L_0 = PhotonPlayer_get_customProperties_m1589(___player, /*hidden argument*/&PhotonPlayer_get_customProperties_m1589_MethodInfo);
 		NullCheck(L_0);
-		bool L_1 = (bool)VirtFuncInvoker2< bool, Object_t *, Object_t ** >::Invoke(&Dictionary_2_TryGetValue_m2726_MethodInfo, L_0, (String_t*) &_stringLiteral816, (&V_0));
+		bool L_1 = (bool)VirtFuncInvoker2< bool, Object_t *, Object_t ** >::Invoke(&Dictionary_2_TryGetValue_m2728_MethodInfo, L_0, (String_t*) &_stringLiteral818, (&V_0));
 		if (!L_1)
 		{
 			goto IL_001e;
@@ -76371,18 +76379,18 @@ extern TypeInfo PhotonPlayer_t230_il2cpp_TypeInfo;
 #include "AssemblyU2DCSharp_TeamExtensionsMethodDeclarations.h"
 extern Il2CppType Team_t366_0_0_0;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo Dictionary_2__ctor_m2727_MethodInfo;
+extern MethodInfo Dictionary_2__ctor_m2729_MethodInfo;
 extern MethodInfo Type_GetTypeFromHandle_m385_MethodInfo;
-extern MethodInfo Enum_GetValues_m2728_MethodInfo;
-extern MethodInfo Array_GetEnumerator_m2729_MethodInfo;
+extern MethodInfo Enum_GetValues_m2730_MethodInfo;
+extern MethodInfo Array_GetEnumerator_m2731_MethodInfo;
 extern MethodInfo IEnumerator_get_Current_m494_MethodInfo;
 extern MethodInfo List_1__ctor_m2468_MethodInfo;
-extern MethodInfo Dictionary_2_set_Item_m2730_MethodInfo;
+extern MethodInfo Dictionary_2_set_Item_m2732_MethodInfo;
 extern MethodInfo IEnumerator_MoveNext_m497_MethodInfo;
 extern MethodInfo IDisposable_Dispose_m498_MethodInfo;
 extern MethodInfo PunTeams_UpdateTeams_m1866_MethodInfo;
 extern MethodInfo Dictionary_2_get_Item_m2341_MethodInfo;
-extern MethodInfo List_1_Clear_m2731_MethodInfo;
+extern MethodInfo List_1_Clear_m2733_MethodInfo;
 extern MethodInfo PhotonNetwork_get_playerList_m1478_MethodInfo;
 extern MethodInfo TeamExtensions_GetTeam_m1867_MethodInfo;
 extern MethodInfo List_1_Add_m2469_MethodInfo;
@@ -76410,15 +76418,15 @@ extern MethodInfo PunTeams_Start_m1863_MethodInfo;
 	NO_UNUSED_WARNING (__exception_local);
 	{
 		Dictionary_2_t367 * L_0 = (Dictionary_2_t367 *)il2cpp_codegen_object_new (InitializedTypeInfo(&Dictionary_2_t367_il2cpp_TypeInfo));
-		Dictionary_2__ctor_m2727(L_0, /*hidden argument*/&Dictionary_2__ctor_m2727_MethodInfo);
+		Dictionary_2__ctor_m2729(L_0, /*hidden argument*/&Dictionary_2__ctor_m2729_MethodInfo);
 		((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam = L_0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_1 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&Team_t366_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Enum_t79_il2cpp_TypeInfo));
-		Array_t * L_2 = Enum_GetValues_m2728(NULL /*static, unused*/, L_1, /*hidden argument*/&Enum_GetValues_m2728_MethodInfo);
+		Array_t * L_2 = Enum_GetValues_m2730(NULL /*static, unused*/, L_1, /*hidden argument*/&Enum_GetValues_m2730_MethodInfo);
 		V_0 = L_2;
 		NullCheck(V_0);
-		Object_t * L_3 = (Object_t *)VirtFuncInvoker0< Object_t * >::Invoke(&Array_GetEnumerator_m2729_MethodInfo, V_0);
+		Object_t * L_3 = (Object_t *)VirtFuncInvoker0< Object_t * >::Invoke(&Array_GetEnumerator_m2731_MethodInfo, V_0);
 		V_2 = L_3;
 	}
 
@@ -76438,7 +76446,7 @@ IL_0026:
 			List_1_t464 * L_5 = (List_1_t464 *)il2cpp_codegen_object_new (InitializedTypeInfo(&List_1_t464_il2cpp_TypeInfo));
 			List_1__ctor_m2468(L_5, /*hidden argument*/&List_1__ctor_m2468_MethodInfo);
 			NullCheck((((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam));
-			VirtActionInvoker2< uint8_t, List_1_t464 * >::Invoke(&Dictionary_2_set_Item_m2730_MethodInfo, (((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam), ((*(uint8_t*)((uint8_t*)UnBox (V_1, InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo))))), L_5);
+			VirtActionInvoker2< uint8_t, List_1_t464 * >::Invoke(&Dictionary_2_set_Item_m2732_MethodInfo, (((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam), ((*(uint8_t*)((uint8_t*)UnBox (V_1, InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo))))), L_5);
 		}
 
 IL_0042:
@@ -76560,10 +76568,10 @@ extern MethodInfo PunTeams_UpdateTeams_m1866_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_0 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&Team_t366_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Enum_t79_il2cpp_TypeInfo));
-		Array_t * L_1 = Enum_GetValues_m2728(NULL /*static, unused*/, L_0, /*hidden argument*/&Enum_GetValues_m2728_MethodInfo);
+		Array_t * L_1 = Enum_GetValues_m2730(NULL /*static, unused*/, L_0, /*hidden argument*/&Enum_GetValues_m2730_MethodInfo);
 		V_0 = L_1;
 		NullCheck(V_0);
-		Object_t * L_2 = (Object_t *)VirtFuncInvoker0< Object_t * >::Invoke(&Array_GetEnumerator_m2729_MethodInfo, V_0);
+		Object_t * L_2 = (Object_t *)VirtFuncInvoker0< Object_t * >::Invoke(&Array_GetEnumerator_m2731_MethodInfo, V_0);
 		V_2 = L_2;
 	}
 
@@ -76582,7 +76590,7 @@ IL_001c:
 			NullCheck((((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam));
 			List_1_t464 * L_4 = (List_1_t464 *)VirtFuncInvoker1< List_1_t464 *, uint8_t >::Invoke(&Dictionary_2_get_Item_m2341_MethodInfo, (((PunTeams_t368_StaticFields*)InitializedTypeInfo(&PunTeams_t368_il2cpp_TypeInfo)->static_fields)->___PlayersPerTeam), ((*(uint8_t*)((uint8_t*)UnBox (V_1, InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo))))));
 			NullCheck(L_4);
-			VirtActionInvoker0::Invoke(&List_1_Clear_m2731_MethodInfo, L_4);
+			VirtActionInvoker0::Invoke(&List_1_Clear_m2733_MethodInfo, L_4);
 		}
 
 IL_0038:
@@ -76975,7 +76983,7 @@ extern TypeInfo String_t_il2cpp_TypeInfo;
 extern TypeInfo Hashtable_t256_il2cpp_TypeInfo;
 extern TypeInfo Void_t40_il2cpp_TypeInfo;
 extern MethodInfo PhotonPlayer_get_customProperties_m1589_MethodInfo;
-extern MethodInfo Dictionary_2_TryGetValue_m2726_MethodInfo;
+extern MethodInfo Dictionary_2_TryGetValue_m2728_MethodInfo;
 extern MethodInfo PhotonNetwork_get_connectedAndReady_m1467_MethodInfo;
 extern MethodInfo PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo;
 extern MethodInfo String_Concat_m2471_MethodInfo;
@@ -76995,7 +77003,7 @@ extern MethodInfo TeamExtensions_GetTeam_m1867_MethodInfo;
 		NullCheck(___player);
 		Hashtable_t256 * L_0 = PhotonPlayer_get_customProperties_m1589(___player, /*hidden argument*/&PhotonPlayer_get_customProperties_m1589_MethodInfo);
 		NullCheck(L_0);
-		bool L_1 = (bool)VirtFuncInvoker2< bool, Object_t *, Object_t ** >::Invoke(&Dictionary_2_TryGetValue_m2726_MethodInfo, L_0, (String_t*) &_stringLiteral817, (&V_0));
+		bool L_1 = (bool)VirtFuncInvoker2< bool, Object_t *, Object_t ** >::Invoke(&Dictionary_2_TryGetValue_m2728_MethodInfo, L_0, (String_t*) &_stringLiteral819, (&V_0));
 		if (!L_1)
 		{
 			goto IL_001e;
@@ -77029,7 +77037,7 @@ extern MethodInfo TeamExtensions_SetTeam_m1868_MethodInfo;
 		int32_t L_2 = L_1;
 		Object_t * L_3 = Box(InitializedTypeInfo(&PeerState_t250_il2cpp_TypeInfo), &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_4 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral818, L_3, (String_t*) &_stringLiteral819, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_4 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral820, L_3, (String_t*) &_stringLiteral821, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_4, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -77053,7 +77061,7 @@ IL_0028:
 		uint8_t L_9 = ___team;
 		Object_t * L_10 = Box(InitializedTypeInfo(&Byte_t68_il2cpp_TypeInfo), &L_9);
 		NullCheck(V_1);
-		VirtActionInvoker2< Object_t *, Object_t * >::Invoke(&Dictionary_2_Add_m2476_MethodInfo, V_1, (String_t*) &_stringLiteral817, L_10);
+		VirtActionInvoker2< Object_t *, Object_t * >::Invoke(&Dictionary_2_Add_m2476_MethodInfo, V_1, (String_t*) &_stringLiteral819, L_10);
 		NullCheck(L_7);
 		PhotonPlayer_SetCustomProperties_m1596(L_7, V_1, /*hidden argument*/&PhotonPlayer_SetCustomProperties_m1596_MethodInfo);
 	}
@@ -77275,8 +77283,8 @@ extern TypeInfo QuitOnEscapeOrBack_t370_il2cpp_TypeInfo;
 
 extern TypeInfo Input_t444_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo Input_GetKeyDown_m2628_MethodInfo;
-extern MethodInfo Application_Quit_m2732_MethodInfo;
+extern MethodInfo Input_GetKeyDown_m2630_MethodInfo;
+extern MethodInfo Application_Quit_m2734_MethodInfo;
 
 
 // System.Void QuitOnEscapeOrBack::.ctor()
@@ -77292,14 +77300,14 @@ extern MethodInfo QuitOnEscapeOrBack_Update_m1870_MethodInfo;
  void QuitOnEscapeOrBack_Update_m1870 (QuitOnEscapeOrBack_t370 * __this, MethodInfo* method){
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Input_t444_il2cpp_TypeInfo));
-		bool L_0 = Input_GetKeyDown_m2628(NULL /*static, unused*/, ((int32_t)27), /*hidden argument*/&Input_GetKeyDown_m2628_MethodInfo);
+		bool L_0 = Input_GetKeyDown_m2630(NULL /*static, unused*/, ((int32_t)27), /*hidden argument*/&Input_GetKeyDown_m2630_MethodInfo);
 		if (!L_0)
 		{
 			goto IL_0011;
 		}
 	}
 	{
-		Application_Quit_m2732(NULL /*static, unused*/, /*hidden argument*/&Application_Quit_m2732_MethodInfo);
+		Application_Quit_m2734(NULL /*static, unused*/, /*hidden argument*/&Application_Quit_m2734_MethodInfo);
 	}
 
 IL_0011:
@@ -77491,9 +77499,9 @@ extern MethodInfo ServerTime_OnGUI_m1872_MethodInfo;
 		int32_t L_4 = ((int32_t)(L_2-L_3));
 		Object_t * L_5 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_4);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_6 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral820, L_5, /*hidden argument*/&String_Format_m2070_MethodInfo);
+		String_t* L_6 = String_Format_m2070(NULL /*static, unused*/, (String_t*) &_stringLiteral822, L_5, /*hidden argument*/&String_Format_m2070_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_6, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
-		bool L_7 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral821, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
+		bool L_7 = GUILayout_Button_m2069(NULL /*static, unused*/, (String_t*) &_stringLiteral823, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Button_m2069_MethodInfo);
 		if (!L_7)
 		{
 			goto IL_0068;
@@ -77678,22 +77686,22 @@ extern Il2CppType Font_t373_0_0_0;
 extern MethodInfo MonoBehaviour__ctor_m1349_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
 extern MethodInfo Type_GetTypeFromHandle_m385_MethodInfo;
-extern MethodInfo Resources_FindObjectsOfTypeAll_m2733_MethodInfo;
+extern MethodInfo Resources_FindObjectsOfTypeAll_m2735_MethodInfo;
 extern MethodInfo String_Concat_m380_MethodInfo;
 extern MethodInfo Debug_LogWarning_m422_MethodInfo;
 extern MethodInfo GameObject__ctor_m598_MethodInfo;
 extern MethodInfo GameObject_get_transform_m492_MethodInfo;
 extern MethodInfo Component_get_gameObject_m496_MethodInfo;
-extern MethodInfo Transform_set_parent_m2699_MethodInfo;
+extern MethodInfo Transform_set_parent_m2701_MethodInfo;
 extern MethodInfo Vector3_get_zero_m484_MethodInfo;
 extern MethodInfo Transform_set_localPosition_m531_MethodInfo;
-extern MethodInfo GameObject_AddComponent_TisMeshRenderer_t530_m2734_MethodInfo;
-extern MethodInfo Font_get_material_m2735_MethodInfo;
+extern MethodInfo GameObject_AddComponent_TisMeshRenderer_t530_m2736_MethodInfo;
+extern MethodInfo Font_get_material_m2737_MethodInfo;
 extern MethodInfo Renderer_set_material_m2226_MethodInfo;
-extern MethodInfo GameObject_AddComponent_TisTextMesh_t372_m2736_MethodInfo;
-extern MethodInfo TextMesh_set_font_m2737_MethodInfo;
-extern MethodInfo TextMesh_set_anchor_m2738_MethodInfo;
-extern MethodInfo TextMesh_set_characterSize_m2739_MethodInfo;
+extern MethodInfo GameObject_AddComponent_TisTextMesh_t372_m2738_MethodInfo;
+extern MethodInfo TextMesh_set_font_m2739_MethodInfo;
+extern MethodInfo TextMesh_set_anchor_m2740_MethodInfo;
+extern MethodInfo TextMesh_set_characterSize_m2741_MethodInfo;
 extern MethodInfo MonoBehaviour_get_photonView_m1350_MethodInfo;
 extern MethodInfo PhotonView_get_isMine_m1630_MethodInfo;
 extern MethodInfo Object_op_Inequality_m590_MethodInfo;
@@ -77702,18 +77710,18 @@ extern MethodInfo PhotonView_get_owner_m1626_MethodInfo;
 extern MethodInfo PhotonPlayer_get_name_m1586_MethodInfo;
 extern MethodInfo String_IsNullOrEmpty_m398_MethodInfo;
 extern MethodInfo PhotonPlayer_get_ID_m1585_MethodInfo;
-extern MethodInfo TextMesh_set_text_m2740_MethodInfo;
+extern MethodInfo TextMesh_set_text_m2742_MethodInfo;
 extern MethodInfo PhotonView_get_isSceneView_m1625_MethodInfo;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::AddComponent<UnityEngine.MeshRenderer>()
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.MeshRenderer>()
- MeshRenderer_t530 * GameObject_AddComponent_TisMeshRenderer_t530_m2734 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo GameObject_AddComponent_TisMeshRenderer_t530_m2734_MethodInfo;
+ MeshRenderer_t530 * GameObject_AddComponent_TisMeshRenderer_t530_m2736 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo GameObject_AddComponent_TisMeshRenderer_t530_m2736_MethodInfo;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::AddComponent<UnityEngine.TextMesh>()
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.TextMesh>()
- TextMesh_t372 * GameObject_AddComponent_TisTextMesh_t372_m2736 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo GameObject_AddComponent_TisTextMesh_t372_m2736_MethodInfo;
+ TextMesh_t372 * GameObject_AddComponent_TisTextMesh_t372_m2738 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo GameObject_AddComponent_TisTextMesh_t372_m2738_MethodInfo;
 
 
 // System.Void ShowInfoOfPlayer::.ctor()
@@ -77739,13 +77747,13 @@ extern MethodInfo ShowInfoOfPlayer_Start_m1874_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Type_t_il2cpp_TypeInfo));
 		Type_t * L_2 = Type_GetTypeFromHandle_m385(NULL /*static, unused*/, LoadTypeToken(&Font_t373_0_0_0), /*hidden argument*/&Type_GetTypeFromHandle_m385_MethodInfo);
-		ObjectU5BU5D_t494* L_3 = Resources_FindObjectsOfTypeAll_m2733(NULL /*static, unused*/, L_2, /*hidden argument*/&Resources_FindObjectsOfTypeAll_m2733_MethodInfo);
+		ObjectU5BU5D_t494* L_3 = Resources_FindObjectsOfTypeAll_m2735(NULL /*static, unused*/, L_2, /*hidden argument*/&Resources_FindObjectsOfTypeAll_m2735_MethodInfo);
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 0);
 		__this->___font = ((Font_t373 *)Castclass((*(Object_t111 **)(Object_t111 **)SZArrayLdElema(L_3, 0)), InitializedTypeInfo(&Font_t373_il2cpp_TypeInfo)));
 		Font_t373 * L_4 = (__this->___font);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral822, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral824, L_4, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_5, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -77760,7 +77768,7 @@ IL_0042:
 	}
 	{
 		GameObject_t47 * L_8 = (GameObject_t47 *)il2cpp_codegen_object_new (InitializedTypeInfo(&GameObject_t47_il2cpp_TypeInfo));
-		GameObject__ctor_m598(L_8, (String_t*) &_stringLiteral823, /*hidden argument*/&GameObject__ctor_m598_MethodInfo);
+		GameObject__ctor_m598(L_8, (String_t*) &_stringLiteral825, /*hidden argument*/&GameObject__ctor_m598_MethodInfo);
 		__this->___textGo = L_8;
 		GameObject_t47 * L_9 = (__this->___textGo);
 		NullCheck(L_9);
@@ -77769,7 +77777,7 @@ IL_0042:
 		NullCheck(L_11);
 		Transform_t56 * L_12 = GameObject_get_transform_m492(L_11, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
 		NullCheck(L_10);
-		Transform_set_parent_m2699(L_10, L_12, /*hidden argument*/&Transform_set_parent_m2699_MethodInfo);
+		Transform_set_parent_m2701(L_10, L_12, /*hidden argument*/&Transform_set_parent_m2701_MethodInfo);
 		GameObject_t47 * L_13 = (__this->___textGo);
 		NullCheck(L_13);
 		Transform_t56 * L_14 = GameObject_get_transform_m492(L_13, /*hidden argument*/&GameObject_get_transform_m492_MethodInfo);
@@ -77778,24 +77786,24 @@ IL_0042:
 		Transform_set_localPosition_m531(L_14, L_15, /*hidden argument*/&Transform_set_localPosition_m531_MethodInfo);
 		GameObject_t47 * L_16 = (__this->___textGo);
 		NullCheck(L_16);
-		MeshRenderer_t530 * L_17 = GameObject_AddComponent_TisMeshRenderer_t530_m2734(L_16, /*hidden argument*/&GameObject_AddComponent_TisMeshRenderer_t530_m2734_MethodInfo);
+		MeshRenderer_t530 * L_17 = GameObject_AddComponent_TisMeshRenderer_t530_m2736(L_16, /*hidden argument*/&GameObject_AddComponent_TisMeshRenderer_t530_m2736_MethodInfo);
 		V_0 = L_17;
 		Font_t373 * L_18 = (__this->___font);
 		NullCheck(L_18);
-		Material_t108 * L_19 = Font_get_material_m2735(L_18, /*hidden argument*/&Font_get_material_m2735_MethodInfo);
+		Material_t108 * L_19 = Font_get_material_m2737(L_18, /*hidden argument*/&Font_get_material_m2737_MethodInfo);
 		NullCheck(V_0);
 		Renderer_set_material_m2226(V_0, L_19, /*hidden argument*/&Renderer_set_material_m2226_MethodInfo);
 		GameObject_t47 * L_20 = (__this->___textGo);
 		NullCheck(L_20);
-		TextMesh_t372 * L_21 = GameObject_AddComponent_TisTextMesh_t372_m2736(L_20, /*hidden argument*/&GameObject_AddComponent_TisTextMesh_t372_m2736_MethodInfo);
+		TextMesh_t372 * L_21 = GameObject_AddComponent_TisTextMesh_t372_m2738(L_20, /*hidden argument*/&GameObject_AddComponent_TisTextMesh_t372_m2738_MethodInfo);
 		__this->___tm = L_21;
 		TextMesh_t372 * L_22 = (__this->___tm);
 		Font_t373 * L_23 = (__this->___font);
 		NullCheck(L_22);
-		TextMesh_set_font_m2737(L_22, L_23, /*hidden argument*/&TextMesh_set_font_m2737_MethodInfo);
+		TextMesh_set_font_m2739(L_22, L_23, /*hidden argument*/&TextMesh_set_font_m2739_MethodInfo);
 		TextMesh_t372 * L_24 = (__this->___tm);
 		NullCheck(L_24);
-		TextMesh_set_anchor_m2738(L_24, 4, /*hidden argument*/&TextMesh_set_anchor_m2738_MethodInfo);
+		TextMesh_set_anchor_m2740(L_24, 4, /*hidden argument*/&TextMesh_set_anchor_m2740_MethodInfo);
 		float L_25 = (__this->___CharacterSize);
 		if ((((float)L_25) <= ((float)(0.0f))))
 		{
@@ -77806,7 +77814,7 @@ IL_0042:
 		TextMesh_t372 * L_26 = (__this->___tm);
 		float L_27 = (__this->___CharacterSize);
 		NullCheck(L_26);
-		TextMesh_set_characterSize_m2739(L_26, L_27, /*hidden argument*/&TextMesh_set_characterSize_m2739_MethodInfo);
+		TextMesh_set_characterSize_m2741(L_26, L_27, /*hidden argument*/&TextMesh_set_characterSize_m2741_MethodInfo);
 	}
 
 IL_00ff:
@@ -77901,7 +77909,7 @@ IL_003e:
 		int32_t L_12 = L_11;
 		Object_t * L_13 = Box(InitializedTypeInfo(&Int32_t63_il2cpp_TypeInfo), &L_12);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_14 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral824, L_13, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_14 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral826, L_13, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		G_B11_0 = L_14;
 		G_B11_1 = G_B9_0;
 		goto IL_0086;
@@ -77918,7 +77926,7 @@ IL_0080:
 IL_0086:
 	{
 		NullCheck(G_B11_1);
-		TextMesh_set_text_m2740(G_B11_1, G_B11_0, /*hidden argument*/&TextMesh_set_text_m2740_MethodInfo);
+		TextMesh_set_text_m2742(G_B11_1, G_B11_0, /*hidden argument*/&TextMesh_set_text_m2742_MethodInfo);
 		goto IL_00c5;
 	}
 
@@ -77935,7 +77943,7 @@ IL_0090:
 	{
 		TextMesh_t372 * L_18 = (__this->___tm);
 		NullCheck(L_18);
-		TextMesh_set_text_m2740(L_18, (String_t*) &_stringLiteral825, /*hidden argument*/&TextMesh_set_text_m2740_MethodInfo);
+		TextMesh_set_text_m2742(L_18, (String_t*) &_stringLiteral827, /*hidden argument*/&TextMesh_set_text_m2742_MethodInfo);
 		goto IL_00c5;
 	}
 
@@ -77943,7 +77951,7 @@ IL_00b5:
 	{
 		TextMesh_t372 * L_19 = (__this->___tm);
 		NullCheck(L_19);
-		TextMesh_set_text_m2740(L_19, (String_t*) &_stringLiteral826, /*hidden argument*/&TextMesh_set_text_m2740_MethodInfo);
+		TextMesh_set_text_m2742(L_19, (String_t*) &_stringLiteral828, /*hidden argument*/&TextMesh_set_text_m2742_MethodInfo);
 	}
 
 IL_00c5:
@@ -78230,7 +78238,7 @@ extern MethodInfo String_Concat_m380_MethodInfo;
 extern MethodInfo GUILayout_Label_m2063_MethodInfo;
 extern MethodInfo GUILayout_EndArea_m2224_MethodInfo;
 extern MethodInfo Behaviour_set_enabled_m603_MethodInfo;
-extern MethodInfo Time_get_timeSinceLevelLoad_m2741_MethodInfo;
+extern MethodInfo Time_get_timeSinceLevelLoad_m2743_MethodInfo;
 extern MethodInfo Mathf_FloorToInt_m461_MethodInfo;
 
 
@@ -78276,7 +78284,7 @@ IL_001c:
 		GUILayout_BeginArea_m2283(NULL /*static, unused*/, V_2, L_6, /*hidden argument*/&GUILayout_BeginArea_m2283_MethodInfo);
 		String_t* L_7 = ShowStatusWhenConnecting_GetConnectingDots_m1878(__this, /*hidden argument*/&ShowStatusWhenConnecting_GetConnectingDots_m1878_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_8 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral827, L_7, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_8 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral829, L_7, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		GUISkin_t137 * L_9 = GUI_get_skin_m2055(NULL /*static, unused*/, /*hidden argument*/&GUI_get_skin_m2055_MethodInfo);
 		NullCheck(L_9);
 		GUIStyleU5BU5D_t456* L_10 = GUISkin_get_customStyles_m2284(L_9, /*hidden argument*/&GUISkin_get_customStyles_m2284_MethodInfo);
@@ -78287,7 +78295,7 @@ IL_001c:
 		int32_t L_11 = PhotonNetwork_get_connectionStateDetailed_m1469(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo);
 		int32_t L_12 = L_11;
 		Object_t * L_13 = Box(InitializedTypeInfo(&PeerState_t250_il2cpp_TypeInfo), &L_12);
-		String_t* L_14 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral828, L_13, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_14 = String_Concat_m380(NULL /*static, unused*/, (String_t*) &_stringLiteral830, L_13, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		GUILayout_Label_m2063(NULL /*static, unused*/, L_14, ((GUILayoutOptionU5BU5D_t417*)SZArrayNew(InitializedTypeInfo(&GUILayoutOptionU5BU5D_t417_il2cpp_TypeInfo), 0)), /*hidden argument*/&GUILayout_Label_m2063_MethodInfo);
 		GUILayout_EndArea_m2224(NULL /*static, unused*/, /*hidden argument*/&GUILayout_EndArea_m2224_MethodInfo);
 		int32_t L_15 = PhotonNetwork_get_connectionStateDetailed_m1469(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_connectionStateDetailed_m1469_MethodInfo);
@@ -78314,7 +78322,7 @@ extern MethodInfo ShowStatusWhenConnecting_GetConnectingDots_m1878_MethodInfo;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
 		V_0 = (((String_t_StaticFields*)(&String_t_il2cpp_TypeInfo)->static_fields)->___Empty);
-		float L_0 = Time_get_timeSinceLevelLoad_m2741(NULL /*static, unused*/, /*hidden argument*/&Time_get_timeSinceLevelLoad_m2741_MethodInfo);
+		float L_0 = Time_get_timeSinceLevelLoad_m2743(NULL /*static, unused*/, /*hidden argument*/&Time_get_timeSinceLevelLoad_m2743_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&Mathf_t82_il2cpp_TypeInfo));
 		int32_t L_1 = Mathf_FloorToInt_m461(NULL /*static, unused*/, (fmodf(((float)(L_0*(3.0f))), (4.0f))), /*hidden argument*/&Mathf_FloorToInt_m461_MethodInfo);
 		V_1 = L_1;
@@ -78325,7 +78333,7 @@ extern MethodInfo ShowStatusWhenConnecting_GetConnectingDots_m1878_MethodInfo;
 IL_0024:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_2 = String_Concat_m604(NULL /*static, unused*/, V_0, (String_t*) &_stringLiteral829, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_2 = String_Concat_m604(NULL /*static, unused*/, V_0, (String_t*) &_stringLiteral831, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		V_0 = L_2;
 		V_2 = ((int32_t)(V_2+1));
 	}
@@ -78588,7 +78596,7 @@ extern MethodInfo SmoothSyncMovement_Awake_m1880_MethodInfo;
 IL_0027:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, __this, (String_t*) &_stringLiteral830, /*hidden argument*/&String_Concat_m380_MethodInfo);
+		String_t* L_5 = String_Concat_m380(NULL /*static, unused*/, __this, (String_t*) &_stringLiteral832, /*hidden argument*/&String_Concat_m380_MethodInfo);
 		Debug_LogWarning_m422(NULL /*static, unused*/, L_5, /*hidden argument*/&Debug_LogWarning_m422_MethodInfo);
 	}
 
@@ -78923,16 +78931,16 @@ extern TypeInfo SupportLogger_t377_il2cpp_TypeInfo;
 extern TypeInfo GameObject_t47_il2cpp_TypeInfo;
 extern TypeInfo SupportLogging_t378_il2cpp_TypeInfo;
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo GameObject_Find_m2742_MethodInfo;
+extern MethodInfo GameObject_Find_m2744_MethodInfo;
 extern MethodInfo Object_op_Equality_m631_MethodInfo;
 extern MethodInfo GameObject__ctor_m598_MethodInfo;
 extern MethodInfo Object_DontDestroyOnLoad_m2230_MethodInfo;
-extern MethodInfo GameObject_AddComponent_TisSupportLogging_t378_m2743_MethodInfo;
+extern MethodInfo GameObject_AddComponent_TisSupportLogging_t378_m2745_MethodInfo;
 struct GameObject_t47;
 // Declaration !!0 UnityEngine.GameObject::AddComponent<SupportLogging>()
 // !!0 UnityEngine.GameObject::AddComponent<SupportLogging>()
- SupportLogging_t378 * GameObject_AddComponent_TisSupportLogging_t378_m2743 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern MethodInfo GameObject_AddComponent_TisSupportLogging_t378_m2743_MethodInfo;
+ SupportLogging_t378 * GameObject_AddComponent_TisSupportLogging_t378_m2745 (GameObject_t47 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern MethodInfo GameObject_AddComponent_TisSupportLogging_t378_m2745_MethodInfo;
 
 
 // System.Void SupportLogger::.ctor()
@@ -78950,7 +78958,7 @@ extern MethodInfo SupportLogger_Start_m1884_MethodInfo;
 	GameObject_t47 * V_0 = {0};
 	SupportLogging_t378 * V_1 = {0};
 	{
-		GameObject_t47 * L_0 = GameObject_Find_m2742(NULL /*static, unused*/, (String_t*) &_stringLiteral831, /*hidden argument*/&GameObject_Find_m2742_MethodInfo);
+		GameObject_t47 * L_0 = GameObject_Find_m2744(NULL /*static, unused*/, (String_t*) &_stringLiteral833, /*hidden argument*/&GameObject_Find_m2744_MethodInfo);
 		V_0 = L_0;
 		bool L_1 = Object_op_Equality_m631(NULL /*static, unused*/, V_0, (Object_t111 *)NULL, /*hidden argument*/&Object_op_Equality_m631_MethodInfo);
 		if (!L_1)
@@ -78960,11 +78968,11 @@ extern MethodInfo SupportLogger_Start_m1884_MethodInfo;
 	}
 	{
 		GameObject_t47 * L_2 = (GameObject_t47 *)il2cpp_codegen_object_new (InitializedTypeInfo(&GameObject_t47_il2cpp_TypeInfo));
-		GameObject__ctor_m598(L_2, (String_t*) &_stringLiteral831, /*hidden argument*/&GameObject__ctor_m598_MethodInfo);
+		GameObject__ctor_m598(L_2, (String_t*) &_stringLiteral833, /*hidden argument*/&GameObject__ctor_m598_MethodInfo);
 		V_0 = L_2;
 		Object_DontDestroyOnLoad_m2230(NULL /*static, unused*/, V_0, /*hidden argument*/&Object_DontDestroyOnLoad_m2230_MethodInfo);
 		NullCheck(V_0);
-		SupportLogging_t378 * L_3 = GameObject_AddComponent_TisSupportLogging_t378_m2743(V_0, /*hidden argument*/&GameObject_AddComponent_TisSupportLogging_t378_m2743_MethodInfo);
+		SupportLogging_t378 * L_3 = GameObject_AddComponent_TisSupportLogging_t378_m2745(V_0, /*hidden argument*/&GameObject_AddComponent_TisSupportLogging_t378_m2745_MethodInfo);
 		V_1 = L_3;
 		bool L_4 = (__this->___LogTrafficStats);
 		NullCheck(V_1);
@@ -79147,19 +79155,19 @@ extern TypeInfo Object_t_il2cpp_TypeInfo;
 // System.Text.StringBuilder
 #include "mscorlib_System_Text_StringBuilderMethodDeclarations.h"
 extern MethodInfo MonoBehaviour__ctor_m482_MethodInfo;
-extern MethodInfo MonoBehaviour_InvokeRepeating_m2744_MethodInfo;
-extern MethodInfo MonoBehaviour_CancelInvoke_m2745_MethodInfo;
+extern MethodInfo MonoBehaviour_InvokeRepeating_m2746_MethodInfo;
+extern MethodInfo MonoBehaviour_CancelInvoke_m2747_MethodInfo;
 extern MethodInfo PhotonNetwork_NetworkStatisticsToString_m1524_MethodInfo;
 extern MethodInfo String_Concat_m604_MethodInfo;
 extern MethodInfo Debug_Log_m384_MethodInfo;
-extern MethodInfo StringBuilder__ctor_m2746_MethodInfo;
-extern MethodInfo StringBuilder_AppendFormat_m2747_MethodInfo;
+extern MethodInfo StringBuilder__ctor_m2748_MethodInfo;
+extern MethodInfo StringBuilder_AppendFormat_m2749_MethodInfo;
 extern MethodInfo String_Substring_m606_MethodInfo;
 extern MethodInfo NetworkingPeer_get_mAppVersionPun_m1227_MethodInfo;
-extern MethodInfo StringBuilder_AppendFormat_m2748_MethodInfo;
+extern MethodInfo StringBuilder_AppendFormat_m2750_MethodInfo;
 extern MethodInfo PhotonNetwork_get_ServerAddress_m1464_MethodInfo;
 extern MethodInfo NetworkingPeer_get_CloudRegion_m1261_MethodInfo;
-extern MethodInfo StringBuilder_ToString_m2749_MethodInfo;
+extern MethodInfo StringBuilder_ToString_m2751_MethodInfo;
 extern MethodInfo SupportLogging_LogBasics_m1889_MethodInfo;
 extern MethodInfo PhotonNetwork_set_NetworkStatisticsEnabled_m1515_MethodInfo;
 extern MethodInfo String_Concat_m2471_MethodInfo;
@@ -79187,7 +79195,7 @@ extern MethodInfo SupportLogging_Start_m1886_MethodInfo;
 		}
 	}
 	{
-		MonoBehaviour_InvokeRepeating_m2744(__this, (String_t*) &_stringLiteral832, (10.0f), (10.0f), /*hidden argument*/&MonoBehaviour_InvokeRepeating_m2744_MethodInfo);
+		MonoBehaviour_InvokeRepeating_m2746(__this, (String_t*) &_stringLiteral834, (10.0f), (10.0f), /*hidden argument*/&MonoBehaviour_InvokeRepeating_m2746_MethodInfo);
 	}
 
 IL_0020:
@@ -79199,7 +79207,7 @@ IL_0020:
 extern MethodInfo SupportLogging_OnApplicationQuit_m1887_MethodInfo;
  void SupportLogging_OnApplicationQuit_m1887 (SupportLogging_t378 * __this, MethodInfo* method){
 	{
-		MonoBehaviour_CancelInvoke_m2745(__this, /*hidden argument*/&MonoBehaviour_CancelInvoke_m2745_MethodInfo);
+		MonoBehaviour_CancelInvoke_m2747(__this, /*hidden argument*/&MonoBehaviour_CancelInvoke_m2747_MethodInfo);
 		return;
 	}
 }
@@ -79217,7 +79225,7 @@ extern MethodInfo SupportLogging_LogStats_m1888_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		String_t* L_1 = PhotonNetwork_NetworkStatisticsToString_m1524(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_NetworkStatisticsToString_m1524_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_2 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral833, L_1, /*hidden argument*/&String_Concat_m604_MethodInfo);
+		String_t* L_2 = String_Concat_m604(NULL /*static, unused*/, (String_t*) &_stringLiteral835, L_1, /*hidden argument*/&String_Concat_m604_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_2, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 	}
 
@@ -79232,10 +79240,10 @@ extern MethodInfo SupportLogging_LogBasics_m1889_MethodInfo;
 	StringBuilder_t531 * V_0 = {0};
 	{
 		StringBuilder_t531 * L_0 = (StringBuilder_t531 *)il2cpp_codegen_object_new (InitializedTypeInfo(&StringBuilder_t531_il2cpp_TypeInfo));
-		StringBuilder__ctor_m2746(L_0, /*hidden argument*/&StringBuilder__ctor_m2746_MethodInfo);
+		StringBuilder__ctor_m2748(L_0, /*hidden argument*/&StringBuilder__ctor_m2748_MethodInfo);
 		V_0 = L_0;
 		NullCheck(V_0);
-		StringBuilder_AppendFormat_m2747(V_0, (String_t*) &_stringLiteral834, (String_t*) &_stringLiteral474, /*hidden argument*/&StringBuilder_AppendFormat_m2747_MethodInfo);
+		StringBuilder_AppendFormat_m2749(V_0, (String_t*) &_stringLiteral836, (String_t*) &_stringLiteral474, /*hidden argument*/&StringBuilder_AppendFormat_m2749_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		String_t* L_1 = ((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer)->___mAppId);
@@ -79244,22 +79252,22 @@ extern MethodInfo SupportLogging_LogBasics_m1889_MethodInfo;
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		String_t* L_3 = NetworkingPeer_get_mAppVersionPun_m1227((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_mAppVersionPun_m1227_MethodInfo);
 		NullCheck(V_0);
-		StringBuilder_AppendFormat_m2748(V_0, (String_t*) &_stringLiteral835, L_2, L_3, /*hidden argument*/&StringBuilder_AppendFormat_m2748_MethodInfo);
+		StringBuilder_AppendFormat_m2750(V_0, (String_t*) &_stringLiteral837, L_2, L_3, /*hidden argument*/&StringBuilder_AppendFormat_m2750_MethodInfo);
 		String_t* L_4 = PhotonNetwork_get_ServerAddress_m1464(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_ServerAddress_m1464_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer));
 		int32_t L_5 = NetworkingPeer_get_CloudRegion_m1261((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___networkingPeer), /*hidden argument*/&NetworkingPeer_get_CloudRegion_m1261_MethodInfo);
 		int32_t L_6 = L_5;
 		Object_t * L_7 = Box(InitializedTypeInfo(&CloudRegionCode_t247_il2cpp_TypeInfo), &L_6);
 		NullCheck(V_0);
-		StringBuilder_AppendFormat_m2748(V_0, (String_t*) &_stringLiteral836, L_4, L_7, /*hidden argument*/&StringBuilder_AppendFormat_m2748_MethodInfo);
+		StringBuilder_AppendFormat_m2750(V_0, (String_t*) &_stringLiteral838, L_4, L_7, /*hidden argument*/&StringBuilder_AppendFormat_m2750_MethodInfo);
 		NullCheck((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___PhotonServerSettings));
 		int32_t L_8 = ((((PhotonNetwork_t306_StaticFields*)InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo)->static_fields)->___PhotonServerSettings)->___HostType);
 		int32_t L_9 = L_8;
 		Object_t * L_10 = Box(InitializedTypeInfo(&HostingOption_t318_il2cpp_TypeInfo), &L_9);
 		NullCheck(V_0);
-		StringBuilder_AppendFormat_m2747(V_0, (String_t*) &_stringLiteral837, L_10, /*hidden argument*/&StringBuilder_AppendFormat_m2747_MethodInfo);
+		StringBuilder_AppendFormat_m2749(V_0, (String_t*) &_stringLiteral839, L_10, /*hidden argument*/&StringBuilder_AppendFormat_m2749_MethodInfo);
 		NullCheck(V_0);
-		String_t* L_11 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&StringBuilder_ToString_m2749_MethodInfo, V_0);
+		String_t* L_11 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(&StringBuilder_ToString_m2751_MethodInfo, V_0);
 		Debug_Log_m384(NULL /*static, unused*/, L_11, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
@@ -79268,7 +79276,7 @@ extern MethodInfo SupportLogging_LogBasics_m1889_MethodInfo;
 extern MethodInfo SupportLogging_OnConnectedToPhoton_m1890_MethodInfo;
  void SupportLogging_OnConnectedToPhoton_m1890 (SupportLogging_t378 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral838, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral840, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		SupportLogging_LogBasics_m1889(__this, /*hidden argument*/&SupportLogging_LogBasics_m1889_MethodInfo);
 		bool L_0 = (__this->___LogTrafficStats);
 		if (!L_0)
@@ -79293,7 +79301,7 @@ extern MethodInfo SupportLogging_OnFailedToConnectToPhoton_m1891_MethodInfo;
 		int32_t L_0 = ___cause;
 		Object_t * L_1 = Box(InitializedTypeInfo(&DisconnectCause_t251_il2cpp_TypeInfo), &L_0);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_2 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral839, L_1, (String_t*) &_stringLiteral840, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_2 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral841, L_1, (String_t*) &_stringLiteral842, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_2, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		SupportLogging_LogBasics_m1889(__this, /*hidden argument*/&SupportLogging_LogBasics_m1889_MethodInfo);
 		return;
@@ -79306,7 +79314,7 @@ extern MethodInfo SupportLogging_OnJoinedLobby_m1892_MethodInfo;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		TypedLobby_t263 * L_0 = PhotonNetwork_get_lobby_m1496(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_lobby_m1496_MethodInfo);
 		IL2CPP_RUNTIME_CLASS_INIT((&String_t_il2cpp_TypeInfo));
-		String_t* L_1 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral841, L_0, (String_t*) &_stringLiteral840, /*hidden argument*/&String_Concat_m2471_MethodInfo);
+		String_t* L_1 = String_Concat_m2471(NULL /*static, unused*/, (String_t*) &_stringLiteral843, L_0, (String_t*) &_stringLiteral842, /*hidden argument*/&String_Concat_m2471_MethodInfo);
 		Debug_Log_m384(NULL /*static, unused*/, L_1, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
@@ -79318,8 +79326,8 @@ extern MethodInfo SupportLogging_OnJoinedRoom_m1893_MethodInfo;
 		ObjectU5BU5D_t5* L_0 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 6));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral842);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral842;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral844);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral844;
 		ObjectU5BU5D_t5* L_1 = L_0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		Room_t286 * L_2 = PhotonNetwork_get_room_m1472(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_room_m1472_MethodInfo);
@@ -79330,8 +79338,8 @@ extern MethodInfo SupportLogging_OnJoinedRoom_m1893_MethodInfo;
 		ObjectU5BU5D_t5* L_3 = L_1;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 2);
-		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral843);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 2)) = (Object_t *)(String_t*) &_stringLiteral843;
+		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral845);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 2)) = (Object_t *)(String_t*) &_stringLiteral845;
 		ObjectU5BU5D_t5* L_4 = L_3;
 		TypedLobby_t263 * L_5 = PhotonNetwork_get_lobby_m1496(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_lobby_m1496_MethodInfo);
 		NullCheck(L_4);
@@ -79341,8 +79349,8 @@ extern MethodInfo SupportLogging_OnJoinedRoom_m1893_MethodInfo;
 		ObjectU5BU5D_t5* L_6 = L_4;
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, 4);
-		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral844);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 4)) = (Object_t *)(String_t*) &_stringLiteral844;
+		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral846);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 4)) = (Object_t *)(String_t*) &_stringLiteral846;
 		ObjectU5BU5D_t5* L_7 = L_6;
 		String_t* L_8 = PhotonNetwork_get_ServerAddress_m1464(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_ServerAddress_m1464_MethodInfo);
 		NullCheck(L_7);
@@ -79362,8 +79370,8 @@ extern MethodInfo SupportLogging_OnCreatedRoom_m1894_MethodInfo;
 		ObjectU5BU5D_t5* L_0 = ((ObjectU5BU5D_t5*)SZArrayNew(InitializedTypeInfo(&ObjectU5BU5D_t5_il2cpp_TypeInfo), 6));
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
-		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral845);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral845;
+		ArrayElementTypeCheck (L_0, (String_t*) &_stringLiteral847);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0)) = (Object_t *)(String_t*) &_stringLiteral847;
 		ObjectU5BU5D_t5* L_1 = L_0;
 		IL2CPP_RUNTIME_CLASS_INIT(InitializedTypeInfo(&PhotonNetwork_t306_il2cpp_TypeInfo));
 		Room_t286 * L_2 = PhotonNetwork_get_room_m1472(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_room_m1472_MethodInfo);
@@ -79374,8 +79382,8 @@ extern MethodInfo SupportLogging_OnCreatedRoom_m1894_MethodInfo;
 		ObjectU5BU5D_t5* L_3 = L_1;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 2);
-		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral843);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 2)) = (Object_t *)(String_t*) &_stringLiteral843;
+		ArrayElementTypeCheck (L_3, (String_t*) &_stringLiteral845);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_3, 2)) = (Object_t *)(String_t*) &_stringLiteral845;
 		ObjectU5BU5D_t5* L_4 = L_3;
 		TypedLobby_t263 * L_5 = PhotonNetwork_get_lobby_m1496(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_lobby_m1496_MethodInfo);
 		NullCheck(L_4);
@@ -79385,8 +79393,8 @@ extern MethodInfo SupportLogging_OnCreatedRoom_m1894_MethodInfo;
 		ObjectU5BU5D_t5* L_6 = L_4;
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, 4);
-		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral844);
-		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 4)) = (Object_t *)(String_t*) &_stringLiteral844;
+		ArrayElementTypeCheck (L_6, (String_t*) &_stringLiteral846);
+		*((Object_t **)(Object_t **)SZArrayLdElema(L_6, 4)) = (Object_t *)(String_t*) &_stringLiteral846;
 		ObjectU5BU5D_t5* L_7 = L_6;
 		String_t* L_8 = PhotonNetwork_get_ServerAddress_m1464(NULL /*static, unused*/, /*hidden argument*/&PhotonNetwork_get_ServerAddress_m1464_MethodInfo);
 		NullCheck(L_7);
@@ -79403,7 +79411,7 @@ extern MethodInfo SupportLogging_OnCreatedRoom_m1894_MethodInfo;
 extern MethodInfo SupportLogging_OnLeftRoom_m1895_MethodInfo;
  void SupportLogging_OnLeftRoom_m1895 (SupportLogging_t378 * __this, MethodInfo* method){
 	{
-		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral846, /*hidden argument*/&Debug_Log_m384_MethodInfo);
+		Debug_Log_m384(NULL /*static, unused*/, (String_t*) &_stringLiteral848, /*hidden argument*/&Debug_Log_m384_MethodInfo);
 		return;
 	}
 }

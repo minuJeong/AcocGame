@@ -24,70 +24,70 @@ struct Exception_t107;
 #include "mscorlib_System_Globalization_NumberStyles.h"
 
 // System.Object System.Double::System.IConvertible.ToType(System.Type,System.IFormatProvider)
- Object_t * Double_System_IConvertible_ToType_m10791 (double* __this, Type_t * ___targetType, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Double_System_IConvertible_ToType_m10794 (double* __this, Type_t * ___targetType, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::System.IConvertible.ToBoolean(System.IFormatProvider)
- bool Double_System_IConvertible_ToBoolean_m10792 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_System_IConvertible_ToBoolean_m10795 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Byte System.Double::System.IConvertible.ToByte(System.IFormatProvider)
- uint8_t Double_System_IConvertible_ToByte_m10793 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ uint8_t Double_System_IConvertible_ToByte_m10796 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Char System.Double::System.IConvertible.ToChar(System.IFormatProvider)
- uint16_t Double_System_IConvertible_ToChar_m10794 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ uint16_t Double_System_IConvertible_ToChar_m10797 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.DateTime System.Double::System.IConvertible.ToDateTime(System.IFormatProvider)
- DateTime_t126  Double_System_IConvertible_ToDateTime_m10795 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ DateTime_t126  Double_System_IConvertible_ToDateTime_m10798 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Decimal System.Double::System.IConvertible.ToDecimal(System.IFormatProvider)
- Decimal_t881  Double_System_IConvertible_ToDecimal_m10796 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Decimal_t881  Double_System_IConvertible_ToDecimal_m10799 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Double System.Double::System.IConvertible.ToDouble(System.IFormatProvider)
- double Double_System_IConvertible_ToDouble_m10797 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ double Double_System_IConvertible_ToDouble_m10800 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int16 System.Double::System.IConvertible.ToInt16(System.IFormatProvider)
- int16_t Double_System_IConvertible_ToInt16_m10798 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int16_t Double_System_IConvertible_ToInt16_m10801 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Double::System.IConvertible.ToInt32(System.IFormatProvider)
- int32_t Double_System_IConvertible_ToInt32_m10799 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Double_System_IConvertible_ToInt32_m10802 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int64 System.Double::System.IConvertible.ToInt64(System.IFormatProvider)
- int64_t Double_System_IConvertible_ToInt64_m10800 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int64_t Double_System_IConvertible_ToInt64_m10803 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.SByte System.Double::System.IConvertible.ToSByte(System.IFormatProvider)
- int8_t Double_System_IConvertible_ToSByte_m10801 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int8_t Double_System_IConvertible_ToSByte_m10804 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Single System.Double::System.IConvertible.ToSingle(System.IFormatProvider)
- float Double_System_IConvertible_ToSingle_m10802 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ float Double_System_IConvertible_ToSingle_m10805 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.UInt16 System.Double::System.IConvertible.ToUInt16(System.IFormatProvider)
- uint16_t Double_System_IConvertible_ToUInt16_m10803 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ uint16_t Double_System_IConvertible_ToUInt16_m10806 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.UInt32 System.Double::System.IConvertible.ToUInt32(System.IFormatProvider)
- uint32_t Double_System_IConvertible_ToUInt32_m10804 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ uint32_t Double_System_IConvertible_ToUInt32_m10807 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.UInt64 System.Double::System.IConvertible.ToUInt64(System.IFormatProvider)
- uint64_t Double_System_IConvertible_ToUInt64_m10805 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ uint64_t Double_System_IConvertible_ToUInt64_m10808 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Double::CompareTo(System.Object)
- int32_t Double_CompareTo_m10806 (double* __this, Object_t * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Double_CompareTo_m10809 (double* __this, Object_t * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::Equals(System.Object)
- bool Double_Equals_m10807 (double* __this, Object_t * ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_Equals_m10810 (double* __this, Object_t * ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Double::CompareTo(System.Double)
- int32_t Double_CompareTo_m10808 (double* __this, double ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Double_CompareTo_m10811 (double* __this, double ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::Equals(System.Double)
- bool Double_Equals_m5156 (double* __this, double ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_Equals_m5158 (double* __this, double ___obj, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Double::GetHashCode()
- int32_t Double_GetHashCode_m10809 (double* __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ int32_t Double_GetHashCode_m10812 (double* __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::IsInfinity(System.Double)
- bool Double_IsInfinity_m10810 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_IsInfinity_m10813 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::IsNaN(System.Double)
- bool Double_IsNaN_m10811 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_IsNaN_m10814 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::IsNegativeInfinity(System.Double)
- bool Double_IsNegativeInfinity_m10812 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_IsNegativeInfinity_m10815 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::IsPositiveInfinity(System.Double)
- bool Double_IsPositiveInfinity_m10813 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_IsPositiveInfinity_m10816 (Object_t * __this/* static, unused */, double ___d, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Double System.Double::Parse(System.String,System.IFormatProvider)
- double Double_Parse_m4747 (Object_t * __this/* static, unused */, String_t* ___s, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ double Double_Parse_m4749 (Object_t * __this/* static, unused */, String_t* ___s, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Double System.Double::Parse(System.String,System.Globalization.NumberStyles,System.IFormatProvider)
- double Double_Parse_m10814 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ double Double_Parse_m10817 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::Parse(System.String,System.Globalization.NumberStyles,System.IFormatProvider,System.Boolean,System.Double&,System.Exception&)
- bool Double_Parse_m10815 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, bool ___tryParse, double* ___result, Exception_t107 ** ___exc, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_Parse_m10818 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, bool ___tryParse, double* ___result, Exception_t107 ** ___exc, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::TryParseStringConstant(System.String,System.String,System.Int32,System.Int32)
- bool Double_TryParseStringConstant_m10816 (Object_t * __this/* static, unused */, String_t* ___format, String_t* ___s, int32_t ___start, int32_t ___end, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_TryParseStringConstant_m10819 (Object_t * __this/* static, unused */, String_t* ___format, String_t* ___s, int32_t ___start, int32_t ___end, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::ParseImpl(System.Byte*,System.Double&)
- bool Double_ParseImpl_m10817 (Object_t * __this/* static, unused */, uint8_t* ___byte_ptr, double* ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_ParseImpl_m10820 (Object_t * __this/* static, unused */, uint8_t* ___byte_ptr, double* ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::TryParse(System.String,System.Globalization.NumberStyles,System.IFormatProvider,System.Double&)
- bool Double_TryParse_m10818 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, double* ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_TryParse_m10821 (Object_t * __this/* static, unused */, String_t* ___s, int32_t ___style, Object_t * ___provider, double* ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Double::TryParse(System.String,System.Double&)
- bool Double_TryParse_m5281 (Object_t * __this/* static, unused */, String_t* ___s, double* ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool Double_TryParse_m5283 (Object_t * __this/* static, unused */, String_t* ___s, double* ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Double::ToString()
- String_t* Double_ToString_m5159 (double* __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ String_t* Double_ToString_m5161 (double* __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Double::ToString(System.IFormatProvider)
- String_t* Double_ToString_m9111 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ String_t* Double_ToString_m9115 (double* __this, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Double::ToString(System.String,System.IFormatProvider)
- String_t* Double_ToString_m10819 (double* __this, String_t* ___format, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ String_t* Double_ToString_m10822 (double* __this, String_t* ___format, Object_t * ___provider, MethodInfo* method) IL2CPP_METHOD_ATTR;

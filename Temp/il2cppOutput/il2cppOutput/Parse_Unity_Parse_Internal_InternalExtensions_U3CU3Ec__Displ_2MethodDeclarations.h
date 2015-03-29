@@ -12,6 +12,6 @@ struct Object_t;
 struct Task_t390;
 
 // System.Void Parse.Internal.InternalExtensions/<>c__DisplayClassa::.ctor()
- void U3CU3Ec__DisplayClassa__ctor_m5355 (U3CU3Ec__DisplayClassa_t1022 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void U3CU3Ec__DisplayClassa__ctor_m5357 (U3CU3Ec__DisplayClassa_t1022 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object Parse.Internal.InternalExtensions/<>c__DisplayClassa::<OnSuccess>b__9(System.Threading.Tasks.Task)
- Object_t * U3CU3Ec__DisplayClassa_U3COnSuccessU3Eb__9_m5356 (U3CU3Ec__DisplayClassa_t1022 * __this, Task_t390 * ___t, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * U3CU3Ec__DisplayClassa_U3COnSuccessU3Eb__9_m5358 (U3CU3Ec__DisplayClassa_t1022 * __this, Task_t390 * ___t, MethodInfo* method) IL2CPP_METHOD_ATTR;

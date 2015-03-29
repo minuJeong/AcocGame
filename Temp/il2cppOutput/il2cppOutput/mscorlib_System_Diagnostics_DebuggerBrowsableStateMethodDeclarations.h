@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Diagnostics.DebuggerBrowsableState
-struct DebuggerBrowsableState_t3308;
+struct DebuggerBrowsableState_t3309;
 

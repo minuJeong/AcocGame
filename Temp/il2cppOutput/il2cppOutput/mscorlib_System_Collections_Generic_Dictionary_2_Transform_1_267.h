@@ -13,8 +13,8 @@ struct Object_t;
 #include "UnityEngine_UnityEngine_TextEditor_TextEditOp.h"
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
-extern TypeInfo TextEditOp_t2620_il2cpp_TypeInfo;
+extern TypeInfo TextEditOp_t2621_il2cpp_TypeInfo;
 // System.Collections.Generic.Dictionary`2/Transform`1<UnityEngine.Event,UnityEngine.TextEditor/TextEditOp,UnityEngine.TextEditor/TextEditOp>
-struct Transform_1_t11838  : public MulticastDelegate_t38
+struct Transform_1_t11839  : public MulticastDelegate_t38
 {
 };

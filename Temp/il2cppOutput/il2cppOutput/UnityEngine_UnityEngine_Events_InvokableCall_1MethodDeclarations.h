@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.Events.InvokableCall`1
-struct InvokableCall_1_t2626;
+struct InvokableCall_1_t2627;
 // System.Object
 struct Object_t;
 // System.Reflection.MethodInfo

@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<Facebook.AsyncRequestString>
-struct UnityAction_1_t5794  : public MulticastDelegate_t38
+struct UnityAction_1_t5795  : public MulticastDelegate_t38
 {
 };

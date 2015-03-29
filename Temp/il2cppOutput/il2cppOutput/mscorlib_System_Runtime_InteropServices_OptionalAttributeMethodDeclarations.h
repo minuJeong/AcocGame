@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.InteropServices.OptionalAttribute
-struct OptionalAttribute_t3187;
+struct OptionalAttribute_t3188;
 
 // System.Void System.Runtime.InteropServices.OptionalAttribute::.ctor()
- void OptionalAttribute__ctor_m11163 (OptionalAttribute_t3187 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void OptionalAttribute__ctor_m11166 (OptionalAttribute_t3188 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -7,13 +7,13 @@ struct IEnumerator_1_t88;
 // System.Object
 struct Object_t;
 // System.Func`2<System.Object,System.Collections.Generic.List`1<System.Single>>
-struct Func_2_t8101;
+struct Func_2_t8102;
 // System.Collections.Generic.List`1<System.Single>
 struct List_1_t529;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8103  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8104  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::source
 	Object_t* ___source;
@@ -22,7 +22,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8103  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::<element>__1
 	Object_t * ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::selector
-	Func_2_t8101 * ___selector;
+	Func_2_t8102 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8103  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.List`1<System.Single>>::<$>selector
-	Func_2_t8101 * ___U3C$U3Eselector;
+	Func_2_t8102 * ___U3C$U3Eselector;
 };

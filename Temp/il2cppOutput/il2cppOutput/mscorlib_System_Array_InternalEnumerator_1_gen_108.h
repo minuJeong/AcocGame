@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<GUICustomAuth/GuiState>
-struct InternalEnumerator_1_t4398 
+struct InternalEnumerator_1_t4399 
 {
 	// System.Array System.Array/InternalEnumerator`1<GUICustomAuth/GuiState>::array
 	Array_t * ___array;

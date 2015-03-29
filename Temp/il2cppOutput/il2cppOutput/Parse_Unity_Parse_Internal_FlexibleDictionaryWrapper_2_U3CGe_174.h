@@ -11,10 +11,10 @@ struct IEnumerator_1_t1173;
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Object>
 #include "mscorlib_System_Collections_Generic_KeyValuePair_2_gen_0.h"
 // Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<Parse.ParseObject,System.Object>
-struct U3CGetEnumeratorU3Ed__4_t9748  : public Object_t
+struct U3CGetEnumeratorU3Ed__4_t9749  : public Object_t
 {
 	// System.Collections.Generic.KeyValuePair`2<System.String,TOut> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<Parse.ParseObject,System.Object>::<>2__current
-	KeyValuePair_2_t6548  ___U3CU3E2__current;
+	KeyValuePair_2_t6549  ___U3CU3E2__current;
 	// System.Int32 Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<Parse.ParseObject,System.Object>::<>1__state
 	int32_t ___U3CU3E1__state;
 	// Parse.Internal.FlexibleDictionaryWrapper`2<TOut,TIn> Parse.Internal.FlexibleDictionaryWrapper`2/<GetEnumerator>d__4<Parse.ParseObject,System.Object>::<>4__this

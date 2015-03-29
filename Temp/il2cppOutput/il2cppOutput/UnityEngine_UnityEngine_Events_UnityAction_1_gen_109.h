@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<gamecontext.uicontrol.CreateRoomInputField>
-struct UnityAction_1_t5083  : public MulticastDelegate_t38
+struct UnityAction_1_t5084  : public MulticastDelegate_t38
 {
 };

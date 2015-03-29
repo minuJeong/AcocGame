@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Security.RuntimeDeclSecurityEntry
-struct RuntimeDeclSecurityEntry_t3629;
+struct RuntimeDeclSecurityEntry_t3630;
 

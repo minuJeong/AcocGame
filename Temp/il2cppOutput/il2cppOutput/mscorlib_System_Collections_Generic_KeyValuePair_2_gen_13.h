@@ -7,7 +7,7 @@ struct List_1_t464;
 // PunTeams/Team
 #include "AssemblyU2DCSharp_PunTeams_Team.h"
 // System.Collections.Generic.KeyValuePair`2<PunTeams/Team,System.Collections.Generic.List`1<PhotonPlayer>>
-struct KeyValuePair_2_t4507 
+struct KeyValuePair_2_t4508 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2<PunTeams/Team,System.Collections.Generic.List`1<PhotonPlayer>>::key
 	uint8_t ___key;

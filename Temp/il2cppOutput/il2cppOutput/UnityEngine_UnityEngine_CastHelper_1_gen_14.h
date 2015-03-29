@@ -7,7 +7,7 @@ struct Collider_t200;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.Collider>
-struct CastHelper_1_t4478 
+struct CastHelper_1_t4479 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.Collider>::t
 	Collider_t200 * ___t;

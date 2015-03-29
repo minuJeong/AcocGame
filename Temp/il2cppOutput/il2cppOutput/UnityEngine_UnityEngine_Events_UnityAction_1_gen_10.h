@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<Facebook.CanvasFacebookLoader>
-struct UnityAction_1_t4286  : public MulticastDelegate_t38
+struct UnityAction_1_t4287  : public MulticastDelegate_t38
 {
 };

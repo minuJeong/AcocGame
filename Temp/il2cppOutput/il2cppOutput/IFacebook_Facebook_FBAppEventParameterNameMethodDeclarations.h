@@ -8,4 +8,4 @@
 struct FBAppEventParameterName_t861;
 
 // System.Void Facebook.FBAppEventParameterName::.ctor()
- void FBAppEventParameterName__ctor_m4629 (FBAppEventParameterName_t861 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FBAppEventParameterName__ctor_m4631 (FBAppEventParameterName_t861 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

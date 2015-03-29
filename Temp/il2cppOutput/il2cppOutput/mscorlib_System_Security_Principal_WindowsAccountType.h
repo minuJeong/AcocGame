@@ -5,7 +5,7 @@
 // System.Security.Principal.WindowsAccountType
 #include "mscorlib_System_Security_Principal_WindowsAccountType.h"
 // System.Security.Principal.WindowsAccountType
-struct WindowsAccountType_t3624 
+struct WindowsAccountType_t3625 
 {
 	// System.Int32 System.Security.Principal.WindowsAccountType::value__
 	int32_t ___value__;

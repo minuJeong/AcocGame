@@ -5,11 +5,11 @@ struct SymmetricAlgorithm_t2426;
 // System.Byte[]
 struct ByteU5BU5D_t21;
 // System.Security.Cryptography.RandomNumberGenerator
-struct RandomNumberGenerator_t3232;
+struct RandomNumberGenerator_t3233;
 // System.Object
 #include "mscorlib_System_Object.h"
 // Mono.Security.Cryptography.SymmetricTransform
-struct SymmetricTransform_t3247  : public Object_t
+struct SymmetricTransform_t3248  : public Object_t
 {
 	// System.Security.Cryptography.SymmetricAlgorithm Mono.Security.Cryptography.SymmetricTransform::algo
 	SymmetricAlgorithm_t2426 * ___algo;
@@ -34,5 +34,5 @@ struct SymmetricTransform_t3247  : public Object_t
 	// System.Boolean Mono.Security.Cryptography.SymmetricTransform::lastBlock
 	bool ___lastBlock;
 	// System.Security.Cryptography.RandomNumberGenerator Mono.Security.Cryptography.SymmetricTransform::_rng
-	RandomNumberGenerator_t3232 * ____rng;
+	RandomNumberGenerator_t3233 * ____rng;
 };

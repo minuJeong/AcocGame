@@ -5,7 +5,7 @@
 // UnityEngine.RenderMode
 #include "UnityEngine_UnityEngine_RenderMode.h"
 // UnityEngine.RenderMode
-struct RenderMode_t2582 
+struct RenderMode_t2583 
 {
 	// System.Int32 UnityEngine.RenderMode::value__
 	int32_t ___value__;

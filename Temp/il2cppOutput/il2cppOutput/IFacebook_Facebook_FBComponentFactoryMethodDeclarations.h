@@ -10,6 +10,6 @@ struct FBComponentFactory_t412;
 struct GameObject_t47;
 
 // System.Void Facebook.FBComponentFactory::.ctor()
- void FBComponentFactory__ctor_m4635 (FBComponentFactory_t412 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void FBComponentFactory__ctor_m4637 (FBComponentFactory_t412 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject Facebook.FBComponentFactory::get_FacebookGameObject()
- GameObject_t47 * FBComponentFactory_get_FacebookGameObject_m4636 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ GameObject_t47 * FBComponentFactory_get_FacebookGameObject_m4638 (Object_t * __this/* static, unused */, MethodInfo* method) IL2CPP_METHOD_ATTR;

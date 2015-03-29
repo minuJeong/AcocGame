@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Queue`1
-struct Queue_1_t2745;
+struct Queue_1_t2747;
 // System.Object
 struct Object_t;
 // System.Array

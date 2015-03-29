@@ -5,7 +5,7 @@ struct IList_1_t2205;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Parse.ParseRole>
-struct ReadOnlyCollection_1_t6924  : public Object_t
+struct ReadOnlyCollection_1_t6925  : public Object_t
 {
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1<Parse.ParseRole>::list
 	Object_t* ___list;

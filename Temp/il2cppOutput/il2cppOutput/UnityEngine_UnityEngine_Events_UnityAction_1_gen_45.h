@@ -13,6 +13,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // UnityEngine.Events.UnityAction`1<PickupCamera>
-struct UnityAction_1_t4476  : public MulticastDelegate_t38
+struct UnityAction_1_t4477  : public MulticastDelegate_t38
 {
 };

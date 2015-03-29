@@ -5,7 +5,7 @@ struct Array_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Array/InternalEnumerator`1<System.Runtime.Remoting.Lifetime.LeaseState>
-struct InternalEnumerator_1_t12105 
+struct InternalEnumerator_1_t12106 
 {
 	// System.Array System.Array/InternalEnumerator`1<System.Runtime.Remoting.Lifetime.LeaseState>::array
 	Array_t * ___array;

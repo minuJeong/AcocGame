@@ -9,7 +9,7 @@ struct Texture2D_t62;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.GUIStyleState
-struct GUIStyleState_t2515  : public Object_t
+struct GUIStyleState_t2516  : public Object_t
 {
 	// System.IntPtr UnityEngine.GUIStyleState::m_Ptr
 	IntPtr_t39 ___m_Ptr;

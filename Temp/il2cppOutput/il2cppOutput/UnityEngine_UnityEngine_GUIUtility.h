@@ -5,10 +5,10 @@
 // UnityEngine.Vector2
 #include "UnityEngine_UnityEngine_Vector2.h"
 // UnityEngine.GUIUtility
-struct GUIUtility_t2510  : public Object_t
+struct GUIUtility_t2511  : public Object_t
 {
 };
-struct GUIUtility_t2510_StaticFields{
+struct GUIUtility_t2511_StaticFields{
 	// System.Int32 UnityEngine.GUIUtility::s_SkinMode
 	int32_t ___s_SkinMode;
 	// System.Int32 UnityEngine.GUIUtility::s_OriginalID

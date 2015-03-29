@@ -5,7 +5,7 @@ struct String_t;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // Mono.Globalization.Unicode.SimpleCollator/Escape
-struct Escape_t3216 
+struct Escape_t3217 
 {
 	// System.String Mono.Globalization.Unicode.SimpleCollator/Escape::Source
 	String_t* ___Source;
@@ -19,7 +19,7 @@ struct Escape_t3216
 	int32_t ___Optional;
 };
 // Native definition for marshalling of: Mono.Globalization.Unicode.SimpleCollator/Escape
-struct Escape_t3216_marshaled
+struct Escape_t3217_marshaled
 {
 	char* ___Source;
 	int32_t ___Index;

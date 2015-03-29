@@ -1,9 +1,9 @@
 ﻿#pragma once
 #include <stdint.h>
 // System.Text.RegularExpressions.FactoryCache
-struct FactoryCache_t2773;
+struct FactoryCache_t2775;
 // System.Text.RegularExpressions.IMachineFactory
-struct IMachineFactory_t2774;
+struct IMachineFactory_t2776;
 // System.Collections.IDictionary
 struct IDictionary_t255;
 // System.String[]
@@ -38,5 +38,5 @@ struct Regex_t1028  : public Object_t
 };
 struct Regex_t1028_StaticFields{
 	// System.Text.RegularExpressions.FactoryCache System.Text.RegularExpressions.Regex::cache
-	FactoryCache_t2773 * ___cache;
+	FactoryCache_t2775 * ___cache;
 };

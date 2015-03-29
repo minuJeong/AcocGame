@@ -22,11 +22,11 @@ struct AudioClip_t59;
 // System.Void UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)
  void AudioSource_set_clip_m552 (AudioSource_t49 * __this, AudioClip_t59 * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::Play(System.UInt64)
- void AudioSource_Play_m8704 (AudioSource_t49 * __this, uint64_t ___delay, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void AudioSource_Play_m8707 (AudioSource_t49 * __this, uint64_t ___delay, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::Play()
  void AudioSource_Play_m2374 (AudioSource_t49 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip,System.Single)
- void AudioSource_PlayOneShot_m8705 (AudioSource_t49 * __this, AudioClip_t59 * ___clip, float ___volumeScale, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void AudioSource_PlayOneShot_m8708 (AudioSource_t49 * __this, AudioClip_t59 * ___clip, float ___volumeScale, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip)
  void AudioSource_PlayOneShot_m581 (AudioSource_t49 * __this, AudioClip_t59 * ___clip, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AudioSource::set_playOnAwake(System.Boolean)

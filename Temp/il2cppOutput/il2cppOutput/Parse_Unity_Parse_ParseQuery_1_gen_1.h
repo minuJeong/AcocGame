@@ -7,11 +7,11 @@ struct Dictionary_2_t122;
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.String>
 struct ReadOnlyCollection_1_t1404;
 // System.Func`2<System.Threading.Tasks.Task`1<Parse.ParseSession>,Parse.ParseSession>
-struct Func_2_t6936;
+struct Func_2_t6937;
 // System.Func`2<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>,System.Int32>
 struct Func_2_t1559;
 // System.Func`2<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseSession>>,Parse.ParseSession>
-struct Func_2_t6937;
+struct Func_2_t6938;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Nullable`1<System.Int32>
@@ -36,9 +36,9 @@ struct ParseQuery_1_t1189  : public Object_t
 };
 struct ParseQuery_1_t1189_StaticFields{
 	// System.Func`2<System.Threading.Tasks.Task`1<T>,T> Parse.ParseQuery`1<Parse.ParseSession>::CS$<>9__CachedAnonymousMethodDelegate37
-	Func_2_t6936 * ___CS$U3CU3E9__CachedAnonymousMethodDelegate37;
+	Func_2_t6937 * ___CS$U3CU3E9__CachedAnonymousMethodDelegate37;
 	// System.Func`2<System.Threading.Tasks.Task`1<System.Tuple`2<System.Net.HttpStatusCode,System.Collections.Generic.IDictionary`2<System.String,System.Object>>>,System.Int32> Parse.ParseQuery`1<Parse.ParseSession>::CS$<>9__CachedAnonymousMethodDelegate39
 	Func_2_t1559 * ___CS$U3CU3E9__CachedAnonymousMethodDelegate39;
 	// System.Func`2<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<T>>,T> Parse.ParseQuery`1<Parse.ParseSession>::CS$<>9__CachedAnonymousMethodDelegate3b
-	Func_2_t6937 * ___CS$U3CU3E9__CachedAnonymousMethodDelegate3b;
+	Func_2_t6938 * ___CS$U3CU3E9__CachedAnonymousMethodDelegate3b;
 };

@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Runtime.CompilerServices.CompilationRelaxations
-struct CompilationRelaxations_t3418;
+struct CompilationRelaxations_t3419;
 

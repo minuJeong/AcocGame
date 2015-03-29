@@ -5,7 +5,7 @@
 // System.TypeCode
 #include "mscorlib_System_TypeCode.h"
 // System.TypeCode
-struct TypeCode_t3739 
+struct TypeCode_t3740 
 {
 	// System.Int32 System.TypeCode::value__
 	int32_t ___value__;

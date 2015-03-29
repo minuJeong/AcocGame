@@ -5,7 +5,7 @@
 // System.Linq.Enumerable/Fallback
 #include "System_Core_System_Linq_Enumerable_Fallback.h"
 // System.Linq.Enumerable/Fallback
-struct Fallback_t2909 
+struct Fallback_t2910 
 {
 	// System.Int32 System.Linq.Enumerable/Fallback::value__
 	int32_t ___value__;

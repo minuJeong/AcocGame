@@ -5,7 +5,7 @@ struct Queue_1_t2361;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.Queue`1/Enumerator<ExitGames.Client.Photon.PeerBase/MyAction>
-struct Enumerator_t11354 
+struct Enumerator_t11355 
 {
 	// System.Collections.Generic.Queue`1<T> System.Collections.Generic.Queue`1/Enumerator<ExitGames.Client.Photon.PeerBase/MyAction>::q
 	Queue_1_t2361 * ___q;

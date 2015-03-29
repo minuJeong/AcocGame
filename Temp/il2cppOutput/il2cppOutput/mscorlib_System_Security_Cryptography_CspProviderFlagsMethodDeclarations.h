@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Security.Cryptography.CspProviderFlags
-struct CspProviderFlags_t3567;
+struct CspProviderFlags_t3568;
 

@@ -7,7 +7,7 @@ struct MemberInfo_t484;
 // System.Linq.Expressions.MemberBindingType
 #include "System_Core_System_Linq_Expressions_MemberBindingType.h"
 // System.Linq.Expressions.MemberBinding
-struct MemberBinding_t2892  : public Object_t
+struct MemberBinding_t2893  : public Object_t
 {
 	// System.Linq.Expressions.MemberBindingType System.Linq.Expressions.MemberBinding::binding_type
 	int32_t ___binding_type;

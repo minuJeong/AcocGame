@@ -7,7 +7,7 @@ struct Text_t532;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.UI.Text>
-struct CastHelper_1_t5084 
+struct CastHelper_1_t5085 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.UI.Text>::t
 	Text_t532 * ___t;

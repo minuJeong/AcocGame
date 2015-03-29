@@ -7,11 +7,11 @@ struct NumberFormatInfo_t870;
 // System.Char[]
 struct CharU5BU5D_t450;
 // System.NumberFormatter
-struct NumberFormatter_t3728;
+struct NumberFormatter_t3729;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.NumberFormatter
-struct NumberFormatter_t3728  : public Object_t
+struct NumberFormatter_t3729  : public Object_t
 {
 	// System.Threading.Thread System.NumberFormatter::_thread
 	Thread_t1419 * ____thread;
@@ -52,7 +52,7 @@ struct NumberFormatter_t3728  : public Object_t
 	// System.Int32 System.NumberFormatter::_ind
 	int32_t ____ind;
 };
-struct NumberFormatter_t3728_StaticFields{
+struct NumberFormatter_t3729_StaticFields{
 	// System.UInt64* System.NumberFormatter::MantissaBitsTable
 	uint64_t* ___MantissaBitsTable;
 	// System.Int32* System.NumberFormatter::TensExponentTable
@@ -66,7 +66,7 @@ struct NumberFormatter_t3728_StaticFields{
 	// System.Int32* System.NumberFormatter::DecHexDigits
 	int32_t* ___DecHexDigits;
 };
-struct NumberFormatter_t3728_ThreadStaticFields{
+struct NumberFormatter_t3729_ThreadStaticFields{
 	// System.NumberFormatter System.NumberFormatter::threadNumberFormatter
-	NumberFormatter_t3728 * ___threadNumberFormatter;
+	NumberFormatter_t3729 * ___threadNumberFormatter;
 };

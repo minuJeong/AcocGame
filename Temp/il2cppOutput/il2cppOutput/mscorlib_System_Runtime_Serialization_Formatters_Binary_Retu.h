@@ -5,7 +5,7 @@
 // System.Runtime.Serialization.Formatters.Binary.ReturnTypeTag
 #include "mscorlib_System_Runtime_Serialization_Formatters_Binary_Retu.h"
 // System.Runtime.Serialization.Formatters.Binary.ReturnTypeTag
-struct ReturnTypeTag_t3525 
+struct ReturnTypeTag_t3526 
 {
 	// System.Byte System.Runtime.Serialization.Formatters.Binary.ReturnTypeTag::value__
 	uint8_t ___value__;

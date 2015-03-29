@@ -10,12 +10,12 @@ struct PhotonPing_t315;
 struct String_t;
 
 // System.Boolean ExitGames.Client.Photon.PhotonPing::StartPing(System.String)
- bool PhotonPing_StartPing_m2663 (PhotonPing_t315 * __this, String_t* ___ip, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool PhotonPing_StartPing_m2665 (PhotonPing_t315 * __this, String_t* ___ip, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean ExitGames.Client.Photon.PhotonPing::Done()
- bool PhotonPing_Done_m2665 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ bool PhotonPing_Done_m2667 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ExitGames.Client.Photon.PhotonPing::Dispose()
- void PhotonPing_Dispose_m7446 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PhotonPing_Dispose_m7448 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ExitGames.Client.Photon.PhotonPing::Init()
- void PhotonPing_Init_m7447 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PhotonPing_Init_m7449 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ExitGames.Client.Photon.PhotonPing::.ctor()
- void PhotonPing__ctor_m7448 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void PhotonPing__ctor_m7450 (PhotonPing_t315 * __this, MethodInfo* method) IL2CPP_METHOD_ATTR;

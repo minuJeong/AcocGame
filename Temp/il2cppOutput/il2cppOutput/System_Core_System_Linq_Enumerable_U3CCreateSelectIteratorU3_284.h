@@ -7,13 +7,13 @@ struct IEnumerator_1_t88;
 // System.Object
 struct Object_t;
 // System.Func`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>
-struct Func_2_t8679;
+struct Func_2_t8680;
 // System.Collections.Generic.Dictionary`2<System.String,System.Single>
 struct Dictionary_2_t2223;
 // System.Object
 #include "mscorlib_System_Object.h"
 // System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>
-struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8681  : public Object_t
+struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8682  : public Object_t
 {
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::source
 	Object_t* ___source;
@@ -22,7 +22,7 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8681  : public Object_t
 	// TSource System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<element>__1
 	Object_t * ___U3CelementU3E__1;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::selector
-	Func_2_t8679 * ___selector;
+	Func_2_t8680 * ___selector;
 	// System.Int32 System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::$PC
 	int32_t ___$PC;
 	// TResult System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::$current
@@ -30,5 +30,5 @@ struct U3CCreateSelectIteratorU3Ec__Iterator10_2_t8681  : public Object_t
 	// System.Collections.Generic.IEnumerable`1<TSource> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<$>source
 	Object_t* ___U3C$U3Esource;
 	// System.Func`2<TSource,TResult> System.Linq.Enumerable/<CreateSelectIterator>c__Iterator10`2<System.Object,System.Collections.Generic.Dictionary`2<System.String,System.Single>>::<$>selector
-	Func_2_t8679 * ___U3C$U3Eselector;
+	Func_2_t8680 * ___U3C$U3Eselector;
 };

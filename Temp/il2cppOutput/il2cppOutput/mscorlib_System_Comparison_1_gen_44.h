@@ -11,6 +11,6 @@ struct Object_t;
 // System.MulticastDelegate
 #include "mscorlib_System_MulticastDelegate.h"
 // System.Comparison`1<System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<Parse.ParseObject>>>
-struct Comparison_1_t6759  : public MulticastDelegate_t38
+struct Comparison_1_t6760  : public MulticastDelegate_t38
 {
 };

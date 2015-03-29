@@ -7,7 +7,7 @@ struct RectTransform_t642;
 // System.ValueType
 #include "mscorlib_System_ValueType.h"
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.RectTransform>
-struct Enumerator_t5694 
+struct Enumerator_t5695 
 {
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator<UnityEngine.RectTransform>::l
 	List_1_t738 * ___l;

@@ -7,7 +7,7 @@ struct GUIText_t101;
 // System.IntPtr
 #include "mscorlib_System_IntPtr.h"
 // UnityEngine.CastHelper`1<UnityEngine.GUIText>
-struct CastHelper_1_t4225 
+struct CastHelper_1_t4226 
 {
 	// T UnityEngine.CastHelper`1<UnityEngine.GUIText>::t
 	GUIText_t101 * ___t;

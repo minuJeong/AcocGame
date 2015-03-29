@@ -5,5 +5,5 @@
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.ForceMode2D
-struct ForceMode2D_t2560;
+struct ForceMode2D_t2561;
 

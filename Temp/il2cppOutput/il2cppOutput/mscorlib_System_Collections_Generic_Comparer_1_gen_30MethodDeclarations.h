@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>
-struct Comparer_1_t5774;
+struct Comparer_1_t5775;
 // System.Object
 struct Object_t;
 // Facebook.FacebookDelegate
@@ -14,11 +14,11 @@ struct FacebookDelegate_t115;
 // System.Void System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>::.ctor()
 // System.Collections.Generic.Comparer`1<System.Object>
 #include "mscorlib_System_Collections_Generic_Comparer_1_genMethodDeclarations.h"
-#define Comparer_1__ctor_m27628(__this, method) (void)Comparer_1__ctor_m15616_gshared((Comparer_1_t4063 *)__this, method)
+#define Comparer_1__ctor_m27631(__this, method) (void)Comparer_1__ctor_m15619_gshared((Comparer_1_t4064 *)__this, method)
 // System.Void System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>::.cctor()
-#define Comparer_1__cctor_m27629(__this/* static, unused */, method) (void)Comparer_1__cctor_m15617_gshared((Object_t *)__this/* static, unused */, method)
+#define Comparer_1__cctor_m27632(__this/* static, unused */, method) (void)Comparer_1__cctor_m15620_gshared((Object_t *)__this/* static, unused */, method)
 // System.Int32 System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>::System.Collections.IComparer.Compare(System.Object,System.Object)
-#define Comparer_1_System_Collections_IComparer_Compare_m27630(__this, ___x, ___y, method) (int32_t)Comparer_1_System_Collections_IComparer_Compare_m15618_gshared((Comparer_1_t4063 *)__this, (Object_t *)___x, (Object_t *)___y, method)
+#define Comparer_1_System_Collections_IComparer_Compare_m27633(__this, ___x, ___y, method) (int32_t)Comparer_1_System_Collections_IComparer_Compare_m15621_gshared((Comparer_1_t4064 *)__this, (Object_t *)___x, (Object_t *)___y, method)
 // System.Int32 System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>::Compare(T,T)
 // System.Collections.Generic.Comparer`1<T> System.Collections.Generic.Comparer`1<Facebook.FacebookDelegate>::get_Default()
-#define Comparer_1_get_Default_m27631(__this/* static, unused */, method) (Comparer_1_t5774 *)Comparer_1_get_Default_m15619_gshared((Object_t *)__this/* static, unused */, method)
+#define Comparer_1_get_Default_m27634(__this/* static, unused */, method) (Comparer_1_t5775 *)Comparer_1_get_Default_m15622_gshared((Object_t *)__this/* static, unused */, method)

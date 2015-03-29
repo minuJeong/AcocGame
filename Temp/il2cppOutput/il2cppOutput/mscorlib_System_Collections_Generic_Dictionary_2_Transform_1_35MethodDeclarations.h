@@ -5,7 +5,7 @@
 #include "codegen/il2cpp-codegen.h"
 
 // System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,PhotonPlayer,PhotonPlayer>
-struct Transform_1_t4648;
+struct Transform_1_t4649;
 // System.Object
 struct Object_t;
 // PhotonPlayer
@@ -18,10 +18,10 @@ struct AsyncCallback_t35;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,PhotonPlayer,PhotonPlayer>::.ctor(System.Object,System.IntPtr)
- void Transform_1__ctor_m19231 (Transform_1_t4648 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ void Transform_1__ctor_m19234 (Transform_1_t4649 * __this, Object_t * ___object, IntPtr_t39 ___method, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,PhotonPlayer,PhotonPlayer>::Invoke(TKey,TValue)
- PhotonPlayer_t230 * Transform_1_Invoke_m19232 (Transform_1_t4648 * __this, int32_t ___key, PhotonPlayer_t230 * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ PhotonPlayer_t230 * Transform_1_Invoke_m19235 (Transform_1_t4649 * __this, int32_t ___key, PhotonPlayer_t230 * ___value, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.IAsyncResult System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,PhotonPlayer,PhotonPlayer>::BeginInvoke(TKey,TValue,System.AsyncCallback,System.Object)
- Object_t * Transform_1_BeginInvoke_m19233 (Transform_1_t4648 * __this, int32_t ___key, PhotonPlayer_t230 * ___value, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ Object_t * Transform_1_BeginInvoke_m19236 (Transform_1_t4649 * __this, int32_t ___key, PhotonPlayer_t230 * ___value, AsyncCallback_t35 * ___callback, Object_t * ___object, MethodInfo* method) IL2CPP_METHOD_ATTR;
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,PhotonPlayer,PhotonPlayer>::EndInvoke(System.IAsyncResult)
- PhotonPlayer_t230 * Transform_1_EndInvoke_m19234 (Transform_1_t4648 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
+ PhotonPlayer_t230 * Transform_1_EndInvoke_m19237 (Transform_1_t4649 * __this, Object_t * ___result, MethodInfo* method) IL2CPP_METHOD_ATTR;
