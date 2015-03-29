@@ -3,6 +3,9 @@
 # =============== #
 Temp/
 Library/
+WebBuild/
+iOS/
+Android/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
